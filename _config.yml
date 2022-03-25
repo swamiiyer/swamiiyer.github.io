@@ -1,0 +1,12 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Setup
+title:            'Swami Iyer'
+tagline:          'Hello, World'
+
+url:              swamiiyer.github.io
+baseurl:          /
+
+exclude: [cv.tex]
