@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<div class="page">
+  {% if page.title == "Home" %}
+    <h2>Hello, World</h2>
+  {% else %}
+    <h2 class="page-title">{{ page.title }}</h2>
+  {% endif %}
+  <hr/>
+  {{ content }}
+</div>
