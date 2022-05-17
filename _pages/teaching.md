@@ -11,7 +11,7 @@ Throughout my student life I had the good fortune of being taught by some except
 ### Current Courses (Fall 2022)
 
 - CS110: Introduction to Computing
-- [CS210: Intermediate Computing with Data Structures
+- CS210: Intermediate Computing with Data Structures
 - CS451/651: Compilers
 
 ### Previous Courses
