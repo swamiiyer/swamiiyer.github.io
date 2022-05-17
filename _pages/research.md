@@ -27,21 +27,21 @@ order: 3
 
 - [Attack Robustness and Centrality of Complex Networks](http://dx.doi.org/10.1371/journal.pone.0059613), Swami Iyer, Timothy Killingback, Bala Sundaram, and Zhen Wang, PLoS ONE 8(4), e59613 (2013).
 
-- [Structural Classification of XML Documents Using Multisets](/public/research/multisets_long.pdf), Swami Iyer and Dan Simovici, International Journal on Artificial Intelligence Tools 17(5), 1003 -- 1022 (2008).
+- [Structural Classification of XML Documents Using Multisets](https://www.cs.umb.edu/~siyer/research/multisets_long.pdf), Swami Iyer and Dan Simovici, International Journal on Artificial Intelligence Tools 17(5), 1003 -- 1022 (2008).
  
-- [Multisets and Clustering XML Documents](/public/research/multisets_short.pdf), Swami Iyer and Dan Simovici, Proceedings of the 19th International Conference on Tools with Artificial Intelligence, Patras, Greece (2007).
+- [Multisets and Clustering XML Documents](https://www.cs.umb.edu/~siyer/research/multisets_short.pdf), Swami Iyer and Dan Simovici, Proceedings of the 19th International Conference on Tools with Artificial Intelligence, Patras, Greece (2007).
 
 #### Posters
 
-- [Individual-based model highlights the importance of trade-offs in shaping bacteria-phage co-evolutionary dynamics](/public/research/aslo_poster1.pdf), Fateme Pourhasanzade, Swami Iyer, Jesslyn Tjendra, Selina V&aring;ge, Poster presentation at the ASLO Aquatic Sciences Virtual Meeting (2021).
+- [Individual-based model highlights the importance of trade-offs in shaping bacteria-phage co-evolutionary dynamics](https://www.cs.umb.edu/~siyer/research/aslo_poster1.pdf), Fateme Pourhasanzade, Swami Iyer, Jesslyn Tjendra, Selina V&aring;ge, Poster presentation at the ASLO Aquatic Sciences Virtual Meeting (2021).
 
-- [Complex Network Topologies Resilient to Centrality Attack](/public/research/evolving_network_poster.pdf), Rachel Fiolek, Swami Iyer, and Timothy Killingback, Poster presentation at the 22nd Annual Massachusetts Statewide Undergraduate Research Conference, University of Massachusetts at Amherst (2016).
+- [Complex Network Topologies Resilient to Centrality Attack](https://www.cs.umb.edu/~siyer/research/evolving_network_poster.pdf), Rachel Fiolek, Swami Iyer, and Timothy Killingback, Poster presentation at the 22nd Annual Massachusetts Statewide Undergraduate Research Conference, University of Massachusetts at Amherst (2016).
 
-- [A Machine Learning Approach for Identifying the PTEN Non-coding ceRNA Network](/public/research/cerna_poster.pdf), Swami Iyer, Robert Moray, Prajna Kulkarni, Rahul Kulkarni, and Kourosh Zarringhalam Poster presentation at the Winter q-bio Meeting, Waikoloa, Hawaii (2014).
+- [A Machine Learning Approach for Identifying the PTEN Non-coding ceRNA Network](https://www.cs.umb.edu/~siyer/research/cerna_poster.pdf), Swami Iyer, Robert Moray, Prajna Kulkarni, Rahul Kulkarni, and Kourosh Zarringhalam Poster presentation at the Winter q-bio Meeting, Waikoloa, Hawaii (2014).
 
-- [Network Analysis by Activity Reveals Community Overlap and Differences in Centrality of Individuals in Bottlenose Dolphins (Tursiops Truncatus) in Cedar Key, Florida](/public/research/dolphins_poster2.pdf), Stefanie Gazda, Swami Iyer, Timothy Killingback, Richard Connor, and Solange Brault, Poster presentation at the 19th Biennial Conference of the Biology of Marine Mammals, Tampa, Florida (2011). 
+- [Network Analysis by Activity Reveals Community Overlap and Differences in Centrality of Individuals in Bottlenose Dolphins (Tursiops Truncatus) in Cedar Key, Florida](https://www.cs.umb.edu/~siyer/research/dolphins_poster2.pdf), Stefanie Gazda, Swami Iyer, Timothy Killingback, Richard Connor, and Solange Brault, Poster presentation at the 19th Biennial Conference of the Biology of Marine Mammals, Tampa, Florida (2011). 
 
-- [Residency Patterns and Social Structure of Bottlenose Dolphins](/public/research/dolphins_poster1.pdf), Christina Ciarfella, Stefanie Gazda, Swami Iyer, Solange Brault, and Timothy Killingback, Poster presentation at the University of Massachusetts at Boston (2010).
+- [Residency Patterns and Social Structure of Bottlenose Dolphins](https://www.cs.umb.edu/~siyer/research/dolphins_poster1.pdf), Christina Ciarfella, Stefanie Gazda, Swami Iyer, Solange Brault, and Timothy Killingback, Poster presentation at the University of Massachusetts at Boston (2010).
 
 #### Phd Thesis
 

@@ -10,9 +10,9 @@ Throughout my student life I had the good fortune of being taught by some except
 
 ### Current Courses (Fall 2022)
 
-- [CS110: Introduction to Computing](/cs110/)
-- [CS210: Intermediate Computing with Data Structures](/cs210/)
-- [CS451/651: Compilers](/cs451/)
+- CS110: Introduction to Computing
+- [CS210: Intermediate Computing with Data Structures
+- CS451/651: Compilers
 
 ### Previous Courses
 
@@ -35,25 +35,25 @@ Throughout my student life I had the good fortune of being taught by some except
 
 #### Introduction to Programming in Python
 
-- Programs I use to teach an introductory course on programming in Python: as a [PDF](/public/teaching/ipp.pdf) and as a [PyCharm project](/public/teaching/ipp.zip). Most of the programs are from the book [Introduction to Programming in Python: An Interdisciplinary Approach](https://www.amazon.com/Introduction-Programming-Python-Interdisciplinary-Approach/dp/0134076435/) by Robert Sedgewick, Kevin Wayne, and Robert Dondero. 
+- Programs I use to teach an introductory course on programming in Python: as a [PDF](https://www.cs.umb.edu/~siyer/teaching/ipp.pdf) and as a [PyCharm project](https://www.cs.umb.edu/~siyer/teaching/ipp.zip). Most of the programs are from the book [Introduction to Programming in Python: An Interdisciplinary Approach](https://www.amazon.com/Introduction-Programming-Python-Interdisciplinary-Approach/dp/0134076435/) by Robert Sedgewick, Kevin Wayne, and Robert Dondero. 
 
-- Supporting libraries and data types used throughout the book: the [API](/public/teaching/stdlib-python.pdf) and the [code](/public/teaching/stdlib-python.zip).
+- Supporting libraries and data types used throughout the book: the [API](https://www.cs.umb.edu/~siyer/teaching/stdlib-python.pdf) and the [code](https://www.cs.umb.edu/~siyer/teaching/stdlib-python.zip).
 
 - Set of six programming projects (Straight-line Programs, Control Flow Programs, Mozart Waltz Generator, RSA Cryptosystem, Atomic Nature of Matter, and Markov Model), including writeups with implementation hints, solutions, and Gradescope-compatible docker images for autograding student submissions. The last four out of the six projects have been adapted from the [Creative Programming Assignments](https://introcs.cs.princeton.edu/java/assignments/) website at Princeton University. If you are an instructor and would like to use any of these assignments in your course, please email me at [siyer@cs.umb.edu](mailto://siyer@cs.umb.edu), and I will be happy to share the material with you.
 
 #### Introduction to Programming in Java
 
-- Programs I use to teach an introductory course on programming in Java: as a [PDF](/public/teaching/ipj.pdf) and as an [IntelliJ project](/public/teaching/ipj.zip). Most of the programs are from the book [Computer Science: An Interdisciplinary Approach](https://www.amazon.com/Computer-Science-Interdisciplinary-Robert-Sedgewick/dp/0134076427/) by Robert Sedgewick and Kevin Wayne. 
+- Programs I use to teach an introductory course on programming in Java: as a [PDF](https://www.cs.umb.edu/~siyer/teaching/ipj.pdf) and as an [IntelliJ project](https://www.cs.umb.edu/~siyer/teaching/ipj.zip). Most of the programs are from the book [Computer Science: An Interdisciplinary Approach](https://www.amazon.com/Computer-Science-Interdisciplinary-Robert-Sedgewick/dp/0134076427/) by Robert Sedgewick and Kevin Wayne. 
 
-- Supporting libraries and data types used throughout the book: the API ([PDF](/public/teaching/stdlib-java.pdf) \| [JavaDoc](/public/teaching/stdlib-javadoc)) and the [code](/public/teaching/stdlib.jar).
+- Supporting libraries and data types used throughout the book: the API ([PDF](https://www.cs.umb.edu/~siyer/teaching/stdlib-java.pdf) \| [JavaDoc](https://www.cs.umb.edu/~siyer/teaching/stdlib-javadoc)) and the [code](https://www.cs.umb.edu/~siyer/teaching/stdlib.jar).
 
 #### Data Structures and Algorithms in Java
 
-- Programs I use to teach a course on data structures and algorithms: as a [PDF](/public/teaching/dsaj.pdf) and as an [IntelliJ project](/public/teaching/dsaj.zip). Most of the programs are from the book [Algorithms](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/) by Robert Sedgewick and Kevin Wayne. 
+- Programs I use to teach a course on data structures and algorithms: as a [PDF](https://www.cs.umb.edu/~siyer/teaching/dsaj.pdf) and as an [IntelliJ project](https://www.cs.umb.edu/~siyer/teaching/dsaj.zip). Most of the programs are from the book [Algorithms](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/) by Robert Sedgewick and Kevin Wayne. 
 
-- Supporting libraries and data types used throughout the book: the API ([PDF](/public/teaching/stdlib-java.pdf) \| [JavaDoc](/public/teaching/stdlib-javadoc)) and the [code](/public/teaching/stdlib.jar).
+- Supporting libraries and data types used throughout the book: the API ([PDF](https://www.cs.umb.edu/~siyer/teaching/stdlib-java.pdf) \| [JavaDoc](https://www.cs.umb.edu/~siyer/teaching/stdlib-javadoc)) and the [code](https://www.cs.umb.edu/~siyer/teaching/stdlib.jar).
 
-- Data structures and algorithms discussed in the book: the API ([PDF](/public/teaching/dsalib.pdf) \| [JavaDoc](/public/teaching/dsa-javadoc)) and the [code](/public/teaching/dsa.jar).
+- Data structures and algorithms discussed in the book: the API ([PDF](https://www.cs.umb.edu/~siyer/teaching/dsalib.pdf) \| [JavaDoc](https://www.cs.umb.edu/~siyer/teaching/dsa-javadoc)) and the [code](https://www.cs.umb.edu/~siyer/teaching/dsa.jar).
 
 - Set of six programming projects (Percolation, Deques and Randomized Queues, Autocomplete, 8 Puzzle, KdTrees, and WordNet), including writeups with implementation hints, solutions, and Gradescope-compatible docker images for autograding student submissions. The projects have been adapted from the [Creative Programming Assignments](https://introcs.cs.princeton.edu/java/assignments/) website at Princeton University. The autograder for the projects was developed by one of my students, James Michaud. If you are an instructor and would like to use any of these assignments in your course, please email me at [siyer@cs.umb.edu](mailto://siyer@cs.umb.edu), and I will be happy to share the material with you.
 
