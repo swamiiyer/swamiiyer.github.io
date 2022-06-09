@@ -13,6 +13,8 @@ order: 3
 
 #### Papers
 
+- [Individual-based model highlights the importance of trade-offs for virus-host population dynamics and long-term co-existence](https://doi.org/10.1371/journal.pcbi.1010228), Fateme Pourhasanzade, Swami Iyer, Jesslyn Tjendra, Lotta Landor, Selina V&aring;ge, PLoS Computational Biology 18(6), e1010228 (2022).
+
 - [Evolution of Cooperation in Social Dilemmas with Assortative Interactions](https://doi.org/10.3390/g11040041), Swami Iyer and Timothy Killingback, Games 11(4), 41 (2020).
 
 - [Evolution of Cooperation in Social Dilemmas on Complex Networks](http://dx.doi.org/10.1371/journal.pcbi.1004779), Swami Iyer and Timothy Killingback, PLoS Computational Biology 12(2), e1004779 (2016).
