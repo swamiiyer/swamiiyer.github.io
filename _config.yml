@@ -4,5 +4,3 @@ highlighter:      "pygments"
 url:              "https://swamiiyer.github.io"
 
 include: ["_pages", "_pages/cs110", "_pages/cs210", "_pages/cs451"]
-
-exclude: ["cv.tex"]
