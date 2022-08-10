@@ -37,7 +37,7 @@ Evolutionary dynamics on complex networks, machine learning, pedagogy
 
 ### Other Interests
 
-Books (on an assortment of topics), gastronomy, music, photography, travel, Vipassana meditation
+Books (on an assortment of topics), gastronomy, music, travel, Vipassana meditation
 
 ### Education
 
