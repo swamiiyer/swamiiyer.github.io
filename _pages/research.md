@@ -56,21 +56,3 @@ Dan Simovici &harr;
 Ratko Tošić &harr;
 Joseph Straight &harr;
 [Paul Erd&ouml;s](http://en.wikipedia.org/wiki/Paul_Erd%C5%91s)
-
-### Conferences Attended
-
-- CVPR 2016; June 26 - July 2, 2016; Las Vegas, NV
-- New England Machine Learning Day; May 6, 2016; Cambridge, MA
-- Greater Boston Area Statistical Mechanics Meeting; October 24, 2015; Boston, MA
-- New England Machine Learning Day; May 18, 2015; Cambridge, MA
-- Greater Boston Area Statistical Mechanics Meeting; November 8, 2014; Boston, MA
-- Symposium on Theoretical Computer Science; October 26, 2014, Boston, MA
-- Conference on Computational Physics; August 11-14, 2014, Boston, MA
-- Novel Applications of Statistical Mechanics: A Celebration of Sidney Redner's Contributions; May 10-11, 2014; Boston, MA
-- 2014 Winter q-bio Meeting; February 17-20; Waikoloa, HI
-- Greater Boston Area Statistical Mechanics Meeting; October 12, 2013; Boston, MA
-- Greater Boston Area Statistical Mechanics Meeting; October 15, 2011; Boston, MA
-- International Conference on Complex Systems; June 26 - July 1, 2011; Quincy, MA
-- Chandrasekhar Centennial Symposium; October 15-17, 2010; Chicago, IL
-- Greater Boston Area Statistical Mechanics Meeting; October 9, 2010; Boston, MA
-- Joint Mathematics Meetings; January 5-8, 2009; Washington, DC
