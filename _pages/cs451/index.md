@@ -25,7 +25,7 @@ Welcome to the Compilers (CS451/651) course I will be teaching this semester!
 
 - CS451/651 is a very demanding course, so please be prepared to work really hard from the outset, or else you will quickly fall behind and end up with a poor/failing grade.
 
-- If you are currently wait-listed or would like to register, please be patient and show up for classes during the first week. I'll do my best to enroll you in before the add/drop deadline.
+- If you are currently wait-listed and relatively high on the list, or would like to register, please be patient and show up for classes during the first week. I'll do my best to enroll you in before the add/drop deadline.
 
 I look forward to having you in my class.
 

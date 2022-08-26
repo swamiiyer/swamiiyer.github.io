@@ -26,7 +26,7 @@ Please make sure that you meet the prerequisites for the course: CS110 and Math 
 
 - CS210 is a very demanding course, so please be prepared to work really hard from the outset, or else you will quickly fall behind and end up with a poor/failing grade.
 
-- If you are currently wait-listed or would like to register, please be patient and show up for classes during the first week. I'll do my best to enroll you in before the add/drop deadline.
+- If you are currently wait-listed and relatively high on the list, or would like to register, please be patient and show up for classes during the first week. I'll do my best to enroll you in before the add/drop deadline.
 
 - <font color="red">NOTE: During the first week we will only meet for lectures. Discussions and SI sessions will start from the second week, ie, the week of Sep 12.</font>
 
