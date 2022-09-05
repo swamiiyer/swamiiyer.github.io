@@ -11,7 +11,7 @@ Dear student,
 
 Welcome to the Intermediate Computing with Data Structures (CS210) course I will be teaching this semester!
 
-Please make sure that you meet the prerequisites for the course: CS110 and Math 130; or permission of the instructor.
+Please make sure that you meet the prerequisites for the course: CS110 or permission of the instructor.
 
 - Please read through the [course website](/cs210/) very carefully and acquaint yourself with the course mechanics.
 
