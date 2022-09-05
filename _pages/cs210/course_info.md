@@ -21,7 +21,7 @@ Kyle Clapper | Teaching Assistant | [kyle.clapper001@umb.edu](kyle.clapper001@um
 Yanan (Kristin) Qi | Teaching Assistant | [yanankristin.qi001@umb.edu](yanankristin.qi001@umb.edu) | TBD | TBD
 Lucas Gustafson | Supplemental Instruction Leader | [lucas.gustafson001@umb.edu](lucas.gustafson001@umb.edu) | - | - |
 
-## Sessions
+### Sessions
 
 #### Class
 
