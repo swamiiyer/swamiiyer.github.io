@@ -30,7 +30,7 @@ We will have two lectures per week, during which I will present the material fro
 
 ### Text
 
-<img src="/public/cs210/text.png" width="150" height="180"/>
+<img src="/public/cs451/text.png" width="150" height="180"/>
 
 [Introduction to Compiler Construction in a Java World](http://www.amazon.com/Introduction-Compiler-Construction-Java-World/dp/1439860882) by Bill Campbell, Swami Iyer, and Bahar Akbal-Delibaş
 
