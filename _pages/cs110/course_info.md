@@ -101,7 +101,7 @@ Note:
 - If you score at least 80% on both exams, the higher exam score will be considered as the exam average.
 - Participation score will be based on in-class quizzes (3%) and attendance in discussions (2%).
 - You can earn up to 5% extra points for attending and participating in the SI sessions. The points will be assigned based on feedback from the SI leader.
-- You can also earn up to 0.01x\% extra points if x% of the class completes the end-of-semester course evaluation. 
+- You can also earn up to 0.01x% extra points if x% of the class completes the end-of-semester course evaluation. 
 - If your overall score falls within half a percent of a higher grade, your score will be elevated to that grade.
 
 To calculate your current course grade, visit the [What's My Grade?](https://www.cs.umb.edu/~siyer/teaching/what_is_my_grade.html) website.
@@ -116,7 +116,7 @@ We will use [Gradescope](https://gradescope.com/) to grade your quizzes, project
 
 ### Programming Environment
 
-Setup your personal computer with the tools needed for course. Click [here](/public/cs110/ipp_programming_environment_setup.pdf) for instructions.
+To write and execute Python programs in this course, you will need a laptop (Linux, Mac, or Windows) properly configured with the necessary software. Click [here](/public/cs110/ipp_programming_environment_setup.pdf) for setup instructions.
 
 <a name="cs_account"></a>
 ### CS Account
