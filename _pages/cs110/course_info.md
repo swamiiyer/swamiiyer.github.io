@@ -92,7 +92,7 @@ This text offers an excellent introduction to computing principles, motivating e
 | [60, 63)  | D-  |
 | [0, 60)   | F   |
 
-Note: 
+**Note:**
 
 - The goal of the projects is to make sure that you can apply the concepts learned in class to solve relatively straightforward computational exercises and somewhat challenging real-world scientific problems.
 - The exams will test your understanding of the material covered in class as well as concepts from the projects.
