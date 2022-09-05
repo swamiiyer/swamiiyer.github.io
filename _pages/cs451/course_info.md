@@ -19,9 +19,7 @@ This course meets [program outcomes](http://www.cs.umb.edu/cs_bs) 1a (demonstrat
 Swami Iyer | Instructor | [siyer@cs.umb.edu](siyer@cs.umb.edu) | M-3-201-14 | In-person: Tue Thu 9:45 AM - 10:45 AM and 2:45 PM - 3:45 PM <br/> Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09)) |
 Shreyansh Dhandhukia | Teaching Assistant | [s.dhandhukia001@umb.edu](s.dhandhukia001@umb.edu) | TBD | TBD
 
-### Sessions
-
-#### Class
+### Lectures
 
 We will have two lectures per week, during which I will present the material from the [slides](lecture_material.html). I strongly recommend skimming through the material before each lecture, and reading it again thoroughly soon after.
 
@@ -61,7 +59,7 @@ The text enables a deep understanding of the Java programming language and its i
 | [60, 63)  | D-  |
 | [0, 60)   | F   |
 
-Note: 
+**Note:**
 
 - The goal of the projects is to make sure that you can apply the concepts learned in class to enhance the functionality of the base *j\-\-* compiler, ie, add new programming constructs to the language.
 - The exams will test your understanding of the material covered in class as well as concepts from the projects.
