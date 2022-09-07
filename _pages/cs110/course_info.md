@@ -20,6 +20,7 @@ Swami Iyer | Instructor | [siyer@cs.umb.edu](siyer@cs.umb.edu) | M-3-201-14 | In
 Aayush Shrivastava | Teaching Assistant | [a.shrivastava001@umb.edu](a.shrivastava001@umb.edu) | TBD |TBD |
 JieHyun (Jenna) Kim | Teaching Assistant | [jiehyun.kim001@umb.edu](jiehyun.kim001@umb.edu) | TBD |TBD |
 Prabin Sharma | Teaching Assistant | [prabin.sharma001@umb.edu](prabin.sharma001@umb.edu) | TBD | TBD |
+Ramsey Harrison | Teaching Assistant | [ramsey.harrison001@umb.edu](ramsey.harrison001@umb.edu) | TBD |TBD |
 MuhammadMoiz Amjad | Supplemental Instruction Leader | [m.amjad001@umb.edu](m.amjad001@umb.edu) | - | - |
 
 ### Sessions
@@ -33,17 +34,17 @@ We will have two lectures per week, during which I will present the material fro
 
 #### Discussion
 
-Starting from the second week, there will be a discussion every week. The focus of the discussion for a particular week will be the current project assignment. The teaching assistant (TA) will systematically walk you through the project writeup, which contains simple programming exercises on concepts related to the project and the project problems along with directions on how to approach those problems. The TA will also answer any specific questions you may have about the project, or the course material in general. The discussions will be worthwhile only if you go to the sessions having read the project writeup thoroughly and have at least a moderate understanding of the exercises and problems involved. The TA will assume that you have done the reading in advance. 
+Starting from the second week, there will be a discussion every week. The focus of the discussion for a particular week will be the current project assignment. The teaching assistant (TA) will systematically walk you through the project writeup, which contains simple programming exercises on concepts related to the project and the project problems along with directions on how to approach those problems. The TA will also answer any specific questions you may have about the project, or the course material in general. You may also seek help from the lab assistant (LA) who will be assisting the TA during the discussions. The discussions will be worthwhile only if you go to the sessions having read the project writeup thoroughly and have at least a moderate understanding of the exercises and problems involved. The TA and LA will assume that you have done the reading in advance. 
 
-| **Section** | **When** | **Where** | **TA** |
-1 | Tue 9:30 AM - 10:45 AM | W-1-0041 | TBD |
-2 | Thu 9:30 AM - 10:45 AM | M-2-0417 | TBD |
-3 | Tue 12:30 PM - 1:45 PM | W-1-0043 | TBD |
-4 | Thu 12:30 PM - 1:45 PM | W-1-0019 | TBD |
-5 | Tue 9:30 AM - 10:45 AM | M-2-0419 | TBD |
-6 | Thu 9:30 AM - 10:45 AM | M-2-0419 | TBD |
-7 | Tue 12:30 PM - 1:45 PM | W-1-0042 | TBD |
-8 | Thu 12:30 PM - 1:45 PM | W-1-0042 | TBD |
+| **Section** | **When** | **Where** | **TA** | **LA** |
+1 | Tue 9:30 AM - 10:45 AM | W-1-0041 | Aayush Shrivastava | TBD |
+2 | Thu 9:30 AM - 10:45 AM | M-2-0417 | JieHyun (Jenna) Kim | TBD |
+3 | Tue 12:30 PM - 1:45 PM | W-1-0043 | Aayush Shrivastava | TBD |
+4 | Thu 12:30 PM - 1:45 PM | W-1-0019 | JieHyun (Jenna) Kim | TBD |
+5 | Tue 9:30 AM - 10:45 AM | M-2-0419 | Prabin Sharma | TBD |
+6 | Thu 9:30 AM - 10:45 AM | M-2-0419 | Ramsey Harrison | TBD |
+7 | Tue 12:30 PM - 1:45 PM | W-1-0042 | Prabin Sharma | TBD |
+8 | Thu 12:30 PM - 1:45 PM | W-1-0042 | Ramsey Harrison | TBD |
 
 #### Supplemental Instruction
 

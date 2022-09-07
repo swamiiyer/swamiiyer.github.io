@@ -32,12 +32,12 @@ We will have two lectures per week, during which I will present the material fro
 
 #### Discussion
 
-Starting from the second week, there will be a discussion every week. The focus of the discussion for a particular week will be the current project assignment. The teaching assistant (TA) will systematically walk you through the project writeup, which contains simple programming exercises on concepts related to the project and the project problems along with directions on how to approach those problems. The TA will also answer any specific questions you may have about the project, or the course material in general. The discussions will be worthwhile only if you go to the sessions having read the project writeup thoroughly and have at least a moderate understanding of the exercises and problems involved. The TA will assume that you have done the reading in advance. 
+Starting from the second week, there will be a discussion every week. The focus of the discussion for a particular week will be the current project assignment. The teaching assistant (TA) will systematically walk you through the project writeup, which contains simple programming exercises on concepts related to the project and the project problems along with directions on how to approach those problems. The TA will also answer any specific questions you may have about the project, or the course material in general. You may also seek help from the lab assistant (LA) who will be assisting the TA during the discussions. The discussions will be worthwhile only if you go to the sessions having read the project writeup thoroughly and have at least a moderate understanding of the exercises and problems involved. The TA and LA will assume that you have done the reading in advance. 
 
-| **Section** | **When** | **Where** | **TA** |
-1 | Tue 11:00 AM - 12:15 PM | W-2-0125 | TBD |
-2 | Thu 11:00 AM - 12:15 PM | M-2-0205 | TBD |
-3 | Tue 2:00 PM - 3:15 PM | W-1-0052 | TBD |
+| **Section** | **When** | **Where** | **TA** | **LA** |
+1 | Tue 11:00 AM - 12:15 PM | W-2-0125 | Kyle Clapper | TBD |
+2 | Thu 11:00 AM - 12:15 PM | M-2-0205 | Kyle Clapper | TBD |
+3 | Tue 2:00 PM - 3:15 PM | W-1-0052 | Yanan (Kristin) Qi | TBD |
 
 #### Supplemental Instruction
 
