@@ -46,7 +46,7 @@ As part of the College of Science and Mathematics Freshman Success Program, supp
 | **When** | **Where** |
 | Wed 2:00 PM - 2:50 PM | TBD |
 | Wed 3:00 PM - 3:50 PM | TBD |
-| Thu 4:00 PM - 5:15 PM | TBD |
+| Thu 4:00 PM - 5:15 PM | M-1-0417 |
 | Sat 8:00 PM - 9:15 PM | Remote ([Zoom link](https://umassboston.zoom.us/my/lucasgustafson)) |
 
 #### Tutoring
