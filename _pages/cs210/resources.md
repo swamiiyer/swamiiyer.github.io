@@ -10,7 +10,7 @@ order: 6
 - [Programming Environment](/public/cs210/dsaj_programming_environment_setup.pdf)
 - Programs Discussed in Class ([PDF](https://www.cs.umb.edu/~siyer/teaching/dsaj.pdf) \| [IntelliJ Project](https://www.cs.umb.edu/~siyer/teaching/dsaj.zip))
 - Java Versions of Programs Discussed in CS110 ([PDF](https://www.cs.umb.edu/~siyer/teaching/ipj.pdf) \| [IntelliJ Project](https://www.cs.umb.edu/~siyer/teaching/ipj.zip))
-- [Dummy PyCharm Project](https://www.cs.umb.edu/~siyer/teaching/cs210/dummy_project.zip)
+- [Dummy IntelliJ Project](https://www.cs.umb.edu/~siyer/teaching/cs210/dummy_project.zip)
 - [Piazza](https://piazza.com/umb/fall2022/cs210/home)
 - [Gradescope](https://gradescope.com/)
 - [Report Guidelines](/public/cs210/cs210_report_guidelines.pdf)

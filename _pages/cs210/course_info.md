@@ -17,8 +17,8 @@ This course meets [program outcomes](http://www.cs.umb.edu/cs_bs) 1d (be profici
 
 | **Name** | **Role** | **Email** | **Office** | **Hours** |
 Swami Iyer | Instructor | [siyer@cs.umb.edu](siyer@cs.umb.edu) | M-3-201-14 | In-person: Tue Thu 9:45 AM - 10:45 AM and 2:45 PM - 3:45 PM <br/> Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09)) |
-Kyle Clapper | Teaching Assistant | [kyle.clapper001@umb.edu](kyle.clapper001@umb.edu) | TBD | TBD |
-Yanan (Kristin) Qi | Teaching Assistant | [yanankristin.qi001@umb.edu](yanankristin.qi001@umb.edu) | TBD | TBD
+Kyle Clapper | Teaching Assistant | [kyle.clapper001@umb.edu](kyle.clapper001@umb.edu) | TBD | Mon Wed 2:30 PM - 3:30 PM |
+Kristin Qi | Teaching Assistant | [yanankristin.qi001@umb.edu](yanankristin.qi001@umb.edu) | M-3-0164 | Thu 2:00 PM - 4:00 PM
 Lucas Gustafson | Supplemental Instruction Leader | [lucas.gustafson001@umb.edu](lucas.gustafson001@umb.edu) | - | - |
 
 ### Sessions
@@ -37,17 +37,17 @@ Starting from the second week, there will be a discussion every week. The focus 
 | **Section** | **When** | **Where** | **TA** | **LA** |
 1 | Tue 11:00 AM - 12:15 PM | W-2-0125 | Kyle Clapper | TBD |
 2 | Thu 11:00 AM - 12:15 PM | M-2-0205 | Kyle Clapper | TBD |
-3 | Tue 2:00 PM - 3:15 PM | W-1-0052 | Yanan (Kristin) Qi | TBD |
+3 | Tue 2:00 PM - 3:15 PM | W-1-0052 | Kristin Qi | TBD |
 
 #### Supplemental Instruction
 
 As part of the College of Science and Mathematics Freshman Success Program, supplemental instruction (SI) is available to all CS110 students free of charge. The SI sessions will also start from the second week. The focus of the sessions for a particular week will be the material covered in class during the previous week. The SI leader will walk you through the relevant lecture notes and solve problems. In addition, the SI leader will answer any specific questions you may have about the current project assignment, or the course material in general. The SI sessions are optional, but highly recommended, especially if you feel like you are falling behind in the course. You may attend as few or as many sessions as you like. You will receive extra-credit points for attending and participating in the sessions (see the Grading section below).
 
 | **When** | **Where** |
-| TBD | TBD |
-| TBD | TBD |
-| TBD | TBD |
-| TBD | TBD |
+| Wed 2:00 PM - 2:50 PM | TBD |
+| Wed 3:00 PM - 3:50 PM | TBD |
+| Thu 4:00 PM - 5:15 PM | TBD |
+| Sat 8:00 PM - 9:15 PM | Remote ([Zoom link](https://umassboston.zoom.us/my/lucasgustafson)) |
 
 #### Tutoring
 

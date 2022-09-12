@@ -17,10 +17,10 @@ This course meets [program outcome](https://www.cs.umb.edu/cs_bs) 1d (be profici
 
 | **Name** | **Role** | **Email** | **Office** | **Hours** |
 Swami Iyer | Instructor | [siyer@cs.umb.edu](siyer@cs.umb.edu) | M-3-201-14 | In-person: Tue Thu 9:45 AM - 10:45 AM and 2:45 PM - 3:45 PM <br/> Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09)) |
-Aayush Shrivastava | Teaching Assistant | [a.shrivastava001@umb.edu](a.shrivastava001@umb.edu) | TBD |TBD |
-JieHyun (Jenna) Kim | Teaching Assistant | [jiehyun.kim001@umb.edu](jiehyun.kim001@umb.edu) | TBD |TBD |
-Prabin Sharma | Teaching Assistant | [prabin.sharma001@umb.edu](prabin.sharma001@umb.edu) | TBD | TBD |
-Ramsey Harrison | Teaching Assistant | [ramsey.harrison001@umb.edu](ramsey.harrison001@umb.edu) | TBD |TBD |
+Aayush Shrivastava | Teaching Assistant | [a.shrivastava001@umb.edu](a.shrivastava001@umb.edu) | TBD | Wed Fri 1:00 PM - 2:00 PM |
+Jenna Kim | Teaching Assistant | [jiehyun.kim001@umb.edu](jiehyun.kim001@umb.edu) | TBD | Tue Thu 2:00 PM - 3:00 PM |
+Prabin Sharma | Teaching Assistant | [prabin.sharma001@umb.edu](prabin.sharma001@umb.edu) | TBD | Tue 4:00 PM - 5:00 PM; Wed 2:30 PM - 3:30 PM |
+Ramsey Harrison | Teaching Assistant | [ramsey.harrison001@umb.edu](ramsey.harrison001@umb.edu) | TBD | Mon Wed 2:30 PM - 3:30 PM |
 MuhammadMoiz Amjad | Supplemental Instruction Leader | [m.amjad001@umb.edu](m.amjad001@umb.edu) | - | - |
 
 ### Sessions
@@ -38,9 +38,9 @@ Starting from the second week, there will be a discussion every week. The focus 
 
 | **Section** | **When** | **Where** | **TA** | **LA** |
 1 | Tue 9:30 AM - 10:45 AM | W-1-0041 | Aayush Shrivastava | TBD |
-2 | Thu 9:30 AM - 10:45 AM | M-2-0417 | JieHyun (Jenna) Kim | TBD |
+2 | Thu 9:30 AM - 10:45 AM | M-2-0417 | Jenna Kim | TBD |
 3 | Tue 12:30 PM - 1:45 PM | W-1-0043 | Aayush Shrivastava | TBD |
-4 | Thu 12:30 PM - 1:45 PM | W-1-0019 | JieHyun (Jenna) Kim | TBD |
+4 | Thu 12:30 PM - 1:45 PM | W-1-0019 | Jenna Kim | TBD |
 5 | Tue 9:30 AM - 10:45 AM | M-2-0419 | Prabin Sharma | TBD |
 6 | Thu 9:30 AM - 10:45 AM | M-2-0419 | Ramsey Harrison | TBD |
 7 | Tue 12:30 PM - 1:45 PM | W-1-0042 | Prabin Sharma | TBD |
@@ -51,10 +51,10 @@ Starting from the second week, there will be a discussion every week. The focus 
 As part of the College of Science and Mathematics Freshman Success Program, supplemental instruction (SI) is available to all CS110 students free of charge. The SI sessions will also start from the second week. The focus of the sessions for a particular week will be the material covered in class during the previous week. The SI leader will walk you through the relevant lecture notes and solve problems. In addition, the SI leader will answer any specific questions you may have about the current project assignment, or the course material in general. The SI sessions are optional, but highly recommended, especially if you feel like you are falling behind in the course. You may attend as few or as many sessions as you like. You will receive extra-credit points for attending and participating in the sessions (see the Grading section below).
 
 | **When** | **Where** |
-| TBD | TBD |
-| TBD | TBD |
-| TBD | TBD |
-| TBD | TBD |
+| Mon 2:00 PM - 2:50 PM | TBD |
+| Wed 2:00 PM - 2:50 PM | TBD |
+| Thu 4:00 PM - 5:15 PM | TBD |
+| Sat 11:00 AM - 12:15 PM | Remote ([Zoom link](https://zoom.us/j/8494571575?pwd=SmpsUnZ6TFk1ZU45RS9RN0hxUm0vQT09)) |
 
 #### Tutoring
 
