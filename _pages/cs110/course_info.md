@@ -17,10 +17,10 @@ This course meets [program outcome](https://www.cs.umb.edu/cs_bs) 1d (be profici
 
 | **Name** | **Role** | **Email** | **Office** | **Hours** |
 Swami Iyer | Instructor | [siyer@cs.umb.edu](siyer@cs.umb.edu) | M-3-201-14 | In-person: Tue Thu 9:45 AM - 10:45 AM and 2:45 PM - 3:45 PM <br/> Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09)) |
-Aayush Shrivastava | Teaching Assistant | [a.shrivastava001@umb.edu](a.shrivastava001@umb.edu) | TBD | Wed Fri 1:00 PM - 2:00 PM |
+Aayush Shrivastava | Teaching Assistant | [a.shrivastava001@umb.edu](a.shrivastava001@umb.edu) | TBD | Mon Wed 2:30 PM - 3:00 PM |
 Jenna Kim | Teaching Assistant | [jiehyun.kim001@umb.edu](jiehyun.kim001@umb.edu) | TBD | Tue Thu 2:00 PM - 3:00 PM |
-Prabin Sharma | Teaching Assistant | [prabin.sharma001@umb.edu](prabin.sharma001@umb.edu) | TBD | Tue 4:00 PM - 5:00 PM; Wed 2:30 PM - 3:30 PM |
-Ramsey Harrison | Teaching Assistant | [ramsey.harrison001@umb.edu](ramsey.harrison001@umb.edu) | TBD | Mon Wed 2:30 PM - 3:30 PM |
+Prabin Sharma | Teaching Assistant | [prabin.sharma001@umb.edu](prabin.sharma001@umb.edu) | TBD | Tue 4:00 PM - 5:00 PM; Thu 3:30 PM - 4:30 PM |
+Ramsey Harrison | Teaching Assistant | [ramsey.harrison001@umb.edu](ramsey.harrison001@umb.edu) | TBD | Mon Wed 5:30 PM - 6:30 PM |
 MuhammadMoiz Amjad | Supplemental Instruction Leader | [m.amjad001@umb.edu](m.amjad001@umb.edu) | - | - |
 
 ### Sessions
