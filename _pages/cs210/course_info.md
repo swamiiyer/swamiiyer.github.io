@@ -19,6 +19,8 @@ This course meets [program outcomes](http://www.cs.umb.edu/cs_bs) 1d (be profici
 Swami Iyer | Instructor | [siyer@cs.umb.edu](siyer@cs.umb.edu) | M-3-201-14 | In-person: Tue Thu 9:45 AM - 10:45 AM and 2:45 PM - 3:45 PM <br/> Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09)) |
 Kyle Clapper | Teaching Assistant | [kyle.clapper001@umb.edu](kyle.clapper001@umb.edu) | M-3-0139 | Mon Wed 2:30 PM - 3:30 PM |
 Kristin Qi | Teaching Assistant | [yanankristin.qi001@umb.edu](yanankristin.qi001@umb.edu) | M-3-0164 | Thu 2:00 PM - 4:00 PM
+Tin Nguyen | Lab Assistant | [tin.nguyen003@umb.edu](tin.nguyen003@umb.edu) | TBD | TBD |
+Yeshaswini Murthy | Lab Assistant | [y.vasudevamurthy001@umb.edu](y.vasudevamurthy001@umb.edu) | TBD |TBD |
 Lucas Gustafson | Supplemental Instruction Leader | [lucas.gustafson001@umb.edu](lucas.gustafson001@umb.edu) | - | - |
 
 ### Sessions
@@ -35,9 +37,9 @@ We will have two lectures per week, during which I will present the material fro
 Starting from the second week, there will be a discussion every week. The focus of the discussion for a particular week will be the current project assignment. The teaching assistant (TA) will systematically walk you through the project writeup, which contains simple programming exercises on concepts related to the project and the project problems along with directions on how to approach those problems. The TA will also answer any specific questions you may have about the project, or the course material in general. You may also seek help from the lab assistant (LA) who will be assisting the TA during the discussions. The discussions will be worthwhile only if you go to the sessions having read the project writeup thoroughly and have at least a moderate understanding of the exercises and problems involved. The TA and LA will assume that you have done the reading in advance. 
 
 | **Section** | **When** | **Where** | **TA** | **LA** |
-1 | Tue 11:00 AM - 12:15 PM | W-2-0125 | Kyle Clapper | TBD |
-2 | Thu 11:00 AM - 12:15 PM | M-2-0205 | Kyle Clapper | TBD |
-3 | Tue 2:00 PM - 3:15 PM | W-1-0052 | Kristin Qi | TBD |
+1 | Tue 11:00 AM - 12:15 PM | W-2-0125 | Kyle Clapper | Tin Nguyen |
+2 | Thu 11:00 AM - 12:15 PM | M-2-0205 | Kyle Clapper | Tin Nguyen |
+3 | Tue 2:00 PM - 3:15 PM | W-1-0052 | Kristin Qi | Yeshaswini Murthy |
 
 #### Supplemental Instruction
 
