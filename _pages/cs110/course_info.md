@@ -21,6 +21,10 @@ Aayush Shrivastava | Teaching Assistant | [a.shrivastava001@umb.edu](a.shrivasta
 Jenna Kim | Teaching Assistant | [jiehyun.kim001@umb.edu](jiehyun.kim001@umb.edu) | M-3-201-10 | Tue Thu 2:00 PM - 3:00 PM |
 Prabin Sharma | Teaching Assistant | [prabin.sharma001@umb.edu](prabin.sharma001@umb.edu) | M-3-201-10 | Tue 4:00 PM - 5:00 PM; Thu 3:30 PM - 4:30 PM |
 Ramsey Harrison | Teaching Assistant | [ramsey.harrison001@umb.edu](ramsey.harrison001@umb.edu) | M-3-201-10 | Mon Wed 5:30 PM - 6:30 PM |
+Kenichi Maeda | Lab Assistant | [kenichi.maeda001@umb.edu](kenichi.maeda001@umb.edu) | TBD | TBD |
+Kenilkumar Patel | Lab Assistant | [kenilkumar.patel001@umb.edu](kenilkumar.patel001@umb.edu) | TBD | TBD |
+Prateeksha Bhojaraj | Lab Assistant | [p.bhojaraj001@umb.edu](p.bhojaraj001@umb.edu) | TBD | TBD |
+Serhii Klindukh | Lab Assistant | [serhii.klindukh001@umb.edu]() | TBD | TBD |
 MuhammadMoiz Amjad | Supplemental Instruction Leader | [m.amjad001@umb.edu](m.amjad001@umb.edu) | - | - |
 
 ### Sessions
@@ -37,14 +41,14 @@ We will have two lectures per week, during which I will present the material fro
 Starting from the second week, there will be a discussion every week. The focus of the discussion for a particular week will be the current project assignment. The teaching assistant (TA) will systematically walk you through the project writeup, which contains simple programming exercises on concepts related to the project and the project problems along with directions on how to approach those problems. The TA will also answer any specific questions you may have about the project, or the course material in general. You may also seek help from the lab assistant (LA) who will be assisting the TA during the discussions. The discussions will be worthwhile only if you go to the sessions having read the project writeup thoroughly and have at least a moderate understanding of the exercises and problems involved. The TA and LA will assume that you have done the reading in advance. 
 
 | **Section** | **When** | **Where** | **TA** | **LA** |
-1 | Tue 9:30 AM - 10:45 AM | W-1-0041 | Aayush Shrivastava | TBD |
-2 | Thu 9:30 AM - 10:45 AM | M-2-0417 | Jenna Kim | TBD |
-3 | Tue 12:30 PM - 1:45 PM | W-1-0043 | Aayush Shrivastava | TBD |
-4 | Thu 12:30 PM - 1:45 PM | W-1-0019 | Jenna Kim | TBD |
-5 | Tue 9:30 AM - 10:45 AM | M-2-0419 | Prabin Sharma | TBD |
-6 | Thu 9:30 AM - 10:45 AM | M-2-0419 | Ramsey Harrison | TBD |
-7 | Tue 12:30 PM - 1:45 PM | W-1-0042 | Prabin Sharma | TBD |
-8 | Thu 12:30 PM - 1:45 PM | W-1-0042 | Ramsey Harrison | TBD |
+1 | Tue 9:30 AM - 10:45 AM | W-1-0041 | Aayush Shrivastava | Kenilkumar Patel |
+2 | Thu 9:30 AM - 10:45 AM | M-2-0417 | Jenna Kim | Prateeksha Bhojaraj |
+3 | Tue 12:30 PM - 1:45 PM | W-1-0043 | Aayush Shrivastava | Kenilkumar Patel |
+4 | Thu 12:30 PM - 1:45 PM | W-1-0019 | Jenna Kim | Kenichi Maeda |
+5 | Tue 9:30 AM - 10:45 AM | M-2-0419 | Prabin Sharma | Serhii Klindukh |
+6 | Thu 9:30 AM - 10:45 AM | M-2-0419 | Ramsey Harrison | Serhii Klindukh |
+7 | Tue 12:30 PM - 1:45 PM | W-1-0042 | Prabin Sharma | Prateeksha Bhojaraj |
+8 | Thu 12:30 PM - 1:45 PM | W-1-0042 | Ramsey Harrison | Prateeksha Bhojaraj |
 
 #### Supplemental Instruction
 
