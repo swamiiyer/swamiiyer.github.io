@@ -21,7 +21,7 @@ Aayush Shrivastava | Teaching Assistant | [a.shrivastava001@umb.edu](a.shrivasta
 Jenna Kim | Teaching Assistant | [jiehyun.kim001@umb.edu](jiehyun.kim001@umb.edu) | M-3-201-10 | Tue Thu 2:00 PM - 3:00 PM |
 Prabin Sharma | Teaching Assistant | [prabin.sharma001@umb.edu](prabin.sharma001@umb.edu) | M-3-201-10 | Tue 4:00 PM - 5:00 PM; Thu 3:30 PM - 4:30 PM |
 Ramsey Harrison | Teaching Assistant | [ramsey.harrison001@umb.edu](ramsey.harrison001@umb.edu) | M-3-201-10 | Mon Wed 5:30 PM - 6:30 PM |
-Kenichi Maeda | Lab Assistant | [kenichi.maeda001@umb.edu](kenichi.maeda001@umb.edu) | TBD | TBD |
+Kenichi Maeda | Lab Assistant | [kenichi.maeda001@umb.edu](kenichi.maeda001@umb.edu) | M-3-201-10 | Mon Fri 10:00 AM - 11:00 AM |
 Kenilkumar Patel | Lab Assistant | [kenilkumar.patel001@umb.edu](kenilkumar.patel001@umb.edu) | TBD | TBD |
 Prateeksha Bhojaraj | Lab Assistant | [p.bhojaraj001@umb.edu](p.bhojaraj001@umb.edu) | TBD | TBD |
 Serhii Klindukh | Lab Assistant | [serhii.klindukh001@umb.edu]() | TBD | TBD |
