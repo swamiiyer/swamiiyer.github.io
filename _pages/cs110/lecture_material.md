@@ -20,7 +20,7 @@ order: 4
 
 - Chapter 2: Procedural Programming
   - Defining Functions ([slides](/public/cs110/defining_functions.pdf) \| [exercises](/public/cs110/defining_functions_exercises.pdf))
-  - Libraries and Applications ([slides](/public/cs110/libraries_and_applications.pdf) \| [exercises](/public/cs110/libraies_and_applications_exercises.pdf))
+  - Libraries and Applications ([slides](/public/cs110/libraries_and_applications.pdf) \| [exercises](/public/cs110/libraries_and_applications_exercises.pdf))
   - Recursion ([slides](/public/cs110/recursion.pdf) \| [exercises](/public/cs110/recursion_exercises.pdf))
 
 - Chapter 3: Object-oriented Programming
