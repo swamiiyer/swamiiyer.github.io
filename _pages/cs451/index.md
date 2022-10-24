@@ -5,6 +5,10 @@ title: Home
 order: 1
 ---
 
+**Oct 24, 2022**
+
+Project 4 is available and is due at 11:59 PM on Nov 6 (Sun).
+
 **Oct 10, 2022**
 
 Project 3 is available and is due at 11:59 PM on Oct 23 (Sun).
