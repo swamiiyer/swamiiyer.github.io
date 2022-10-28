@@ -5,6 +5,10 @@ title: Home
 order: 1
 ---
 
+**Oct 28, 2022**
+
+New deadline for Project 4 is 11:59 PM on Nov 9 (Wed).
+
 **Oct 24, 2022**
 
 Project 4 is available and is due at 11:59 PM on Nov 6 (Sun).
