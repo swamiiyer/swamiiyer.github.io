@@ -23,7 +23,7 @@ Prabin Sharma | Teaching Assistant | [prabin.sharma001@umb.edu](prabin.sharma001
 Ramsey Harrison | Teaching Assistant | [ramsey.harrison001@umb.edu](ramsey.harrison001@umb.edu) | M-3-201-10 | Mon Wed 5:30 PM - 6:30 PM |
 Kenichi Maeda | Lab Assistant | [kenichi.maeda001@umb.edu](kenichi.maeda001@umb.edu) | M-3-201-10 | Mon Fri 10:00 AM - 11:00 AM |
 Kenilkumar Patel | Lab Assistant | [kenilkumar.patel001@umb.edu](kenilkumar.patel001@umb.edu) | TBD | TBD |
-Prateeksha Bhojaraj | Lab Assistant | [p.bhojaraj001@umb.edu](p.bhojaraj001@umb.edu) | TBD | TBD |
+Prateeksha Bhojaraj | Lab Assistant | [p.bhojaraj001@umb.edu](p.bhojaraj001@umb.edu) | M-3-201-10 | Mon Wed 4:30 PM - 5:30 PM  |
 Serhii Klindukh | Lab Assistant | [serhii.klindukh001@umb.edu]() | TBD | TBD |
 MuhammadMoiz Amjad | Supplemental Instruction Leader | [m.amjad001@umb.edu](m.amjad001@umb.edu) | - | - |
 
