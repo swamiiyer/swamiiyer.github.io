@@ -20,7 +20,7 @@ Swami Iyer | Instructor | [siyer@cs.umb.edu](siyer@cs.umb.edu) | M-3-201-14 | In
 Kyle Clapper | Teaching Assistant | [kyle.clapper001@umb.edu](kyle.clapper001@umb.edu) | M-3-0139 | Mon Wed 2:30 PM - 3:30 PM |
 Kristin Qi | Teaching Assistant | [yanankristin.qi001@umb.edu](yanankristin.qi001@umb.edu) | M-3-0164 | Thu 2:00 PM - 4:00 PM
 Tin Nguyen | Lab Assistant | [tin.nguyen003@umb.edu](tin.nguyen003@umb.edu) | TBD | TBD |
-Yeshaswini Murthy | Lab Assistant | [y.vasudevamurthy001@umb.edu](y.vasudevamurthy001@umb.edu) | TBD |TBD |
+Yeshaswini Murthy | Lab Assistant | [y.vasudevamurthy001@umb.edu](y.vasudevamurthy001@umb.edu) | M-3-201-10 | Tue 9:30 AM - 11:30 AM |
 Lucas Gustafson | Supplemental Instruction Leader | [lucas.gustafson001@umb.edu](lucas.gustafson001@umb.edu) | - | - |
 
 ### Sessions
