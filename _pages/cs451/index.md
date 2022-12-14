@@ -5,6 +5,10 @@ title: Home
 order: 1
 ---
 
+**Dec 14, 2022**
+
+New deadline for Project 6 is 11:59 PM on Dec 15 (Thu).
+
 **Nov 30, 2022**
 
 New deadline for Project 5 is 11:59 PM on Dec 2 (Wed).
