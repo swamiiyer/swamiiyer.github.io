@@ -5,47 +5,7 @@ title: Home
 order: 1
 ---
 
-**Dec 14, 2022**
-
-New deadline for Project 6 is 11:59 PM on Dec 15 (Thu).
-
-**Nov 30, 2022**
-
-New deadline for Project 5 is 11:59 PM on Dec 2 (Wed).
-
-**Nov 28, 2022**
-
-Project 6 is available and is due at 11:59 PM on Dec 14 (Wed).
-
-**Nov 23, 2022**
-
-New deadline for Project 5 is 11:59 PM on Nov 30 (Wed).
-
-**Nov 7, 2022**
-
-Project 5 is available and is due at 11:59 PM on Nov 27 (Sun).
-
-**Oct 28, 2022**
-
-New deadline for Project 4 is 11:59 PM on Nov 9 (Wed).
-
-**Oct 24, 2022**
-
-Project 4 is available and is due at 11:59 PM on Nov 6 (Sun).
-
-**Oct 10, 2022**
-
-Project 3 is available and is due at 11:59 PM on Oct 23 (Sun).
-
-**Sep 26, 2022**
-
-Project 2 is available and is due at 11:59 PM on Oct 10 (Mon).
-
-**Sep 11, 2022**
-
-Project 1 is available and is due at 11:59 PM on Sep 25 (Sun).
-
-**Sep 6, 2022**
+**Jan 23, 2023**
 
 Dear student,
 
@@ -59,7 +19,7 @@ Welcome to the Compilers (CS451/651) course I will be teaching this semester!
   - Follow up on the invitations sent to your UMB email address to sign up for:
       - Piazza (Q&A platform) and
       - Gradescope (grading platform).
-  - Setup the [programming environment](/public/cs451/cc_programming_environment_setup.pdf) on your computer.
+  - Setup the [programming environment](https://www.cs.umb.edu/~siyer/teaching/cs451/cc_programming_environment_setup.pdf) on your computer.
   - Fill out the questionnaire available on Gradescope.
   - Sign up for a [CS account](course_info.html#cs_account).
 
