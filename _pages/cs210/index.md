@@ -21,7 +21,7 @@ Please make sure that you meet the prerequisites for the course: CS110 with a gr
       - Gradescope (grading platform).
   - Setup the [programming environment](https://www.cs.umb.edu/~siyer/teaching/cs210/dsaj_programming_environment_setup.pdf) on your computer.
   - Fill out the questionnaire available on Gradescope.
-  - Complete the [Supplemental Instruction (SI) poll](https://forms.gle/mqSd1B71CZPFRUzVA).
+  - Complete the [Supplemental Instruction (SI) poll](https://forms.gle/sAjZgdC1pNK1tuwz9).
   - Sign up for a [CS account](course_info.html#cs_account).
 
 - CS210 is a very demanding course, so please be prepared to work really hard from the outset, or else you will quickly fall behind and end up with a poor/failing grade.

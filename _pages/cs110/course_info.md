@@ -11,21 +11,16 @@ An introduction to computer programming --- the concepts involved in using a hig
 
 Prerequisites: [Math 140](http://www.math.umb.edu/courses/course_page.php?id=9) credits or placement; or [Math 130](http://www.math.umb.edu/courses/course_page.php?id=6) with a B or higher in the previous semester; or permission of the instructor.
 
-This course meets [program outcome](https://www.cs.umb.edu/cs_bs) 1d (be proficient in at least one in-demand programming language). Students who successfully complete this course will be able to tackle computational challenges that they might encounter later in their careers. Students interested in computer science will be well-prepared to delve deeper into the field and students in science and engineering will be able to incorporate computation into their studies.
+Students who successfully complete this course will be able to tackle computational challenges that they might encounter later in their careers. Students interested in computer science will be well-prepared to delve deeper into the field and students in science and engineering will be able to incorporate computation into their studies.
 
 ### Course Staff
 
 | **Name** | **Role** | **Email** | **Office** | **Hours** |
-Swami Iyer | Instructor | [siyer@cs.umb.edu](siyer@cs.umb.edu) | M-3-201-14 | In-person: Tue Thu 9:45 AM - 10:45 AM and 2:45 PM - 3:45 PM <br/> Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09)) |
-Aayush Shrivastava | Teaching Assistant | [a.shrivastava001@umb.edu](a.shrivastava001@umb.edu) | M-3-201-10 | Mon Wed 12:00 PM - 1:00 PM |
-Jenna Kim | Teaching Assistant | [jiehyun.kim001@umb.edu](jiehyun.kim001@umb.edu) | M-3-201-10 | Tue Thu 2:00 PM - 3:00 PM |
-Prabin Sharma | Teaching Assistant | [prabin.sharma001@umb.edu](prabin.sharma001@umb.edu) | M-3-201-10 | Tue 4:00 PM - 5:00 PM; Thu 3:30 PM - 4:30 PM |
-Ramsey Harrison | Teaching Assistant | [ramsey.harrison001@umb.edu](ramsey.harrison001@umb.edu) | M-3-201-10 | Mon Wed 5:30 PM - 6:30 PM |
-Kenichi Maeda | Lab Assistant | [kenichi.maeda001@umb.edu](kenichi.maeda001@umb.edu) | M-3-201-10 | Mon Fri 10:00 AM - 11:00 AM |
-Kenilkumar Patel | Lab Assistant | [kenilkumar.patel001@umb.edu](kenilkumar.patel001@umb.edu) | TBD | TBD |
-Prateeksha Bhojaraj | Lab Assistant | [p.bhojaraj001@umb.edu](p.bhojaraj001@umb.edu) | M-3-201-10 | Mon Wed 4:30 PM - 5:30 PM  |
-Serhii Klindukh | Lab Assistant | [serhii.klindukh001@umb.edu]() | TBD | TBD |
-MuhammadMoiz Amjad | Supplemental Instruction Leader | [m.amjad001@umb.edu](m.amjad001@umb.edu) | - | - |
+Swami Iyer | Instructor | [siyer@cs.umb.edu](siyer@cs.umb.edu) | M-3-201-14 | In-person: Tue Thu 10:00 AM - 12:00 PM <br/> Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09)) |
+Aayush Shrivastava | Teaching Assistant | [a.shrivastava001@umb.edu](a.shrivastava001@umb.edu) | M-3-201-10 | TBD |
+JieHyun (Jenna) Kum | Teaching Assistant | [jiehyun.kim001@umb.edu](jiehyun.kim001@umb.edu) | M-3-201-10 | TBD |
+Prabin Sharma | Teaching Assistant | [prabin.sharma001@umb.edu](prabin.sharma001@umb.edu) | M-3-201-10 | TBD |
+Kenichi Maeda | Supplemental Instruction Leader | [kenichi.maeda001@umb.edu](kenichi.maeda001@umb.edu) | - | - |
 
 ### Sessions
 
@@ -34,31 +29,26 @@ MuhammadMoiz Amjad | Supplemental Instruction Leader | [m.amjad001@umb.edu](m.am
 We will have two lectures per week, during which I will present the material from the [slides](lecture_material.html). I strongly recommend skimming through the material before each lecture, and reading it again thoroughly soon after.
 
 | **Section** | **When** | **Where** |
-1-8 | Tue Thu 11:00 AM - 12:15 PM | Y-2-2300
+1-4, 8-9 | Tue Thu 12:30 PM - 1:45 PM | Y-2-2300
 
 #### Discussion
 
-Starting from the second week, there will be a discussion every week. The focus of the discussion for a particular week will be the current project assignment. The teaching assistant (TA) will systematically walk you through the project writeup, which contains simple programming exercises on concepts related to the project and the project problems along with directions on how to approach those problems. The TA will also answer any specific questions you may have about the project, or the course material in general. You may also seek help from the lab assistant (LA) who will be assisting the TA during the discussions. The discussions will be worthwhile only if you go to the sessions having read the project writeup thoroughly and have at least a moderate understanding of the exercises and problems involved. The TA and LA will assume that you have done the reading in advance. 
+Starting from the second week, there will be a discussion every week. The focus of the discussion for a particular week will be the current exercise assignment. The teaching assistant (TA) will walk you through the problems and solve them in an interactive manner, which means you are expected to actively participate in the process. The TA will also answer any specific questions you may have about the current project assignment or the course material in general. You may also seek help from the course assistant (CA) who will be assisting the TA during the discussions. The discussions will be worthwhile only if you go to the sessions having read the assignment writeup thoroughly and have at least a moderate understanding of the problems involved. The TA will assume that you have done the reading in advance.
 
-| **Section** | **When** | **Where** | **TA** | **LA** |
-1 | Tue 9:30 AM - 10:45 AM | W-1-0041 | Aayush Shrivastava | Kenilkumar Patel |
-2 | Thu 9:30 AM - 10:45 AM | M-2-0417 | Jenna Kim | Prateeksha Bhojaraj |
-3 | Tue 12:30 PM - 1:45 PM | W-1-0043 | Aayush Shrivastava | Kenilkumar Patel |
-4 | Thu 12:30 PM - 1:45 PM | W-1-0019 | Jenna Kim | Kenichi Maeda |
-5 | Tue 9:30 AM - 10:45 AM | M-2-0419 | Prabin Sharma | Serhii Klindukh |
-6 | Thu 9:30 AM - 10:45 AM | M-2-0419 | Ramsey Harrison | Serhii Klindukh |
-7 | Tue 12:30 PM - 1:45 PM | W-1-0042 | Prabin Sharma | Prateeksha Bhojaraj |
-8 | Thu 12:30 PM - 1:45 PM | W-1-0042 | Ramsey Harrison | Prateeksha Bhojaraj |
+| **Section** | **When** | **Where** | **TA** | **CA** |
+1 | Tue 11:00 AM - 12:15 PM | W-1-0045 | TBD | TBD |
+2 | Thu 11:00 AM - 12:15 PM | W-1-0044 | TBD | TBD |
+3 | Tue 2:00 PM - 3:15 PM | M-2-0207 | TBD | TBD |
+4 | Thu 2:00 PM - 3:15 PM | W-1-0044 | TBD | TBD |
+8 | Tue 9:00 AM - 10:15 AM | Y-3-3370 | TBD | TBD |
+9 | Thu 9:00 AM - 10:15 AM | Y-3-3370 | TBD | TBD |
 
 #### Supplemental Instruction
 
-As part of the College of Science and Mathematics Freshman Success Program, supplemental instruction (SI) is available to all CS110 students free of charge. The SI sessions will also start from the second week. The focus of the sessions for a particular week will be the material covered in class during the previous week. The SI leader will walk you through the relevant lecture notes and solve problems. In addition, the SI leader will answer any specific questions you may have about the current project assignment, or the course material in general. The SI sessions are optional, but highly recommended, especially if you feel like you are falling behind in the course. You may attend as few or as many sessions as you like. You will receive extra-credit points for attending and participating in the sessions (see the Grading section below).
+As part of the College of Science and Mathematics Freshman Success Program, supplemental instruction (SI) is available to all CS110 students free of charge. The SI sessions will also start from the second week. The focus of the sessions for a particular week will be the material covered in class during the previous week. The SI leader will walk you through the relevant lecture notes and solve problems. In addition, the SI leader will answer any specific questions you may have about the current exercise/project assignment, or the course material in general. The SI sessions are optional, but highly recommended, especially if you feel like you are falling behind in the course. You may attend as few or as many sessions as you like. You will receive extra-credit points for attending and participating in the sessions (see the Grading section below).
 
 | **When** | **Where** |
-| Mon 2:00 PM - 2:50 PM | W-1-0012 |
-| Wed 2:00 PM - 2:50 PM | W-1-0012 |
-| Thu 4:00 PM - 5:15 PM | W-1-0019 |
-| Sat 11:00 AM - 12:15 PM | Remote ([Zoom link](https://zoom.us/j/8494571575?pwd=SmpsUnZ6TFk1ZU45RS9RN0hxUm0vQT09)) |
+| TBD | TBD |
 
 #### Tutoring
 
@@ -66,7 +56,7 @@ Tutoring for this course is available through the [Subject Tutoring Program](htt
 
 ### Text
 
-<img src="/public/cs110/text.png" width="150" height="180"/>
+<img src="/public/cs110_text.png" width="150" height="180"/>
 
 [Introduction to Programming in Python: An Interdisciplinary Approach](http://www.amazon.com/Introduction-Programming-Python-Interdisciplinary-Approach/dp/0134076435/) by Robert Sedgewick, Kevin Wayne, and Robert Dondero
 
@@ -77,9 +67,10 @@ This text offers an excellent introduction to computing principles, motivating e
 #### Assessments
 
 | **Item** | **% of Final Grade** |
-| Projects (best 5 out of 6) | 25 |
+| Exercises (best 5 out of 6) | 5 |
+| Projects (best 5 out of 6) | 20 |
 | Exams (1 and 2) | 70 |
-| Participation | 5 |
+| Attendance | 5 |
 
 #### Scale
 
@@ -99,21 +90,25 @@ This text offers an excellent introduction to computing principles, motivating e
 
 **Note:**
 
-- The goal of the projects is to make sure that you can apply the concepts learned in class to solve relatively straightforward computational exercises and somewhat challenging real-world scientific problems.
+- The goal of the exercises and projects is to make sure that you can apply the concepts learned in class to solve relatively straightforward computational problems (exercises) and somewhat challenging real-world scientific problems (projects).
 - The exams will test your understanding of the material covered in class as well as concepts from the projects.
-- Each of the two exams will have a written and a programming component. The written exam, worth 75 points, will take place during a class period. The exam will be closed-book and will contain 25 multiple-choice questions, each worth 3 points. The programming exam, worth 25 points, will take place during a discussion period.
+- Each of the two exams will have a written and a programming component. The written exam, worth 75 points, will take place during a class period. The exam will be closed-book and will contain 25 multiple-choice questions, each worth 3 points. The programming exam, worth 25 points, will take place during a discussion session.
 - I will not give makeup exams unless there is an extremely compelling reason and documentation to support it.
 - If you score at least 80% on both exams, the higher exam score will be considered as the exam average.
-- Participation score will be based on in-class quizzes (3%) and attendance in discussions (2%).
-- You can earn up to 5% extra points for attending and participating in the SI sessions. The points will be assigned based on feedback from the SI leader.
+- Attendance score will be based on attendance in class (3%) and discussions (2%).
+- You can earn up to 3% extra points for attending and participating in the SI sessions. The points will be assigned based on feedback from the SI leader.
 - You can also earn up to 0.01x% extra points if x% of the class completes the end-of-semester course evaluation. 
 - If your overall score falls within half a percent of a higher grade, your score will be elevated to that grade.
 
 To calculate your current course grade, visit the [What's My Grade?](https://www.cs.umb.edu/~siyer/teaching/what_is_my_grade.html) website.
 
+### iClicker
+
+We will use [iClicker](https://app.reef-education.com/\#/login iClicker) to record your attendance in class/discussion. You will be able to mark yourself present during the first 15 minutes of a class/discussion.
+
 ### Piazza
 
-We will use [Piazza](https://piazza.com/umb/fall2022/cs110/home) as the online discussion forum for the course. If you have any general questions about the projects, lectures, textbook, or other course material, the most effective way to get them resolved is by posting them on Piazza. You can expect your questions to be answered by the course staff or one of your classmates. Remember that you can post anonymously, but you are anonymous only to your classmates and not to the course staff.
+We will use [Piazza](https://piazza.com/umb/spring2023/cs110/home) as the online discussion forum for the course. If you have any general questions about the projects, lectures, textbook, or other course material, the most effective way to get them resolved is by posting them on Piazza. You can expect your questions to be answered by the course staff or one of your classmates. Remember that you can post anonymously, but you are anonymous only to your classmates and not to the course staff.
 
 ### Gradescope
 
@@ -121,7 +116,7 @@ We will use [Gradescope](https://gradescope.com/) to grade your quizzes, project
 
 ### Programming Environment
 
-To write and execute Python programs in this course, you will need a laptop (Linux, Mac, or Windows) properly configured with the necessary software. Click [here](/public/cs110/ipp_programming_environment_setup.pdf) for setup instructions.
+To write and execute Python programs in this course, you will need a laptop (Linux, Mac, or Windows) properly configured with the necessary software. Click [here](https://www.cs.umb.edu/~siyer/teaching/cs110/ipp_programming_environment_setup.pdf) for setup instructions.
 
 <a name="cs_account"></a>
 ### CS Account
@@ -149,11 +144,11 @@ Visit [CS Labs Portal](https://portal.cs.umb.edu/) to register for a portal/CS a
 
 #### Collaboration
 
-Read the handout [`cs110_collaboration.pdf`](/public/cs110/cs110_collaboration.pdf).
+Read the handout [`cs110_collaboration.pdf`](https://www.cs.umb.edu/~siyer/teaching/cs110/cs110_collaboration.pdf).
 
 #### Academic Honesty
 
-Cheating on the projects or exams constitutes a violation of the academic honesty code, and will be handled according to the procedures delineated in the [Student Code of Conduct, Appendix B](https://www.umb.edu/editor_uploads/images/life_on_campus/FINALUMBCode9-5-18-Appendix_B_V2.pdf). 
+Cheating on the assignments (exercises and projects), exams (written and programming), or attendance constitutes a violation of the academic honesty code, and will be handled according to the procedures delineated in the [Student Code of Conduct, Appendix B](https://www.umb.edu/editor_uploads/images/life_on_campus/FINALUMBCode9-5-18-Appendix_B_V2.pdf). 
 
 #### Accommodations for Students with Disabilities
 
