@@ -7,14 +7,14 @@ order: 6
 
 ### Essentials
 
-- [Programming Environment](/public/cs451/cc_programming_environment_setup.pdf)
+- [Programming Environment](https://www.cs.umb.edu/~siyer/teaching/cs451/cc_programming_environment_setup.pdf)
 - [Base *j\-\-* Compiler](https://www.cs.umb.edu/j--/j--.zip)
-- [Piazza](https://piazza.com/umb/fall2022/cs451651/home)
+- [iClicker](https://app.reef-education.com/\#/login iClicker)
+- [Piazza](https://piazza.com/umb/spring2023/cs451651/home)
 - [Gradescope](https://gradescope.com/)
-- [Report Guidelines](/public/cs451/cs451_report_guidelines.pdf)
 - Sample Exams
-  - [Exam 1](https://www.cs.umb.edu/~siyer/teaching/cs451/cs451_exam1.pdf)
-  - [Exam 2](https://www.cs.umb.edu/~siyer/teaching/cs451/cs451_exam2.pdf)
+  - [Exam 1](https://www.cs.umb.edu/~siyer/teaching/cs451/cs451_sample_exam1.pdf)
+  - [Exam 2](https://www.cs.umb.edu/~siyer/teaching/cs451/cs451_sample_exam2.pdf)
 - [What's My Grade?](https://www.cs.umb.edu/~siyer/teaching/what_is_my_grade.html)
 
 ### Documentation

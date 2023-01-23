@@ -11,24 +11,24 @@ Introduction to compiler organization and implementation, including formal speci
 
 Prerequisites: [CS310](http://www.cs.umb.edu/academics/courses/CS310) and [CS420](http://www.cs.umb.edu/academics/courses/CS420) or [CS622](http://www.cs.umb.edu/academics/courses/CS622); or permission of the instructor.
 
-This course meets [program outcomes](http://www.cs.umb.edu/cs_bs) 1a (demonstrate proficiency in problem solving, software design and development, data structures, algorithms, computer organization and computer architecture) and 1b (apply this proficiency to larger mid-sized systems such as compilers). Students who successfully complete this course will be able to: write parsers and produce an abstract syntax tree (AST); analyze and generate code for a programming construct represented by an AST; and allocate physical registers (a limited resource) to a program expressed in terms of virtual registers (an unlimited resource).
+Students who successfully complete this course will be able to: write parsers and produce an abstract syntax tree (AST); analyze and generate code for a programming construct represented by an AST; and allocate physical registers (a limited resource) to a program expressed in terms of virtual registers (an unlimited resource).
 
 ### Course Staff
 
 | **Name** | **Role** | **Email** | **Office** | **Hours** |
-Swami Iyer | Instructor | [siyer@cs.umb.edu](siyer@cs.umb.edu) | M-3-201-14 | In-person: Tue Thu 9:45 AM - 10:45 AM and 2:45 PM - 3:45 PM <br/> Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09)) |
-Shreyansh Dhandhukia | Teaching Assistant | [s.dhandhukia001@umb.edu](s.dhandhukia001@umb.edu) | M-3-201-10 | Tue Thu 11:30 AM - 12:30 PM | 
+Swami Iyer | Instructor | [siyer@cs.umb.edu](siyer@cs.umb.edu) | M-3-201-14 | In-person: Tue Thu 10:00 AM - 12:00 PM <br/> Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09)) |
+Ramsey Harrison | Teaching Assistant | [ramsey.harrison001@umb.edu](ramsey.harrison001@umb.edu) | M-3-201-10 | TBD | 
 
 ### Lectures
 
 We will have two lectures per week, during which I will present the material from the [slides](lecture_material.html). I strongly recommend skimming through the material before each lecture, and reading it again thoroughly soon after.
 
 | **Section** | **When** | **Where** |
-1 | Tue Thu 4:00 PM - 5:15 PM | M-3-0430
+1 | Tue Thu 4:00 PM - 5:15 PM | Y-2-2110
 
 ### Text
 
-<img src="/public/cs451/text.png" width="150" height="180"/>
+<img src="/public/cs451_text.png" width="150" height="180"/>
 
 [Introduction to Compiler Construction in a Java World](http://www.amazon.com/Introduction-Compiler-Construction-Java-World/dp/1439860882) by Bill Campbell, Swami Iyer, and Bahar Akbal-Delibaş
 
@@ -41,7 +41,7 @@ The text enables a deep understanding of the Java programming language and its i
 | **Item** | **% of Final Grade** |
 | Projects (1, 2, 3, 5, and best of 4 and 6) | 35 |
 | Exams (1 and 2) | 60 |
-| Participation | 5 |
+| Attendance | 5 |
 
 #### Scale
 
@@ -66,15 +66,19 @@ The text enables a deep understanding of the Java programming language and its i
 - Each of the two closed-book exams will take place during a class period. You will be allowed to use a one-page (two sides) handwritten notes sheet.
 - I will not give makeup exams unless there is an extremely compelling reason and documentation to support it.
 - If you score at least 80% on both exams, the higher exam score will be considered as the exam average.
-- Participation score will be based on attendance in class.
+- Attendance score will be based on your attendance in class.
 - You can earn up to 0.01x% extra points if x% of the class completes the end-of-semester course evaluation. 
 - If your overall score falls within half a percent of a higher grade, your score will be elevated to that grade.
 
 To calculate your current course grade, visit the [What's My Grade?](https://www.cs.umb.edu/~siyer/teaching/what_is_my_grade.html) website.
 
+### iClicker
+
+We will use [iClicker](https://app.reef-education.com/\#/login iClicker) to record your attendance in class. You will be able to mark yourself present during the first 15 minutes of a class.
+
 ### Piazza
 
-We will use [Piazza](https://piazza.com/umb/fall2022/cs451651/home) as the online discussion forum for the course. If you have any general questions about the projects, lectures, textbook, or other course material, the most effective way to get them resolved is by posting them on Piazza. You can expect your questions to be answered by the course staff or one of your classmates. Remember that you can post anonymously, but you are anonymous only to your classmates and not to the course staff.
+We will use [Piazza](https://piazza.com/umb/spring2023/cs451651/home) as the online discussion forum for the course. If you have any general questions about the projects, lectures, textbook, or other course material, the most effective way to get them resolved is by posting them on Piazza. You can expect your questions to be answered by the course staff or one of your classmates. Remember that you can post anonymously, but you are anonymous only to your classmates and not to the course staff.
 
 ### Gradescope
 
@@ -82,7 +86,7 @@ We will use [Gradescope](https://gradescope.com/) to grade your projects and exa
 
 ### Programming Environment
 
-To write and execute Java programs in this course, you will need a laptop (Linux, Mac, or Windows) properly configured with the necessary software. Click [here](/public/cs451/cc_programming_environment_setup.pdf) for setup instructions.
+To write and execute Java programs in this course, you will need a laptop (Linux, Mac, or Windows) properly configured with the necessary software. Click [here](https://www.cs.umb.edu/~siyer/teaching/cs451/cc_programming_environment_setup.pdf) for setup instructions.
 
 <a name="cs_account"></a>
 ### CS Account
@@ -110,11 +114,11 @@ Visit [CS Labs Portal](https://portal.cs.umb.edu/) to register for a portal/CS a
 
 #### Collaboration
 
-Read the handout [`cs451_collaboration.pdf`](/public/cs451/cs451_collaboration.pdf).
+Read the handout [`cs451_collaboration.pdf`](https://www.cs.umb.edu/~siyer/teaching/cs451/cs451_collaboration.pdf).
 
 #### Academic Honesty
 
-Cheating on the projects or exams constitutes a violation of the academic honesty code, and will be handled according to the procedures delineated in the [Student Code of Conduct, Appendix B](https://www.umb.edu/editor_uploads/images/life_on_campus/FINALUMBCode9-5-18-Appendix_B_V2.pdf). 
+Cheating on the projects, exams, or attendance constitutes a violation of the academic honesty code, and will be handled according to the procedures delineated in the [Student Code of Conduct, Appendix B](https://www.umb.edu/editor_uploads/images/life_on_campus/FINALUMBCode9-5-18-Appendix_B_V2.pdf). 
 
 #### Accommodations for Students with Disabilities
 
