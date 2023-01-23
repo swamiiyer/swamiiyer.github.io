@@ -7,13 +7,13 @@ order: 6
 
 ### Essentials
 
-- [Programming Environment](/public/cs210/dsaj_programming_environment_setup.pdf)
+- [Programming Environment](https://www.cs.umb.edu/~siyer/teaching/cs210/dsaj_programming_environment_setup.pdf)
 - Programs Discussed in Class ([PDF](https://www.cs.umb.edu/~siyer/teaching/dsaj.pdf) \| [IntelliJ Project](https://www.cs.umb.edu/~siyer/teaching/dsaj.zip))
 - Java Versions of Programs Discussed in CS110 ([PDF](https://www.cs.umb.edu/~siyer/teaching/ipj.pdf) \| [IntelliJ Project](https://www.cs.umb.edu/~siyer/teaching/ipj.zip))
 - [Dummy IntelliJ Project](https://www.cs.umb.edu/~siyer/teaching/cs210/dummy_project.zip)
-- [Piazza](https://piazza.com/umb/fall2022/cs210/home)
+- [iClicker](https://app.reef-education.com/\#/login iClicker)
+- [Piazza](https://piazza.com/umb/spring2023/cs210/home)
 - [Gradescope](https://gradescope.com/)
-- [Report Guidelines](/public/cs210/cs210_report_guidelines.pdf)
 - Sample Exams
   - [Written Exam 1](https://www.cs.umb.edu/~siyer/teaching/cs210/cs210_sample_written_exam1.pdf) \| [Programming Exam 1](https://www.cs.umb.edu/~siyer/teaching/cs210/cs210_sample_programming_exam1.pdf)
   - [Written Exam 2](https://www.cs.umb.edu/~siyer/teaching/cs210/cs210_sample_written_exam2.pdf) \| [Programming Exam 2](https://www.cs.umb.edu/~siyer/teaching/cs210/cs210_sample_programming_exam2.pdf)

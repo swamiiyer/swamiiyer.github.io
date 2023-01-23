@@ -16,6 +16,7 @@ Please make sure that you meet the prerequisites for the course: CS110 with a gr
 - Please read through the [course website](/cs210/) very carefully and acquaint yourself with the course mechanics.
 
 - Please take care of the following action items:
+  - Sign up for [iClicker](https://app.reef-education.com/\#/account/create iClicker) (attendance platform) using your UMB email address, and add the two courses *CS210 Lecture* and *CS210 Discussion (Section xyz)* to your dashboard, where *xyz* is the discussion section (1, 2, 3, 4, 7, or 8) you belong to.
   - Follow up on the invitations sent to your UMB email address to sign up for:
       - Piazza (Q&A platform) and
       - Gradescope (grading platform).
