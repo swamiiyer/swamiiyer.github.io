@@ -74,7 +74,7 @@ To calculate your current course grade, visit the [What's My Grade?](https://www
 
 ### iClicker
 
-We will use [iClicker](https://app.reef-education.com/\#/login iClicker) to record your attendance in class. You will be able to mark yourself present during the first 15 minutes of a class.
+We will use [iClicker](https://app.reef-education.com/\#/login iClicker) to record your attendance in class. You will be able to mark yourself present, using your smartphone with location service enabled, during the first 15 minutes of a class.
 
 ### Piazza
 
