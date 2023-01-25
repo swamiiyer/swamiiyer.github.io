@@ -18,7 +18,7 @@ Students who successfully complete this course will be able to tackle computatio
 | **Name** | **Role** | **Email** | **Office** | **Hours** |
 Swami Iyer | Instructor | [siyer@cs.umb.edu](siyer@cs.umb.edu) | M-3-201-14 | In-person: Tue Thu 10:00 AM - 12:00 PM <br/> Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09)) |
 Aayush Shrivastava | Teaching Assistant | [a.shrivastava001@umb.edu](a.shrivastava001@umb.edu) | M-3-201-10 | TBD |
-JieHyun (Jenna) Kum | Teaching Assistant | [jiehyun.kim001@umb.edu](jiehyun.kim001@umb.edu) | M-3-201-10 | TBD |
+JieHyun (Jenna) Kim | Teaching Assistant | [jiehyun.kim001@umb.edu](jiehyun.kim001@umb.edu) | M-3-201-10 | TBD |
 Prabin Sharma | Teaching Assistant | [prabin.sharma001@umb.edu](prabin.sharma001@umb.edu) | M-3-201-10 | TBD |
 Kenichi Maeda | Supplemental Instruction Leader | [kenichi.maeda001@umb.edu](kenichi.maeda001@umb.edu) | - | - |
 
@@ -40,8 +40,8 @@ Starting from the second week, there will be a discussion every week. The focus 
 2 | Thu 11:00 AM - 12:15 PM | W-1-0044 | TBD | TBD |
 3 | Tue 2:00 PM - 3:15 PM | M-2-0207 | TBD | TBD |
 4 | Thu 2:00 PM - 3:15 PM | W-1-0044 | TBD | TBD |
-8 | Tue 9:00 AM - 10:15 AM | Y-3-3370 | TBD | TBD |
-9 | Thu 9:00 AM - 10:15 AM | Y-3-3370 | TBD | TBD |
+8 | Tue 9:30 AM - 10:45 AM | Y-3-3370 | TBD | TBD |
+9 | Thu 9:30 AM - 10:45 AM | Y-3-3370 | TBD | TBD |
 
 #### Supplemental Instruction
 
