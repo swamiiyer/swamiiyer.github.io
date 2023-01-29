@@ -37,12 +37,12 @@ We will have two lectures per week, during which I will present the material fro
 Starting from the second week, there will be a discussion every week. The focus of the discussion for a particular week will be the current exercise assignment. The teaching assistant (TA) will walk you through the problems and solve them in an interactive manner, which means you are expected to actively participate in the process. The TA will also answer any specific questions you may have about the current project assignment or the course material in general. You may also seek help from the course assistant (CA) who will be assisting the TA during the discussions. The discussions will be worthwhile only if you go to the sessions having read the assignment writeup thoroughly and have at least a moderate understanding of the problems involved. The TA will assume that you have done the reading in advance.
 
 | **Section** | **When** | **Where** | **TA** | **CA** |
-1 | Tue 12:30 PM - 1:45 PM | M-3-0732 | Kyle Clapper | TBD |
-2 | Thu 12:30 PM - 1:45 PM | M-3-0732 | Kristin Qi | TBD |
-3 | Tue 4:00 PM - 5:15 PM | W-1-0045 | Kyle Clapper | TBD |
-4 | Thu 4:00 PM - 5:15 PM | M-1-0210 | Kristin Qi | TBD |
-7 | Tue 9:30 AM - 10:45 PM | W-2-0198 | Kyle Clapper | TBD |
-8 | Thu 9:30 AM - 10:45 PM | W-2-0198 | Kristin Qi | TBD |
+1 | Tue 12:30 PM - 1:45 PM | M-3-0732 | Kyle Clapper | Yeshaswini Murthy |
+2 | Thu 12:30 PM - 1:45 PM | M-3-0732 | Kristin Qi | Prateeksha Bhojaraj |
+3 | Tue 4:00 PM - 5:15 PM | W-1-0045 | Kyle Clapper | Yeshaswini Murthy |
+4 | Thu 4:00 PM - 5:15 PM | M-1-0210 | Kristin Qi | Prateeksha Bhojaraj |
+7 | Tue 9:30 AM - 10:45 PM | W-2-0198 | Kyle Clapper | Yeshaswini Murthy |
+8 | Thu 9:30 AM - 10:45 PM | W-2-0198 | Kristin Qi | Prateeksha Bhojaraj |
 
 #### Supplemental Instruction
 

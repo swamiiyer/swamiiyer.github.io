@@ -5,6 +5,10 @@ title: Home
 order: 1
 ---
 
+**Jan 29, 2023**
+
+[Project 1](projects.html) is available and is due at 11:59 pm on Feb 12 (Sun).
+
 **Jan 23, 2023**
 
 Dear student,
