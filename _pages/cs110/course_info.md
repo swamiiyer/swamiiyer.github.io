@@ -38,12 +38,12 @@ We will have two lectures per week, during which I will present the material fro
 Starting from the second week, there will be a discussion every week. The focus of the discussion for a particular week will be the current exercise assignment. The teaching assistant (TA) will walk you through the problems and solve them in an interactive manner, which means you are expected to actively participate in the process. The TA will also answer any specific questions you may have about the current project assignment or the course material in general. You may also seek help from the course assistant (CA) who will be assisting the TA during the discussions. The discussions will be worthwhile only if you go to the sessions having read the assignment writeup thoroughly and have at least a moderate understanding of the problems involved. The TA will assume that you have done the reading in advance.
 
 | **Section** | **When** | **Where** | **TA** | **CA** |
-1 | Tue 11:00 AM - 12:15 PM | W-1-0045 | Aayush Shrivastava | TBD |
-2 | Thu 11:00 AM - 12:15 PM | W-1-0044 | Aayush Shrivastava | TBD |
-3 | Tue 2:00 PM - 3:15 PM | M-2-0207 | Jenna Kim | TBD |
-4 | Thu 2:00 PM - 3:15 PM | W-1-0044 | Prabin Sharma | TBD |
-8 | Tue 9:30 AM - 10:45 AM | Y-3-3370 | Prabin Sharma | TBD |
-9 | Thu 9:30 AM - 10:45 AM | Y-3-3370 | Jenna Kim | TBD |
+1 | Tue 11:00 AM - 12:15 PM | W-1-0045 | Aayush Shrivastava | Lucas Gustafson |
+2 | Thu 11:00 AM - 12:15 PM | W-1-0044 | Aayush Shrivastava | Lucas Gustafson |
+3 | Tue 2:00 PM - 3:15 PM | M-2-0207 | Jenna Kim | Molly Sullivan |
+4 | Thu 2:00 PM - 3:15 PM | W-1-0044 | Prabin Sharma | Molly Sullivan |
+8 | Tue 9:30 AM - 10:45 AM | Y-3-3370 | Prabin Sharma | Lucas Gustafson |
+9 | Thu 9:30 AM - 10:45 AM | Y-3-3370 | Jenna Kim | Lucas Gustafson |
 
 #### Supplemental Instruction
 
