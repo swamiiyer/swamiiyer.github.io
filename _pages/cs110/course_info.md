@@ -53,7 +53,7 @@ As part of the College of Science and Mathematics Freshman Success Program, supp
 | Mon 12:00 PM - 12:50 PM | M-2-0207 |
 | Tue 11:00 AM - 12:15 PM | W-1-0012 |
 | Fri 12:00 PM - 12:50 PM | M-2-0207 |
-| Sat 10:00 AM - 11:00 AM | Remote ([Zoom link](TBD)) | 
+| Sat 10:00 AM - 11:00 AM | Remote ([Zoom link](https://umassboston.zoom.us/j/92908804827)) | 
 
 #### Tutoring
 
