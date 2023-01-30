@@ -20,7 +20,7 @@ Swami Iyer | Instructor | [siyer@cs.umb.edu](siyer@cs.umb.edu) | M-3-201-14 | In
 Kristin Qi | Teaching Assistant | [yanankristin.qi001@umb.edu](yanankristin.qi001@umb.edu) | M-3-0164 | Thu 11:00 AM - 12:00 PM and 5:30 PM - 6:30 PM |
 Kyle Clapper | Teaching Assistant | [kyle.clapper001@umb.edu](kyle.clapper001@umb.edu) | M-3-0139 | Tue 11:00 AM - 12:00 PM and 5:30 PM - 6:30 PM |
 Prateeksha Bhojaraj | Course Assitant | [p.bhojaraj001@umb.edu](p.bhojaraj001@umb.edu) | M-3-201-10 | TBD |
-Yeshaswini Murthy | Course Assistant | [y.vasudevamurthy001@umb.edu](y.vasudevamurthy001@umb.edu) | M-3-201-10 | TBD |
+Yeshaswini Murthy | Course Assistant | [y.vasudevamurthy001@umb.edu](y.vasudevamurthy001@umb.edu) | M-3-201-10 | Mon 10:30 AM - 11:30 AM and 2:00 PM - 3:00 PM |
 Vivian Kwong | Supplemental Instruction Leader | [vivian.kwong001@umb.edu](vivian.kwong001@umb.edu) | - | - |
 
 ### Sessions
@@ -49,7 +49,10 @@ Starting from the second week, there will be a discussion every week. The focus 
 As part of the College of Science and Mathematics Freshman Success Program, supplemental instruction (SI) is available to all CS110 students free of charge. The SI sessions will also start from the second week. The focus of the sessions for a particular week will be the material covered in class during the previous week. The SI leader will walk you through the relevant lecture notes and solve problems. In addition, the SI leader will answer any specific questions you may have about the current exercise/project assignment, or the course material in general. The SI sessions are optional, but highly recommended, especially if you feel like you are falling behind in the course. You may attend as few or as many sessions as you like. You will receive extra-credit points for attending and participating in the sessions (see the Grading section below).
 
 | **When** | **Where** |
-| TBD | TBD |
+| Mon 12:00 PM - 12:50 PM | M-2-0205 |
+| Tue 4:00 PM - 5:15 PM | M-2-0419 |
+| Wed 12:00 PM - 12:50 PM | M-2-0205 |
+| Sun 2:00 PM - 3:00 PM | Remote ([Zoom link](TBD)) |
 
 #### Tutoring
 

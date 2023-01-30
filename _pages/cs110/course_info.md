@@ -20,6 +20,8 @@ Swami Iyer | Instructor | [siyer@cs.umb.edu](siyer@cs.umb.edu) | M-3-201-14 | In
 Aayush Shrivastava | Teaching Assistant | [a.shrivastava001@umb.edu](a.shrivastava001@umb.edu) | M-3-201-10 | Mon Wed 12:00 PM - 1:00 PM |
 Jenna Kim | Teaching Assistant | [jiehyun.kim001@umb.edu](jiehyun.kim001@umb.edu) | M-3-201-10 | Thu 2:00 PM - 3:00 PM and 5:30 PM - 6:30 PM |
 Prabin Sharma | Teaching Assistant | [prabin.sharma001@umb.edu](prabin.sharma001@umb.edu) | M-3-201-10 | Tue 2:00 PM - 3:00 PM and Thu 11:00 AM - 12:00 PM |
+Lucas Gustafson | Course Assistant | [lucas.gustafson001@umb.edu](lucas.gustafson001@umb.edu) | M-3-201-10 | TBD |
+Molly Sullivan | Course Assistant | [molly.sullivan004@umb.edu](molly.sullivan004@umb.edu) | M-3-201-10 | TBD |
 Kenichi Maeda | Supplemental Instruction Leader | [kenichi.maeda001@umb.edu](kenichi.maeda001@umb.edu) | - | - |
 
 ### Sessions
@@ -48,7 +50,10 @@ Starting from the second week, there will be a discussion every week. The focus 
 As part of the College of Science and Mathematics Freshman Success Program, supplemental instruction (SI) is available to all CS110 students free of charge. The SI sessions will also start from the second week. The focus of the sessions for a particular week will be the material covered in class during the previous week. The SI leader will walk you through the relevant lecture notes and solve problems. In addition, the SI leader will answer any specific questions you may have about the current exercise/project assignment, or the course material in general. The SI sessions are optional, but highly recommended, especially if you feel like you are falling behind in the course. You may attend as few or as many sessions as you like. You will receive extra-credit points for attending and participating in the sessions (see the Grading section below).
 
 | **When** | **Where** |
-| TBD | TBD |
+| Mon 12:00 PM - 12:50 PM | M-2-0207 |
+| Tue 11:00 AM - 12:15 PM | W-1-0012 |
+| Fri 12:00 PM - 12:50 PM | M-2-0207 |
+| Sat 10:00 AM - 11:00 AM | Remote ([Zoom link](TBD)) | 
 
 #### Tutoring
 
