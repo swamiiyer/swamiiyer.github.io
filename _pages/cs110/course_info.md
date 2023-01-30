@@ -20,8 +20,8 @@ Swami Iyer | Instructor | [siyer@cs.umb.edu](siyer@cs.umb.edu) | M-3-201-14 | In
 Aayush Shrivastava | Teaching Assistant | [a.shrivastava001@umb.edu](a.shrivastava001@umb.edu) | M-3-201-10 | Mon Wed 12:00 PM - 1:00 PM |
 Jenna Kim | Teaching Assistant | [jiehyun.kim001@umb.edu](jiehyun.kim001@umb.edu) | M-3-201-10 | Thu 2:00 PM - 3:00 PM and 5:30 PM - 6:30 PM |
 Prabin Sharma | Teaching Assistant | [prabin.sharma001@umb.edu](prabin.sharma001@umb.edu) | M-3-201-10 | Tue 2:00 PM - 3:00 PM and Thu 11:00 AM - 12:00 PM |
-Lucas Gustafson | Course Assistant | [lucas.gustafson001@umb.edu](lucas.gustafson001@umb.edu) | M-3-201-10 | TBD |
-Molly Sullivan | Course Assistant | [molly.sullivan004@umb.edu](molly.sullivan004@umb.edu) | M-3-201-10 | TBD |
+Lucas Gustafson | Course Assistant | [lucas.gustafson001@umb.edu](lucas.gustafson001@umb.edu) | M-3-201-10 | Wed 3:00 PM - 5:00 PM |
+Molly Sullivan | Course Assistant | [molly.sullivan004@umb.edu](molly.sullivan004@umb.edu) | M-3-201-10 | Tue 11:00 AM - 12:00 PM and 5:30 PM - 6:30 PM |
 Kenichi Maeda | Supplemental Instruction Leader | [kenichi.maeda001@umb.edu](kenichi.maeda001@umb.edu) | - | - |
 
 ### Sessions
