@@ -5,6 +5,14 @@ title: Home
 order: 1
 ---
 
+**Jan 30, 2023**
+
+[Exercise 1](assignments.html) and [Project 1](assignments.html) are available and are due at 11:59 pm on Feb 12 (Sun).
+
+**Jan 30, 2023**
+
+[Exercise 1](assignments.html) and [Project 1](assignments.html) are available and are due at 11:59 pm on Feb 12 (Sun).
+
 **Jan 23, 2023**
 
 Dear student,
