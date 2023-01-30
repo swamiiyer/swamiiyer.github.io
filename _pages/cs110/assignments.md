@@ -25,17 +25,21 @@ There are 6 exercises and 6 projects in all. These are due at midnight (11:59 PM
 | 5 | Atomic Nature of Matter ([writeup](https://www.cs.umb.edu/~siyer/teaching/cs110/project5.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/cs110/project5.zip)) |
 | 6 | Markov Model ([writeup](https://www.cs.umb.edu/~siyer/teaching/cs110/project5.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/cs110/project5.zip)) |
 
-The writeup file contains the problem descriptions. The zip file contains the starter files for the problems and any data files.
+The writeup file contains the problem descriptions. The zip file contains the starter files for the problems, any data files, and `notes.txt` file for projects.
 
 ### Grading Scheme
 
 #### Correctness and Style
 
-Your solution to each exercise/project problem will be evaluated by an autograder for correctness and style. Each test that is used to evaluate the correctness of your solution is worth some number of points; your solution will receive all the points from a test that passes and 0 points from a test that does not pass. Your solution will receive 2 points if there are no style errors, and 0 points otherwise. Your overall correctness and style score will be normalized to 80 points.
+Your solution to each exercise/project problem will be evaluated by an autograder for correctness and style. Each test that is used to evaluate the correctness of your solution is worth some number of points; your solution will receive all the points from a test that passes and 0 points from a test that does not pass. Your solution will receive 2 points if there are no style errors, and 0 points otherwise. Your overall correctness and style score will be normalized to 100 points for an exercise and 80 points for a project.
 
 #### Clarity and Efficiency
 
 Your solution to each project problem will additionally be checked by a TA for clarity and efficiency. Your code will receive 20 points if it meets our expectations (must include adequate comments, must follow good programming principles, and must meet any problem-specific requirements such as corner cases and running times), and marked down otherwise.
+
+#### Notes File
+
+For a project, the given `notes.txt` file must be uploaded with the four sections (1 and 2 mandatory, 3 if applicable, and 4 optional) filled in as appropriate. Failing to do so will cost you one point.
 
 ### Submitting Your Work
 
