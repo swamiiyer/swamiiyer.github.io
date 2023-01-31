@@ -17,6 +17,7 @@ order: 6
   - [Written Exam 1](https://www.cs.umb.edu/~siyer/teaching/cs110/cs110_sample_written_exam1.pdf) \| [Programming Exam 1](https://www.cs.umb.edu/~siyer/teaching/cs110/cs110_sample_programming_exam1.pdf)
   - [Written Exam 2](https://www.cs.umb.edu/~siyer/teaching/cs110/cs110_sample_written_exam2.pdf) \| [Programming Exam 2](https://www.cs.umb.edu/~siyer/teaching/cs110/cs110_sample_programming_exam2.pdf)
 - [What's My Grade?](https://www.cs.umb.edu/~siyer/teaching/what_is_my_grade.html)
+- [Syllabus](https://www.cs.umb.edu/~siyer/teaching/cs110/cs110_syllabus.pdf)
 
 ### Documentation
 
