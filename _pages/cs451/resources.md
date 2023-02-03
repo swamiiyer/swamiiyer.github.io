@@ -15,7 +15,7 @@ order: 6
 - Sample Exams
   - [Exam 1](https://www.cs.umb.edu/~siyer/teaching/cs451/cs451_sample_exam1.pdf)
   - [Exam 2](https://www.cs.umb.edu/~siyer/teaching/cs451/cs451_sample_exam2.pdf)
-- [What's My Grade?](https://www.cs.umb.edu/~siyer/teaching/what_is_my_grade.html)
+- [What's My Grade?](https://www.cs.umb.edu/~siyer/teaching/cs451_grade.html)
 - [Syllabus](https://www.cs.umb.edu/~siyer/teaching/cs451/cs451_syllabus.pdf)
 
 ### Documentation
