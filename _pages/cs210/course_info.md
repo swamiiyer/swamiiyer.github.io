@@ -21,7 +21,7 @@ Kristin Qi | Teaching Assistant | [yanankristin.qi001@umb.edu](yanankristin.qi00
 Kyle Clapper | Teaching Assistant | [kyle.clapper001@umb.edu](kyle.clapper001@umb.edu) | M-3-0139 | Tue 11:00 AM - 12:00 PM and 5:30 PM - 6:30 PM |
 Prateeksha Bhojaraj | Course Assitant | [p.bhojaraj001@umb.edu](p.bhojaraj001@umb.edu) | M-3-201-10 | Wed 10:30 AM - 11:30 AM and 2:00 PM - 3:00 PM |
 Yeshaswini Murthy | Course Assistant | [y.vasudevamurthy001@umb.edu](y.vasudevamurthy001@umb.edu) | M-3-201-10 | Mon 10:30 AM - 11:30 AM and 2:00 PM - 3:00 PM |
-Vivian Kwong | Supplemental Instruction Leader | [vivian.kwong001@umb.edu](vivian.kwong001@umb.edu) | - | - |
+Vivian Kwong | Supplemental Instruction Leader | [vivian.kwong001@umb.edu](vivian.kwong001@umb.edu) | - | [Zoom link](https://umassboston.zoom.us/j/3559398523) |
 
 ### Sessions
 
