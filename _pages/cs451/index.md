@@ -5,6 +5,10 @@ title: Home
 order: 1
 ---
 
+**Feb 13, 2023**
+
+[Project 2](projects.html) is available and is due at 11:59 pm on Feb 26 (Sun).
+
 **Feb 10, 2023**
 
 The new deadline for Project 1 is 11:59 pm on Feb 14 (Tue).

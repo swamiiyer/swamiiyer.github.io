@@ -5,6 +5,10 @@ title: Home
 order: 1
 ---
 
+**Feb 13, 2023**
+
+[Exercise 2](assignments.html) and [Project 2](assignments.html) are available and are due at 11:59 pm on Feb 26 (Sun).
+
 **Feb 10, 2023**
 
 The new deadline for Exercise 1 and Project 1 is 11:59 pm on Feb 14 (Tue).
