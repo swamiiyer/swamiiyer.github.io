@@ -7,6 +7,10 @@ order: 1
 
 **Feb 24, 2023**
 
+[Project 3](projects.html) is available and is due at 11:59 pm on Mar 12 (Sun).
+
+**Feb 24, 2023**
+
 Due to cancellation of class yesterday, the deadline for Project 2 has been extended to
 11:59 pm on Feb 28 (Tue) so that you have access to some office hours before the assignment
 is due.
