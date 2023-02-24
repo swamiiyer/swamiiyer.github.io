@@ -5,6 +5,12 @@ title: Home
 order: 1
 ---
 
+**Feb 24, 2023**
+
+Due to the cancellation of class yesterday, the deadline for Project 2 has been extented to
+11:59 pm on Feb 28 (Tue) so that you have access to some office hours before the assignment
+is due.
+
 **Feb 13, 2023**
 
 [Project 2](projects.html) is available and is due at 11:59 pm on Feb 26 (Sun).
