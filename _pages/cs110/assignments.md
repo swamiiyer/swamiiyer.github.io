@@ -11,7 +11,7 @@ There are 6 exercises and 6 projects in all. These are due at midnight (11:59 PM
 
 | 1 | Basic Data Types ([writeup](https://www.cs.umb.edu/~siyer/teaching/cs110/exercise1.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/cs110/exercise1.zip)) |
 | 2 | Control Flow ([writeup](https://www.cs.umb.edu/~siyer/teaching/cs110/exercise2.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/cs110/exercise2.zip)) |
-| 3 | Standard Input and Collection Data Types ([writeup](https://www.cs.umb.edu/~siyer/teaching/cs110/exercise3.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/cs110/exercise3.zip)) |
+| 3 | Collection Data Types and Standard Input ([writeup](https://www.cs.umb.edu/~siyer/teaching/cs110/exercise3.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/cs110/exercise3.zip)) |
 | 4 | Functions ([writeup](https://www.cs.umb.edu/~siyer/teaching/cs110/exercise4.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/cs110/exercise4.zip)) |
 | 5 | Recursion and Object-oriented Programming  ([writeup](https://www.cs.umb.edu/~siyer/teaching/cs110/exercise5.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/cs110/exercise5.zip)) |
 | 6 | File Input and Symbol Tables ([writeup](https://www.cs.umb.edu/~siyer/teaching/cs110/exercise6.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/cs110/exercise6.zip)) |

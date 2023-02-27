@@ -5,6 +5,10 @@ title: Home
 order: 1
 ---
 
+**Feb 27, 2023**
+
+[Exercise 3](assignments.html) and [Project 3](assignments.html) are available and are due at 11:59 pm on Mar 12 (Sun).
+
 **Feb 25, 2023**
 
 Due to cancellation of class on Thursday, the deadline for Exercise 2 and Project 2 has been

@@ -11,7 +11,7 @@ There are 6 exercises and 6 projects in all. These are due at midnight (11:59 PM
 
 | 1 | Programming Model ([writeup](https://www.cs.umb.edu/~siyer/teaching/cs210/exercise1.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/cs210/exercise1.zip)) |
 | 2 | Data Abstraction ([writeup](https://www.cs.umb.edu/~siyer/teaching/cs210/exercise2.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/cs210/exercise2.zip)) |
-| 3 | Basic Data Structures ([writeup](https://www.cs.umb.edu/~siyer/teaching/cs210/exercise3.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/cs210/exercise3.zip)) |
+| 3 | Comparable Data Types ([writeup](https://www.cs.umb.edu/~siyer/teaching/cs210/exercise3.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/cs210/exercise3.zip)) |
 | 4 | Sorting ([writeup](https://www.cs.umb.edu/~siyer/teaching/cs210/exercise4.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/cs210/exercise4.zip)) |
 | 5 | Symbol Tables ([writeup](https://www.cs.umb.edu/~siyer/teaching/cs210/exercise5.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/cs210/exercise5.zip)) |
 | 6 | Graphs ([writeup](https://www.cs.umb.edu/~siyer/teaching/cs210/exercise6.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/cs210/exercise6.zip)) |
