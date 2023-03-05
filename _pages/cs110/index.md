@@ -5,6 +5,10 @@ title: Home
 order: 1
 ---
 
+**Mar 5, 2023**
+
+The new deadline for Exercise 3 and Project 3 is 11:59 pm on Mar 15 (Wed).
+
 **Feb 27, 2023**
 
 [Exercise 3](assignments.html) and [Project 3](assignments.html) are available and are due at 11:59 pm on Mar 12 (Sun).

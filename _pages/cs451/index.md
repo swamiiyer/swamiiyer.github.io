@@ -5,6 +5,10 @@ title: Home
 order: 1
 ---
 
+**Mar 5, 2023**
+
+The new deadline for Project 3 is 11:59 pm on Mar 15 (Wed).
+
 **Feb 24, 2023**
 
 [Project 3](projects.html) is available and is due at 11:59 pm on Mar 12 (Sun).
