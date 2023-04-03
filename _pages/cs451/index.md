@@ -5,6 +5,11 @@ title: Home
 order: 1
 ---
 
+**Apr 3, 2023**
+
+- The new deadline for Project 4 is 11:59 pm on Apr 4 (Tue).
+- [Project 5](projects.html) is available and is due at 11:59 pm on Apr 23 (Sun).
+
 **Mar 13, 2023**
 
 [Project 4](projects.html) is available and is due at 11:59 pm on Apr 2 (Sun).
