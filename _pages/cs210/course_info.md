@@ -104,7 +104,7 @@ This text provides an excellent survey of the most important algorithms and data
 - You can also earn up to 0.01x% extra points if x% of the class completes the end-of-semester course evaluation. 
 - If your overall score falls within half a percent of a higher grade, your score will be elevated to that grade.
 
-To calculate your current course grade, visit the [What's My Grade?](https://www.cs.umb.edu/~siyer/teaching/what_is_my_grade.html) website.
+To calculate your current course grade, visit the [What's My Grade?](https://www.cs.umb.edu/~siyer/teaching/cs210_grade.html) website.
 
 ### iClicker
 

@@ -70,7 +70,7 @@ The text enables a deep understanding of the Java programming language and its i
 - You can earn up to 0.01x% extra points if x% of the class completes the end-of-semester course evaluation. 
 - If your overall score falls within half a percent of a higher grade, your score will be elevated to that grade.
 
-To calculate your current course grade, visit the [What's My Grade?](https://www.cs.umb.edu/~siyer/teaching/what_is_my_grade.html) website.
+To calculate your current course grade, visit the [What's My Grade?](https://www.cs.umb.edu/~siyer/teaching/cs451_grade.html) website.
 
 ### iClicker
 

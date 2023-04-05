@@ -105,7 +105,16 @@ This text offers an excellent introduction to computing principles, motivating e
 - You can also earn up to 0.01x% extra points if x% of the class completes the end-of-semester course evaluation. 
 - If your overall score falls within half a percent of a higher grade, your score will be elevated to that grade.
 
-To calculate your current course grade, visit the [What's My Grade?](https://www.cs.umb.edu/~siyer/teaching/what_is_my_grade.html) website.
+To calculate your current course grade, visit the [What's My Grade?](- [Programming Environment](https://www.cs.umb.edu/~siyer/teaching/cs110/ipp_programming_environment_setup.pdf)
+- Programs Discussed in Class ([PDF](https://www.cs.umb.edu/~siyer/teaching/ipp.pdf) \| [PyCharm Project](https://www.cs.umb.edu/~siyer/teaching/ipp.zip))
+- [Dummy PyCharm Project](https://www.cs.umb.edu/~siyer/teaching/cs110/dummy_project.zip)
+- [iClicker](https://app.reef-education.com/\#/login iClicker)
+- [Piazza](https://piazza.com/umb/spring2023/cs110/home)
+- [Gradescope](https://gradescope.com/)
+- Sample Exams
+  - [Written Exam 1](https://www.cs.umb.edu/~siyer/teaching/cs110/cs110_sample_written_exam1.pdf) \| [Programming Exam 1](https://www.cs.umb.edu/~siyer/teaching/cs110/cs110_sample_programming_exam1.pdf)
+  - [Written Exam 2](https://www.cs.umb.edu/~siyer/teaching/cs110/cs110_sample_written_exam2.pdf) \| [Programming Exam 2](https://www.cs.umb.edu/~siyer/teaching/cs110/cs110_sample_programming_exam2.pdf)
+- [What's My Grade?](https://www.cs.umb.edu/~siyer/teaching/cs110_grade.html) website.
 
 ### iClicker
 
