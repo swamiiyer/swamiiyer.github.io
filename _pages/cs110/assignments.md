@@ -23,7 +23,7 @@ There are 6 exercises and 6 projects in all. These are due at midnight (11:59 PM
 | 3 | Mozart Waltz Generator ([writeup](https://www.cs.umb.edu/~siyer/teaching/cs110/project3.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/cs110/project3.zip)) |
 | 4 | RSA Cryptosystem ([writeup](https://www.cs.umb.edu/~siyer/teaching/cs110/project4.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/cs110/project4.zip)) |
 | 5 | Atomic Nature of Matter ([writeup](https://www.cs.umb.edu/~siyer/teaching/cs110/project5.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/cs110/project5.zip)) |
-| 6 | Markov Model ([writeup](https://www.cs.umb.edu/~siyer/teaching/cs110/project5.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/cs110/project5.zip)) |
+| 6 | Markov Model ([writeup](https://www.cs.umb.edu/~siyer/teaching/cs110/project6.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/cs110/project6.zip)) |
 
 The writeup file contains the problem descriptions. The zip file contains the starter files for the problems, any data files, and `notes.txt` file for projects.
 
