@@ -5,6 +5,10 @@ title: Home
 order: 1
 ---
 
+**Apr 24, 2023**
+
+[Exercise 6](assignments.html) and [Project 6](assignments.html) are available and are due at 11:59 pm on May 14 (Sun).
+
 **Apr 3, 2023**
 
 [Exercise 5](assignments.html) and [Project 5](assignments.html) are available and are due at 11:59 pm on Apr 23 (Sun).

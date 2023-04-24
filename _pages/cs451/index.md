@@ -5,11 +5,9 @@ title: Home
 order: 1
 ---
 
-<!--
 **Apr 24, 2023**
 
 [Project 6](projects.html) is available and is due at 11:59 pm on May 14 (Sun).
--->
 
 **Apr 21, 2023**
 
