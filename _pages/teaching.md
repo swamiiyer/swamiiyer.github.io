@@ -7,12 +7,11 @@ order: 2
 
 Throughout my student life I had the good fortune of being taught by some exceptional teachers. I not only learned a lot from them, but also developed a keen interest in sharing my knowledge — however little that may be — with others the way in which my instructors did. The great physicist [Richard Feynman](http://en.wikipedia.org/wiki/Richard_Feynman) once remarked, ‘‘I find that teaching and the students keep life going, and I would never accept any position in which somebody has invented a happy situation for me where I don't have to teach. Never.’’ I feel exactly the same way about teaching.
 
+### Current Courses (Fall 2023)
 
-### Current Courses (Spring 2023)
-
-- [CS110: Introduction to Computing](/cs110/)
-- [CS210: Intermediate Computing with Data Structures](/cs210/)
-- [CS451/651: Compilers](/cs451/)
+- CS110: Introduction to Computing
+- CS210: Intermediate Computing with Data Structures
+- CS451/651: Compilers
 
 ### Previous Courses
 
@@ -25,9 +24,9 @@ Throughout my student life I had the good fortune of being taught by some except
 
 #### Computer Science Department, University of Massachusetts at Boston
 
-- Compilers (CS451/651): Fall 2017, 2018, 2019, 2020, 2021, 2022; Spring 2018, 2019, 2020, 2021, 2022; Summer 2018
-- Intermediate Computing with Data Structures (CS210): Fall 2016, 2017, 2018, 2019, 2020, 2021, 2022; Spring 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022; Summer 2009, 2011, 2015
-- Introduction to Computing (CS110): Fall 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022; Spring 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022; Summer 2012, 2013
+- Compilers (CS451/651): Fall 2017, 2018, 2019, 2020, 2021, 2022; Spring 2018, 2019, 2020, 2021, 2022, 2023; Summer 2018
+- Intermediate Computing with Data Structures (CS210): Fall 2016, 2017, 2018, 2019, 2020, 2021, 2022; Spring 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023; Summer 2009, 2011, 2015
+- Introduction to Computing (CS110): Fall 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022; Spring 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023; Summer 2012, 2013
 - Introduction to Java Part II (CS115L): Fall 2007, 2008, 2009, 2011; Spring 2007, 2008, 2010, 2011, 2012
 - [igniteCS Python Workshop](https://ignitecs.withgoogle.com/): Spring 2017
 
