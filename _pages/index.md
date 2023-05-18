@@ -42,4 +42,4 @@ I was born in the southern Indian city of Chennai and grew up in Mumbai. I recei
 
 ### Frequently Asked Questions
 
-Click [here](/faq.html) for my answers to questions that I am frequently asked.
+[Here](/faq.html) is a compilation of questions (along with answers) that I am frequently asked.
