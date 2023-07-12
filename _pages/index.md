@@ -20,7 +20,8 @@ I am a senior lecturer in the [Computer Science Department](http://www.cs.umb.ed
 
 ### Office Hours (Fall 2023)
 
-Tue Thu 9:30 AM - 10:30 AM and 2:30 PM - 3:30 PM; Wed 9:30 AM - 11:30 AM
+- In-person: Tue Thu 9:30 AM - 10:30 AM and 2:30 PM - 3:30 PM
+- Remote: Wed 9:30 AM - 11:30 AM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09))
 
 ### Academic Interests
 
