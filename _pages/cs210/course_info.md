@@ -16,12 +16,10 @@ Students who successfully complete this course will be able to confidently imple
 ### Course Staff
 
 | **Name** | **Role** | **Email** | **Office** | **Hours** |
-Swami Iyer | Instructor | [siyer@cs.umb.edu](siyer@cs.umb.edu) | M-3-201-14 | In-person: Tue Thu 10:00 AM - 12:00 PM <br/> Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09)) |
-Kristin Qi | Teaching Assistant | [yanankristin.qi001@umb.edu](yanankristin.qi001@umb.edu) | M-3-0164 | Thu 11:00 AM - 12:00 PM and 5:30 PM - 6:30 PM |
-Kyle Clapper | Teaching Assistant | [kyle.clapper001@umb.edu](kyle.clapper001@umb.edu) | M-3-0139 | Tue 11:00 AM - 12:00 PM and 5:30 PM - 6:30 PM |
-Prateeksha Bhojaraj | Course Assitant | [p.bhojaraj001@umb.edu](p.bhojaraj001@umb.edu) | M-3-201-10 | Wed 10:30 AM - 11:30 AM and 2:00 PM - 3:00 PM |
-Yeshaswini Murthy | Course Assistant | [y.vasudevamurthy001@umb.edu](y.vasudevamurthy001@umb.edu) | M-3-201-10 | Mon 10:30 AM - 11:30 AM and 2:00 PM - 3:00 PM |
-Vivian Kwong | Supplemental Instruction Leader | [vivian.kwong001@umb.edu](vivian.kwong001@umb.edu) | - | - |
+Swami Iyer | Instructor | [siyer@cs.umb.edu](siyer@cs.umb.edu) | M-3-201-14 | In-person: Tue Thu 9:30 AM - 10:30 AM and 2:30 PM - 3:30 PM<br/> Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09)) |
+Kristin Qi | Teaching Assistant | [yanankristin.qi001@umb.edu](yanankristin.qi001@umb.edu) | M-3-0164 | TBD |
+Kyle Clapper | Teaching Assistant | [kyle.clapper001@umb.edu](kyle.clapper001@umb.edu) | M-3-0139 | TBD |
+Kenichi Maeda | Supplemental Instruction Leader | [kenichi.maeda001@umb.edu](kenichi.maeda001@umb.edu) | - | - |
 
 ### Sessions
 
@@ -30,29 +28,23 @@ Vivian Kwong | Supplemental Instruction Leader | [vivian.kwong001@umb.edu](vivia
 We will have two lectures per week, during which I will present the material from the [slides](lecture_material.html). I strongly recommend skimming through the material before each lecture, and reading it again thoroughly soon after.
 
 | **Section** | **When** | **Where** |
-1-4, 7-8 | Tue Thu 2:00 PM - 3:15 PM | Y-2-2310
+1-3 | Tue Thu 12:30 PM - 1:45 PM | H-LL-3507
 
 #### Discussion
 
-Starting from the second week, there will be a discussion every week. The focus of the discussion for a particular week will be the current exercise assignment. The teaching assistant (TA) will walk you through the problems and solve them in an interactive manner, which means you are expected to actively participate in the process. The TA will also answer any specific questions you may have about the current project assignment or the course material in general. You may also seek help from the course assistant (CA) who will be assisting the TA during the discussions. The discussions will be worthwhile only if you go to the sessions having read the assignment writeup thoroughly and have at least a moderate understanding of the problems involved. The TA will assume that you have done the reading in advance.
+Starting from the second week, there will be a discussion every week. The focus of the discussion for a particular week will be the current assignment. The teaching assistant (TA) will walk you through the exercise/project problems systematically. The TA will also answer any specific questions you may have about the assignment or the course material in general. You may also seek help from the course assistant (CA) who will be assisting the TA during the discussions. The discussions will be worthwhile only if you go to the sessions having read the assignment writeup thoroughly and have at least a moderate understanding of the problems involved. The TA will assume that you have done the reading in advance.
 
 | **Section** | **When** | **Where** | **TA** | **CA** |
-1 | Tue 12:30 PM - 1:45 PM | M-3-0732 | Kyle Clapper | Yeshaswini Murthy |
-2 | Thu 12:30 PM - 1:45 PM | M-3-0732 | Kristin Qi | Prateeksha Bhojaraj |
-3 | Tue 4:00 PM - 5:15 PM | W-1-0045 | Kyle Clapper | Yeshaswini Murthy |
-4 | Thu 4:00 PM - 5:15 PM | M-1-0210 | Kristin Qi | Prateeksha Bhojaraj |
-7 | Tue 9:30 AM - 10:45 PM | W-2-0198 | Kyle Clapper | Yeshaswini Murthy |
-8 | Thu 9:30 AM - 10:45 PM | W-2-0198 | Kristin Qi | Prateeksha Bhojaraj |
+1 | Tue 11:00 AM - 12:15 PM | M-1-0212 | TBD | TBD |
+2 | Thu 11:00 AM - 12:15 PM | W-1-0045 | TBD | TBD |
+3 | Tue 2:00 PM - 3:15 PM | M-2-0205 | TBD | TBD |
 
 #### Supplemental Instruction
 
 As part of the College of Science and Mathematics Freshman Success Program, supplemental instruction (SI) is available to all CS110 students free of charge. The SI sessions will also start from the second week. The focus of the sessions for a particular week will be the material covered in class during the previous week. The SI leader will walk you through the relevant lecture notes and solve problems. In addition, the SI leader will answer any specific questions you may have about the current exercise/project assignment, or the course material in general. The SI sessions are optional, but highly recommended, especially if you feel like you are falling behind in the course. You may attend as few or as many sessions as you like. You will receive extra-credit points for attending and participating in the sessions (see the Grading section below).
 
 | **When** | **Where** |
-| Mon 12:00 PM - 12:50 PM | M-2-0205 |
-| Tue 4:00 PM - 5:15 PM | M-2-0419 |
-| Wed 12:00 PM - 12:50 PM | M-2-0205 |
-| Sun 2:00 PM - 3:00 PM | Remote ([Zoom link](https://umassboston.zoom.us/j/3559398523)) |
+| TBD | TBD |
 
 #### Tutoring
 
@@ -108,15 +100,17 @@ To calculate your current course grade, visit the [What's My Grade?](https://www
 
 ### iClicker
 
-We will use [iClicker](https://app.reef-education.com/\#/login iClicker) to record your attendance in class. You will be able to mark yourself present, using your smartphone with location service enabled, during the first 15 minutes of a class.
+I will use [iClicker](https://app.reef-education.com/\#/login iClicker) to record your attendance in class. You will be able to mark yourself present, using your laptop or smartphone, during the first 15 minutes of a class. In addition, I will take paper-based attendance on three unannounced days. If I find any discrepancy in your attendance record on those days (ie, you were marked present on iClicker but absent on paper), you will receive a 0 for your overall attendance score.
+
+The TAs will record your attendance during discussions.
 
 ### Piazza
 
-We will use [Piazza](https://piazza.com/umb/spring2023/cs210/home) as the online discussion forum for the course. If you have any general questions about the projects, lectures, textbook, or other course material, the most effective way to get them resolved is by posting them on Piazza. You can expect your questions to be answered by the course staff or one of your classmates. Remember that you can post anonymously, but you are anonymous only to your classmates and not to the course staff.
+I will use [Piazza](https://piazza.com/umb/fall2023/cs210/home) as the online discussion forum for the course. If you have any general questions about the projects, lectures, textbook, or other course material, the most effective way to get them resolved is by posting them on Piazza. You can expect your questions to be answered by the course staff or one of your classmates. Remember that you can post anonymously, but you are anonymous only to your classmates and not to the course staff.
 
 ### Gradescope
 
-We will use [Gradescope](https://gradescope.com/) to grade your quizzes, projects, and exams. 
+I will use [Gradescope](https://gradescope.com/) to grade your quizzes, projects, and exams. 
 
 ### Programming Environment
 
@@ -150,9 +144,7 @@ Visit [CS Labs Portal](https://portal.cs.umb.edu/) to register for a portal/CS a
 
 Read the handout [`cs210_collaboration.pdf`](https://www.cs.umb.edu/~siyer/teaching/cs210/cs210_collaboration.pdf).
 
-#### Academic Honesty
-
-Cheating on the assignments (exercises and projects), exams (written and programming), or attendance constitutes a violation of the academic honesty code, and will be handled according to the procedures delineated in the [Student Code of Conduct, Appendix B](https://www.umb.edu/editor_uploads/images/life_on_campus/FINALUMBCode9-5-18-Appendix_B_V2.pdf). 
+If you are caught cheating on a project/exam and if it is your first offense, you will receive a 0 for that project/exam, and you will be reported to the appropriate department official. If you repeat this behavior and are caught again, you will receive an F for the course and you will be reported to the appropriate university personnel. Regrettably, this has happened quite often and is always extremely unpleasant.
 
 #### Accommodations for Students with Disabilities
 

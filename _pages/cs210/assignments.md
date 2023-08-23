@@ -35,11 +35,11 @@ Your solution to each exercise/project problem will be evaluated by an autograde
 
 #### Clarity and Efficiency
 
-Your solution to each project problem will additionally be checked by a TA for clarity and efficiency. Your code will receive 20 points if it meets our expectations (must include adequate comments, must follow good programming principles, and must meet any problem-specific requirements such as corner cases and running times), and marked down otherwise.
+Your solution to each project problem will additionally be checked by a TA for clarity and efficiency. Your code will receive 10 points if it meets our expectations (must include adequate comments, must follow good programming principles, and must meet any problem-specific requirements such as corner cases and running times), and marked down otherwise.
 
 #### Notes File
 
-For a project, the given `notes.txt` file must be uploaded with the four sections (1 and 2 mandatory, 3 if applicable, and 4 optional) filled in as appropriate. Failing to do so will cost you one point.
+For a project, the given `notes.txt` file must be uploaded with the three sections (\#1 mandatory, \#2 if applicable, and \#3 optional) filled in as appropriate. Your notes file will receive 10 points if it meets our expectations (section \#1 must provide a clear high-level description of the project in no more than 200 words), and marked down otherwise.
 
 ### Submitting Your Work
 
@@ -49,8 +49,6 @@ You may submit your files as many times as you like, up until the assignment dea
 
 Note: If your active submission is partial, your assignment score will also be partial, so in order to be eligible for full credit, make sure you have an active submission containing all the required files for the assignment. 
 
-Before you submit your programs, make sure that they meet the coding style. You may check a program, for example `HelloWorld.java`, for coding style by running the following command on the terminal:
+#### Late Days
 
-```
-$ check_style HelloWorld.java
-```
+Assignment deadlines are firm and non negotiable. However, you have up to 5 (10 if you have accommodations through the Ross Center) late days that you may use to submit one or more assignments a bit late. You may use them all for a single assignment or spread them across the assignments as you find necessary. If you need to use any of your available late days for a particular assignment, you must send me a request via email at least 48 hours prior to the assignment deadline, or else your request will not be granted.

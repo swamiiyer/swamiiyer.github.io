@@ -7,10 +7,11 @@ order: 6
 
 ### Essentials
 
-- [Programming Environment](https://www.cs.umb.edu/~siyer/teaching/cs451/cc_programming_environment_setup.pdf)
+- [Programming Environment Setup Instructions](https://www.cs.umb.edu/~siyer/teaching/cs451/cc_programming_environment_setup.pdf)
+- [Virtual Machine Image](https://www.cs.umb.edu/~siyer/teaching/ElementaryOS.ova) (Size: 7,502,567,424 bytes; MD5 Hash: 2516c48de084a3a1ed8fb71884fd9e20)
 - [Base *j\-\-* Compiler](https://www.cs.umb.edu/j--/j--.zip)
 - [iClicker](https://app.reef-education.com/\#/login iClicker)
-- [Piazza](https://piazza.com/umb/spring2023/cs451651/home)
+- [Piazza](https://piazza.com/umb/fall2023/cs451651/home)
 - [Gradescope](https://gradescope.com/)
 - Sample Exams
   - [Exam 1](https://www.cs.umb.edu/~siyer/teaching/cs451/cs451_sample_exam1.pdf)

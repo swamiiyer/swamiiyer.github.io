@@ -16,15 +16,15 @@ Students who successfully complete this course will be able to: write parsers an
 ### Course Staff
 
 | **Name** | **Role** | **Email** | **Office** | **Hours** |
-Swami Iyer | Instructor | [siyer@cs.umb.edu](siyer@cs.umb.edu) | M-3-201-14 | In-person: Tue Thu 10:00 AM - 12:00 PM <br/> Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09)) |
-Ramsey Harrison | Teaching Assistant | [ramsey.harrison001@umb.edu](ramsey.harrison001@umb.edu) | M-3-201-10 | Mon Wed 1:00 PM - 2:00 PM | 
+Swami Iyer | Instructor | [siyer@cs.umb.edu](siyer@cs.umb.edu) | M-3-201-14 | In-person: Tue Thu 9:30 AM - 10:30 AM and 2:30 PM - 3:30 PM<br/> Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09)) |
+Ramsey Harrison | Teaching Assistant | [ramsey.harrison001@umb.edu](ramsey.harrison001@umb.edu) | M-3-201-10 | TBA | 
 
 ### Lectures
 
 We will have two lectures per week, during which I will present the material from the [slides](lecture_material.html). I strongly recommend skimming through the material before each lecture, and reading it again thoroughly soon after.
 
 | **Section** | **When** | **Where** |
-1 | Tue Thu 4:00 PM - 5:15 PM | Y-2-2110
+1 | Tue Thu 4:00 PM - 5:15 PM | W-1-0004
 
 ### Text
 
@@ -70,19 +70,19 @@ The text enables a deep understanding of the Java programming language and its i
 - You can earn up to 0.01x% extra points if x% of the class completes the end-of-semester course evaluation. 
 - If your overall score falls within half a percent of a higher grade, your score will be elevated to that grade.
 
-To calculate your current course grade, visit the [What's My Grade?](https://www.cs.umb.edu/~siyer/teaching/cs451_grade.html) website.
+To calculate your current course grade, visit the [What's My Grade](https://www.cs.umb.edu/~siyer/teaching/cs451_grade.html) website.
 
 ### iClicker
 
-We will use [iClicker](https://app.reef-education.com/\#/login iClicker) to record your attendance in class. You will be able to mark yourself present, using your smartphone with location service enabled, during the first 15 minutes of a class.
+I will use [iClicker](https://app.reef-education.com/\#/login iClicker) to record your attendance in class. You will be able to mark yourself present, using your laptop or smartphone, during the first 15 minutes of a class. In addition, I will take paper-based attendance on three unannounced days. If I find any discrepancy in your attendance record on those days (ie, you were marked present on iClicker but absent on paper), you will receive a 0 for your overall attendance score.
 
 ### Piazza
 
-We will use [Piazza](https://piazza.com/umb/spring2023/cs451651/home) as the online discussion forum for the course. If you have any general questions about the projects, lectures, textbook, or other course material, the most effective way to get them resolved is by posting them on Piazza. You can expect your questions to be answered by the course staff or one of your classmates. Remember that you can post anonymously, but you are anonymous only to your classmates and not to the course staff.
+I will use [Piazza](https://piazza.com/umb/fall2023/cs451651/home) as the online discussion forum for the course. If you have any general questions about the projects, lectures, textbook, or other course material, the most effective way to get them resolved is by posting them on Piazza. You can expect your questions to be answered by the course staff or one of your classmates. Remember that you can post anonymously, but you are anonymous only to your classmates and not to the course staff.
 
 ### Gradescope
 
-We will use [Gradescope](https://gradescope.com/) to grade your projects and exams. 
+I will use [Gradescope](https://gradescope.com/) to grade your projects and exams. 
 
 ### Programming Environment
 
@@ -116,9 +116,7 @@ Visit [CS Labs Portal](https://portal.cs.umb.edu/) to register for a portal/CS a
 
 Read the handout [`cs451_collaboration.pdf`](https://www.cs.umb.edu/~siyer/teaching/cs451/cs451_collaboration.pdf).
 
-#### Academic Honesty
-
-Cheating on the projects, exams, or attendance constitutes a violation of the academic honesty code, and will be handled according to the procedures delineated in the [Student Code of Conduct, Appendix B](https://www.umb.edu/editor_uploads/images/life_on_campus/FINALUMBCode9-5-18-Appendix_B_V2.pdf). 
+If you are caught cheating on a project/exam and if it is your first offense, you will receive a 0 for that project/exam, and you will be reported to the appropriate department official. If you repeat this behavior and are caught again, you will receive an F for the course and you will be reported to the appropriate university personnel. Regrettably, this has happened quite often and is always extremely unpleasant.
 
 #### Accommodations for Students with Disabilities
 
