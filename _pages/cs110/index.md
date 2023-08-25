@@ -27,7 +27,7 @@ Welcome to the Introduction to Computing (CS110) course I will be teaching this 
 
 - CS110 is a very demanding course, so please be prepared to work really hard from the outset, or else you will quickly fall behind and end up with a poor/failing grade.
 
-- If you are currently waitlisted, you will be enrolled automatically if enough students drop out before the add/drop deadline. The enrollment capacity is set at 200 for CS110 and 10 for CS119. If CS110 is over-enrolled (ie, there are students on the waitlist) while CS119 has free seats, I will enroll as many waitlisted students from the former into the latter, in the order of their waitlist number. Please note that I will **not** go over the total enrollment capacity of 210.
+- If you are currently waitlisted, you will be enrolled automatically if enough students drop out before the add/drop deadline. Please note that I will **not** go over the enrollment capacity for the course, which is set at 200.
 
 - <font color="red">NOTE: During the first week we will only meet for lectures. Discussions and SI sessions will start from the second week, ie, the week of Sep 11.</font>
 
