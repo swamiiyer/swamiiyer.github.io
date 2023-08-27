@@ -35,9 +35,9 @@ We will have two lectures per week, during which I will present the material fro
 Starting from the second week, there will be a discussion every week. The focus of the discussion for a particular week will be the current assignment. The teaching assistant (TA) will walk you through the exercise/project problems systematically. The TA will also answer any specific questions you may have about the assignment or the course material in general. You may also seek help from the course assistant (CA) who will be assisting the TA during the discussions. The discussions will be worthwhile only if you go to the sessions having read the assignment writeup thoroughly and have at least a moderate understanding of the problems involved. The TA will assume that you have done the reading in advance.
 
 | **Section** | **When** | **Where** | **TA** | **CA** |
-1 | Tue 11:00 AM - 12:15 PM | M-1-0212 | TBD | TBD |
-2 | Thu 11:00 AM - 12:15 PM | W-1-0045 | TBD | TBD |
-3 | Tue 2:00 PM - 3:15 PM | M-2-0205 | TBD | TBD |
+1 | Tue 11:00 AM - 12:15 PM | M-1-0212 | Kyle Clapper | TBD |
+2 | Thu 11:00 AM - 12:15 PM | W-1-0045 | Kristin Qi | TBD |
+3 | Tue 2:00 PM - 3:15 PM | M-2-0205 | Kyle Clapper | TBD |
 
 #### Supplemental Instruction
 

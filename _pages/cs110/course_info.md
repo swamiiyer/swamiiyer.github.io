@@ -37,14 +37,14 @@ We will have two lectures per week, during which I will present the material fro
 Starting from the second week, there will be a discussion every week. The focus of the discussion for a particular week will be the current assignment. The teaching assistant (TA) will walk you through the exercise/project problems systematically. The TA will also answer any specific questions you may have about the assignment or the course material in general. You may also seek help from the course assistant (CA) who will be assisting the TA during the discussions. The discussions will be worthwhile only if you go to the sessions having read the assignment writeup thoroughly and have at least a moderate understanding of the problems involved. The TA will assume that you have done the reading in advance.
 
 | **Section** | **When** | **Where** | **TA** | **CA** |
-1 | Tue 9:30 AM - 10:45 AM | M-1-0608 | TBD | TBD |
-2 | Thu 9:30 AM - 10:45 AM | M-2-0208 | TBD | TBD |
-3 | Tue 12:30 PM - 1:45 PM | M-1-0418 | TBD | TBD |
-4 | Thu 12:30 PM - 1:45 PM | M-1-0210 | TBD | TBD |
-5 | Tue 9:30 AM - 10:45 AM | M-2-0208 | TBD | TBD |
-6 | Thu 9:30 AM - 10:45 AM | M-2-0205 | TBD | TBD |
-7 | Tue 12:30 PM - 1:45 PM | W-1-0061 | TBD | TBD |
-8 | Thu 12:30 PM - 1:45 PM | W-1-0057 | TBD | TBD |
+1 | Tue 9:30 AM - 10:45 AM | M-1-0608 | Adnan Ali | TBD |
+2 | Thu 9:30 AM - 10:45 AM | M-2-0208 | Jenna Kim | TBD |
+3 | Tue 12:30 PM - 1:45 PM | M-1-0418 | Adnan Ali | TBD |
+4 | Thu 12:30 PM - 1:45 PM | M-1-0210 | Jenna Kim | TBD |
+5 | Tue 9:30 AM - 10:45 AM | M-2-0208 | Lucas Gustafson | TBD |
+6 | Thu 9:30 AM - 10:45 AM | M-2-0205 | Shruti Varade | TBD |
+7 | Tue 12:30 PM - 1:45 PM | W-1-0061 | Lucas Gustafson | TBD |
+8 | Thu 12:30 PM - 1:45 PM | W-1-0057 | Shruti Varade | TBD |
 
 #### Supplemental Instruction
 
