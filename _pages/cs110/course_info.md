@@ -21,6 +21,10 @@ Adnan Ali | Teaching Assistant | [a.lnu008@umb.edu](a.lnu008@umb.edu) | TBD | TB
 Jenna Kim | Teaching Assistant | [jiehyun.kim001@umb.edu](jiehyun.kim001@umb.edu) | M-3-201-10 | TBD |
 Lucas Gustafson | Teaching Assistant | [lucas.gustafson001@umb.edu](lucas.gustafson001@umb.edu) | M-3-201-10 | TBD |
 Shruti Varade | Teaching Assistant | [s.varade001@umb.edu](s.varade001@umb.edu) | TBD | TBD |
+Francis Alcos | Course Assistant | [francis.alcos001@umb.edu](francis.alcos001@umb.edu) | TBD | TBD |
+Jongsoo Ha | Course Assistant | [jongsoo.ha001@umb.edu](jongsoo.ha001@umb.edu) | TBD | TBD |
+Lorenzo Orio | Course Assistant | [lorenzo.orio001@umb.edu](lorenzo.orio001@umb.edu) | TBD | TBD |
+Prateeksha Bhojaraj | Course Assistant | [p.bhojaraj001@umb.edu](p.bhojaraj001@umb.edu) | TBD | TBD |
 Vivian Kwong | Supplemental Instruction Leader | [vivian.kwong001@umb.edu](vivian.kwong001@umb.edu) | - | - |
 
 ### Sessions
@@ -37,14 +41,14 @@ We will have two lectures per week, during which I will present the material fro
 Starting from the second week, there will be a discussion every week. The focus of the discussion for a particular week will be the current assignment. The teaching assistant (TA) will walk you through the exercise/project problems systematically. The TA will also answer any specific questions you may have about the assignment or the course material in general. You may also seek help from the course assistant (CA) who will be assisting the TA during the discussions. The discussions will be worthwhile only if you go to the sessions having read the assignment writeup thoroughly and have at least a moderate understanding of the problems involved. The TA will assume that you have done the reading in advance.
 
 | **Section** | **When** | **Where** | **TA** | **CA** |
-1 | Tue 9:30 AM - 10:45 AM | M-1-0608 | Adnan Ali | TBD |
-2 | Thu 9:30 AM - 10:45 AM | M-2-0208 | Jenna Kim | TBD |
-3 | Tue 12:30 PM - 1:45 PM | M-1-0418 | Adnan Ali | TBD |
-4 | Thu 12:30 PM - 1:45 PM | M-1-0210 | Jenna Kim | TBD |
-5 | Tue 9:30 AM - 10:45 AM | M-2-0208 | Lucas Gustafson | TBD |
-6 | Thu 9:30 AM - 10:45 AM | M-2-0205 | Shruti Varade | TBD |
-7 | Tue 12:30 PM - 1:45 PM | W-1-0061 | Lucas Gustafson | TBD |
-8 | Thu 12:30 PM - 1:45 PM | W-1-0057 | Shruti Varade | TBD |
+1 | Tue 9:30 AM - 10:45 AM | M-1-0608 | Adnan Ali | Jongsoo Ha |
+2 | Thu 9:30 AM - 10:45 AM | M-2-0208 | Jenna Kim | Jongsoo Ha |
+3 | Tue 12:30 PM - 1:45 PM | M-1-0418 | Adnan Ali | Lorenzo Ha |
+4 | Thu 12:30 PM - 1:45 PM | M-1-0210 | Jenna Kim | Lorenzo Ha |
+5 | Tue 9:30 AM - 10:45 AM | M-2-0208 | Lucas Gustafson | Francis Alcos |
+6 | Thu 9:30 AM - 10:45 AM | M-2-0205 | Shruti Varade | Francis Alcos |
+7 | Tue 12:30 PM - 1:45 PM | W-1-0061 | Lucas Gustafson | Prateeksha Bhojaraj |
+8 | Thu 12:30 PM - 1:45 PM | W-1-0057 | Shruti Varade | Prateeksha Bhojaraj |
 
 #### Supplemental Instruction
 
@@ -55,7 +59,7 @@ As part of the College of Science and Mathematics Freshman Success Program, supp
 
 #### Tutoring
 
-Tutoring for this course is available through the [Subject Tutoring Program](http://blogs.umb.edu/subjecttutor/). 
+Tutoring for this course is available through the [Tutoring Programs](https://www.umb.edu/academics/seas/tutoring-programs/). 
 
 ### Text
 

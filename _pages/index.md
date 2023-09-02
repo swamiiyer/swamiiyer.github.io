@@ -25,7 +25,7 @@ I am a senior lecturer in the [Computer Science Department](http://www.cs.umb.ed
 
 ### Academic Interests
 
-Evolutionary dynamics on complex networks, machine learning, pedagogy
+Evolutionary dynamics on complex networks, machine learning, programming language design, pedagogy
 
 ### Other Interests
 

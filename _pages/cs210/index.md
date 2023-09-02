@@ -17,7 +17,7 @@ Welcome to the Intermediate Computing with Data Structures (CS210) course I will
 
 - Please take care of the following action items:
   - Sign up for [iClicker](https://app.reef-education.com/\#/account/create iClicker) (attendance platform) using your UMB email address, and add the course *CS210* to your dashboard
-  - Follow up on the invitations sent to your UMB email address to sign up for:
+  - Follow up on the invitations that will be sent to your UMB email address to sign up for:
       - Piazza (Q&A platform) and
       - Gradescope (grading platform).
   - Setup the [programming environment](https://www.cs.umb.edu/~siyer/teaching/cs210/dsaj_programming_environment_setup.pdf) on your computer.
