@@ -7,7 +7,7 @@ order: 1
 
 **Sep 6, 2023**
 
-[Project 1](/projects/) is available and is due at 11:59 PM on Sep 24 (Sun).
+[Project 1](/cs451/projects.html) is available and is due at 11:59 PM on Sep 24 (Sun).
 
 **Sep 5, 2023**
 
