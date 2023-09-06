@@ -5,6 +5,10 @@ title: Home
 order: 1
 ---
 
+**Sep 6, 2023**
+
+Project 1 is available and is due at 11:59 PM on Sep 24 (Sun).
+
 **Sep 5, 2023**
 
 Dear student,
