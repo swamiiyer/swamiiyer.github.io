@@ -5,6 +5,10 @@ title: Home
 order: 1
 ---
 
+**Sep 7, 2023**
+
+[Exercise 1](/cs110/assignments.html) and [Project 1](/cs110/assignments.html) are available and are due at 11:59 PM on Sep 24 (Sun).
+
 **Sep 5, 2023**
 
 Dear student,
