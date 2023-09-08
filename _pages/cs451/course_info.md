@@ -63,7 +63,7 @@ The text enables a deep understanding of the Java programming language and its i
 
 - The goal of the projects is to make sure that you can apply the concepts learned in class to enhance the functionality of the base *j\-\-* compiler, ie, add new programming constructs to the language.
 - The exams will test your understanding of the material covered in class as well as concepts from the projects.
-- Each of the two closed-book exams will take place during a class period. You will be allowed to use a one-page (two sides) handwritten notes sheet.
+- Each of the two closed-book exams will take place during a class period. You will be allowed to use a one-page (two sides) notes sheet.
 - I will not give makeup exams unless there is an extremely compelling reason and documentation to support it.
 - If you score at least 80% on both exams, the higher exam score will be considered as the exam average.
 - Attendance score will be based on your attendance in class.
