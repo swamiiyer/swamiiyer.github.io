@@ -5,6 +5,10 @@ title: Home
 order: 1
 ---
 
+**Sep 9, 2023**
+
+Starting Sep 12, the class will take place in a different room, Y-2-2120, which is in the University Hall building. The class time will stay the same, Tue Thu 4:00 PM - 5:15 PM.
+
 **Sep 6, 2023**
 
 [Project 1](/cs451/projects.html) is available and is due at 11:59 PM on Sep 24 (Sun).

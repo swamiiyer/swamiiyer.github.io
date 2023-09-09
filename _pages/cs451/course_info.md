@@ -24,7 +24,7 @@ Ramsey Harrison | Teaching Assistant | [ramsey.harrison001@umb.edu](ramsey.harri
 We will have two lectures per week, during which I will present the material from the [slides](lecture_material.html). I strongly recommend skimming through the material before each lecture, and reading it again thoroughly soon after.
 
 | **Section** | **When** | **Where** |
-1 | Tue Thu 4:00 PM - 5:15 PM | W-1-0004
+1 | Tue Thu 4:00 PM - 5:15 PM | Y-2-2120
 
 ### Text
 
