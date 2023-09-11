@@ -20,7 +20,7 @@ Swami Iyer | Instructor | [siyer@cs.umb.edu](siyer@cs.umb.edu) | M-3-201-14 | In
 Kristin Qi | Teaching Assistant | [yanankristin.qi001@umb.edu](yanankristin.qi001@umb.edu) | M-3-201-10 | Tue Thu 4:00 PM - 5:00 PM
 Kyle Clapper | Teaching Assistant | [kyle.clapper001@umb.edu](kyle.clapper001@umb.edu) | M-3-0139 | Tue Thu 3:30 PM - 4:30 PM |
 Sonali Mamidipaka | Course Assistant | [sonali.mamidipaka001@umb.edu](sonali.mamidipaka001@umb.edu) | TBD | TBD |
-Yeshaswini VasudevaMurthy | Course Assistant | [y.vasudevamurthy001@umb.edu](y.vasudevamurthy001@umb.edu) | - | - |
+Yeshaswini VasudevaMurthy | Course Assistant | [y.vasudevamurthy001@umb.edu](y.vasudevamurthy001@umb.edu) | TBD | TBD |
 Kenichi Maeda | Supplemental Instruction Leader | [kenichi.maeda001@umb.edu](kenichi.maeda001@umb.edu) | - | - |
 
 ### Sessions
@@ -46,7 +46,10 @@ Starting from the second week, there will be a discussion every week. The focus 
 As part of the College of Science and Mathematics Freshman Success Program, supplemental instruction (SI) is available to all CS110 students free of charge. The SI sessions will also start from the second week. The focus of the sessions for a particular week will be the material covered in class during the previous week. The SI leader will walk you through the relevant lecture notes and solve problems. In addition, the SI leader will answer any specific questions you may have about the current exercise/project assignment, or the course material in general. The SI sessions are optional, but highly recommended, especially if you feel like you are falling behind in the course. You may attend as few or as many sessions as you like. You will receive extra-credit points for attending and participating in the sessions (see the Grading section below).
 
 | **When** | **Where** |
-| TBD | TBD |
+| Mon 2:00 PM - 2:50 PM | TBD |
+| Wed 2:00 PM - 2:50 PM | TBD |
+| Fri 2:00 PM - 2:50 PM | TBD |
+| Sat 11:00 AM - 12:00 PM | Remote ([Zoom Link](https://umassboston.zoom.us/j/97898597354)) |
 
 #### Tutoring
 
