@@ -8,7 +8,7 @@ order: 1
 **Sep 12, 2023**
 
 - Discussions and SI sessions start this week.
-- Room changes: Discussion section 2 will meet in M-3-0730 (CS/IT lab) and section 3 will meet in M-2-0420.
+- Room changes: Discussion section 2 will meet in M-3-0730 (CS/IT lab) and section 3 will meet in M-2-0205.
 
 **Sep 7, 2023**
 
