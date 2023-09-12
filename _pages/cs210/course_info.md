@@ -38,8 +38,8 @@ Starting from the second week, there will be a discussion every week. The focus 
 
 | **Section** | **When** | **Where** | **TA** | **CA** |
 1 | Tue 11:00 AM - 12:15 PM | M-1-0212 | Kristin Qi | Sonali Mamidipaka |
-2 | Thu 11:00 AM - 12:15 PM | W-1-0045 | Kristin Qi | Sonali Mamidipaka |
-3 | Tue 2:00 PM - 3:15 PM | M-2-0205 | Kyle Clapper | Yeshaswini VasudevaMurthy |
+2 | Thu 11:00 AM - 12:15 PM | M-3-0730 | Kristin Qi | Sonali Mamidipaka |
+3 | Tue 2:00 PM - 3:15 PM | M-2-0420 | Kyle Clapper | Yeshaswini VasudevaMurthy |
 
 #### Supplemental Instruction
 

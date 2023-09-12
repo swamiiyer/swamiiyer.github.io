@@ -5,6 +5,11 @@ title: Home
 order: 1
 ---
 
+**Sep 12, 2023**
+
+- Discussions and SI sessions start this week.
+- Room changes: Discussion section 2 will meet in M-3-0730 (CS/IT lab) and section 3 will meet in M-2-0420.
+
 **Sep 7, 2023**
 
 [Exercise 1](/cs210/assignments.html) and [Project 1](/cs210/assignments.html) are available and are due at 11:59 PM on Sep 24 (Sun).
