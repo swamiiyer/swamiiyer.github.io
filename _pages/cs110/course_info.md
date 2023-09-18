@@ -25,6 +25,7 @@ Francis Alcos | Course Assistant | [francis.alcos001@umb.edu](francis.alcos001@u
 Jongsoo Ha | Course Assistant | [jongsoo.ha001@umb.edu](jongsoo.ha001@umb.edu) | TBD | TBD |
 Lorenzo Orio | Course Assistant | [lorenzo.orio001@umb.edu](lorenzo.orio001@umb.edu) | TBD | TBD |
 Prateeksha Bhojaraj | Course Assistant | [p.bhojaraj001@umb.edu](p.bhojaraj001@umb.edu) | TBD | TBD |
+Yeshaswini VasudevaMurthy | Course Assistant | [y.vasudevamurthy001@umb.edu](y.vasudevamurthy001@umb.edu) | TBD | TBD |
 Vivian Kwong | Supplemental Instruction Leader | [vivian.kwong001@umb.edu](vivian.kwong001@umb.edu) | - | - |
 
 ### Sessions
@@ -48,7 +49,7 @@ Starting from the second week, there will be a discussion every week. The focus 
 5 | Tue 9:30 AM - 10:45 AM | M-2-0208 | Lucas Gustafson | Francis Alcos |
 6 | Thu 9:30 AM - 10:45 AM | M-2-0205 | Shruti Varade | Francis Alcos |
 7 | Tue 12:30 PM - 1:45 PM | W-1-0061 | Lucas Gustafson | Prateeksha Bhojaraj |
-8 | Thu 12:30 PM - 1:45 PM | W-1-0057 | Shruti Varade | Prateeksha Bhojaraj |
+8 | Thu 12:30 PM - 1:45 PM | W-1-0057 | Shruti Varade | Yeshaswini VasudevaMurthy  |
 
 #### Supplemental Instruction
 

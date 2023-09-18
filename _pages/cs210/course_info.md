@@ -20,7 +20,6 @@ Swami Iyer | Instructor | [siyer@cs.umb.edu](siyer@cs.umb.edu) | M-3-201-14 | In
 Kristin Qi | Teaching Assistant | [yanankristin.qi001@umb.edu](yanankristin.qi001@umb.edu) | M-3-201-10 | Tue Thu 4:00 PM - 5:00 PM
 Kyle Clapper | Teaching Assistant | [kyle.clapper001@umb.edu](kyle.clapper001@umb.edu) | M-3-0139 | Tue Thu 3:30 PM - 4:30 PM |
 Sonali Mamidipaka | Course Assistant | [sonali.mamidipaka001@umb.edu](sonali.mamidipaka001@umb.edu) | TBD | TBD |
-Yeshaswini VasudevaMurthy | Course Assistant | [y.vasudevamurthy001@umb.edu](y.vasudevamurthy001@umb.edu) | TBD | TBD |
 Kenichi Maeda | Supplemental Instruction Leader | [kenichi.maeda001@umb.edu](kenichi.maeda001@umb.edu) | - | - |
 
 ### Sessions
