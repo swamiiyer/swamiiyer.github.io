@@ -7,7 +7,7 @@ order: 1
 
 **Sep 12, 2023**
 
-- Discussions and SI sessions start this week.
+Discussions and SI sessions start this week.
 
 **Sep 7, 2023**
 
