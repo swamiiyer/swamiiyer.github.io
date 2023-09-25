@@ -35,7 +35,8 @@ Vivian Kwong | Supplemental Instruction Leader | [vivian.kwong001@umb.edu](vivia
 We will have two lectures per week, during which I will present the material from the [slides](lecture_material.html). I strongly recommend skimming through the material before each lecture, and reading it again thoroughly soon after.
 
 | **Section** | **When** | **Where** |
-1-8 | Tue Thu 11:00 AM - 12:15 PM | W-1-0088 (Snowden Auditorium)
+1-8 | Tue Thu 11:00 AM - 12:15 PM | W-1-0088 (Snowden Auditorium) |
+9-12 | Tue Thu 5:30 PM - 6:45 PM | Y-2-2310
 
 #### Discussion
 
@@ -50,6 +51,10 @@ Starting from the second week, there will be a discussion every week. The focus 
 6 | Thu 9:30 AM - 10:45 AM | M-2-0205 | Shruti Varade | Francis Alcos |
 7 | Tue 12:30 PM - 1:45 PM | W-1-0061 | Lucas Gustafson | Prateeksha Bhojaraj |
 8 | Thu 12:30 PM - 1:45 PM | W-1-0057 | Shruti Varade | Yeshaswini VasudevaMurthy  |
+9 | Tue 4:00 PM - 5:15 PM | W-1-0061 | TBA | TBA |
+10 | Thu 4:00 PM - 5:15 PM | M-2-0207 | TBA | TBA |
+11 | Tue 7:00 PM - 8:15 PM | W-1-0044 | TBA | TBA |
+12 | Thu 7:00 PM - 8:15 PM | W-1-0044 | TBA | TBA |
 
 #### Supplemental Instruction
 
