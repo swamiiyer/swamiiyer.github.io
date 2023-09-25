@@ -51,10 +51,10 @@ Starting from the second week, there will be a discussion every week. The focus 
 6 | Thu 9:30 AM - 10:45 AM | M-2-0205 | Shruti Varade | Francis Alcos |
 7 | Tue 12:30 PM - 1:45 PM | W-1-0061 | Lucas Gustafson | Prateeksha Bhojaraj |
 8 | Thu 12:30 PM - 1:45 PM | W-1-0057 | Shruti Varade | Yeshaswini VasudevaMurthy  |
-9 | Tue 4:00 PM - 5:15 PM | W-1-0061 | TBA | TBA |
-10 | Thu 4:00 PM - 5:15 PM | M-2-0207 | TBA | TBA |
-11 | Tue 7:00 PM - 8:15 PM | W-1-0044 | TBA | TBA |
-12 | Thu 7:00 PM - 8:15 PM | W-1-0044 | TBA | TBA |
+9 | Tue 4:00 PM - 5:15 PM | W-1-0061 | Lucas Gustafson | TBA |
+10 | Thu 4:00 PM - 5:15 PM | M-2-0207 | Shruti Varade | TBA |
+11 | Tue 7:00 PM - 8:15 PM | W-1-0044 | Jenna Kim | TBA |
+12 | Thu 7:00 PM - 8:15 PM | W-1-0044 | Adnan Ali | TBA |
 
 #### Supplemental Instruction
 
