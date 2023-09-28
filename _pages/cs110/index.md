@@ -5,6 +5,10 @@ title: Home
 order: 1
 ---
 
+**Sep 28, 2023**
+
+The new deadline for Exercise 2 and Project 2 is 11:59 PM on Oct 10 (Tue).
+
 **Sep 25, 2023**
 
 [Exercise 2](/cs110/assignments.html) and [Project 2](/cs110/assignments.html) are available and are due at 11:59 PM on Oct 8 (Sun).
