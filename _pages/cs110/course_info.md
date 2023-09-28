@@ -19,7 +19,7 @@ Students who successfully complete this course will be able to tackle computatio
 Swami Iyer | Instructor | [siyer@cs.umb.edu](siyer@cs.umb.edu) | M-3-201-14 | In-person: Tue Thu 9:30 AM - 10:30 AM and 2:30 PM - 3:30 PM<br/> Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09)) |
 Adnan Ali | Teaching Assistant | [a.lnu008@umb.edu](a.lnu008@umb.edu) | M-3-201-10 | Mon Wed 1:00 PM - 2:00 PM |
 Jenna Kim | Teaching Assistant | [jiehyun.kim001@umb.edu](jiehyun.kim001@umb.edu) | M-3-201-10 | Tue Thu 2:00 PM - 3:00 PM |
-Kattayun Ensafitakaldani | Teaching Assistant | [f.ensafitakaldani001@umb.edu](f.ensafitakaldani001@umb.edu) | TBA | Tue Thu 12:30 PM - 1:30 PM |
+Kattayun Ensafitakaldani | Teaching Assistant | [f.ensafitakaldani001@umb.edu](f.ensafitakaldani001@umb.edu) | M-3-201-35 | Tue Thu 12:30 PM - 1:30 PM |
 Lucas Gustafson | Teaching Assistant | [lucas.gustafson001@umb.edu](lucas.gustafson001@umb.edu) | M-3-201-10 | Mon Wed 2:30 PM - 3:30 PM |
 Shruti Varade | Teaching Assistant | [s.varade001@umb.edu](s.varade001@umb.edu) | M-3-201-10 | Mon Wed 10:00 AM - 11:00 AM |
 Francis Alcos | Course Assistant | [francis.alcos001@umb.edu](francis.alcos001@umb.edu) | - | Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://us04web.zoom.us/j/6483343415?pwd=eVRTV2FKWWg5dzBFY1FFUXYzSE9BZz09)) |
