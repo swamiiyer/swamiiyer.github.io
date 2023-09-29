@@ -19,7 +19,7 @@ Students who successfully complete this course will be able to confidently imple
 Swami Iyer | Instructor | [siyer@cs.umb.edu](siyer@cs.umb.edu) | M-3-201-14 | In-person: Tue Thu 9:30 AM - 10:30 AM and 2:30 PM - 3:30 PM<br/> Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09)) |
 Kristin Qi | Teaching Assistant | [yanankristin.qi001@umb.edu](yanankristin.qi001@umb.edu) | M-3-201-10 | Tue Thu 4:00 PM - 5:00 PM
 Kyle Clapper | Teaching Assistant | [kyle.clapper001@umb.edu](kyle.clapper001@umb.edu) | M-3-0139 | Tue Thu 3:30 PM - 4:30 PM |
-Sonali Mamidipaka | Course Assistant | [sonali.mamidipaka001@umb.edu](sonali.mamidipaka001@umb.edu) | TBD | TBD |
+Sonali Mamidipaka | Course Assistant | [sonali.mamidipaka001@umb.edu](sonali.mamidipaka001@umb.edu) | M-3-0731 | Mon Wed 5:00 PM - 6:00 PM |
 Kenichi Maeda | Supplemental Instruction Leader | [kenichi.maeda001@umb.edu](kenichi.maeda001@umb.edu) | - | - |
 
 ### Sessions
