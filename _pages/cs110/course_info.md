@@ -22,7 +22,7 @@ Jenna Kim | Teaching Assistant | [jiehyun.kim001@umb.edu](jiehyun.kim001@umb.edu
 Kattayun Ensafitakaldani | Teaching Assistant | [f.ensafitakaldani001@umb.edu](f.ensafitakaldani001@umb.edu) | M-3-201-35 | Tue Thu 12:30 PM - 1:30 PM |
 Lucas Gustafson | Teaching Assistant | [lucas.gustafson001@umb.edu](lucas.gustafson001@umb.edu) | M-3-201-10 | Mon Wed 2:30 PM - 3:30 PM |
 Shruti Varade | Teaching Assistant | [s.varade001@umb.edu](s.varade001@umb.edu) | M-3-201-10 | Mon Wed 10:00 AM - 11:00 AM |
-Francis Alcos | Course Assistant | [francis.alcos001@umb.edu](francis.alcos001@umb.edu) | - | Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://us04web.zoom.us/j/6483343415?pwd=eVRTV2FKWWg5dzBFY1FFUXYzSE9BZz09)) |
+Francis Alcos | Course Assistant | [francis.alcos001@umb.edu](francis.alcos001@umb.edu) | M-3-0731 | Wed 2:00 PM - 4:00 PM |
 Jongsoo Ha | Course Assistant | [jongsoo.ha001@umb.edu](jongsoo.ha001@umb.edu) | M-3-0731 | Mon 2:30 PM - 3:30 PM; Fri 2:00 PM - 3:00 PM |
 Lorenzo Orio | Course Assistant | [lorenzo.orio001@umb.edu](lorenzo.orio001@umb.edu) | M-3-0731 | Wed 2:00 PM - 3:00 PM |
 Prateeksha Bhojaraj | Course Assistant | [p.bhojaraj001@umb.edu](p.bhojaraj001@umb.edu) | M-3-0731 | Mon 9:00 AM - 10:00 AM; Wed 10:00 AM - 11:00 AM |
