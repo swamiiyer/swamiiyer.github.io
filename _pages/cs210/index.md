@@ -5,6 +5,10 @@ title: Home
 order: 1
 ---
 
+**Oct 7, 2023**
+
+[Exercise 3](/cs210/assignments.html) and [Project 3](/cs210/assignments.html) are available and are due at 11:59 PM on Oct 22 (Sun).
+
 **Sep 25, 2023**
 
 [Exercise 2](/cs210/assignments.html) and [Project 2](/cs210/assignments.html) are available and are due at 11:59 PM on Oct 8 (Sun).
