@@ -5,6 +5,10 @@ title: Home
 order: 1
 ---
 
+**Oct 23, 2023**
+
+[Project 4](/cs451/projects.html) is available and is due at 11:59 PM on Nov 5 (Sun).
+
 **Oct 9, 2023**
 
 [Project 3](/cs451/projects.html) is available and is due at 11:59 PM on Oct 22 (Sun).
