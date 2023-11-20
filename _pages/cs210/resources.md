@@ -17,7 +17,7 @@ order: 6
 - [Gradescope](https://gradescope.com/)
 - Sample Exams
   - [Written Exam 1](https://www.cs.umb.edu/~siyer/teaching/cs210/cs210_sample_written_exam1.pdf) \| [Programming Exam 1](https://www.cs.umb.edu/~siyer/teaching/cs210/cs210_sample_programming_exam1.pdf)
-  - Written Exam 2 \| Programming Exam 2 <!-- [Written Exam 2](https://www.cs.umb.edu/~siyer/teaching/cs210/cs210_sample_written_exam2.pdf) \| [Programming Exam 2](https://www.cs.umb.edu/~siyer/teaching/cs210/cs210_sample_programming_exam2.pdf) -->
+  - [Written Exam 2](https://www.cs.umb.edu/~siyer/teaching/cs210/cs210_sample_written_exam2.pdf) \| [Programming Exam 2](https://www.cs.umb.edu/~siyer/teaching/cs210/cs210_sample_programming_exam2.pdf)
 - [What's My Grade?](https://www.cs.umb.edu/~siyer/teaching/cs210_grade.html)
 - [Syllabus](https://www.cs.umb.edu/~siyer/teaching/cs210/cs210_syllabus.pdf)
 
