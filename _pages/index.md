@@ -12,16 +12,16 @@ I am a senior lecturer in the [Computer Science Department](http://www.cs.umb.ed
 - Office: M-3-201-14
 - Email: [siyer@cs.umb.edu](mailto://siyer@cs.umb.edu)
 
-### Courses (Fall 2023)
+### Courses (Spring 2024)
 
-- [CS110: Introduction to Computing](/cs110)
-- [CS210: Intermediate Computing with Data Structures](/cs210)
-- [CS451/651: Compilers](/cs451)
+- CS110: Introduction to Computing
+- CS210: Intermediate Computing with Data Structures
+- CS451/651: Compilers
 
-### Office Hours (Fall 2023)
+### Office Hours (Spring 2024)
 
-- In-person: Tue Thu 9:30 AM - 10:30 AM and 2:30 PM - 3:30 PM
-- Remote: Wed 9:30 AM - 11:30 AM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09))
+- In-person: Tue Thu 10:00 AM - 12:00 PM
+- Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09))
 
 ### Academic Interests
 
