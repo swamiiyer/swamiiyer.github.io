@@ -14,14 +14,16 @@ I am a senior lecturer in the [Computer Science Department](http://www.cs.umb.ed
 
 ### Courses (Spring 2024)
 
-- CS110: Introduction to Computing
-- CS210: Intermediate Computing with Data Structures
-- CS451/651: Compilers
+- [CS110: Introduction to Computing](/cs110)
+- [CS210: Intermediate Computing with Data Structures](/cs210)
+- [CS451/651: Compilers](/cs451)
 
 ### Office Hours (Spring 2024)
 
 - In-person: Tue Thu 10:00 AM - 12:00 PM
 - Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09))
+
+Note: You don't need an appointment to see me during my office hours. Just stop by.
 
 ### Academic Interests
 
@@ -29,7 +31,7 @@ Evolutionary dynamics on complex networks, machine learning, programming languag
 
 ### Other Interests
 
-Books (on an assortment of topics), gastronomy, music, travel, Vipassana meditation
+Being present, books, food, music, travel
 
 ### Education
 
