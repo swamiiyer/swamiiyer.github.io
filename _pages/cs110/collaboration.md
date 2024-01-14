@@ -16,7 +16,7 @@ than you may use a photocopier to steal someone else's words --- even if you ack
 work for you. Versions of the assignments in this course have been given in previous years. You may not use answers to those
 assignments. To any of you who may be tempted to cheat: the best reason not to is that it's wrong. Another is that if you cheat you
 learn considerably less. A third reason is that you will be caught more often than you think. If I find evidence of cheating, I will act
-as described in the Penalties section below.
+as described in the Penalties for Infractions section below.
 
 ### Specific Expectations for the Course
 
