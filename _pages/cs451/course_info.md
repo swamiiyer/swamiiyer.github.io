@@ -16,15 +16,17 @@ Students who successfully complete this course will be able to: write parsers an
 ### Course Staff
 
 | **Name** | **Role** | **Email** | **Office** | **Hours** |
-Swami Iyer | Instructor | [siyer@cs.umb.edu](siyer@cs.umb.edu) | M-3-201-14 | In-person: Tue Thu 9:30 AM - 10:30 AM and 2:30 PM - 3:30 PM<br/> Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09)) |
-Ramsey Harrison | Teaching Assistant | [ramsey.harrison001@umb.edu](ramsey.harrison001@umb.edu) | M-3-201-10 | Tue Thu 1:00 PM - 2:00 PM | 
+Swami Iyer | Instructor | [siyer@cs.umb.edu](siyer@cs.umb.edu) | M-3-201-14 | In-person: Tue Thu 10:00 AM - 12:00 PM<br/> Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09)) |
+TBD | Teaching Assistant | TBD | TBD | TBD |
+
+Note: In case you want to email us, please start the subject line with `[CS451/651]`.
 
 ### Lectures
 
 We will have two lectures per week, during which I will present the material from the [slides](lecture_material.html). I strongly recommend skimming through the material before each lecture, and reading it again thoroughly soon after.
 
 | **Section** | **When** | **Where** |
-1 | Tue Thu 4:00 PM - 5:15 PM | Y-2-2120
+1 | Tue Thu 4:00 PM - 5:15 PM | Y-2-2110
 
 ### Text
 
@@ -59,26 +61,25 @@ The text enables a deep understanding of the Java programming language and its i
 | [60, 63)  | D-  |
 | [0, 60)   | F   |
 
-**Note:**
+#### Note
 
 - The goal of the projects is to make sure that you can apply the concepts learned in class to enhance the functionality of the base *j\-\-* compiler, ie, add new programming constructs to the language.
 - The exams will test your understanding of the material covered in class as well as concepts from the projects.
 - Each of the two closed-book exams will take place during a class period. You will be allowed to use a one-page (two sides) notes sheet.
-- I will not give makeup exams unless there is an extremely compelling reason and documentation to support it.
 - If you score at least 80% on both exams, the higher exam score will be considered as the exam average.
 - Attendance score will be based on your attendance in class.
 - You can earn up to 0.01x% extra points if x% of the class completes the end-of-semester course evaluation. 
 - If your overall score falls within half a percent of a higher grade, your score will be elevated to that grade.
 
-To calculate your current course grade, visit the [What's My Grade](https://www.cs.umb.edu/~siyer/teaching/cs451_grade.html) website.
+Click [here](grade.html) calculate your current course grade.
 
 ### iClicker
 
-I will use [iClicker](https://app.reef-education.com/\#/login iClicker) to record your attendance in class. You will be able to mark yourself present, using your laptop or smartphone, during the first 15 minutes of a class. In addition, I will take paper-based attendance on three unannounced days. If I find any discrepancy in your attendance record on those days (ie, you were marked present on iClicker but absent on paper), you will receive a 0 for your overall attendance score.
+Starting from the second week, I will use [iClicker](https://app.reef-education.com/\#/login iClicker) to record your attendance in class. You will be able to mark yourself present, using your laptop or smart device, during the first 15 minutes of a class. In addition, I will take paper-based attendance on some undisclosed days. If I find any discrepancy in your attendance record on those days (ie, you were marked present on iClicker but absent on paper), you will receive a 0 for your overall attendance score.
 
 ### Piazza
 
-I will use [Piazza](https://piazza.com/umb/fall2023/cs451651/home) as the online discussion forum for the course. If you have any general questions about the projects, lectures, textbook, or other course material, the most effective way to get them resolved is by posting them on Piazza. You can expect your questions to be answered by the course staff or one of your classmates. Remember that you can post anonymously, but you are anonymous only to your classmates and not to the course staff.
+I will use [Piazza](https://piazza.com/umb/spring2024/cs451651/home) as the online discussion forum for the course. If you have any general questions about the projects, lectures, textbook, or other course material, the most effective way to get them resolved is by posting them on Piazza. You can expect your questions to be answered by the course staff or one of your classmates. Remember that you can post anonymously, but you are anonymous only to your classmates and not to the course staff.
 
 ### Gradescope
 
@@ -86,7 +87,7 @@ I will use [Gradescope](https://gradescope.com/) to grade your projects and exam
 
 ### Programming Environment
 
-To write and execute Java programs in this course, you will need a laptop (Linux, Mac, or Windows) properly configured with the necessary software. Click [here](https://www.cs.umb.edu/~siyer/teaching/cs451/cc_programming_environment_setup.pdf) for setup instructions.
+To write and execute Java programs in this course, you will need a laptop (Linux, Mac, or Windows) properly configured with the necessary software. Click [here](programming_environment.html) for setup instructions.
 
 <a name="cs_account"></a>
 ### CS Account
@@ -112,20 +113,26 @@ Visit [CS Labs Portal](https://portal.cs.umb.edu/) to register for a portal/CS a
 - Use the forum only for questions that can be asked in a general way, without sharing code or other project-related work. However, if you are stuck on a problem despite your valiant efforts to solve it, you may seek help from the course staff by posting your code privately, as properly formatted text (not images).
 - Any post that is inappropriate or violates the academic honesty code will be deleted by the course staff.
 
+#### Excused Absence and Makeup Exam 
+
+You must provide an appropriate letter from the [Dean of Students](https://cm.maxient.com/reportingform.php?UMassBoston&layout_id=24) if: 
+- You could not attend a lecture and want your absence to be excused. 
+- You were/are unable to take an exam on the scheduled date and want to arrange a makeup exam. 
+
 #### Collaboration
 
-Read the handout [`cs451_collaboration.pdf`](https://www.cs.umb.edu/~siyer/teaching/cs451/cs451_collaboration.pdf).
+Click [here](collaboration.html) for the collaboration policy and the penalties for infractions of the policy.
+ 
+#### Late Days 
 
-If you are caught cheating on a project/exam and if it is your first offense, you will receive a 0 for that project/exam, and you will be reported to the appropriate department official. If you repeat this behavior and are caught again, you will receive an F for the course and you will be reported to the appropriate university personnel. Regrettably, this has happened quite often and is always extremely unpleasant.
+- Project deadlines are firm and non negotiable, but you have up to 5 (8 if you have accommodations through the Ross Center) late days that you may use to submit one or more projects a bit late. 
+- You may request an extension for any project only once. To do so, must send me a request via email (not Piazza) at least 48 hours prior to the project deadline, clearly stating the number of late days needed, or else your request will not be granted.
+
+#### Regrade Request
+
+- If you have any concerns about the grading of a particular project or exam, you may submit a [regrade request](https://www.gradescope.com/get_started#student-submission-view) via Gradescope. 
+- You must submit your regrade request within a week from the date the project or exam grades are published, or else your request will be turned down.
 
 #### Accommodations for Students with Disabilities
 
-Section 504 of the Americans with Disabilities Act of 1990 offers guidelines for curriculum modifications and adaptations for students with documented disabilities. If applicable, students may obtain adaptation recommendations from the [Ross Center for Disability Services](http://www.rosscenter.umb.edu/). The student must present these recommendations and discuss them with the instructor within a reasonable period, preferably by the end of Add/Drop period. 
-
-#### Qualities for Success
-
-Qualities needed to succeed in this course and as a programmer in general (taken from the article [*10 Signs You Will Suck at Programming*](https://blog.usejournal.com/10-signs-you-will-suck-at-programming-5497a6a52c5c) by Jonathan Bluks): curiosity, resourcefulness, persistence, excitement, patience, concentration, independence, focus, creativity, and meticulousness.
-
-
-
-
+Section 504 of the Americans with Disabilities Act of 1990 offers guidelines for curriculum modifications and adaptations for students with documented disabilities. If applicable, students may obtain adaptation recommendations from the [Ross Center for Disability Services](https://www.umb.edu/academics/seas/disability-services/). The student must present these recommendations and discuss them with the instructor within a reasonable period, preferably by the end of Add/Drop period. 

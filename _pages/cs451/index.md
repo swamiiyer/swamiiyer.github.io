@@ -5,35 +5,13 @@ title: Home
 order: 1
 ---
 
-**Nov 27, 2023**
+### Jan 21, 2024
 
-[Project 6](/cs451/projects.html) is available and is due at 11:59 PM on Dec 13 (Wed).
+**Project 1**
 
-**Nov 6, 2023**
+ [Project1](projects.html) is available and is due at 11:59 PM on Feb 11 (Sun). 
 
-[Project 5](/cs451/projects.html) is available and is due at 11:59 PM on Nov 26 (Sun).
-
-**Oct 23, 2023**
-
-[Project 4](/cs451/projects.html) is available and is due at 11:59 PM on Nov 5 (Sun).
-
-**Oct 9, 2023**
-
-[Project 3](/cs451/projects.html) is available and is due at 11:59 PM on Oct 22 (Sun).
-
-**Sep 25, 2023**
-
-[Project 2](/cs451/projects.html) is available and is due at 11:59 PM on Oct 8 (Sun).
-
-**Sep 9, 2023**
-
-Starting Sep 12, the class will take place in a different room, Y-2-2120, which is in the University Hall building. The class time will stay the same, Tue Thu 4:00 PM - 5:15 PM.
-
-**Sep 6, 2023**
-
-[Project 1](/cs451/projects.html) is available and is due at 11:59 PM on Sep 24 (Sun).
-
-**Sep 5, 2023**
+**Welcome Message**
 
 Dear student,
 
@@ -48,13 +26,14 @@ Welcome to the Compilers (CS451/651) course I will be teaching this semester!
   - Follow up on the invitations that will be sent to your UMB email address to sign up for:
       - Piazza (Q&A platform) and
       - Gradescope (grading platform).
-  - Setup the [programming environment](https://www.cs.umb.edu/~siyer/teaching/cs451/cc_programming_environment_setup.pdf) on your computer.
-  - Fill out the questionnaire available on Gradescope.
+  - Setup the [programming environment](programming_environment.html) on your computer.
+  - Complete 
+the mandatory questionnaire (ie, all six questions) available on Gradescope. You will **not** be allowed to submit your assignments or take the exams until you do so. 
   - Sign up for a [CS account](course_info.html#cs_account).
 
 - CS451/651 is a very demanding course, so please be prepared to work really hard from the outset, or else you will quickly fall behind and end up with a poor/failing grade.
 
-- If you are currently waitlisted, you will be enrolled automatically if enough students drop out before the add/drop deadline. The enrollment capacity is set at 30 for CS451 and 20 for CS651. If one course is over-enrolled (ie, there are students on the waitlist) while the other has free seats, I will enroll as many waitlisted students from the former into the latter, in the order of their waitlist number. Please note that I will **not** go over the total enrollment capacity of 50.
+- If you are currently waitlisted, you will be enrolled automatically if enough students drop out before the add/drop deadline. The enrollment capacity is set at 65 for CS451 and 20 for CS651. If one course is over-enrolled (ie, there are students on the waitlist) while the other has free seats, I will enroll as many waitlisted students from the former into the latter, in the order of their waitlist number. Please note that I will **not** go over the total enrollment capacity of 85.
 
 I look forward to having you in my class.
 

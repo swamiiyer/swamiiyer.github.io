@@ -15,19 +15,17 @@ Students who successfully complete this course will be able to tackle computatio
 
 ### Course Staff
 
-| **Name** | **Role** | **Email** | **Office** | **Hours** |
-Swami Iyer | Instructor | [siyer@cs.umb.edu](siyer@cs.umb.edu) | M-3-201-14 | In-person: Tue Thu 9:30 AM - 10:30 AM and 2:30 PM - 3:30 PM<br/> Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09)) |
-Adnan Ali | Teaching Assistant | [a.lnu008@umb.edu](a.lnu008@umb.edu) | M-3-201-10 | Mon Wed 1:00 PM - 2:00 PM |
-Jenna Kim | Teaching Assistant | [jiehyun.kim001@umb.edu](jiehyun.kim001@umb.edu) | M-3-201-10 | Tue Thu 2:00 PM - 3:00 PM |
-Kattayun Ensafitakaldani | Teaching Assistant | [f.ensafitakaldani001@umb.edu](f.ensafitakaldani001@umb.edu) | M-3-201-35 | Tue Thu 12:30 PM - 1:30 PM |
-Lucas Gustafson | Teaching Assistant | [lucas.gustafson001@umb.edu](lucas.gustafson001@umb.edu) | M-3-201-10 | Mon Wed 2:30 PM - 3:30 PM |
-Shruti Varade | Teaching Assistant | [s.varade001@umb.edu](s.varade001@umb.edu) | M-3-201-10 | Mon Wed 10:00 AM - 11:00 AM |
-Francis Alcos | Course Assistant | [francis.alcos001@umb.edu](francis.alcos001@umb.edu) | M-3-0731 | Wed 2:00 PM - 4:00 PM |
-Jongsoo Ha | Course Assistant | [jongsoo.ha001@umb.edu](jongsoo.ha001@umb.edu) | M-3-0731 | Mon 2:30 PM - 3:30 PM; Fri 2:00 PM - 3:00 PM |
-Lorenzo Orio | Course Assistant | [lorenzo.orio001@umb.edu](lorenzo.orio001@umb.edu) | M-3-0731 | Wed 2:00 PM - 3:00 PM |
-Prateeksha Bhojaraj | Course Assistant | [p.bhojaraj001@umb.edu](p.bhojaraj001@umb.edu) | M-3-0731 | Mon 9:00 AM - 10:00 AM; Wed 10:00 AM - 11:00 AM |
-Yeshaswini VasudevaMurthy | Course Assistant | [y.vasudevamurthy001@umb.edu](y.vasudevamurthy001@umb.edu) | M-3-0731 | Mon 10:00 AM - 11:00 AM; Wed 9:00 AM - 10:00 AM |
-Vivian Kwong | Supplemental Instruction Leader | [vivian.kwong001@umb.edu](vivian.kwong001@umb.edu) | - | - |
+| **Name** | **Role** | **Email** | **Office** | **Office Hours** |
+Swami Iyer | Instructor | [siyer@cs.umb.edu](siyer@cs.umb.edu) | M-3-201-14 | In-person: Tue Thu 10:00 AM - 12:00 PM<br/> Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09)) |
+TBD | Teaching Assistant | TBD | TBD | TBD | 
+TBD | Teaching Assistant | TBD | TBD | TBD | 
+TBD | Teaching Assistant | TBD | TBD | TBD | 
+Kenichi Maeda | Course Assistant | [kenichi.maeda001@umb.edu](kenichi.maeda001@umb.edu) | M-3-0731 | TBD |
+Rohini Deshmukh | Course Assistant | [r.deshmukh001@umb.edu](r.deshmukh001@umb.edu) | M-3-0731 | TBD | 
+Sonali Mamidipaka | Course Assistant | [sonali.mamidipaka001@umb.edu](sonali.mamidipaka001@umb.edu) | M-3-0731 | TBD |
+Sarah Wilkinson | Supplemental Instruction Leader | [sarah.wilkinson001@umb.edu](sarah.wilkinson001@umb.edu) | - | - |
+
+Note: In case you want to email us, please start the subject line with `[CS110]`.
 
 ### Sessions
 
@@ -36,36 +34,29 @@ Vivian Kwong | Supplemental Instruction Leader | [vivian.kwong001@umb.edu](vivia
 We will have two lectures per week, during which I will present the material from the [slides](lecture_material.html). I strongly recommend skimming through the material before each lecture, and reading it again thoroughly soon after.
 
 | **Section** | **When** | **Where** |
-1-8 | Tue Thu 11:00 AM - 12:15 PM | W-1-0088 (Snowden Auditorium) |
-9-12 | Tue Thu 5:30 PM - 6:45 PM | Y-2-2310
+    1-6 | Tue Thu 12:30 PM - 1:45 PM | W-1-0088 (Snowden Auditorium) |
 
 #### Discussion
 
 Starting from the second week, there will be a discussion every week. The focus of the discussion for a particular week will be the current assignment. The teaching assistant (TA) will walk you through the exercise/project problems systematically. The TA will also answer any specific questions you may have about the assignment or the course material in general. You may also seek help from the course assistant (CA) who will be assisting the TA during the discussions. The discussions will be worthwhile only if you go to the sessions having read the assignment writeup thoroughly and have at least a moderate understanding of the problems involved. The TA will assume that you have done the reading in advance.
 
 | **Section** | **When** | **Where** | **TA** | **CA** |
-1 | Tue 9:30 AM - 10:45 AM | M-1-0608 | Adnan Ali | Jongsoo Ha |
-2 | Thu 9:30 AM - 10:45 AM | M-2-0208 | Jenna Kim | Jongsoo Ha |
-3 | Tue 12:30 PM - 1:45 PM | M-1-0418 | Adnan Ali | Lorenzo Orio |
-4 | Thu 12:30 PM - 1:45 PM | M-1-0210 | Jenna Kim | Lorenzo Orio |
-5 | Tue 9:30 AM - 10:45 AM | M-2-0208 | Lucas Gustafson | Francis Alcos |
-6 | Thu 9:30 AM - 10:45 AM | M-2-0205 | Shruti Varade | Francis Alcos |
-7 | Tue 12:30 PM - 1:45 PM | W-1-0061 | Lucas Gustafson | Prateeksha Bhojaraj |
-8 | Thu 12:30 PM - 1:45 PM | W-1-0057 | Shruti Varade | Yeshaswini VasudevaMurthy  |
-9 | Tue 4:00 PM - 5:15 PM | W-1-0061 | Lucas Gustafson | TBA |
-10 | Thu 4:00 PM - 5:15 PM | M-2-0207 | Shruti Varade | TBA |
-11 | Tue 7:00 PM - 8:15 PM | W-1-0044 | Jenna Kim | TBA |
-12 | Thu 7:00 PM - 8:15 PM | W-1-0044 | Adnan Ali | TBA |
+1 | Tue 11:00 AM - 12:15 PM | W-1-0055 | TBD | Sonali Mamidipaka | 
+2 | Thu 11:00 AM - 12:15 PM | W-1-0061 | TBD | Sonali Mamidipaka |
+3 | Tue 2:00 PM - 3:15 PM | W-1-0055 | TBD | Rohini Deshmukh |
+4 | Thu 2:00 PM - 3:15 PM | W-1-0061 | TBD | Rohini Deshmukh |
+5 | Tue 9:30 AM - 10:45 AM | Y-4-4130 | TBD | Kenichi Maeda |
+6 | Thu 9:30 AM - 10:45 AM | Y-1-1320 | TBD | Kenichi Maeda |
 
 #### Supplemental Instruction
 
-As part of the College of Science and Mathematics Freshman Success Program, supplemental instruction (SI) is available to all CS110 students free of charge. The SI sessions will also start from the second week. The focus of the sessions for a particular week will be the material covered in class during the previous week. The SI leader will walk you through the relevant lecture notes and solve problems. In addition, the SI leader will answer any specific questions you may have about the current exercise/project assignment, or the course material in general. The SI sessions are optional, but highly recommended, especially if you feel like you are falling behind in the course. You may attend as few or as many sessions as you like. You will receive extra-credit points for attending and participating in the sessions (see the Grading section below).
+As part of the College of Science and Mathematics Freshman Success Program, supplemental instruction (SI) is available to all CS110 students free of charge. The SI sessions will also start from the second week. The focus of the sessions for a particular week will be the material covered in class during the previous week. The SI leader will walk you through the relevant lecture notes and solve problems. In addition, the SI leader will answer any specific questions you may have about the current exercise/project assignment, or the course material in general. The SI sessions are optional, but highly recommended, especially if you feel like you are falling behind in the course. You may attend as few or as many sessions as you like. You will receive extra-credit points for attending the sessions (see the Grading section below).
 
 | **When** | **Where** |
-| Tue 2:00 PM - 3:15 PM | W-2-0124 |
-| Thu 2:00 PM - 3:15 PM | W-2-0124 |
-| Thu 7:00 PM - 8:15 PM | M-2-0214 |
-| Sat 12:00 PM - 12:50 PM | Remote ([Zoom link](https://umassboston.zoom.us/j/95824390861)) |
+| TBD | TBD |
+| TBD | TBD |
+| TBD | TBD |
+| TBD | TBD |
 
 #### Tutoring
 
@@ -77,7 +68,7 @@ Tutoring for this course is available through the [Tutoring Programs](https://ww
 
 [Introduction to Programming in Python: An Interdisciplinary Approach](http://www.amazon.com/Introduction-Programming-Python-Interdisciplinary-Approach/dp/0134076435/) by Robert Sedgewick, Kevin Wayne, and Robert Dondero
 
-This text offers an excellent introduction to computing principles, motivating each principle by examining its impact on specific applications drawn from fields ranging from materials science to genomics to astrophysics to internet commerce.
+This text offers an excellent introduction to computing principles, motivating each by examining its impact on specific applications drawn from fields ranging from materials science to genomics to astrophysics to internet commerce.
 
 ### Grading
 
@@ -105,29 +96,28 @@ This text offers an excellent introduction to computing principles, motivating e
 | [60, 63)  | D-  |
 | [0, 60)   | F   |
 
-**Note:**
+#### Note
 
 - The goal of the exercises and projects is to make sure that you can apply the concepts learned in class to solve relatively straightforward computational problems (exercises) and somewhat challenging real-world scientific problems (projects).
 - The exams will test your understanding of the material covered in class as well as concepts from the projects.
 - Each of the two exams will have a written and a programming component. The written exam, worth 75 points, will take place during a class period. The exam will be closed-book and will contain 25 multiple-choice questions, each worth 3 points. The programming exam, worth 25 points, will take place during a discussion session.
-- I will not give makeup exams unless there is an extremely compelling reason and documentation to support it.
 - If you score at least 80% on both exams, the higher exam score will be considered as the exam average.
 - Attendance score will be based on attendance in class (3%) and discussions (2%).
-- You can earn up to 3% extra points for attending and participating in the SI sessions. The points will be assigned based on feedback from the SI leader.
+- You can earn up to 3% extra points for attending the SI sessions. Your SI score will be calculated as `3A(E1 + E2) / 200N`, where `A` is the number of unique sessions you attended (attending multiple sessions in a week just counts as one), `N` is the number of unique sessions held, and `E1` and `E2` are your Exam 1 and Exam 2 scores, respectively. For example, if `A = 9`, `N = 13`, `E1 = 62`, and `E2 = 82`, the SI score is `1.5%`.
 - You can also earn up to 0.01x% extra points if x% of the class completes the end-of-semester course evaluation. 
 - If your overall score falls within half a percent of a higher grade, your score will be elevated to that grade.
 
-To calculate your current course grade, visit the [What's My Grade](https://www.cs.umb.edu/~siyer/teaching/cs110_grade.html) website.
+Click [here](grade.html) to calculate your current course grade.
 
 ### iClicker
 
-I will use [iClicker](https://app.reef-education.com/\#/login iClicker) to record your attendance in class. You will be able to mark yourself present, using your laptop or smartphone, during the first 15 minutes of a class. In addition, I will take paper-based attendance on three unannounced days. If I find any discrepancy in your attendance record on those days (ie, you were marked present on iClicker but absent on paper), you will receive a 0 for your overall attendance score.
+Starting from the second week, I will use [iClicker](https://app.reef-education.com/\#/login iClicker) to record your attendance in class. You will be able to mark yourself present, using your laptop or smart device, during the first 15 minutes of a class. In addition, I will take paper-based attendance on some undisclosed days. If I find any discrepancy in your attendance record on those days (ie, you were marked present on iClicker but absent on paper), you will receive a 0 for your overall attendance score.
 
-The TAs will record your attendance during discussions.
+The TAs will manually record your attendance during discussions.
 
 ### Piazza
 
-I will use [Piazza](https://piazza.com/umb/fall2023/cs110/home) as the online discussion forum for the course. If you have any general questions about the projects, lectures, textbook, or other course material, the most effective way to get them resolved is by posting them on Piazza. You can expect your questions to be answered by the course staff or one of your classmates. Remember that you can post anonymously, but you are anonymous only to your classmates and not to the course staff.
+I will use [Piazza](https://piazza.com/umb/spring2024/cs110/home) as the online discussion forum for the course. If you have any general questions about the projects, lectures, textbook, or other course material, the most effective way to get them resolved is by posting them on Piazza. You can expect your questions to be answered by the course staff or one of your classmates. Remember that you can post anonymously, but you are anonymous only to your classmates and not to the course staff.
 
 ### Gradescope
 
@@ -135,7 +125,7 @@ I will use [Gradescope](https://gradescope.com/) to grade your projects and exam
 
 ### Programming Environment
 
-To write and execute Python programs in this course, you will need a laptop (Linux, Mac, or Windows) properly configured with the necessary software. Click [here](https://www.cs.umb.edu/~siyer/teaching/cs110/ipp_programming_environment_setup.pdf) for setup instructions.
+To write and execute Python programs in this course, you will need a laptop (Linux, Mac, or Windows) properly configured with the necessary software. Click [here](programming_environment.html) for setup instructions.
 
 <a name="cs_account"></a>
 ### CS Account
@@ -152,25 +142,41 @@ Visit [CS Labs Portal](https://portal.cs.umb.edu/) to register for a portal/CS a
 - Have your mobile phone silenced or turned off during the entire session.
 - Do not talk to each other during the session. If you have any questions, bring them up to the instructor.
 
+#### iClicker
+
+You have to remember to use iClicker during the first 15 minutes of a class to record your presence. Set a reminder on your smartphone if you are of the kind that forgets these things easily. I will **not** fix your attendance record if you forget to mark yourself present.
+
 #### Piazza
 
 - If you have a question, first make sure that it has not already been asked/answered.
-- Clearer questions get better answers, so re-read your question before you post it.
+- Clearer questions get clearer answers, so re-read your question before you post it.
 - Ask your questions early.
 - Posts are organized in folders, so specify the right folder(s) for your post.
-- Use the forum only for questions that can be asked in a general way, without sharing code or other project-related work. However, if you are stuck on a problem despite your valiant efforts to solve it, you may seek help from the course staff by posting your code privately, as properly formatted text (not images).
+- Use the forum only for questions that can be asked in a general way, without sharing code or other assignment-related work. However, if you are stuck on a problem despite your valiant efforts to solve it, you may seek help from the course staff by posting your code privately, as properly formatted text (not images).
+- Posts that might be of general interest to the entire class must be made public. The course staff reserves the right to make such posts public if they are not.
 - Any post that is inappropriate or violates the academic honesty code will be deleted by the course staff.
+
+#### Excused Absence and Makeup Exam 
+
+You must provide an appropriate letter from the [Dean of Students](https://cm.maxient.com/reportingform.php?UMassBoston&layout_id=24) if: 
+- You could not attend a lecture or discussion and want your absence to be excused. 
+- You were/are unable to take an exam on the scheduled date and want to arrange a makeup exam. 
 
 #### Collaboration
 
-Read the handout [`cs110_collaboration.pdf`](https://www.cs.umb.edu/~siyer/teaching/cs110/cs110_collaboration.pdf).
+Click [here](collaboration.html) for the collaboration policy and the penalties for infractions of the policy.
 
-If you are caught cheating on a project/exam and if it is your first offense, you will receive a 0 for that project/exam, and you will be reported to the appropriate department official. If you repeat this behavior and are caught again, you will receive an F for the course and you will be reported to the appropriate university personnel. Regrettably, this has happened quite often and is always extremely unpleasant.
+#### Late Days 
+
+- Assignment deadlines are firm and non negotiable, but you have up to 5 (8 if you have accommodations through the Ross Center) late days that you may use to submit one or more assignments a bit late. 
+- You may request an extension for any assignment only once. To do so, must send me a request via email (not Piazza) at least 48 hours prior to the assignment deadline, clearly stating the number of late days needed, or else your request will not be granted.
+- The extension, if granted, will be applied to both the exercise and the project. 
+
+#### Regrade Request
+
+- If you have any concerns about the grading of a particular assignment (exercise or project) or exam (programming or written), you may submit a [regrade request](https://www.gradescope.com/get_started#student-submission-view) via Gradescope. 
+- You must submit your regrade request within a week from the date the assignment or exam grades are published, or else your request will be turned down.
 
 #### Accommodations for Students with Disabilities
 
-Section 504 of the Americans with Disabilities Act of 1990 offers guidelines for curriculum modifications and adaptations for students with documented disabilities. If applicable, students may obtain adaptation recommendations from the [Ross Center for Disability Services](http://www.rosscenter.umb.edu/). The student must present these recommendations and discuss them with the instructor within a reasonable period, preferably by the end of Add/Drop period. 
-
-#### Qualities for Success
-
-Qualities needed to succeed in this course and as a programmer in general (taken from the article [*10 Signs You Will Suck at Programming*](https://blog.usejournal.com/10-signs-you-will-suck-at-programming-5497a6a52c5c) by Jonathan Bluks): curiosity, resourcefulness, persistence, excitement, patience, concentration, independence, focus, creativity, and meticulousness.
+Section 504 of the Americans with Disabilities Act of 1990 offers guidelines for curriculum modifications and adaptations for students with documented disabilities. If applicable, students may obtain adaptation recommendations from the [Ross Center for Disability Services](https://www.umb.edu/academics/seas/disability-services/). The student must present these recommendations and discuss them with the instructor within a reasonable period, preferably by the end of Add/Drop period. 

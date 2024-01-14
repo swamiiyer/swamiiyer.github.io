@@ -7,19 +7,19 @@ order: 6
 
 ### Essentials
 
-- [Programming Environment Setup Instructions](https://www.cs.umb.edu/~siyer/teaching/cs210/dsaj_programming_environment_setup.pdf)
-- [Virtual Machine Image](https://www.cs.umb.edu/~siyer/teaching/ElementaryOS.ova) (Size: 7,502,567,424 bytes; MD5 Hash: 2516c48de084a3a1ed8fb71884fd9e20)
+- [Programming Environment Setup](programming_environment.html)
 - Programs Discussed in Class ([PDF](https://www.cs.umb.edu/~siyer/teaching/dsaj.pdf) \| [IntelliJ Project](https://www.cs.umb.edu/~siyer/teaching/dsaj.zip))
 - Java Versions of Programs Discussed in CS110 ([PDF](https://www.cs.umb.edu/~siyer/teaching/ipj.pdf) \| [IntelliJ Project](https://www.cs.umb.edu/~siyer/teaching/ipj.zip))
 - [Dummy IntelliJ Project](https://www.cs.umb.edu/~siyer/teaching/cs210/dummy_project.zip)
 - [iClicker](https://app.reef-education.com/\#/login iClicker)
-- [Piazza](https://piazza.com/umb/fall2023/cs210/home)
+- [Piazza](https://piazza.com/umb/spring2024/cs210/home)
 - [Gradescope](https://gradescope.com/)
 - Sample Exams
   - [Written Exam 1](https://www.cs.umb.edu/~siyer/teaching/cs210/cs210_sample_written_exam1.pdf) \| [Programming Exam 1](https://www.cs.umb.edu/~siyer/teaching/cs210/cs210_sample_programming_exam1.pdf)
   - [Written Exam 2](https://www.cs.umb.edu/~siyer/teaching/cs210/cs210_sample_written_exam2.pdf) \| [Programming Exam 2](https://www.cs.umb.edu/~siyer/teaching/cs210/cs210_sample_programming_exam2.pdf)
-- [What's My Grade?](https://www.cs.umb.edu/~siyer/teaching/cs210_grade.html)
+- [What's My Grade?](grade.html)
 - [Syllabus](https://www.cs.umb.edu/~siyer/teaching/cs210/cs210_syllabus.pdf)
+- [Math (Precalculus) Review](https://www.khanacademy.org/math/precalculus) 
 
 ### Documentation
 
@@ -30,8 +30,6 @@ order: 6
 
 ### Miscellaneous
 
-- [Basic UNIX for CS Majors](http://www.cs.umb.edu/~ghoffman/linux/unix_cs_students.html)
-- [Math (Precalculus) Review](https://www.khanacademy.org/math/precalculus)
 - [Sorting Algorithm Animations](http://www.sorting-algorithms.com/)
 - [Algorithm Demonstrations](https://www.youtube.com/user/AlgoRythmics/videos)
 - [Audibilization and Visualization of Sorting Algorithms](http://panthema.net/2013/sound-of-sorting/)

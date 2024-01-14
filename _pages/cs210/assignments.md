@@ -43,12 +43,8 @@ For a project, the given `notes.txt` file must be uploaded with the three sectio
 
 ### Submitting Your Work
 
-You will use [Gradescope](https://gradescope.com/) to submit your Java programs (ie, `.java` files). Make sure that you only submit files listed under the *Files to Submit* section of the assignment writeup.
+You will use [Gradescope](https://gradescope.com/) to submit your Java programs (ie, `.java` files) and the `notes.txt` file. Make sure that you only submit files listed under the *Files to Submit* section of the assignment writeup.
 
 You may submit your files as many times as you like, up until the assignment deadline. The most recent submission is considered *active* by default and your score on the active submission is your official score for the assignment as well. You have the option of making any of your previous submissions active.
 
 Note: If your active submission is partial, your assignment score will also be partial, so in order to be eligible for full credit, make sure you have an active submission containing all the required files for the assignment. 
-
-#### Late Days
-
-Assignment deadlines are firm and non negotiable. However, you have up to 5 (10 if you have accommodations through the Ross Center) late days that you may use to submit one or more assignments a bit late. You may use them all for a single assignment or spread them across the assignments as you find necessary. If you need to use any of your available late days for a particular assignment, you must send me a request via email at least 48 hours prior to the assignment deadline, or else your request will not be granted.

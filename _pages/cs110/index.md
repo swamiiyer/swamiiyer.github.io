@@ -5,39 +5,13 @@ title: Home
 order: 1
 ---
 
-**Nov 27, 2023**
+### Jan 21, 2024
 
-[Exercise 6](/cs110/assignments.html) and [Project 6](/cs110/assignments.html) are available and are due at 11:59 PM on Wed 13 (Wed).
+**Assignment 1**
 
-**Nov 6, 2023**
+ [Exercise 1](assignments.html) and [Project1](assignments.html) are available and are due at 11:59 PM on Feb 11 (Sun). 
 
-[Exercise 5](/cs110/assignments.html) and [Project 5](/cs110/assignments.html) are available and are due at 11:59 PM on Nov 26 (Sun).
-
-**Oct 23, 2023**
-
-[Exercise 4](/cs110/assignments.html) and [Project 4](/cs110/assignments.html) are available and are due at 11:59 PM on Nov 5 (Sun).
-
-**Oct 7, 2023**
-
-[Exercise 3](/cs110/assignments.html) and [Project 3](/cs110/assignments.html) are available and are due at 11:59 PM on Oct 22 (Sun).
-
-**Sep 28, 2023**
-
-The new deadline for Exercise 2 and Project 2 is 11:59 PM on Oct 10 (Tue).
-
-**Sep 25, 2023**
-
-[Exercise 2](/cs110/assignments.html) and [Project 2](/cs110/assignments.html) are available and are due at 11:59 PM on Oct 8 (Sun).
-
-**Sep 12, 2023**
-
-Discussions and SI sessions start this week.
-
-**Sep 7, 2023**
-
-[Exercise 1](/cs110/assignments.html) and [Project 1](/cs110/assignments.html) are available and are due at 11:59 PM on Sep 24 (Sun).
-
-**Sep 5, 2023**
+**Welcome Message**
 
 Dear student,
 
@@ -52,16 +26,16 @@ Welcome to the Introduction to Computing (CS110) course I will be teaching this 
   - Follow up on the invitations that will be sent to your UMB email address to sign up for:
       - Piazza (Q&A platform) and
       - Gradescope (grading platform).
-  - Setup the [programming environment](https://www.cs.umb.edu/~siyer/teaching/cs110/ipp_programming_environment_setup.pdf) on your computer.
-  - Fill out the questionnaire available on Gradescope.
-  - Complete the [Supplemental Instruction (SI) poll](https://forms.gle/3xNfwuYchDVUjVSF7).
+  - Setup the [programming environment](programming_environment.html) on your computer.
+  - Complete the mandatory questionnaire (ie, all six questions) available on Gradescope. You will **not** be allowed to submit your assignments or take the exams until you do so. 
+  - Complete the [Supplemental Instruction (SI) poll](https://forms.gle/FLz3APKrG8kLsScj6).
   - Sign up for a [CS account](course_info.html#cs_account).
 
 - CS110 is a very demanding course, so please be prepared to work really hard from the outset, or else you will quickly fall behind and end up with a poor/failing grade.
 
-- If you are currently waitlisted, you will be enrolled automatically if enough students drop out before the add/drop deadline. Please note that I will **not** go over the enrollment capacity for the course, which is set at 200.
+- If you are currently waitlisted, you will be enrolled automatically if enough students drop out before the add/drop deadline. Please note that I will **not** go over the enrollment capacity for the course, which is set at 150.
 
-- <font color="red">NOTE: During the first week we will only meet for lectures. Discussions and SI sessions will start from the second week, ie, the week of Sep 11.</font>
+- <font color="red">NOTE: During the first week we will only meet for lectures. Discussions and SI sessions will start from the second week, ie, the week of Jan 29.</font>
 
 I look forward to having you in my class.
 
