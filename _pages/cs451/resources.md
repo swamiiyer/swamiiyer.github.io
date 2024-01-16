@@ -7,7 +7,7 @@ order: 6
 
 ### Essentials
 
-- [Programming Environment Setup](programming_environment.html)
+- [Programming Environment](programming_environment.html)
 - [Base *j\-\-* Compiler](https://www.cs.umb.edu/j--/j--.zip)
 - [iClicker](https://app.reef-education.com/\#/login iClicker)
 - [Piazza](https://piazza.com/umb/spring2024/cs451651/home)
