@@ -97,6 +97,7 @@ $ cd $HOME
 ```
 $ mkdir workspace
 ```
+>
 > Set the environment variable `j`.
 ```
 $ setx j "$HOME\workspace"
@@ -110,6 +111,7 @@ $ setx j "$HOME\workspace"
 ```
 $ setx JAVA_HOME "C:\jdk17\bin"
 ```
+>
 > Update the environment variable `PATH` to include the `C:\jdk17\bin`
 folder.
 ```
