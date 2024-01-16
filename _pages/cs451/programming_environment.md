@@ -19,7 +19,7 @@ $ cd $HOME
 $ sudo apt-get install openjdk-17-jdk ant spim
 ```
 >
-> Create workspace folder.
+> Create `workspace` folder.
 ```
 $ mkdir workspace
 ```
@@ -33,7 +33,7 @@ $ echo "export j=$HOME/workspace" >> $HOME/.bashrc
 [IntelliJ](https://www.jetbrains.com/idea/download/#section=linux) (Community Edition).
 
 > To test your environment, download and unzip the
-[base *j\-\-* compiler](https://www.cs.umb.edu/j--/j--.zip) under `~/workspace`, launch IntelliJ and open `~/workspace/j--`, and run the following commands on the IntelliJ terminal.
+[base *j\-\-* compiler](https://www.cs.umb.edu/j--/j--.zip) under `~/workspace`, launch IntelliJ and open `~/workspace/j--`, and run the following commands on the IntelliJ terminal:
 ```
 $ ant
 $ bash ./bin/j-- tests/jvm/HelloWorld.java
@@ -61,7 +61,7 @@ $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/
 $ brew install openjdk@17 ant spim
 ```
 >
-> Create workspace folder.
+> Create `workspace` folder.
 ```
 $ mkdir workspace
 ```
@@ -75,7 +75,7 @@ $ echo "export j=$HOME/workspace" >> $HOME/.zshenv
 [IntelliJ](https://www.jetbrains.com/idea/download/#section=mac) (Community Edition).
 
 > To test your environment, download and unzip the
-[base *j\-\-* compiler](https://www.cs.umb.edu/j--/j--.zip) under `~/workspace`, launch IntelliJ and open `~/workspace/j--`, and run the following commands on the IntelliJ terminal.
+[base *j\-\-* compiler](https://www.cs.umb.edu/j--/j--.zip) under `~/workspace`, launch IntelliJ and open `~/workspace/j--`, and run the following commands on the IntelliJ terminal:
 ```
 $ ant 
 $ zsh ./bin/j-- tests/jvm/HelloWorld.java 
@@ -93,7 +93,7 @@ $ spim -f HelloWorld.s
 $ cd $HOME
 ```
 >
-> Create workspace folder
+> Create `workspace` folder
 ```
 $ mkdir workspace
 ```
@@ -135,7 +135,7 @@ $ setx PATH "$env:PATH;C:\ant\bin"
 > (Community Edition). Launch IntelliJ, go to *Configure* &rarr; *Settings* &rarr; *Tools* &rarr; *Terminal*, and set *Shell path* to `powershell`.
 
 > To test your environment, download and unzip the
-[base *j\-\-* compiler](https://www.cs.umb.edu/j--/j--.zip) under `~/workspace`, launch IntelliJ and open `~/workspace/j--`, and run the following commands on the IntelliJ terminal.
+[base *j\-\-* compiler](https://www.cs.umb.edu/j--/j--.zip) under `~/workspace`, launch IntelliJ and open `~/workspace/j--`, and run the following commands on the IntelliJ terminal:
 ```
 $ ant 
 $ ./bin/j-- tests/jvm/HelloWorld.java 
