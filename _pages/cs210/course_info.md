@@ -44,7 +44,7 @@ Starting from the second week, there will be a discussion every week. The focus 
 1 | Tue 12:30 PM - 1:45 PM | M-1-0418 | TBD | Trinadhreddy Seelam |
 2 | Thu 12:30 PM - 1:45 PM | M-1-0418 | TBD | Trinadhreddy Seelam |
 3 | Tue 4:00 PM - 5:15 PM | W-1-0045 | TBD | Lorenzo Orio |
-4 | Thu 4:00 PM - 5:15 PM | W-1-0045 | TBD | Lorenzo Orio |
+4 | Thu 4:00 PM - 5:15 PM | W-1-0055 | TBD | Lorenzo Orio |
 5 | Tue 9:30 AM - 10:45 AM | W-2-0200 | TBD | Jongsoo Ha |
 6 | Thu 9:30 AM - 10:45 AM | W-1-0047 | TBD | Jongsoo Ha |
 
