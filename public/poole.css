@@ -172,6 +172,12 @@ pre {
   word-wrap: break-word;
   background-color: #f9f9f9;
 }
+pre button { /* Added by Swami on 011824 */
+  background-color: transparent;
+  border: 0;
+  cursor: pointer;
+  float: right;
+}
 pre code {
   padding: 0;
   font-size: 100%;

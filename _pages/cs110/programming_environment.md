@@ -14,17 +14,17 @@ exclude: true
 $ cd $HOME
 ```
 >
-> Install python3-pip and python3-tk.
+> Install `python3-pip` and `python3-tk`.
 ```
 $ sudo apt-get install python3-pip python3-tk
 ```
 >
-> Install numpy and pygame.
+> Install `numpy` and `pygame`.
 ```
 $ pip3 install numpy pygame
 ```
 >
-> Create lib and workspace folders.
+> Create `lib` and `workspace` folders.
 ```
 $ mkdir lib workspace
 ```
@@ -53,7 +53,7 @@ $ echo "export PYTHONPATH=.:$HOME/lib/stdlib-python" >> $HOME/.bashrc
 [PyCharm](https://www.jetbrains.com/pycharm/download/#section=linux) (Community Edition).
 
 > To test your environment, download and unzip the
-[dummy project](https://www.cs.umb.edu/~siyer/teaching/cs110/dummy_project.zip) under `~/workspace`, launch PyCharm and open `~/workspace/dummy_project`, and run the following commands on the PyCharm terminal.
+[dummy project](https://www.cs.umb.edu/~siyer/teaching/cs110/dummy_project.zip) under `~/workspace`, launch PyCharm and open `~/workspace/dummy_project`, and run the following command on the PyCharm terminal:
 ```
 $ python3 helloworld.py
 ```
@@ -67,22 +67,22 @@ $ python3 helloworld.py
 $ cd $HOME
 ```
 >
-> Install brew.
+> Install `brew`.
 ```
 $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 >
-> Install wget
+> Install `wget`.
 ```
 $ brew install wget
 ```
 >
-> Install numpy, pygame, and tk.
+> Install `numpy`, `pygame`, and `tk`.
 ```
 $ pip3 install numpy pygame tk
 ```
 >
-> Create lib and workspace folders.
+> Create `lib` and `workspace` folders.
 ```
 $ mkdir lib workspace
 ```
@@ -111,14 +111,14 @@ $ echo "export PYTHONPATH=.:$HOME/lib/stdlib-python" >> $HOME/.zshenv
 [PyCharm](https://www.jetbrains.com/pycharm/download/#section=mac) (Community Edition).
 
 > To test your environment, download and unzip the
-[dummy project](https://www.cs.umb.edu/~siyer/teaching/cs110/dummy_project.zip) under `~/workspace`, launch PyCharm and open `~/workspace/dummy_project`, and run the following commands on the PyCharm terminal.
+[dummy project](https://www.cs.umb.edu/~siyer/teaching/cs110/dummy_project.zip) under `~/workspace`, launch PyCharm and open `~/workspace/dummy_project`, and run the following command on the PyCharm terminal:
 ```
 $ python3 helloworld.py
 ```
 
 ### Windows
 
-> Install [Python 3](https://www.python.org/downloads/). Make sure you have checked the box that says *Add
+> Install [Python 3](https://www.python.org/downloads/),  making sure you have checked the box that says *Add
 Python 3.x to PATH*.
 
 > Launch a powershell terminal and run the following commands:
@@ -128,12 +128,12 @@ Python 3.x to PATH*.
 $ cd $HOME
 ```
 >
-> Install numpy and pygame.
+> Install `numpy` and `pygame`.
 ```
 $ pip3 install numpy pygame
 ```
 >
-> Create lib and workspace folders.
+> Create `lib` and `workspace` folders.
 ```
 $ mkdir lib,workspace
 ```
@@ -162,7 +162,7 @@ $ setx PYTHONPATH ".;$HOME\lib\stdlib-python"
 [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows) (Community Edition).
 
 > To test your environment, download and unzip the
-[dummy project](https://www.cs.umb.edu/~siyer/teaching/cs110/dummy_project.zip) under `~/workspace`, launch PyCharm and open `~/workspace/dummy_project`, and run the following commands on the PyCharm terminal.
+[dummy project](https://www.cs.umb.edu/~siyer/teaching/cs110/dummy_project.zip) under `~/workspace`, launch PyCharm and open `~/workspace/dummy_project`, and run the following command on the PyCharm terminal:
 ```
 $ python.exe helloworld.py
 ```

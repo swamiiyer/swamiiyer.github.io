@@ -10,4 +10,26 @@ layout: cs451_default
   {% endif %}
   <hr/>
   {{ content }}
+
+  <!-- Copy to clipboard functionality. -->
+  <script>
+  var preBlocks = document.querySelectorAll('pre');
+  preBlocks.forEach(function (preBlock) {
+    var copyButton = document.createElement('button');
+    copyButton.innerHTML = '<i class="fa fa-clone"></i>';
+    var codeBlock = preBlock.childNodes[0]
+    preBlock.removeChild(codeBlock);
+    preBlock.append(copyButton);
+    preBlock.append(codeBlock);
+    copyButton.addEventListener('click', function () {
+      var code = codeBlock.innerText.trim().substring(2);
+      window.navigator.clipboard.writeText(code);
+      copyButton.innerHTML = '<i class="fa fa-clone" style="color:red;font-weight:bold"></i>'; 
+      var delay = 2000;
+      setTimeout(function () {
+        copyButton.innerHTML = '<i class="fa fa-clone"></i>'; 
+      }, delay);
+    });
+  });
+  </script>
 </div>

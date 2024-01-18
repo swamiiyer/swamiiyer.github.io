@@ -14,12 +14,12 @@ exclude: true
 $ cd $HOME
 ```
 >
-> Install OpenJDK.
+> Install `OpenJDK`.
 ```
 $ sudo apt-get install openjdk-17-jdk
 ```
 >
-> Create lib and workspace folders.
+> Create `lib` and `workspace` folders.
 ```
 $ mkdir lib workspace
 ```
@@ -48,9 +48,12 @@ $ echo "export CLASSPATH=.:./out:$HOME/lib/stdlib.jar:$HOME/lib/dsa.jar" >> $HOM
 [IntelliJ](https://www.jetbrains.com/idea/download/#section=linux) (Community Edition).
 
 > To test your environment, download and unzip the
-[dummy project](https://www.cs.umb.edu/~siyer/teaching/cs210/dummy_project.zip) under `~/workspace`, launch IntelliJ and open `~/workspace/dummy_project`, and run the following commands on the IntelliJ terminal.
+[dummy project](https://www.cs.umb.edu/~siyer/teaching/cs210/dummy_project.zip) under `~/workspace`, launch IntelliJ and open `~/workspace/dummy_project`, and run the following commands on the IntelliJ terminal:
 ```
 $ javac -d out src/HelloWorld.java
+```
+>
+```
 $ java HelloWorld
 ```
 
@@ -63,17 +66,17 @@ $ java HelloWorld
 $ cd $HOME
 ```
 >
-> Install brew.
+> Install `brew`.
 ```
 $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 >
-> Install OpenJDK and wget.
+> Install `OpenJDK` and `wget`.
 ```
 $ brew install openjdk@17 wget
 ```
 >
-> Create lib and workspace folders.
+> Create `lib` and `workspace` folders.
 ```
 $ mkdir lib workspace
 ```
@@ -102,9 +105,12 @@ $ echo "export CLASSPATH=.:./out:$HOME/lib/stdlib.jar:$HOME/lib/dsa.jar" >> $HOM
 [IntelliJ](https://www.jetbrains.com/idea/download/#section=mac) (Community Edition).
 
 > To test your environment, download and unzip the
-[dummy project](https://www.cs.umb.edu/~siyer/teaching/cs210/dummy_project.zip) under `~/workspace`, launch IntelliJ and open `~/workspace/dummy_project`, and run the following commands on the IntelliJ terminal.
+[dummy project](https://www.cs.umb.edu/~siyer/teaching/cs210/dummy_project.zip) under `~/workspace`, launch IntelliJ and open `~/workspace/dummy_project`, and run the following commands on the IntelliJ terminal:
 ```
 $ javac -d out src/HelloWorld.java
+```
+>
+```
 $ java HelloWorld
 ```
 
@@ -117,7 +123,7 @@ $ java HelloWorld
 $ cd $HOME
 ```
 >
-> Create lib and workspace folders.
+> Create `lib` and `workspace` folders.
 ```
 $ mkdir lib,workspace
 ```
@@ -158,8 +164,11 @@ $ setx PATH "$env:PATH;C:\jdk17\bin"
 > (Community Edition). Launch IntelliJ, go to *Configure* &rarr; *Settings* &rarr; *Tools* &rarr; *Terminal*, and set *Shell path* to `powershell`.
 
 > To test your environment, download and unzip the
-[dummy project](https://www.cs.umb.edu/~siyer/teaching/cs210/dummy_project.zip) under `~/workspace`, launch IntelliJ and open `~/workspace/dummy_project`, and run the following commands on the IntelliJ terminal.
+[dummy project](https://www.cs.umb.edu/~siyer/teaching/cs210/dummy_project.zip) under `~/workspace`, launch IntelliJ and open `~/workspace/dummy_project`, and run the following commands on the IntelliJ terminal:
 ```
 $ javac -d out src/HelloWorld.java
+```
+>
+```
 $ java HelloWorld
 ```
