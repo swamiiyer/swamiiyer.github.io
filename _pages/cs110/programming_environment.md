@@ -72,14 +72,14 @@ $ cd $HOME
 $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 >
-> Install `wget`.
+> Install `python-tk` and `wget`.
 ```
-$ brew install wget
+$ brew install python-tk wget
 ```
 >
-> Install `numpy`, `pygame`, and `tk`.
+> Install `numpy` and `pygame`.
 ```
-$ pip3 install numpy pygame tk
+$ pip3 install numpy pygame
 ```
 >
 > Create `lib` and `workspace` folders.

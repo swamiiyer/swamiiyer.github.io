@@ -17,12 +17,12 @@ Students who successfully complete this course will be able to tackle computatio
 
 | **Name** | **Role** | **Email** | **Office** | **Office Hours** |
 Swami Iyer | Instructor | [siyer@cs.umb.edu](siyer@cs.umb.edu) | M-3-201-14 | In-person: Tue Thu 10:00 AM - 12:00 PM<br/> Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09)) |
-TBD | Teaching Assistant | TBD | TBD | TBD | 
-TBD | Teaching Assistant | TBD | TBD | TBD | 
-TBD | Teaching Assistant | TBD | TBD | TBD | 
-Kenichi Maeda | Course Assistant | [kenichi.maeda001@umb.edu](kenichi.maeda001@umb.edu) | M-3-0731 | TBD |
+Adnan Ali | Teaching Assistant | [a.lnu008@umb.edu](a.lnu008@umb.edu) | M-3-201-10 | Tue Thu 2:00 PM - 3:00 PM | 
+Jenna Kim | Teaching Assistant | [jiehyun.kim001@umb.edu](jiehyun.kim001@umb.edu) | M-3-201-10 | Tue Thu 3:30 PM - 4:30 PM | 
+Shruti Varade | Teaching Assistant | [s.varade001@umb.edu](s.varade001@umb.edu) | M-3-201-10 | TBD | 
+Kenichi Maeda | Course Assistant | [kenichi.maeda001@umb.edu](kenichi.maeda001@umb.edu) | M-3-0731 | Tue Thu 4:00 PM - 5:00 PM |
 Rohini Deshmukh | Course Assistant | [r.deshmukh001@umb.edu](r.deshmukh001@umb.edu) | M-3-0731 | TBD | 
-Sonali Mamidipaka | Course Assistant | [sonali.mamidipaka001@umb.edu](sonali.mamidipaka001@umb.edu) | M-3-0731 | TBD |
+Sonali Mamidipaka | Course Assistant | [sonali.mamidipaka001@umb.edu](sonali.mamidipaka001@umb.edu) | M-3-0731 | Mon Wed 5:30 PM - 6:30 PM |
 Sarah Wilkinson | Supplemental Instruction Leader | [sarah.wilkinson001@umb.edu](sarah.wilkinson001@umb.edu) | - | - |
 
 Note: In case you want to email us, please start the subject line with `[CS110]`.
@@ -41,12 +41,12 @@ We will have two lectures per week, during which I will present the material fro
 Starting from the second week, there will be a discussion every week. The focus of the discussion for a particular week will be the current assignment. The teaching assistant (TA) will walk you through the exercise/project problems systematically. The TA will also answer any specific questions you may have about the assignment or the course material in general. You may also seek help from the course assistant (CA) who will be assisting the TA during the discussions. The discussions will be worthwhile only if you go to the sessions having read the assignment writeup thoroughly and have at least a moderate understanding of the problems involved. The TA will assume that you have done the reading in advance.
 
 | **Section** | **When** | **Where** | **TA** | **CA** |
-1 | Tue 11:00 AM - 12:15 PM | W-1-0055 | TBD | Sonali Mamidipaka | 
-2 | Thu 11:00 AM - 12:15 PM | W-1-0061 | TBD | Sonali Mamidipaka |
-3 | Tue 2:00 PM - 3:15 PM | W-1-0055 | TBD | Rohini Deshmukh |
-4 | Thu 2:00 PM - 3:15 PM | W-1-0061 | TBD | Rohini Deshmukh |
-5 | Tue 9:30 AM - 10:45 AM | Y-4-4130 | TBD | Kenichi Maeda |
-6 | Thu 9:30 AM - 10:45 AM | Y-1-1320 | TBD | Kenichi Maeda |
+1 | Tue 11:00 AM - 12:15 PM | W-1-0055 | Adnan Ali | Sonali Mamidipaka | 
+2 | Thu 11:00 AM - 12:15 PM | W-1-0061 | Adnan Ali | Sonali Mamidipaka |
+3 | Tue 2:00 PM - 3:15 PM | W-1-0055 | Jenna Kim | Rohini Deshmukh |
+4 | Thu 2:00 PM - 3:15 PM | W-1-0061 | Jenna Kim | Rohini Deshmukh |
+5 | Tue 9:30 AM - 10:45 AM | Y-4-4130 | Shruti Varade | Kenichi Maeda |
+6 | Thu 9:30 AM - 10:45 AM | Y-1-1320 | Shruti Varade | Kenichi Maeda |
 
 #### Supplemental Instruction
 
