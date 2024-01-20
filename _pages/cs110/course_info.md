@@ -130,7 +130,7 @@ To write and execute Python programs in this course, you will need a laptop (Lin
 <a name="cs_account"></a>
 ### CS Account
 
-In order to use the computing resources of the department, and in particular, those in the CS Lab (`M-3-7-0031`), you need to setup a CS account. With your CS account credentials, you can connect to our designated server (`users.cs.umb.edu`) remotely using SSH. With the same credentials, you can also sign into the Linux systems in the CS Lab. In addition, you can sign into the Windows systems in the lab with the same username and an initial password `abcd_1234`, which you must change the first time you sign in. 
+In order to use the computing resources of the department, and in particular, those in the UNIX/PC Lab (`M-3-0731`), you need to setup a CS account. With your CS account credentials, you can connect to our designated server (`users.cs.umb.edu`) remotely using SSH. With the same credentials, you can also sign into the Linux systems in the CS Lab. In addition, you can sign into the Windows systems in the lab with the same username and an initial password `abcd_1234`, which you must change the first time you sign in. 
 
 Visit [CS Labs Portal](https://portal.cs.umb.edu/) to register for a portal/CS account and confirm via email. If you already have a CS account, use the same username. The next step is to sign into the portal and select your courses for the term. You will be notified via your UMB email once the course directories and your account are created.
 
