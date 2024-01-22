@@ -5,6 +5,8 @@ title: Programming Environment Setup
 exclude: true
 ---
 
+### Select Your Operating System
+
 [Ubuntu Linux](#linux)
 
 [Mac OS X](#mac) 
