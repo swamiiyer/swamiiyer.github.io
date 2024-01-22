@@ -21,7 +21,7 @@ Kristin Qi | Teaching Assistant | [yanankristin.qi001@umb.edu](yanankristin.qi00
 Lucas Gustafson | Teaching Assistant | [lucas.gustafson001@umb.edu](lucas.gustafson001@umb.edu) | M-3-201-10 | Mon Wed 2:30 PM - 3:30 PM | 
 Samyak Gangwal | Teaching Assistant | [s.gangwal001@umb.edu](s.gangwal001@umb.edu) | M-3-201-10 | Mon Wed 1:15 PM - 2:15 PM | 
 Jongsoo Ha | Course Assistant | [jongsoo.ha001@umb.edu](jongsoo.ha001@umb.edu) | M-3-0731 | Tue 4:00 PM - 5:00 PM; Fri 11:00 AM - 12:00 PM | 
-Lorenzo Orio | Course Assistant | [lorenzo.orio001@umb.edu](lorenzo.orio001@umb.edu) | M-3-0731 | TBD | 
+Lorenzo Orio | Course Assistant | [lorenzo.orio001@umb.edu](lorenzo.orio001@umb.edu) | M-3-0731 | Mon Wed 4:00 PM - 5:00 PM | 
 Trinadhreddy Seelam | Course Assistant | [t.seelam001@umb.edu](t.seelam001@umb.edu) | M-3-0731 | Tue Thu 11:00 AM - 12:00 PM |
 Gwen Dowling | Supplemental Instruction Leader | [gwen.dowling001@umb.edu](gwen.downling001@umb.edu) | - | - |
 
