@@ -5,6 +5,15 @@ title: Programming Environment Setup
 exclude: true
 ---
 
+### Select Your Operating System
+
+[Ubuntu Linux](#linux)
+
+[Mac OS X](#mac) 
+
+[Windows](#win) 
+
+<a name="linux"/>
 ### Ubuntu Linux
 
 > Launch a terminal and run the following commands:
@@ -58,6 +67,7 @@ $ echo "export PYTHONPATH=.:$HOME/lib/stdlib-python" >> $HOME/.bashrc
 $ python3 helloworld.py
 ```
 
+<a name="mac"/>
 ### Mac OS X
 
 > Launch a terminal and run the following commands: 
@@ -116,6 +126,7 @@ $ echo "export PYTHONPATH=.:$HOME/lib/stdlib-python" >> $HOME/.zshenv
 $ python3 helloworld.py
 ```
 
+<a name="win"/>
 ### Windows
 
 > Install [Python 3](https://www.python.org/downloads/),  making sure you have checked the box that says *Add

@@ -5,6 +5,13 @@ title: Programming Environment Setup
 exclude: true
 ---
 
+[Ubuntu Linux](#linux)
+
+[Mac OS X](#mac) 
+
+[Windows](#win) 
+
+<a name="linux"/>
 ## Ubuntu Linux
 
 > Launch a terminal and run the following commands:
@@ -54,6 +61,7 @@ $ bash ./bin/j-- -s naive tests/spim/HelloWorld.java
 $ spim -f HelloWorld.s
 ```
 
+<a name="mac"/>
 ## Mac OS X
 
 > Launch a terminal and run the following commands: 
@@ -108,6 +116,7 @@ $ zsh ./bin/j-- -s naive tests/spim/HelloWorld.java
 $ spim -f HelloWorld.s 
 ```
 
+<a name="win"/>
 ## Windows
 
 > Launch a powershell terminal and run the following commands:

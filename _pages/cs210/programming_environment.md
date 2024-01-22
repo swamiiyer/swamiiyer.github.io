@@ -5,6 +5,15 @@ title: Programming Environment Setup
 exclude: true
 ---
 
+### Select Your Operating System
+
+[Ubuntu Linux](#linux)
+
+[Mac OS X](#mac) 
+
+[Windows](#win) 
+
+<a name="linux"/>
 ## Ubuntu Linux
 
 > Launch a terminal and run the following commands:
@@ -57,6 +66,7 @@ $ javac -d out src/HelloWorld.java
 $ java HelloWorld
 ```
 
+<a name="mac"/>
 ## Mac OS X
 
 > Launch a terminal and run the following commands: 
@@ -114,6 +124,7 @@ $ javac -d out src/HelloWorld.java
 $ java HelloWorld
 ```
 
+<a name="win"/>
 ## Windows
 
 > Launch a powershell terminal and run the following commands:
