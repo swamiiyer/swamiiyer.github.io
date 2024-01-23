@@ -34,7 +34,7 @@ Note: In case you want to email us, please start the subject line with `[CS110]`
 We will have two lectures per week, during which I will present the material from the [slides](lecture_material.html). I strongly recommend skimming through the material before each lecture, and reading it again thoroughly soon after.
 
 | **Section** | **When** | **Where** |
-    1-6 | Tue Thu 12:30 PM - 1:45 PM | W-1-0088 (Snowden Auditorium) |
+1-4, 8-9 | Tue Thu 12:30 PM - 1:45 PM | W-1-0088 (Snowden Auditorium) |
 
 #### Discussion
 
@@ -45,8 +45,8 @@ Starting from the second week, there will be a discussion every week. The focus 
 2 | Thu 11:00 AM - 12:15 PM | W-1-0061 | Adnan Ali | Sonali Mamidipaka |
 3 | Tue 2:00 PM - 3:15 PM | W-1-0055 | Jenna Kim | Rohini Deshmukh |
 4 | Thu 2:00 PM - 3:15 PM | W-1-0061 | Jenna Kim | Rohini Deshmukh |
-5 | Tue 9:30 AM - 10:45 AM | Y-4-4130 | Shruti Varade | Kenichi Maeda |
-6 | Thu 9:30 AM - 10:45 AM | Y-1-1320 | Shruti Varade | Kenichi Maeda |
+8 | Tue 9:30 AM - 10:45 AM | Y-4-4130 | Shruti Varade | Kenichi Maeda |
+9 | Thu 9:30 AM - 10:45 AM | Y-1-1320 | Shruti Varade | Kenichi Maeda |
 
 #### Supplemental Instruction
 
