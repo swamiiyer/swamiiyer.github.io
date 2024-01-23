@@ -9,7 +9,7 @@ order: 1
 
 Starting Jan 24 (Wed), peer mentors will be available in the UNIX/PC Lab (`M-3-0731`) for the first three weeks to help you with the programming environment setup and basic computer concepts. Click the following link for the schedule. The value in each cell indicates the number of peer mentors that are expected to be there.
 
-[https://www.cs.umb.edu/~siyer/teaching/cs110/S24_Peer_Mentoring_Schedule.pdf](Peer Mentoring Schedule)
+[Peer Mentoring Schedule](https://www.cs.umb.edu/~siyer/teaching/cs110/S24_Peer_Mentoring_Schedule.pdf)
 
 ### Jan 21, 2024
 
