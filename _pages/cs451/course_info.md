@@ -115,10 +115,13 @@ Visit [CS Labs Portal](https://portal.cs.umb.edu/) to register for a portal/CS a
 
 #### Excused Absence and Makeup Exam 
 
-You must provide an appropriate letter from the [Dean of Students](https://cm.maxient.com/reportingform.php?UMassBoston&layout_id=24) if: 
-- You could not attend a lecture and want your absence to be excused. 
+You must provide appropriate documentation if: 
+
+- You could/will not attend a lecture and want your absence to be excused. 
 - You were/are unable to take an exam on the scheduled date and want to arrange a makeup exam. 
 
+The documentation must be a letter from the [Dean of Students](https://cm.maxient.com/reportingform.php?UMassBoston&layout_id=24) if the type of your absence is among those listed on their website. For other types of absences, the supporting documentation must be shared with me directly.
+ 
 #### Collaboration
 
 Click [here](collaboration.html) for the collaboration policy and the penalties for infractions of the policy.
@@ -126,7 +129,7 @@ Click [here](collaboration.html) for the collaboration policy and the penalties 
 #### Late Days 
 
 - Project deadlines are firm and non negotiable, but you have up to 5 (8 if you have accommodations through the Ross Center) late days that you may use to submit one or more projects a bit late. 
-- You may request an extension for any project only once. To do so, must send me a request via email (not Piazza) at least 48 hours prior to the project deadline, clearly stating the number of late days needed, or else your request will not be granted.
+- You may request an extension for any project only once. To do so, you must send me a request via email (not Piazza) at least 48 hours prior to the project deadline, clearly stating the number of late days needed, or else your request will not be granted.
 
 #### Regrade Request
 

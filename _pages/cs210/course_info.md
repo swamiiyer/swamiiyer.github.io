@@ -158,10 +158,13 @@ You have to remember to use iClicker during the first 15 minutes of a class to r
 
 #### Excused Absence and Makeup Exam 
 
-You must provide an appropriate letter from the [Dean of Students](https://cm.maxient.com/reportingform.php?UMassBoston&layout_id=24) if: 
-- You could not attend a lecture or discussion and want your absence to be excused. 
+You must provide appropriate documentation if: 
+
+- You could/will not attend a lecture or discussion and want your absence to be excused. 
 - You were/are unable to take an exam on the scheduled date and want to arrange a makeup exam. 
 
+The documentation must be a letter from the [Dean of Students](https://cm.maxient.com/reportingform.php?UMassBoston&layout_id=24) if the type of your absence is among those listed on their website. For other types of absences, the supporting documentation must be shared with me directly.
+ 
 #### Collaboration
 
 Click [here](collaboration.html) for the collaboration policy and the penalties for infractions of the policy.
@@ -169,7 +172,7 @@ Click [here](collaboration.html) for the collaboration policy and the penalties 
 #### Late Days 
 
 - Assignment deadlines are firm and non negotiable, but you have up to 5 (8 if you have accommodations through the Ross Center) late days that you may use to submit one or more assignments a bit late. 
-- You may request an extension for any assignment only once. To do so, must send me a request via email (not Piazza) at least 48 hours prior to the assignment deadline, clearly stating the number of late days needed, or else your request will not be granted.
+- You may request an extension for any assignment only once. To do so, you must send me a request via email (not Piazza) at least 48 hours prior to the assignment deadline, clearly stating the number of late days needed, or else your request will not be granted.
 - The extension, if granted, will be applied to both the exercise and the project. 
 
 #### Regrade Request
