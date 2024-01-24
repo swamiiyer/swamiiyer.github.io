@@ -34,7 +34,7 @@ Note: In case you want to email us, please start the subject line with `[CS210]`
 We will have two lectures per week, during which I will present the material from the [slides](lecture_material.html). I strongly recommend skimming through the material before each lecture, and reading it again thoroughly soon after.
 
 | **Section** | **When** | **Where** |
-1-6 | Tue Thu 2:00 PM - 3:15 PM | Y-2-2310
+1-4, 7-8 | Tue Thu 2:00 PM - 3:15 PM | Y-2-2310
 
 #### Discussion
 
@@ -45,8 +45,8 @@ Starting from the second week, there will be a discussion every week. The focus 
 2 | Thu 12:30 PM - 1:45 PM | M-1-0418 | Samyak Gangwal | Trinadhreddy Seelam |
 3 | Tue 4:00 PM - 5:15 PM | W-1-0045 | Kristin Qi | Lorenzo Orio |
 4 | Thu 4:00 PM - 5:15 PM | W-1-0055 | Kristin Qi | Lorenzo Orio |
-5 | Tue 9:30 AM - 10:45 AM | W-2-0200 | Lucas Gustafson | Jongsoo Ha |
-6 | Thu 9:30 AM - 10:45 AM | W-1-0047 | Lucas Gustafson | Jongsoo Ha |
+7 | Tue 9:30 AM - 10:45 AM | W-2-0200 | Lucas Gustafson | Jongsoo Ha |
+8 | Thu 9:30 AM - 10:45 AM | W-1-0047 | Lucas Gustafson | Jongsoo Ha |
 
 #### Supplemental Instruction
 
