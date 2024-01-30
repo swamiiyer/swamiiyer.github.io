@@ -17,13 +17,13 @@ Students who successfully complete this course will be able to tackle computatio
 
 | **Name** | **Role** | **Email** | **Office** | **Office Hours** |
 Swami Iyer | Instructor | [siyer@cs.umb.edu](siyer@cs.umb.edu) | M-3-201-14 | In-person: Tue Thu 10:00 AM - 12:00 PM<br/> Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09)) |
-Adnan Ali | Teaching Assistant | [a.lnu008@umb.edu](a.lnu008@umb.edu) | M-3-201-10 | Tue Thu 2:00 PM - 3:00 PM | 
-Jenna Kim | Teaching Assistant | [jiehyun.kim001@umb.edu](jiehyun.kim001@umb.edu) | M-3-201-10 | Tue Thu 3:30 PM - 4:30 PM | 
-Shruti Varade | Teaching Assistant | [s.varade001@umb.edu](s.varade001@umb.edu) | M-3-201-10 | Tue Thu 11:00 AM - 12:00 PM | 
-Kenichi Maeda | Course Assistant | [kenichi.maeda001@umb.edu](kenichi.maeda001@umb.edu) | M-3-0731 | Tue Thu 4:00 PM - 5:00 PM |
-Rohini Deshmukh | Course Assistant | [r.deshmukh001@umb.edu](r.deshmukh001@umb.edu) | M-3-0731 | Tue Thu 11:00 AM - 12:00 PM | 
-Sonali Mamidipaka | Course Assistant | [sonali.mamidipaka001@umb.edu](sonali.mamidipaka001@umb.edu) | M-3-0731 | Mon Wed 5:30 PM - 6:30 PM |
-Sarah Wilkinson | Supplemental Instruction Leader | [sarah.wilkinson001@umb.edu](sarah.wilkinson001@umb.edu) | - | - |
+Adnan Ali | Teaching Assistant | [a.lnu008@umb.edu](mailto:a.lnu008@umb.edu) | M-3-201-10 | Tue Thu 2:00 PM - 3:00 PM | 
+Jenna Kim | Teaching Assistant | [jiehyun.kim001@umb.edu](mailto:jiehyun.kim001@umb.edu) | M-3-201-10 | Tue Thu 3:30 PM - 4:30 PM | 
+Shruti Varade | Teaching Assistant | [s.varade001@umb.edu](mailto:s.varade001@umb.edu) | M-3-201-10 | Tue Thu 11:00 AM - 12:00 PM | 
+Kenichi Maeda | Course Assistant | [kenichi.maeda001@umb.edu](mailto:kenichi.maeda001@umb.edu) | M-3-0731 | Tue Thu 4:00 PM - 5:00 PM |
+Rohini Deshmukh | Course Assistant | [r.deshmukh001@umb.edu](mailto:r.deshmukh001@umb.edu) | M-3-0731 | Tue Thu 11:00 AM - 12:00 PM | 
+Sonali Mamidipaka | Course Assistant | [sonali.mamidipaka001@umb.edu](mailto:sonali.mamidipaka001@umb.edu) | M-3-0731 | Mon Wed 5:30 PM - 6:30 PM |
+Sarah Wilkinson | Supplemental Instruction Leader | [sarah.wilkinson001@umb.edu](mailto:sarah.wilkinson001@umb.edu) | - | - |
 
 Note: In case you want to email us, please start the subject line with `[CS110]`.
 
