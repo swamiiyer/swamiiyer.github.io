@@ -16,7 +16,7 @@ Students who successfully complete this course will be able to tackle computatio
 ### Course Staff
 
 | **Name** | **Role** | **Email** | **Office** | **Office Hours** |
-Swami Iyer | Instructor | [siyer@cs.umb.edu](siyer@cs.umb.edu) | M-3-201-14 | In-person: Tue Thu 10:00 AM - 12:00 PM<br/> Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09)) |
+Swami Iyer | Instructor | [siyer@cs.umb.edu](mailto:siyer@cs.umb.edu) | M-3-201-14 | In-person: Tue Thu 10:00 AM - 12:00 PM<br/> Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09)) |
 Adnan Ali | Teaching Assistant | [a.lnu008@umb.edu](mailto:a.lnu008@umb.edu) | M-3-201-10 | Tue Thu 2:00 PM - 3:00 PM | 
 Jenna Kim | Teaching Assistant | [jiehyun.kim001@umb.edu](mailto:jiehyun.kim001@umb.edu) | M-3-201-10 | Tue Thu 3:30 PM - 4:30 PM | 
 Shruti Varade | Teaching Assistant | [s.varade001@umb.edu](mailto:s.varade001@umb.edu) | M-3-201-10 | Tue Thu 11:00 AM - 12:00 PM | 
