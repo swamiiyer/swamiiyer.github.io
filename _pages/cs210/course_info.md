@@ -17,7 +17,7 @@ Students who successfully complete this course will be able to confidently imple
 
 | **Name** | **Role** | **Email** | **Office** | **Hours** |
 Swami Iyer | Instructor | [siyer@cs.umb.edu](mailto:siyer@cs.umb.edu) | M-3-201-14 | In-person: Tue Thu 10:00 AM - 12:00 PM<br/> Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09)) |
-Kristin Qi | Teaching Assistant | [yanankristin.qi001@umb.edu](mailto:yanankristin.qi001@umb.edu) | M-3-0164 | Tue Thu 5:30 PM - 6:30 PM | 
+Kristin Qi | Teaching Assistant | [yanankristin.qi001@umb.edu](mailto:yanankristin.qi001@umb.edu) | M-3-201-10 | Tue Thu 5:30 PM - 6:30 PM | 
 Lucas Gustafson | Teaching Assistant | [lucas.gustafson001@umb.edu](mailto:lucas.gustafson001@umb.edu) | M-3-201-10 | Mon Wed 2:30 PM - 3:30 PM | 
 Samyak Gangwal | Teaching Assistant | [s.gangwal001@umb.edu](mailto:s.gangwal001@umb.edu) | M-3-201-10 | Mon Wed 1:15 PM - 2:15 PM | 
 Jongsoo Ha | Course Assistant | [jongsoo.ha001@umb.edu](mailto:jongsoo.ha001@umb.edu) | M-3-0731 | Tue 4:00 PM - 5:00 PM; Fri 11:00 AM - 12:00 PM | 
@@ -56,7 +56,7 @@ As part of the College of Science and Mathematics Freshman Success Program, supp
 | Mon 2:00 PM - 2:50 PM | Y-1-1340 |
 | Wed 2:00 PM - 2:50 PM | Y-1-1340 |
 | Thu 12:30 PM - 1:45 PM | M-2-0417 |
-| Sat 9:00 AM - 9:50 AM | Remote ([Zoom link](TBD)) |
+| Sat 9:00 AM - 9:50 AM | Remote ([Zoom link](https://umassboston.zoom.us/j/94663858647)) |
 
 #### Tutoring
 
