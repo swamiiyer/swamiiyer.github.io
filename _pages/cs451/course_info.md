@@ -102,6 +102,8 @@ Visit [CS Labs Portal](https://portal.cs.umb.edu/) to register for a portal/CS a
 
 - Come to each class on time and stay for the entire session. If you have to leave early, let the instructor know in advance.
 - Have your mobile phone silenced or turned off during the entire session.
+- Use of earphone/headphone during the session is not permitted.
+- Use of a laptop during the session is permitted only for class purposes.
 - Do not talk to each other during the session. If you have any questions, bring them up to the instructor.
 
 #### Piazza
