@@ -36,7 +36,7 @@ Throughout my student life I had the good fortune of being taught by some except
 
 - Programs I use to teach an introductory course on programming in Python: as a [PDF](https://www.cs.umb.edu/~siyer/teaching/ipp.pdf) and as a [PyCharm project](https://www.cs.umb.edu/~siyer/teaching/ipp.zip). Most of the programs are from the book [Introduction to Programming in Python: An Interdisciplinary Approach](https://www.amazon.com/Introduction-Programming-Python-Interdisciplinary-Approach/dp/0134076435/) by Robert Sedgewick, Kevin Wayne, and Robert Dondero. 
 
-- Supporting libraries and data types used throughout the book: the [API](https://www.cs.umb.edu/~siyer/teaching/stdlib-python.pdf) and the [code](https://www.cs.umb.edu/~siyer/teaching/stdlib-python.zip).
+- Supporting libraries and data types used throughout the book: the [API](https://www.cs.umb.edu/~siyer/teaching/stdlib-python.pdf) and the code as a [PyCharm project](https://www.cs.umb.edu/~siyer/teaching/stdlib-python.zip).
 
 - Set of six programming projects (Straight-line Programs, Control Flow Programs, Mozart Waltz Generator, RSA Cryptosystem, Atomic Nature of Matter, and Markov Model), including writeups with implementation hints, solutions, and Gradescope-compatible docker images for autograding student submissions. The last four out of the six projects have been adapted from the [Creative Programming Assignments](https://introcs.cs.princeton.edu/java/assignments/) website at Princeton University. If you are an instructor and would like to use any of these assignments in your course, please email me at [siyer@cs.umb.edu](mailto://siyer@cs.umb.edu), and I will be happy to share the material with you.
 
