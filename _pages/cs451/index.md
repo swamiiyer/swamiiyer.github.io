@@ -5,11 +5,17 @@ title: Home
 order: 1
 ---
 
+### Feb 12, 2024
+
+**Project 2**
+
+ [Project 2](projects.html) is available and is due at 11:59 PM on Feb 25 (Sun). 
+
 ### Jan 21, 2024
 
 **Project 1**
 
- [Project1](projects.html) is available and is due at 11:59 PM on Feb 11 (Sun). 
+ [Project 1](projects.html) is available and is due at 11:59 PM on Feb 11 (Sun). 
 
 **Welcome Message**
 

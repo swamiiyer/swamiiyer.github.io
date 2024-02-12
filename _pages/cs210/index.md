@@ -5,6 +5,12 @@ title: Home
 order: 1
 ---
 
+### Feb 12, 2024
+
+**Assignment 2**
+
+ [Exercise 2](assignments.html) and [Project 2](assignments.html) are available and are due at 11:59 PM on Feb 25 (Sun). 
+
 ### Jan 23, 2024
 
 Starting Jan 24 (Wed), peer mentors will be available in the UNIX/PC Lab (`M-3-0731`) for the first three weeks to help you with the programming environment setup and basic computer concepts. Click the following link for the schedule. The value in each cell indicates the number of peer mentors that are expected to be there.
@@ -15,7 +21,7 @@ Starting Jan 24 (Wed), peer mentors will be available in the UNIX/PC Lab (`M-3-0
 
 **Assignment 1**
 
- [Exercise 1](assignments.html) and [Project1](assignments.html) are available and are due at 11:59 PM on Feb 11 (Sun). 
+ [Exercise 1](assignments.html) and [Project 2](assignments.html) are available and are due at 11:59 PM on Feb 11 (Sun). 
 
 **Welcome Message**
 
