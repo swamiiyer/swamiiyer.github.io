@@ -44,13 +44,13 @@ Throughout my student life I had the good fortune of being taught by some except
 
 - Programs I use to teach an introductory course on programming in Java: as a [PDF](https://www.cs.umb.edu/~siyer/teaching/ipj.pdf) and as an [IntelliJ project](https://www.cs.umb.edu/~siyer/teaching/ipj.zip). Most of the programs are from the book [Computer Science: An Interdisciplinary Approach](https://www.amazon.com/Computer-Science-Interdisciplinary-Robert-Sedgewick/dp/0134076427/) by Robert Sedgewick and Kevin Wayne. 
 
-- Supporting libraries and data types used throughout the book: the API ([PDF](https://www.cs.umb.edu/~siyer/teaching/stdlib-java.pdf) \| [JavaDoc](https://www.cs.umb.edu/~siyer/teaching/stdlib-javadoc)), the binaries as a [jar file](https://www.cs.umb.edu/~siyer/teaching/stdlib.jar) (compiled using OpenJDK 21), and the code as an [IntelliJ project](https://www.cs.umb.edu/~siyer/teaching/stdlib.zip).
+- Supporting libraries and data types used throughout the book: the API ([PDF](https://www.cs.umb.edu/~siyer/teaching/stdlib-java.pdf) \| [JavaDoc](https://www.cs.umb.edu/~siyer/teaching/stdlib-javadoc)), the binaries as a [jar file](https://www.cs.umb.edu/~siyer/teaching/stdlib.jar) (compiled using OpenJDK 17), and the code as an [IntelliJ project](https://www.cs.umb.edu/~siyer/teaching/stdlib.zip).
 
 #### Data Structures and Algorithms in Java
 
 - Programs I use to teach a course on data structures and algorithms: as a [PDF](https://www.cs.umb.edu/~siyer/teaching/dsaj.pdf) and as an [IntelliJ project](https://www.cs.umb.edu/~siyer/teaching/dsaj.zip). Most of the programs are from the book [Algorithms](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/) by Robert Sedgewick and Kevin Wayne. 
 
-- Supporting libraries and data types used throughout the book: the API ([PDF](https://www.cs.umb.edu/~siyer/teaching/stdlib-java.pdf) \| [JavaDoc](https://www.cs.umb.edu/~siyer/teaching/stdlib-javadoc)), the binaries as a [jar file](https://www.cs.umb.edu/~siyer/teaching/stdlib.jar) (compiled using OpenJDK 21), and the code as an [IntelliJ project](https://www.cs.umb.edu/~siyer/teaching/stdlib.zip).
+- Supporting libraries and data types used throughout the book: the API ([PDF](https://www.cs.umb.edu/~siyer/teaching/stdlib-java.pdf) \| [JavaDoc](https://www.cs.umb.edu/~siyer/teaching/stdlib-javadoc)), the binaries as a [jar file](https://www.cs.umb.edu/~siyer/teaching/stdlib.jar) (compiled using OpenJDK 17), and the code as an [IntelliJ project](https://www.cs.umb.edu/~siyer/teaching/stdlib.zip).
 
 - Data structures and algorithms discussed in the book: the API ([PDF](https://www.cs.umb.edu/~siyer/teaching/dsalib.pdf) \| [JavaDoc](https://www.cs.umb.edu/~siyer/teaching/dsa-javadoc)) and the [code](https://www.cs.umb.edu/~siyer/teaching/dsa.jar).
 
