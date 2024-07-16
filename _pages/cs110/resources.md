@@ -9,16 +9,17 @@ order: 6
 
 - [Programming Environment Setup](programming_environment.html)
 - Programs Discussed in Class ([PDF](https://www.cs.umb.edu/~siyer/teaching/ipp.pdf) \| [PyCharm Project](https://www.cs.umb.edu/~siyer/teaching/ipp.zip))
-- [Dummy PyCharm Project](https://www.cs.umb.edu/~siyer/teaching/cs110/dummy_project.zip)
+- [Blank PyCharm Project](https://www.cs.umb.edu/~siyer/teaching/cs110/blank_project.zip)
 - [iClicker](https://app.reef-education.com/\#/login iClicker)
-- [Piazza](https://piazza.com/umb/spring2024/cs110/home)
+- [Discord](https://discord.com)
 - [Gradescope](https://gradescope.com/)
 - Sample Exams
   - [Written Exam 1](https://www.cs.umb.edu/~siyer/teaching/cs110/cs110_sample_written_exam1.pdf) \| [Programming Exam 1](https://www.cs.umb.edu/~siyer/teaching/cs110/cs110_sample_programming_exam1.pdf)
   - [Written Exam 2](https://www.cs.umb.edu/~siyer/teaching/cs110/cs110_sample_written_exam2.pdf) \| [Programming Exam 2](https://www.cs.umb.edu/~siyer/teaching/cs110/cs110_sample_programming_exam2.pdf)
+- [Math Tutorial](TBD)
+- [Command-line Tutorial](TBD) 
 - [What's My Grade?](grade.html)
 - [Syllabus](https://www.cs.umb.edu/~siyer/teaching/cs110/cs110_syllabus.pdf)
-- [Math (Precalculus)  Review](https://www.khanacademy.org/math/precalculus)
   
 ### Documentation
 

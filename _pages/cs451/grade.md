@@ -60,11 +60,11 @@ exclude: true
       </table>
       <p/>
     <p/>
-    <span><b>Attendance</b></span>
+    <span><b>Quizzes</b></span>
     <table>
     <tr>
     <td>
-    <input id="attendance" type="number" min="0" max="100" size="10" class="form-control" placeholder="%"/>
+    <input id="quizzes" type="number" min="0" max="100" size="10" class="form-control" placeholder="%"/>
     </td>
     </tr>
     </table>
@@ -105,7 +105,7 @@ function assessments() {
     var assessments = new Object();
     assessments.project = 6;
     assessments.exam = 2;
-    assessments.attendance = 1;
+    assessments.quizzes = 1;
     assessments.evals = 1;
     return assessments;
 }
@@ -113,9 +113,9 @@ function assessments() {
 // Return an object containing weights for calculating student grade.
 function weights() {
     var weights = new Object();
-    weights.project = 7;
-    weights.exam = 30;
-    weights.attendance = 5;
+    weights.project = 8;
+    weights.exam = 25;
+    weights.quizzes = 10;
     weights.evals = 1;
     return weights;
 }
@@ -200,8 +200,8 @@ function grade() {
     scores.exam = [];
     scores.exam.push($("#exam1").val());
     scores.exam.push($("#exam2").val());
-    scores.attendance = [];
-    scores.attendance.push($("#attendance").val());
+    scores.quizzes = [];
+    scores.quizzes.push($("#quizzes").val());
     scores.evals = [];
     scores.evals.push($("#evals").val());
 
@@ -213,10 +213,11 @@ function grade() {
     // Projects
     var projects = graded(scores.project);
     if (projects.length == a.project) {
-        // Drop the lower of project 4 and 6 scores.
-        var t = projects.slice(0, 3);
+        // Select best 4 of 1, 2, 3, 4, and 6; and 5.
+        var t = Array(projects[0], projects[1], projects[2],
+                      projects[3], projects[5]).sort().reverse();
+        t.pop();
         t.push(projects[4]);
-        t.push(Math.max(projects[3], projects[5]));
         projects = t;
     }
     if (projects.length > 0) {
@@ -227,21 +228,18 @@ function grade() {
     // Exams
     var exams = graded(scores.exam);
     if (exams.length == a.exam) {
-        // If both exam scores >= 80%, max exam score is the exam average.
-        if (exams[0] >= 80 && exams[1] >= 80) {
-            exams[0] = exams[1] = Math.max(exams[0], exams[1]);
-        }
+       // Nothing here.
     }
     if (exams.length > 0) {
         score += w.exam / 100.0 * sum(exams);
         total += w.exam * exams.length;
     }
 
-    // Attendance.
-    var attendance = graded(scores.attendance);
-    if (attendance.length == a.attendance) {
-        score += w.attendance / 100.0 * attendance[0]; 
-        total += w.attendance * attendance.length;
+    // Quizzes.
+    var quizzes = graded(scores.quizzes);
+    if (quizzes.length == a.quizzes) {
+        score += w.quizzes / 100.0 * quizzes[0]; 
+        total += w.quizzes * quizzes.length;
     }
     
     // Course evaluation

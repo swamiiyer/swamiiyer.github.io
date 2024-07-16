@@ -5,52 +5,12 @@ title: Home
 order: 1
 ---
 
-### Apr 22, 2024
-
-**Assignment 6**
-
- [Exercise 6](assignments.html) and [Project 6](assignments.html) are
- available and are due at 11:59 PM on May 5 (Sun). 
-
-### Apr 1, 2024
-
-**Assignment 5**
-
- [Exercise 5](assignments.html) and [Project 5](assignments.html) are
- available and are due at 11:59 PM on Apr 21 (Sun). 
-
-### Mar 11, 2024
-
-**Assignment 4**
-
- [Exercise 4](assignments.html) and [Project 4](assignments.html) are
- available and are due at 11:59 PM on Mar 31 (Sun). 
-
-### Feb 26, 2024
-
-**Assignment 3**
-
- [Exercise 3](assignments.html) and [Project 3](assignments.html) are
- available and are due at 11:59 PM on Mar 10 (Sun). 
-
-### Feb 12, 2024
-
-**Assignment 2**
-
- [Exercise 2](assignments.html) and [Project 2](assignments.html) are available and are due at 11:59 PM on Feb 25 (Sun). 
-
-### Jan 23, 2024
-
-Starting Jan 24 (Wed), peer mentors will be available in the UNIX/PC Lab (`M-3-0731`) for the first three weeks to help you with the programming environment setup and basic computer concepts. Click the following link for the schedule. The value in each cell indicates the number of peer mentors that are expected to be there.
-
-[Peer Mentoring Schedule](https://www.cs.umb.edu/~siyer/teaching/cs210/S24_Peer_Mentoring_Schedule.pdf)
-
-### Jan 21, 2024
+### Sep 3, 2024
 
 **Assignment 1**
 
- [Exercise 1](assignments.html) and [Project 2](assignments.html) are available and are due at 11:59 PM on Feb 11 (Sun). 
-
+ [Assignment 1 (Straight-line and Control-flow Programs)](assignments.html) is available and is due at 11:59 PM on Sep 22 (Sun).
+ 
 **Welcome Message**
 
 Dear student,
@@ -62,20 +22,18 @@ Welcome to the Intermediate Computing with Data Structures (CS210) course I will
 - Please read through the [course website](/cs210/) very carefully and acquaint yourself with the course mechanics.
 
 - Please take care of the following action items:
-  - Sign up for [iClicker](https://app.reef-education.com/\#/account/create iClicker) (attendance platform) using your UMB email address and add the course *CS210* to your dashboard
-  - Follow up on the invitations that will be sent to your UMB email address to sign up for:
-      - Piazza (Q&A platform) and
-      - Gradescope (grading platform).
+  - Sign up for [iClicker](https://app.reef-education.com/\#/account/create iClicker) (active learning platform) using your UMB email address and add the course *CS210* to your dashboard. You will need to purchase an [iClicker Student App Subscription](https://www.iclicker.com/pricing#student-pricing) to participate in the in-class quizzes.
+  - Sign up for Discord (Q&A platform) and Gradescope (grading platform) using the invitations that will be sent to your UMB email address.
   - Setup the [programming environment](programming_environment.html) on your computer.
-  - Complete the mandatory questionnaire (ie, all six questions) available on Gradescope. You will **not** be allowed to submit your assignments or take the exams until you do so. 
-  - Complete the [Supplemental Instruction (SI) poll](https://forms.gle/AQR2r2y2bGVfGFKJ9).
+  - Complete the mandatory questionnaire (all six questions) available on Gradescope. You will **not** be allowed to submit your assignments or take the exams until you complete the questionnaire. 
+  - Complete the [Supplemental Instruction (SI) poll](https://forms.gle/4WCsvN7iQDoSf8DV9).
   - Sign up for a [CS account](course_info.html#cs_account).
 
 - CS210 is a very demanding course, so please be prepared to work really hard from the outset, or else you will quickly fall behind and end up with a poor/failing grade.
 
-- If you are currently waitlisted, you will be enrolled automatically if enough students drop out before the add/drop deadline. Please note that I will **not** go over the enrollment capacity for the course, which is set at 150.
+- If you are currently waitlisted, you will be enrolled automatically if enough students drop out before the add/drop deadline. Please note that I will **not** go over the enrollment capacity for the course, which is set at 84.
 
-- <font color="red">NOTE: During the first week we will only meet for lectures. Discussions and SI sessions will start from the second week, ie, the week of Jan 29.</font>
+- <font color="red">NOTE: During the first week we will only meet for lectures. Discussions and SI sessions will start from the second week, ie, the week of Sep 9.</font>
 
 I look forward to having you in my class.
 

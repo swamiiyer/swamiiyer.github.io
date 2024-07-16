@@ -5,44 +5,11 @@ title: Home
 order: 1
 ---
 
-### Apr 22, 2024
+### Sep 3, 2024
 
-**Project 6**
+**Assignment 1**
 
- [Project 6](projects.html) is available and is due at 11:59 PM on May 5 (Sun). 
-
-### Mar 27, 2024
-
-**Project 5**
-
- [Project 5](projects.html) is available and is due at 11:59 PM on Apr
- 21 (Sun). 
-
-### Mar 11, 2024
-
-**Project 4**
-
- [Project 4](projects.html) is available and is due at 11:59 PM on Mar
- 31 (Sun). 
-
-### Feb 26, 2024
-
-**Project 3**
-
- [Project 3](projects.html) is available and is due at 11:59 PM on Mar
- 10 (Sun). 
-
-### Feb 12, 2024
-
-**Project 2**
-
- [Project 2](projects.html) is available and is due at 11:59 PM on Feb 25 (Sun). 
-
-### Jan 21, 2024
-
-**Project 1**
-
- [Project 1](projects.html) is available and is due at 11:59 PM on Feb 11 (Sun). 
+[Assignment 1 (Supporting Simple Operations)](assignments.html) is available and is due at 11:59 PM on Sep 22 (Sun). 
 
 **Welcome Message**
 
@@ -55,18 +22,15 @@ Welcome to the Compilers (CS451/651) course I will be teaching this semester!
 - Please read through the [course website](/cs451/) very carefully and acquaint yourself with the course mechanics.
 
 - Please take care of the following action items:
-  - Sign up for [iClicker](https://app.reef-education.com/\#/account/create iClicker) (attendance platform) using your UMB email address and add the course *CS451/651* to your dashboard.
-  - Follow up on the invitations that will be sent to your UMB email address to sign up for:
-      - Piazza (Q&A platform) and
-      - Gradescope (grading platform).
+  - Sign up for [iClicker](https://app.reef-education.com/\#/account/create iClicker) (active learning platform) using your UMB email address and add the course *CS451/651* to your dashboard. You will need to purchase an [iClicker Student App Subscription](https://www.iclicker.com/pricing#student-pricing) to participate in the in-class quizzes.
+  - Sign up for Discord (Q&A platform) and Gradescope (grading platform) using the invitations that will be sent to your UMB email address.
   - Setup the [programming environment](programming_environment.html) on your computer.
-  - Complete 
-the mandatory questionnaire (ie, all six questions) available on Gradescope. You will **not** be allowed to submit your assignments or take the exams until you do so. 
+  - Complete the mandatory questionnaire (all six questions) available on Gradescope. You will **not** be allowed to submit your assignments or take the exams until you complete the questionnaire. 
   - Sign up for a [CS account](course_info.html#cs_account).
 
 - CS451/651 is a very demanding course, so please be prepared to work really hard from the outset, or else you will quickly fall behind and end up with a poor/failing grade.
 
-- If you are currently waitlisted, you will be enrolled automatically if enough students drop out before the add/drop deadline. The enrollment capacity is set at 65 for CS451 and 20 for CS651. If one course is over-enrolled (ie, there are students on the waitlist) while the other has free seats, I will enroll as many waitlisted students from the former into the latter, in the order of their waitlist number. Please note that I will **not** go over the total enrollment capacity of 85.
+- If you are currently waitlisted, you will be enrolled automatically if enough students drop out before the add/drop deadline. The enrollment capacity is set at 50 for CS451 and 26 for CS651. If one course is over-enrolled (ie, there are students on the waitlist) while the other has free seats, I will enroll as many waitlisted students from the former into the latter, in the order of their waitlist number. Please note that I will **not** go over the total enrollment capacity of 76.
 
 I look forward to having you in my class.
 

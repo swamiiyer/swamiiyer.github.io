@@ -5,41 +5,17 @@ title: Assignments
 order: 5
 ---
 
-There are 6 exercises and 6 projects in all. These are due at midnight (11:59 PM to be precise) on the dates indicated on the [Calendar](calendar.html) page.
+There are 6 programming assignments in all. These are due at midnight (11:59 PM to be precise) on the dates indicated on the [Calendar](calendar.html) page.
 
-**Exercises**
+| **#** | **Title** | **Goal** | **Links** |
+1 | Simple Programs | Implement simple programs with and without control flow (ie, branches and loops).  | [writeup](https://www.cs.umb.edu/~siyer/teaching/cs210/simple_programs.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/cs210/simple_programs.zip) \| [discussion](TBD) |
+2 | Global Sequence Alignment | Compute the optimal sequence alignment between two DNA strings using dynamic programming. | [writeup](https://www.cs.umb.edu/~siyer/teaching/cs210/global_sequence_alignment.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/cs210/global_sequence_alignment.zip) \| [discussion](TBD) |
+3 | Percolation | Estimate the percolation threshold of a system, which is a measure of how porous the system needs be so that it percolates. | [writeup](https://www.cs.umb.edu/~siyer/teaching/cs210/percolation.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/cs210/percolation.zip) \| [discussion](TBD) |
+4 | Collection ADTs | Implement some simple collection ADTs (array list, linked list, deque, and random queue). | [writeup](https://www.cs.umb.edu/~siyer/teaching/cs210/collections.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/cs210/collections.zip) \| [discussion](TBD) |
+5 | Autocomplete | Implement *autocomplete* feature for a given set of strings and nonnegative weights, ie, given a prefix, find and list all strings in the set that start with the prefix, in descending order of weights. | [writeup](https://www.cs.umb.edu/~siyer/teaching/cs210/autocomplete.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/cs210/autocomplete.zip) \| [discussion](TBD) |
+6 | Eight Puzzle | Solve the eight-puzzle problem (and its natural generalizations) using the *A*⋆ search algorithm. | [writeup](https://www.cs.umb.edu/~siyer/teaching/cs210/eight_puzzle.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/cs210/eight_puzzle.zip) \| [discussion](TBD) |
 
-| 1 | Programming Model ([writeup](https://www.cs.umb.edu/~siyer/teaching/cs210/exercise1.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/cs210/exercise1.zip)) |
-| 2 | Data Abstraction ([writeup](https://www.cs.umb.edu/~siyer/teaching/cs210/exercise2.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/cs210/exercise2.zip)) |
-| 3 | Comparable Data Types ([writeup](https://www.cs.umb.edu/~siyer/teaching/cs210/exercise3.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/cs210/exercise3.zip)) |
-| 4 | Sorting ([writeup](https://www.cs.umb.edu/~siyer/teaching/cs210/exercise4.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/cs210/exercise4.zip)) |
-| 5 | Symbol Tables ([writeup](https://www.cs.umb.edu/~siyer/teaching/cs210/exercise5.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/cs210/exercise5.zip)) |
-| 6 | Graphs ([writeup](https://www.cs.umb.edu/~siyer/teaching/cs210/exercise6.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/cs210/exercise6.zip)) |
-
-**Projects**
-
-1 | Percolation ([writeup](https://www.cs.umb.edu/~siyer/teaching/cs210/project1.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/cs210/project1.zip))|
-2 | Deques and Randomized Queues ([writeup](https://www.cs.umb.edu/~siyer/teaching/cs210/project2.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/cs210/project2.zip))|
-3 | Autocomplete ([writeup](https://www.cs.umb.edu/~siyer/teaching/cs210/project3.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/cs210/project3.zip))|
-4 | 8 Puzzle ([writeup](https://www.cs.umb.edu/~siyer/teaching/cs210/project4.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/cs210/project4.zip))|
-5 | KdTrees ([writeup](https://www.cs.umb.edu/~siyer/teaching/cs210/project5.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/cs210/project5.zip))|
-6 | WordNet ([writeup](https://www.cs.umb.edu/~siyer/teaching/cs210/project6.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/cs210/project6.zip))|
-
-The writeup file contains the problem descriptions. The zip file contains the starter files for the problems, any data files, and `notes.txt` file for projects.
-
-### Grading Scheme
-
-#### Correctness and Style
-
-Your solution to each exercise/project problem will be evaluated by an autograder for correctness and style. Each test that is used to evaluate the correctness of your solution is worth some number of points; your solution will receive all the points from a test that passes and 0 points from a test that does not pass. Your solution will receive 2 points if there are no style errors, and 0 points otherwise. Your overall correctness and style score will be normalized to 100 points for an exercise and 80 points for a project.
-
-#### Clarity and Efficiency
-
-Your solution to each project problem will additionally be checked by a TA for clarity and efficiency. Your code will receive 10 points if it meets our expectations (must include adequate comments, must follow good programming principles, and must meet any problem-specific requirements such as corner cases and running times), and marked down otherwise.
-
-#### Notes File
-
-For a project, the given `notes.txt` file must be uploaded with the three sections (\#1 mandatory, \#2 if applicable, and \#3 optional) filled in as appropriate. Your notes file will receive 10 points if it meets our expectations (section \#1 must provide a clear high-level description of the project in no more than 200 words), and marked down otherwise.
+The writeup file contains descriptions of the problems in the assignment. The zip file contains the starter files for the problems, any necessary data files, and `notes.txt` file for the assignment. The discussion video provides additional explanation of the assignment problems and directions on how to solve them.
 
 ### Submitting Your Work
 
@@ -47,4 +23,18 @@ You will use [Gradescope](https://gradescope.com/) to submit your Java programs 
 
 You may submit your files as many times as you like, up until the assignment deadline. The most recent submission is considered *active* by default and your score on the active submission is your official score for the assignment as well. You have the option of making any of your previous submissions active.
 
-Note: If your active submission is partial, your assignment score will also be partial, so in order to be eligible for full credit, make sure you have an active submission containing all the required files for the assignment. 
+**Note**: If your active submission is partial, your assignment score will also be partial, so in order to be eligible for full credit, make sure you have an active submission containing all the required files for the assignment. 
+
+### How the Assignments will be Scored
+
+#### Correctness
+
+Your solution to each assignment problem will be evaluated for correctness by an autograder. Each test that is used for this purpose is worth some number of points; your solution will receive all the points from a test that passes and 0 points from a test that does not pass. Your overall correctness score will be normalized to 80 points.
+
+#### Clarity and Efficiency
+
+Your solution to each assignment problem will additionally be checked by a TA for clarity and efficiency. Your code will receive 10 points if it meets our expectations (must include adequate comments, must follow good programming principles, and must meet any problem-specific requirements), and will be marked down otherwise.
+
+#### Notes File
+
+The given `notes.txt` file for an assignment must be uploaded with the three sections (\#1 mandatory, \#2 if applicable, and \#3 optional) filled in as appropriate. Your notes file will receive 10 points if it meets our expectations (section \#1 must provide a clear high-level description of each problem in no more than 100 words), and will be marked down otherwise.

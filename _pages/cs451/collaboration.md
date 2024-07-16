@@ -31,10 +31,8 @@ You may only receive help from people in the ways described below and you must a
 
 You are not allowed to submit solutions obtained from websites such as Chegg or Course Hero, or using AI systems such as ChatGPT.  
 
-You are not allowed to post questions about the course or about any of the assignments on any website other than our Piazza page. 
+You are not allowed to post questions about the course or about any of the assignments on any website other than our Discord page. 
 
 ### Penalties for Infractions
 
-If you are caught cheating on a project/exam and if it is your first offense, you will receive a 0 for that project/exam, and you will be
-reported to the appropriate department official. If you repeat this behavior and are caught again, you will receive an F for the course
-and you will be reported to the appropriate university personnel.
+If you are caught cheating on an assignment/exam and if it is your first offense, you will receive a 0 for that assignment/exam, and you will be reported to the appropriate department official. If you repeat this behavior and are caught again, you will receive an F for the course and you will be reported to the appropriate university personnel.
