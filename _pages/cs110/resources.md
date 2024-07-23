@@ -9,7 +9,6 @@ order: 6
 
 - [Programming Environment Setup](programming_environment.html)
 - Programs Discussed in Class ([PDF](https://www.cs.umb.edu/~siyer/teaching/ipp.pdf) \| [PyCharm Project](https://www.cs.umb.edu/~siyer/teaching/ipp.zip))
-- [Blank PyCharm Project](https://www.cs.umb.edu/~siyer/teaching/cs110/blank_project.zip)
 - [iClicker](https://app.reef-education.com/\#/login iClicker)
 - [Discord](https://discord.com)
 - [Gradescope](https://gradescope.com/)

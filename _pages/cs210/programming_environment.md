@@ -7,11 +7,11 @@ exclude: true
 
 ### Select Your Operating System
 
-[Ubuntu Linux](#linux)
+- [**Ubuntu Linux**](#linux)
 
-[Mac OS X](#mac) 
+- [**Mac OS X**](#mac) 
 
-[Windows](#win) 
+- [**Windows**](#win) 
 
 <a name="linux"/>
 ## Ubuntu Linux
@@ -25,7 +25,7 @@ $ cd $HOME
 >
 > Install `OpenJDK`.
 ```
-$ sudo apt-get install openjdk-17-jdk
+$ sudo apt-get install openjdk-21-jdk
 ```
 >
 > Create `lib` and `workspace` folders.
@@ -43,11 +43,6 @@ $ wget https://www.cs.umb.edu/~siyer/teaching/stdlib.jar -P lib
 $ wget https://www.cs.umb.edu/~siyer/teaching/dsa.jar -P lib
 ```
 >
-> Set the environment variable `PROJECT_HOME`.
-```
-$ echo "export PROJECT_HOME=$HOME/workspace" >> $HOME/.bashrc
-```
->
 > Set the environment variable `CLASSPATH`.
 ```
 $ echo "export CLASSPATH=.:./out:$HOME/lib/stdlib.jar:$HOME/lib/dsa.jar" >> $HOME/.bashrc
@@ -56,8 +51,7 @@ $ echo "export CLASSPATH=.:./out:$HOME/lib/stdlib.jar:$HOME/lib/dsa.jar" >> $HOM
 > Download and install
 [IntelliJ](https://www.jetbrains.com/idea/download/#section=linux) (Community Edition).
 
-> To test your environment, download and unzip the
-[dummy project](https://www.cs.umb.edu/~siyer/teaching/cs210/dummy_project.zip) under `~/workspace`, launch IntelliJ and open `~/workspace/dummy_project`, and run the following commands on the IntelliJ terminal:
+> To test your environment, download and unzip the [`dsaj.zip`](https://www.cs.umb.edu/~siyer/teaching/dsaj.zip) under `~/workspace`, launch IntelliJ, open the project `~/workspace/dsaj/programs`, and run the following commands in the IntelliJ terminal:
 ```
 $ javac -d out src/HelloWorld.java
 ```
@@ -83,7 +77,7 @@ $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/
 >
 > Install `OpenJDK` and `wget`.
 ```
-$ brew install openjdk@17 wget
+$ brew install openjdk@21 wget
 ```
 >
 > Create `lib` and `workspace` folders.
@@ -101,11 +95,6 @@ $ wget https://www.cs.umb.edu/~siyer/teaching/stdlib.jar -P lib
 $ wget https://www.cs.umb.edu/~siyer/teaching/dsa.jar -P lib
 ```
 >
-> Set the environment variable `PROJECT_HOME`.
-```
-$ echo "export PROJECT_HOME=$HOME/workspace" >> $HOME/.zshenv
-```
->
 > Set the environment variable `CLASSPATH`.
 ```
 $ echo "export CLASSPATH=.:./out:$HOME/lib/stdlib.jar:$HOME/lib/dsa.jar" >> $HOME/.zshenv
@@ -114,8 +103,7 @@ $ echo "export CLASSPATH=.:./out:$HOME/lib/stdlib.jar:$HOME/lib/dsa.jar" >> $HOM
 > Download and install
 [IntelliJ](https://www.jetbrains.com/idea/download/#section=mac) (Community Edition).
 
-> To test your environment, download and unzip the
-[dummy project](https://www.cs.umb.edu/~siyer/teaching/cs210/dummy_project.zip) under `~/workspace`, launch IntelliJ and open `~/workspace/dummy_project`, and run the following commands on the IntelliJ terminal:
+> To test your environment, download and unzip the [`dsaj.zip`](https://www.cs.umb.edu/~siyer/teaching/dsaj.zip) under `~/workspace`, launch IntelliJ, open the project `~/workspace/dsaj/programs`, and run the following commands in the IntelliJ terminal:
 ```
 $ javac -d out src/HelloWorld.java
 ```
@@ -149,33 +137,24 @@ $ wget -O lib\stdlib.jar https://www.cs.umb.edu/~siyer/teaching/stdlib.jar
 $ wget -O lib\dsa.jar https://www.cs.umb.edu/~siyer/teaching/dsa.jar
 ```
 >
-> Set the environment variable `PROJECT_HOME`.
-```
-$ setx PROJECT_HOME "$HOME\workspace"
-```
->
 > Set the environment variable `CLASSPATH`.
 ```
 $ setx CLASSPATH ".;.\out;$HOME\lib\stdlib.jar;$HOME\lib\dsa.jar"
 ```
 
-> Download and unzip [OpenJDK
-> 17](https://download.java.net/openjdk/jdk17/ri/openjdk-17+35_windows-x64_bin.zip)
-> for Windows under some folder, say `C:\jdk17`. Run the following command in a powershell terminal:
+> Download and unzip [OpenJDK 21](https://download.java.net/java/GA/jdk21.0.2/f2283984656d49d69e91c558476027ac/13/GPL/openjdk-21.0.2_windows-x64_bin.zip) for Windows under some folder, say `C:\jdk21`. Run the following command in a powershell terminal:
 >
-> Update the environment variable `PATH` to include the `C:\jdk17\bin`
+> Update the environment variable `PATH` to include the `C:\jdk21\bin`
 folder.
 ```
-$ setx PATH "$env:PATH;C:\jdk17\bin"
+$ setx PATH "$env:PATH;C:\jdk21\bin"
 ```
-
 
 > Download and install
 > [IntelliJ](https://www.jetbrains.com/idea/download/#section=windows)
 > (Community Edition). Launch IntelliJ, go to *Configure* &rarr; *Settings* &rarr; *Tools* &rarr; *Terminal*, and set *Shell path* to `powershell`.
 
-> To test your environment, download and unzip the
-[dummy project](https://www.cs.umb.edu/~siyer/teaching/cs210/dummy_project.zip) under `~/workspace`, launch IntelliJ and open `~/workspace/dummy_project`, and run the following commands on the IntelliJ terminal:
+> To test your environment, download and unzip the [`dsaj.zip`](https://www.cs.umb.edu/~siyer/teaching/dsaj.zip) under `~/workspace`, launch IntelliJ, open the project `~/workspace/dsaj/programs`, and run the following commands in the IntelliJ terminal:
 ```
 $ javac -d out src/HelloWorld.java
 ```

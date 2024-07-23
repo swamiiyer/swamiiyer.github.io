@@ -7,7 +7,7 @@ exclude: true
 
 <div class="aside">
     <div class="container-fluid">
-      <span><b>Exercises</b></span>
+      <span><b>Programming Assignments</b></span>
       <table class="table">
         <thead>
           <tr class="row">
@@ -21,56 +21,22 @@ exclude: true
         </thead>
         <tr class="row">
           <td class="col-1">
-            <input id="exer1" type="number" min="0" max="100" size="10" class="form-control" placeholder="%"/>
+            <input id="pa1" type="number" min="0" max="100" size="10" class="form-control" placeholder="%"/>
           </td>
           <td class="col-1">
-            <input id="exer2" type="number" min="0" max="100" size="10" class="form-control" placeholder="%"/>
+            <input id="pa2" type="number" min="0" max="100" size="10" class="form-control" placeholder="%"/>
           </td>
           <td class="col-1">
-            <input id="exer3" type="number" min="0" max="100" size="10" class="form-control" placeholder="%"/>
+            <input id="pa3" type="number" min="0" max="100" size="10" class="form-control" placeholder="%"/>
           </td>
           <td class="col-1">
-            <input id="exer4" type="number" min="0" max="100" size="10" class="form-control" placeholder="%"/>
+            <input id="pa4" type="number" min="0" max="100" size="10" class="form-control" placeholder="%"/>
           </td>
           <td class="col-1">
-            <input id="exer5" type="number" min="0" max="100" size="10" class="form-control" placeholder="%"/>
+            <input id="pa5" type="number" min="0" max="100" size="10" class="form-control" placeholder="%"/>
           </td>
           <td class="col-1">
-            <input id="exer6" type="number" min="0" max="100" size="10" class="form-control" placeholder="%"/>
-          </td>
-        </tr>
-      </table>
-      <p/>
-      <span><b>Projects</b></span>
-      <table class="table">
-        <thead>
-          <tr class="row">
-            <th scope="col" class="text-center col-1">1</th>
-            <th scope="col" class="text-center col-1">2</th>
-            <th scope="col" class="text-center col-1">3</th>
-            <th scope="col" class="text-center col-1">4</th>
-            <th scope="col" class="text-center col-1">5</th>
-            <th scope="col" class="text-center col-1">6</th>
-          </tr>
-        </thead>
-        <tr class="row">
-          <td class="col-1">
-            <input id="proj1" type="number" min="0" max="100" size="10" class="form-control" placeholder="%"/>
-          </td>
-          <td class="col-1">
-            <input id="proj2" type="number" min="0" max="100" size="10" class="form-control" placeholder="%"/>
-          </td>
-          <td class="col-1">
-            <input id="proj3" type="number" min="0" max="100" size="10" class="form-control" placeholder="%"/>
-          </td>
-          <td class="col-1">
-            <input id="proj4" type="number" min="0" max="100" size="10" class="form-control" placeholder="%"/>
-          </td>
-          <td class="col-1">
-            <input id="proj5" type="number" min="0" max="100" size="10" class="form-control" placeholder="%"/>
-          </td>
-          <td class="col-1">
-            <input id="proj6" type="number" min="0" max="100" size="10" class="form-control" placeholder="%"/>
+            <input id="pa6" type="number" min="0" max="100" size="10" class="form-control" placeholder="%"/>
           </td>
         </tr>
       </table>
@@ -94,11 +60,19 @@ exclude: true
       </table>
       <p/>
     <p/>
-    <span><b>Attendance</b></span>
+    <span><b>Participation</b></span>
     <table>
       <tr>
-        <td><input id="attendance" type="number" min="0" max="100" size="10" class="form-control" placeholder="%"/></td>
+        <td><input id="participation" type="number" min="0" max="100" size="10" class="form-control" placeholder="%"/></td>
     </tr>
+    </table>
+    <p/>
+    <p/>
+    <span><b>Unused Late Days</b></span>
+    <table>
+      <tr>
+        <td><input id="ld" type="number" min="0" max="100" size="10" class="form-control" placeholder="%"/></td>
+      </tr>
     </table>
     <p/>
     <p/>
@@ -141,10 +115,10 @@ exclude: true
 // Return an object containing the assessment types and counts.
 function assessments() {
     var assessments = new Object();
-    assessments.exercise = 6;
-    assessments.project = 6;
+    assessments.assignment = 6;
     assessments.exam = 2;
-    assessments.attendance = 1;
+    assessments.participation = 1;
+    assessments.ld = 1;
     assessments.si = 1;
     assessments.evals = 1;
     return assessments;
@@ -153,11 +127,11 @@ function assessments() {
 // Return an object containing weights for calculating student grade.
 function weights() {
     var weights = new Object();
-    weights.exercise = 1;
-    weights.project = 4;
-    weights.exam = 35;
-    weights.attendance = 5;
-    weights.si = 3;
+    weights.assignment = 8;
+    weights.exam = 25;
+    weights.participation = 10;
+    weights.ld = 1;
+    weights.si = 2;
     weights.evals = 1;
     return weights;
 }
@@ -232,25 +206,20 @@ function sum(a) {
 
 function grade() {
     var scores = new Object();
-    scores.exercise = [];
-    scores.exercise.push($("#exer1").val());
-    scores.exercise.push($("#exer2").val());
-    scores.exercise.push($("#exer3").val());
-    scores.exercise.push($("#exer4").val());
-    scores.exercise.push($("#exer5").val());
-    scores.exercise.push($("#exer6").val());
-    scores.project = [];
-    scores.project.push($("#proj1").val());
-    scores.project.push($("#proj2").val());
-    scores.project.push($("#proj3").val());
-    scores.project.push($("#proj4").val());
-    scores.project.push($("#proj5").val());
-    scores.project.push($("#proj6").val());
+    scores.assignment = [];
+    scores.assignment.push($("#pa1").val());
+    scores.assignment.push($("#pa2").val());
+    scores.assignment.push($("#pa3").val());
+    scores.assignment.push($("#pa4").val());
+    scores.assignment.push($("#pa5").val());
+    scores.assignment.push($("#pa6").val());
     scores.exam = [];
     scores.exam.push($("#exam1").val());
     scores.exam.push($("#exam2").val());
-    scores.attendance = [];
-    scores.attendance.push($("#attendance").val());
+    scores.participation = [];
+    scores.participation.push($("#participation").val());
+    scores.ld = [];
+    scores.ld.push($("#ld").val());
     scores.si = [];
     scores.si.push($("#si").val());
     scores.evals = [];
@@ -261,59 +230,49 @@ function grade() {
     var score = 0.0;
     var total = 0.0;
 
-    // Exercises
-    var exercises = graded(scores.exercise);
-    if (exercises.length == a.exercise) {
-        // Drop the lowest exercise score.
-        exercises.sort(function(x, y) {return x - y});
-        exercises.reverse();
-        exercises = exercises.slice(0, -1);
+    // Assignments.
+    var assignments = graded(scores.assignment);
+    if (assignments.length == a.assignment) {
+        // Drop the lowest assignment score.
+        assignments.sort(function(x, y) {return x - y});
+        assignments.reverse();
+        assignments = assignments.slice(0, -1);
     }
-    if (exercises.length > 0) {
-        score += w.exercise / 100.0 * sum(exercises);
-        total += w.exercise * exercises.length;
-    }
-
-    // Projects
-    var projects = graded(scores.project);
-    if (projects.length == a.project) {
-        // Drop the lowest project score.
-        projects.sort(function(x, y) {return x - y});
-        projects.reverse();
-        projects = projects.slice(0, -1);
-    }
-    if (projects.length > 0) {
-        score += w.project / 100.0 * sum(projects);
-        total += w.project * projects.length;
+    if (assignments.length > 0) {
+        score += w.assignment / 100.0 * sum(assignments);
+        total += w.assignment * assignments.length;
     }
     
-    // Exams
+    // Exams.
     var exams = graded(scores.exam);
     if (exams.length == a.exam) {
-        // If both exam scores >= 80%, max exam score is the exam average.
-        if (exams[0] >= 80 && exams[1] >= 80) {
-            exams[0] = exams[1] = Math.max(exams[0], exams[1]);
-        }
+        // Nothing here.
     }
     if (exams.length > 0) {
         score += w.exam / 100.0 * sum(exams);
         total += w.exam * exams.length;
     }
 
-    // Attendance.
-    var attendance = graded(scores.attendance);
-    if (attendance.length == a.attendance) {
-        score += w.attendance / 100.0 * attendance[0]; 
-        total += w.attendance * attendance.length;
+    // Participation.
+    var participation = graded(scores.participation);
+    if (participation.length == a.participation) {
+        score += w.participation / 100.0 * participation[0]; 
+        total += w.participation * participation.length;
     }
         
-    // Supplemental instruction
+    // Unused late days.
+    ld = graded(scores.ld);
+    if (ld.length == a.ld) {
+        score += w.ld / 100.0 * scores.ld[0];
+    }
+
+    // Supplemental instruction.
     si = graded(scores.si);
     if (si.length == a.si) {
         score += w.si / 100.0 * scores.si[0];
     }
     
-    // Course evaluation
+    // Course evaluation.
     var evals = graded(scores.evals);
     if (evals.length == a.evals) {
         score += w.evals / 100.0 * scores.evals[0];

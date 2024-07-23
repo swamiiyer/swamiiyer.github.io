@@ -39,7 +39,7 @@ $ mkdir workspace
 > To test your environment, download and unzip the base 
 [*j\-\-* compiler](https://www.cs.umb.edu/~siyer/teaching/j--.zip) and [*iota*](https://www.cs.umb.edu/~siyer/teaching/iota.zip) compilers under `~/workspace`.
 >
-> Launch IntelliJ, open `~/workspace/j--`, and run the following commands on the IntelliJ terminal:
+> Launch IntelliJ, open `~/workspace/j--`, and run the following commands in the IntelliJ terminal:
 ```
 $ ant
 ```
@@ -56,7 +56,7 @@ $ ./bin/j-- tests/HelloWorld.java
 $ java HelloWorld
 ```
 >
-> Launch IntelliJ, open `~/workspace/iota`, and run the following commands on the IntelliJ terminal:
+> Launch IntelliJ, open `~/workspace/iota`, and run the following commands in the IntelliJ terminal:
 ```
 $ ant
 ```
@@ -68,7 +68,7 @@ $ chmod +x ./bin/iota
 ```
 $ ./bin/iota tests/Factorial.iota
 ```
-> Open `~/workspace/iota/Factorial.hmmm` in [HMMM Simulator](https://shickey.github.io/HMMM.js/#/), assemble the instructions, and simulate/run the assembled binary code. Alternatively, you can run `Factorial.hmmm` on the terminal as follows:
+> Open `~/workspace/iota/Factorial.hmmm` in [HMMM Simulator](https://shickey.github.io/HMMM.js/#/), assemble the instructions, and simulate/run the assembled binary code. Alternatively, you can run `Factorial.hmmm` in the terminal as follows:
 ```
 $ python3 ./bin/hmmm Factorial.hmmm
 ```
@@ -104,7 +104,7 @@ $ mkdir workspace
 > To test your environment, download and unzip the base 
 [*j\-\-* compiler](https://www.cs.umb.edu/~siyer/teaching/j--.zip) and [*iota*](https://www.cs.umb.edu/~siyer/teaching/iota.zip) compilers under `~/workspace`.
 >
-> Launch IntelliJ, open `~/workspace/j--`, and run the following commands on the IntelliJ terminal:
+> Launch IntelliJ, open `~/workspace/j--`, and run the following commands in the IntelliJ terminal:
 ```
 $ ant
 ```
@@ -121,7 +121,7 @@ $ ./bin/j-- tests/HelloWorld.java
 $ java HelloWorld
 ```
 > 
-> Launch IntelliJ, open `~/workspace/iota`, and run the following commands on the IntelliJ terminal:
+> Launch IntelliJ, open `~/workspace/iota`, and run the following commands in the IntelliJ terminal:
 ```
 $ ant
 ```
@@ -133,7 +133,7 @@ $ chmod +x ./bin/iota
 ```
 $ ./bin/iota tests/Factorial.iota
 ```
-> Open `~/workspace/iota/Factorial.hmmm` in [HMMM Simulator](https://shickey.github.io/HMMM.js/#/), assemble the instructions, and simulate/run the assembled binary code. Alternatively, you can run `Factorial.hmmm` on the terminal as follows:
+> Open `~/workspace/iota/Factorial.hmmm` in [HMMM Simulator](https://shickey.github.io/HMMM.js/#/), assemble the instructions, and simulate/run the assembled binary code. Alternatively, you can run `Factorial.hmmm` in the terminal as follows:
 ```
 $ python3 ./bin/hmmm Factorial.hmmm
 ```
@@ -154,8 +154,7 @@ $ mkdir workspace
 ```
 >
 
-> Download and unzip [OpenJDK 21](https://download.java.net/java/GA/jdk21.0.2/f2283984656d49d69e91c558476027ac/13/GPL/openjdk-21.0.2_windows-x64_bin.zip)
-for Windows under some folder, say `C:\jdk21`. Run the following commands in a powershell terminal:
+> Download and unzip [OpenJDK 21](https://download.java.net/java/GA/jdk21.0.2/f2283984656d49d69e91c558476027ac/13/GPL/openjdk-21.0.2_windows-x64_bin.zip) for Windows under some folder, say `C:\jdk21`. Run the following commands in a powershell terminal:
 >
 > Set the environment variable `JAVA_HOME`.
 ```
@@ -183,7 +182,7 @@ $ setx PATH "$env:PATH;C:\ant\bin"
 > To test your environment, download and unzip the base 
 [*j\-\-* compiler](https://www.cs.umb.edu/~siyer/teaching/j--.zip) and [*iota*](https://www.cs.umb.edu/~siyer/teaching/iota.zip) compilers under `~/workspace`.
 >
-> Launch IntelliJ, open `~/workspace/j--`, and run the following commands on the IntelliJ terminal:
+> Launch IntelliJ, open `~/workspace/j--`, and run the following commands in the IntelliJ terminal:
 ```
 $ ant
 ```
@@ -196,7 +195,7 @@ $ ./bin/j-- tests/HelloWorld.java
 $ java HelloWorld
 ```
 >
-> Launch IntelliJ, open `~/workspace/iota`, and run the following commands on the IntelliJ terminal:
+> Launch IntelliJ, open `~/workspace/iota`, and run the following commands in the IntelliJ terminal:
 ```
 $ ant
 ```
@@ -204,8 +203,7 @@ $ ant
 ```
 $ ./bin/iota tests/Factorial.iota
 ```
-> Open `~/workspace/iota/Factorial.hmmm` in [HMMM Simulator](https://shickey.github.io/HMMM.js/#/), assemble the instructions, and simulate/run the assembled binary code. Alternatively, you can `Factorial.hmmm` on the terminal as follows:
+> Open `~/workspace/iota/Factorial.hmmm` in [HMMM Simulator](https://shickey.github.io/HMMM.js/#/), assemble the instructions, and simulate/run the assembled binary code. Alternatively, you can `Factorial.hmmm` in the terminal as follows:
 ```
 $ python.exe ./bin/hmmm Factorial.hmmm
 ```
-

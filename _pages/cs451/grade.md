@@ -7,7 +7,7 @@ exclude: true
 
 <div class="aside">
     <div class="container-fluid">
-      <span><b>Projects</b></span>
+      <span><b>Programming Assignments</b></span>
       <table class="table">
         <thead>
           <tr class="row">
@@ -21,22 +21,22 @@ exclude: true
         </thead>
         <tr class="row">
           <td class="col-1">
-            <input id="proj1" type="number" min="0" max="100" size="10" class="form-control" placeholder="%"/>
+            <input id="pa1" type="number" min="0" max="100" size="10" class="form-control" placeholder="%"/>
           </td>
           <td class="col-1">
-            <input id="proj2" type="number" min="0" max="100" size="10" class="form-control" placeholder="%"/>
+            <input id="pa2" type="number" min="0" max="100" size="10" class="form-control" placeholder="%"/>
           </td>
           <td class="col-1">
-            <input id="proj3" type="number" min="0" max="100" size="10" class="form-control" placeholder="%"/>
+            <input id="pa3" type="number" min="0" max="100" size="10" class="form-control" placeholder="%"/>
           </td>
           <td class="col-1">
-            <input id="proj4" type="number" min="0" max="100" size="10" class="form-control" placeholder="%"/>
+            <input id="pa4" type="number" min="0" max="100" size="10" class="form-control" placeholder="%"/>
           </td>
           <td class="col-1">
-            <input id="proj5" type="number" min="0" max="100" size="10" class="form-control" placeholder="%"/>
+            <input id="pa5" type="number" min="0" max="100" size="10" class="form-control" placeholder="%"/>
           </td>
           <td class="col-1">
-            <input id="proj6" type="number" min="0" max="100" size="10" class="form-control" placeholder="%"/>
+            <input id="pa6" type="number" min="0" max="100" size="10" class="form-control" placeholder="%"/>
           </td>
         </tr>
       </table>
@@ -69,6 +69,15 @@ exclude: true
     </tr>
     </table>
     <p/>
+    <p/>
+    <span><b>Unused Late Days</b></span>
+    <table>
+    <tr>
+    <td>
+    <input id="ld" type="number" min="0" max="100" size="10" class="form-control" placeholder="%"/>
+    </td>
+    </tr>
+    </table>
     <p/>
     <span><b>Course Evaluation</b></span>
     <table>
@@ -103,9 +112,10 @@ exclude: true
 // Return an object containing the assessment types and counts.
 function assessments() {
     var assessments = new Object();
-    assessments.project = 6;
+    assessments.assignment = 6;
     assessments.exam = 2;
     assessments.quizzes = 1;
+    assessments.ld = 1;
     assessments.evals = 1;
     return assessments;
 }
@@ -113,10 +123,11 @@ function assessments() {
 // Return an object containing weights for calculating student grade.
 function weights() {
     var weights = new Object();
-    weights.project = 8;
+    weights.assignment = 8;
     weights.exam = 25;
     weights.quizzes = 10;
-    weights.evals = 1;
+    weights.ld = 1;
+    weights.evals = 1;    
     return weights;
 }
 
@@ -190,18 +201,20 @@ function sum(a) {
 
 function grade() {
     var scores = new Object();
-    scores.project = [];
-    scores.project.push($("#proj1").val());
-    scores.project.push($("#proj2").val());
-    scores.project.push($("#proj3").val());
-    scores.project.push($("#proj4").val());
-    scores.project.push($("#proj5").val());
-    scores.project.push($("#proj6").val());
+    scores.assignment = [];
+    scores.assignment.push($("#pa1").val());
+    scores.assignment.push($("#pa2").val());
+    scores.assignment.push($("#pa3").val());
+    scores.assignment.push($("#pa4").val());
+    scores.assignment.push($("#pa5").val());
+    scores.assignment.push($("#pa6").val());
     scores.exam = [];
     scores.exam.push($("#exam1").val());
     scores.exam.push($("#exam2").val());
     scores.quizzes = [];
     scores.quizzes.push($("#quizzes").val());
+    scores.ld = [];
+    scores.ld.push($("#ld").val());
     scores.evals = [];
     scores.evals.push($("#evals").val());
 
@@ -210,22 +223,22 @@ function grade() {
     var score = 0.0;
     var total = 0.0;
 
-    // Projects
-    var projects = graded(scores.project);
-    if (projects.length == a.project) {
+    // Assignments.
+    var assignments = graded(scores.assignment);
+    if (assignments.length == a.assignment) {
         // Select best 4 of 1, 2, 3, 4, and 6; and 5.
-        var t = Array(projects[0], projects[1], projects[2],
-                      projects[3], projects[5]).sort().reverse();
+        var t = Array(assignments[0], assignments[1], assignments[2],
+                      assignments[3], assignments[5]).sort().reverse();
         t.pop();
-        t.push(projects[4]);
-        projects = t;
+        t.push(assignments[4]);
+        assignments = t;
     }
-    if (projects.length > 0) {
-        score += w.project / 100.0 * sum(projects);
-        total += w.project * projects.length;
+    if (assignments.length > 0) {
+        score += w.assignment / 100.0 * sum(assignments);
+        total += w.assignment * assignments.length;
     }
 
-    // Exams
+    // Exams.
     var exams = graded(scores.exam);
     if (exams.length == a.exam) {
        // Nothing here.
@@ -242,7 +255,13 @@ function grade() {
         total += w.quizzes * quizzes.length;
     }
     
-    // Course evaluation
+    // Late days.
+    var ld = graded(scores.ld);
+    if (ld.length == a.ld) {
+        score += w.ld / 100.0 * scores.ld[0];
+    }
+
+    // Course evaluation.
     var evals = graded(scores.evals);
     if (evals.length == a.evals) {
         score += w.evals / 100.0 * scores.evals[0];

@@ -7,11 +7,11 @@ exclude: true
 
 ### Select Your Operating System
 
-[Ubuntu Linux](#linux)
+- [**Ubuntu Linux**](#linux)
 
-[Mac OS X](#mac) 
+- [**Mac OS X**](#mac) 
 
-[Windows](#win) 
+- [**Windows**](#win) 
 
 <a name="linux"/>
 ### Ubuntu Linux
@@ -61,8 +61,7 @@ $ echo "export PYTHONPATH=.:$HOME/lib/stdlib-python" >> $HOME/.bashrc
 > Download and install
 [PyCharm](https://www.jetbrains.com/pycharm/download/#section=linux) (Community Edition).
 
-> To test your environment, download and unzip the
-[dummy project](https://www.cs.umb.edu/~siyer/teaching/cs110/dummy_project.zip) under `~/workspace`, launch PyCharm and open `~/workspace/dummy_project`, and run the following command on the PyCharm terminal:
+> To test your environment, download and unzip [`ipp.zip`](https://www.cs.umb.edu/~siyer/teaching/ipp.zip) under `~/workspace`, launch PyCharm, open the project `~/workspace/ipp/programs`, and run the following command in the PyCharm terminal:
 ```
 $ python3 helloworld.py
 ```
@@ -120,8 +119,7 @@ $ echo "export PYTHONPATH=.:$HOME/lib/stdlib-python" >> $HOME/.zshenv
 > Download and install
 [PyCharm](https://www.jetbrains.com/pycharm/download/#section=mac) (Community Edition).
 
-> To test your environment, download and unzip the
-[dummy project](https://www.cs.umb.edu/~siyer/teaching/cs110/dummy_project.zip) under `~/workspace`, launch PyCharm and open `~/workspace/dummy_project`, and run the following command on the PyCharm terminal:
+> To test your environment, download and unzip [`ipp.zip`](https://www.cs.umb.edu/~siyer/teaching/ipp.zip) under `~/workspace`, launch PyCharm, open the project `~/workspace/ipp/programs`, and run the following command in the PyCharm terminal:
 ```
 $ python3 helloworld.py
 ```
@@ -172,8 +170,7 @@ $ setx PYTHONPATH ".;$HOME\lib\stdlib-python"
 > Download and install
 [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows) (Community Edition).
 
-> To test your environment, download and unzip the
-[dummy project](https://www.cs.umb.edu/~siyer/teaching/cs110/dummy_project.zip) under `~/workspace`, launch PyCharm and open `~/workspace/dummy_project`, and run the following command on the PyCharm terminal:
+> To test your environment, download and unzip [`ipp.zip`](https://www.cs.umb.edu/~siyer/teaching/ipp.zip) under `~/workspace`, launch PyCharm, open the project `~/workspace/ipp/programs`, and run the following command in the PyCharm terminal:
 ```
 $ python.exe helloworld.py
 ```

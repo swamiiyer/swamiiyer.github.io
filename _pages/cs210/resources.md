@@ -10,7 +10,6 @@ order: 6
 - [Programming Environment Setup](programming_environment.html)
 - Programs Discussed in Class ([PDF](https://www.cs.umb.edu/~siyer/teaching/dsaj.pdf) \| [IntelliJ Project](https://www.cs.umb.edu/~siyer/teaching/dsaj.zip))
 - Java Versions of Programs Discussed in CS110 ([PDF](https://www.cs.umb.edu/~siyer/teaching/ipj.pdf) \| [IntelliJ Project](https://www.cs.umb.edu/~siyer/teaching/ipj.zip))
-- [Blank IntelliJ Project](https://www.cs.umb.edu/~siyer/teaching/cs210/blank_project.zip)
 - [iClicker](https://app.reef-education.com/\#/login iClicker)
 - [Discord](https://discord.com)
 - [Gradescope](https://gradescope.com/)
