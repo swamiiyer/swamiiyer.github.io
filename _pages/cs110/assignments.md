@@ -15,7 +15,7 @@ There are 6 programming assignments in all. These are due at midnight (11:59 PM 
 | 5 | Atomic Nature of Matter | Re-affirm the atomic nature of matter by tracking the motion of particles undergoing Brownian motion, fitting this data to Einstein's model, and estimating Avogadro's constant. | [writeup](https://www.cs.umb.edu/~siyer/teaching/cs110/atomic_nature_of_matter.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/cs110/atomic_nature_of_matter.zip) \| [discussion](TBD) |
 | 6 | Markov Model | Use a Markov chain to create a statistical model of a piece of English text and use the model to generate stylized pseudo-random text and decode noisy messages. | [writeup](https://www.cs.umb.edu/~siyer/teaching/cs110/markov_model.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/cs110/markov_model.zip) \| [discussion](TBD) |
 
-The writeup file contains descriptions of the problems in the assignment. The zip file contains the starter files for the problems, any necessary data files, and `notes.txt` file for the assignment. The discussion video provides additional explanation of the assignment problems and directions on how to solve them.
+The writeup file contains descriptions of the problems in the assignment. The zip file contains the starter files for the problems, any necessary data files, and `notes.txt` file for the assignment. The discussion link provides additional explanation of the assignment problems and directions on how to solve them.
 
 ### Submitting Your Work
 

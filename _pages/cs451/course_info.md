@@ -17,7 +17,7 @@ Students who successfully complete this course will be able to: write parsers an
 
 | **Name** | **Role** | **Email** | **Office** | **Hours** |
 Swami Iyer | Instructor | [siyer@cs.umb.edu](mailto://siyer@cs.umb.edu) | M-3-201-14 | In-person: Tue Thu 9:30 AM - 10:30 AM and 2:30 PM - 3:30 PM<br/> Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09)) |
-Trinadhreddy Seelam | Teaching Assistant | [t.seelam001@umb.edu](mailto://t.seelam001@umb.edu) | TBA | TBA |
+Trinadhreddy Seelam | Teaching Assistant | [t.seelam001@umb.edu](mailto://t.seelam001@umb.edu) | M-3-201-10 | Mon Wed 2:00 PM - 3:00 PM |
 
 **Note**: In case you want to email us, please start the subject line with `[CS451/651]`.
 
@@ -70,9 +70,9 @@ The text enables a deep understanding of the Java programming language and its i
 
 We will use [iClicker](https://www.iclicker.com/) to conduct in-class quizzes, for which you will need an [iClicker Student App Subscription](https://www.iclicker.com/pricing#student-pricing).
 
-#### Discord
+#### Piazza
 
-We will use [Discord](https://www.discord.com) as the Q&A platform for the course. If you have any general questions about the assignments, exams, or the lecture material, the most effective way to get them answered is by posting them on Discord. You can expect your questions to be answered by the course staff or your peers.
+We will use [Piazza](https://piazza.com/umb/fall2024/cs451651) as the Q&A platform for the course. If you have any general questions about the assignments, exams, or the lecture material, the most effective way to get them answered is by posting them on Piazza. You can expect your questions to be answered by the course staff or your peers.
 
 #### Gradescope
 
@@ -99,9 +99,9 @@ Visit [CS Labs Portal](https://portal.cs.umb.edu/) to register for a portal/CS a
 
 Come to class on time and stay for the entire session. If you have to leave early, let the instructor know in advance. Have your mobile phone silenced or turned off during the entire session. Use of earphone/headphone during the session is not permitted. Use of a laptop during the session is permitted only for class purposes. Do not talk to each other during the session. If you have any questions, bring them up to the instructor.
 
-#### Discord
+#### Piazza
 
-If you have a question, first make sure that it has not already been asked/answered. Clearer questions get better answers, so re-read your question before you post it. Ask your questions early. Posts are categorized into channels, so pick an appropriate channel for your post. Use the platform only for questions that can be asked in a general way, without sharing code or other assignment-related work. However, if you are stuck on a problem despite your valiant efforts to solve it, you may seek help from the course staff by posting your code privately, as properly formatted text (not images). Any post that is inappropriate or violates the academic honesty code will be deleted by the course staff.
+If you have a question, first make sure that it has not already been asked/answered. Clearer questions get better answers, so re-read your question before you post it. Ask your questions early. Posts are categorized using tags, so pick an appropriate tag for your post. Use the platform only for questions that can be asked in a general way, without sharing code or other assignment-related work. However, if you are stuck on a problem despite your valiant efforts to solve it, you may seek help from the course staff by posting your code privately, as properly formatted text (not images). Any post that is inappropriate or violates the academic honesty code will be deleted by the course staff.
 
 #### Makeup Exam
 

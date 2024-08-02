@@ -9,9 +9,9 @@ Throughout my student life I had the good fortune of being taught by some except
 
 ### Current Courses (Fall 2024)
 
-- CS110: Introduction to Computing
-- CS210: Intermediate Computing with Data Structures
-- CS451/651: Compilers
+- [CS110: Introduction to Computing](/cs110/)
+- [CS210: Intermediate Computing with Data Structures](/cs210/)
+- [CS451/651: Compilers](/cs451/)
 
 ### Previous Courses
 
@@ -38,26 +38,20 @@ Throughout my student life I had the good fortune of being taught by some except
 
 - Supporting libraries and data types used throughout the book: the [API](https://www.cs.umb.edu/~siyer/teaching/stdlib-python.pdf) and the code as a [PyCharm project](https://www.cs.umb.edu/~siyer/teaching/stdlib-python.zip).
 
-- Set of six programming projects (Straight-line Programs, Control Flow Programs, Mozart Waltz Generator, RSA Cryptosystem, Atomic Nature of Matter, and Markov Model), including writeups with implementation hints, solutions, and Gradescope-compatible docker images for autograding student submissions. The last four out of the six projects have been adapted from the [Creative Programming Assignments](https://introcs.cs.princeton.edu/java/assignments/) website at Princeton University. If you are an instructor and would like to use any of these assignments in your course, please email me at [siyer@cs.umb.edu](mailto://siyer@cs.umb.edu), and I will be happy to share the material with you.
-
 #### Introduction to Programming in Java
 
 - Programs I use to teach an introductory course on programming in Java: as a [PDF](https://www.cs.umb.edu/~siyer/teaching/ipj.pdf) and as an [IntelliJ project](https://www.cs.umb.edu/~siyer/teaching/ipj.zip). Most of the programs are from the book [Computer Science: An Interdisciplinary Approach](https://www.amazon.com/Computer-Science-Interdisciplinary-Robert-Sedgewick/dp/0134076427/) by Robert Sedgewick and Kevin Wayne. 
 
-- Supporting libraries and data types used throughout the book: the API ([PDF](https://www.cs.umb.edu/~siyer/teaching/stdlib-java.pdf) \| [JavaDoc](https://www.cs.umb.edu/~siyer/teaching/stdlib-javadoc)), the binaries as a [jar file](https://www.cs.umb.edu/~siyer/teaching/stdlib.jar) (compiled using OpenJDK 17), and the code as an [IntelliJ project](https://www.cs.umb.edu/~siyer/teaching/stdlib.zip).
+- Supporting libraries and data types used throughout the book: the API ([PDF](https://www.cs.umb.edu/~siyer/teaching/stdlib-java.pdf) \| [JavaDoc](https://www.cs.umb.edu/~siyer/teaching/stdlib-javadoc)), the binaries as a [jar file](https://www.cs.umb.edu/~siyer/teaching/stdlib.jar) (compiled using OpenJDK 21), and the code as an [IntelliJ project](https://www.cs.umb.edu/~siyer/teaching/stdlib.zip).
 
 #### Data Structures and Algorithms in Java
 
 - Programs I use to teach a course on data structures and algorithms: as a [PDF](https://www.cs.umb.edu/~siyer/teaching/dsaj.pdf) and as an [IntelliJ project](https://www.cs.umb.edu/~siyer/teaching/dsaj.zip). Most of the programs are from the book [Algorithms](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/) by Robert Sedgewick and Kevin Wayne. 
 
-- Supporting libraries and data types used throughout the book: the API ([PDF](https://www.cs.umb.edu/~siyer/teaching/stdlib-java.pdf) \| [JavaDoc](https://www.cs.umb.edu/~siyer/teaching/stdlib-javadoc)), the binaries as a [jar file](https://www.cs.umb.edu/~siyer/teaching/stdlib.jar) (compiled using OpenJDK 17), and the code as an [IntelliJ project](https://www.cs.umb.edu/~siyer/teaching/stdlib.zip).
+- Supporting libraries and data types used throughout the book: the API ([PDF](https://www.cs.umb.edu/~siyer/teaching/stdlib-java.pdf) \| [JavaDoc](https://www.cs.umb.edu/~siyer/teaching/stdlib-javadoc)), the binaries as a [jar file](https://www.cs.umb.edu/~siyer/teaching/stdlib.jar) (compiled using OpenJDK 21), and the code as an [IntelliJ project](https://www.cs.umb.edu/~siyer/teaching/stdlib.zip).
 
-- Data structures and algorithms discussed in the book: the API ([PDF](https://www.cs.umb.edu/~siyer/teaching/dsalib.pdf) \| [JavaDoc](https://www.cs.umb.edu/~siyer/teaching/dsa-javadoc)) and the [code](https://www.cs.umb.edu/~siyer/teaching/dsa.jar).
+- Data structures and algorithms discussed in the book: the API ([PDF](https://www.cs.umb.edu/~siyer/teaching/dsalib.pdf) \| [JavaDoc](https://www.cs.umb.edu/~siyer/teaching/dsa-javadoc)) and the binaries as a [jar file](https://www.cs.umb.edu/~siyer/teaching/dsa.jar) (compiled using OpenJDK 21).
 
-- Set of six programming projects (Percolation, Deques and Randomized Queues, Autocomplete, 8 Puzzle, KdTrees, and WordNet), including writeups with implementation hints, solutions, and Gradescope-compatible docker images for autograding student submissions. The projects have been adapted from the [Creative Programming Assignments](https://introcs.cs.princeton.edu/java/assignments/) website at Princeton University. The autograder for the projects was developed by one of my students, James Michaud. If you are an instructor and would like to use any of these assignments in your course, please email me at [siyer@cs.umb.edu](mailto://siyer@cs.umb.edu), and I will be happy to share the material with you.
+#### Introduction to Compiler Construction
 
-#### Compiler Construction
-
-- [Companion website](http://www.cs.umb.edu/j-- ) for the [Introduction to Compiler Construction in a Java World](http://www.amazon.com/Introduction-Compiler-Construction-Java-World/dp/1439860882) book I have co-authored with Bill Campbell and Bahar Akbal-Deliba&#351;.
-
-- The compiler (called *j--*) that accompanies the book ([GitHub Page](https://github.com/swamiiyer/j--) \| [JavaDoc](https://www.cs.umb.edu/j--/jmm-javadoc) \| [Code Listing](https://www.cs.umb.edu/j--/jmm-code)).
+TBD

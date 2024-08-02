@@ -5,7 +5,7 @@ title: Home
 order: 1
 ---
 
-I am a senior lecturer in the [Computer Science](http://www.cs.umb.edu) department at the [University of Massachusetts Boston](http://www.umb.edu).
+I am a Senior Lecturer I in the [Computer Science](http://www.cs.umb.edu) department at the [University of Massachusetts Boston](http://www.umb.edu).
 
 ### Reaching Me
 
@@ -14,9 +14,9 @@ I am a senior lecturer in the [Computer Science](http://www.cs.umb.edu) departme
 
 ### Courses (Fall 2024)
 
-- CS110: Introduction to Computing
-- CS210: Intermediate Computing with Data Structures
-- CS451/651: Compilers
+- [CS110: Introduction to Computing](/cs110/)
+- [CS210: Intermediate Computing with Data Structures](/cs210/)
+- [CS451/651: Compilers](/cs451/)
 
 ### Office Hours (Fall 2024)
 
@@ -37,11 +37,11 @@ Being present, books, coding, food, music, travel
 
 - PhD, Computer Science, [University of Massachusetts at Boston](http://www.umb.edu), 2013
 - MS, Computer Science, [University of Massachusetts at Boston](http://www.umb.edu), 2001
-- BE, Electronics and Telecommunication, [University of Mumbai](https://mu.ac.in), 1996
+- BE, Electronics and Telecommunication, [VESIT](https://vesit.ves.ac.in/), 1996
 
 ### Biography
 
-I was born in the southern Indian city of Chennai and grew up in Mumbai. I received my primary and secondary education at [Model English School](http://goo.gl/maps/JIxgN) and higher secondary education at [Ruparel College](http://www.ruparel.edu/). During my second year at Ruparel College, I attended the famous (now defunct) [Agrawal Classes](http://timesofindia.indiatimes.com/city/mumbai/Coaching-centre-downs-shutters-after-57-years/articleshow/7187553.cms). I received my bachelor's degree in Electronics and Telecommunication from [University of Mumbai](https://mu.ac.in) in 1996 after which I worked for two years as a software engineer at [Tata Interactive Systems](http://www.tatainteractive.com/), where I designed and implemented multimedia-rich e-learning software. I received my master's degree in Computer Science from the [University of Massachusetts at Boston (UMB)](http://www.umb.edu) in 2001, following which I worked at [BMC Software](http://www.bmcsoftware.com/) as a product developer until 2006. My role at BMC Software was to design and develop system- and application-level performance-monitoring software. I then decided to seek a doctoral degree in order to fulfill my ambition of pursuing a career in academia. I received my PhD in Comptuer Science, also from UMB, in 2013. My thesis, entitled [Evolutionary Dynamics on Complex Networks](http://scholarworks.umb.edu/doctoral_dissertations/113), was directed by Prof. Timothy Killingback from the Mathematics Department. I joined the Computer Science department at UMB as a Lecturer in Fall 2013 and was promoted to Senior Lecturer in Fall 2021.
+I was born in the southern Indian city of Chennai and grew up in Mumbai. I received my primary and secondary education at [Model English School](https://maps.app.goo.gl/fzLGFB6aNrbtjgdH7) and higher secondary education at [Ruparel College](http://www.ruparel.edu/). During my second year at Ruparel College, I attended the famous (now defunct) [Agrawal Classes](http://timesofindia.indiatimes.com/city/mumbai/Coaching-centre-downs-shutters-after-57-years/articleshow/7187553.cms). I received my bachelor's degree in Electronics and Telecommunication from [VESIT](https://vesit.ves.ac.in/) in 1996 after which I worked for two years as a software engineer at Tata Interactive Systems, where I implemented multimedia-rich e-learning software. I received my master's degree in Computer Science from the [University of Massachusetts at Boston (UMB)](http://www.umb.edu) in 2001, following which I worked for five years as a product developer at BMC Software, where I developed system- and application-level performance-monitoring software. In 2006, I decided to get a doctoral degree with the goal of pursuing a career in academia. I received my PhD in Comptuer Science, also from UMB, in 2013. My thesis, entitled [Evolutionary Dynamics on Complex Networks](http://scholarworks.umb.edu/doctoral_dissertations/113), was directed by Prof. Timothy Killingback from the Mathematics Department. I joined the Computer Science department at UMB as a Lecturer in Fall 2013 and was promoted to Senior Lecturer I in Fall 2021.
 
 ### Frequently Asked Questions
 

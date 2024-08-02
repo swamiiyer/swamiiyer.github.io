@@ -15,7 +15,7 @@ There are 6 programming assignments in all. These are due at midnight (11:59 PM 
 5 | Autocomplete | Implement *autocomplete* feature for a given set of strings and nonnegative weights, ie, given a prefix, find and list all strings in the set that start with the prefix, in descending order of weights. | [writeup](https://www.cs.umb.edu/~siyer/teaching/cs210/autocomplete.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/cs210/autocomplete.zip) \| [discussion](TBD) |
 6 | Eight Puzzle | Solve the eight-puzzle problem (and its natural generalizations) using the *A*⋆ search algorithm. | [writeup](https://www.cs.umb.edu/~siyer/teaching/cs210/eight_puzzle.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/cs210/eight_puzzle.zip) \| [discussion](TBD) |
 
-The writeup file contains descriptions of the problems in the assignment. The zip file contains the starter files for the problems, any necessary data files, and `notes.txt` file for the assignment. The discussion video provides additional explanation of the assignment problems and directions on how to solve them.
+The writeup file contains descriptions of the problems in the assignment. The zip file contains the starter files for the problems, any necessary data files, and `notes.txt` file for the assignment. The discussion link provides additional explanation of the assignment problems and directions on how to solve them.
 
 ### Submitting Your Work
 

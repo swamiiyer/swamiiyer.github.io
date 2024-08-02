@@ -1,0 +1,43 @@
+- title: I need a recommendation letter for a scholarship/job that I am applying to. Would you be willing to write one for me?
+  body: 
+
+- title: Is there an opportunity to work as a TA/CA/SI for any of your courses?
+  body: 
+
+- title: Why do we use stdio.writeln() and not the print() function in Python?
+  body:
+
+- title: Why do we use StdOut.println() and not the System.out.println() function in Java?
+  body:
+
+- title: CS110 is supposed to be an introductory course. Why is it so hard?
+  body:
+
+- title: Do I need an appointment to see you during your office hours?
+  body:
+
+- title: Could you remove my advising hold?
+  body:
+
+- title: Do you have any research projects for me to work on with you?
+  body:
+
+- title: I am just a few points short of the next higher grade. Is there anything I can do to receive that higher grade?
+  body:
+
+- title: I just realized that I am not doing well in the course. Is there any extra-credit work I can do in order to catch up?
+  body:
+
+- title: Why are the exams weighted so heavily instead of the programming assignments?
+  body:
+
+- title: I would like to take the Practicum in Computer Science course. Would you be my advisor?
+  body:
+
+- title: Would you be my CPT advisor?
+  body:
+
+- title: I am working with you as a TA/CA/SI. What are my responsibilities?
+  body:
+
+

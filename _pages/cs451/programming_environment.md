@@ -68,9 +68,9 @@ $ chmod +x ./bin/iota
 ```
 $ ./bin/iota tests/Factorial.iota
 ```
-> Open `~/workspace/iota/Factorial.hmmm` in [HMMM Simulator](https://shickey.github.io/HMMM.js/#/), assemble the instructions, and simulate/run the assembled binary code. Alternatively, you can run `Factorial.hmmm` in the terminal as follows:
+> 
 ```
-$ python3 ./bin/hmmm Factorial.hmmm
+$ python3 ./bin/marvin.py Factorial.marv
 ```
 
 <a name="mac"/>
@@ -133,9 +133,9 @@ $ chmod +x ./bin/iota
 ```
 $ ./bin/iota tests/Factorial.iota
 ```
-> Open `~/workspace/iota/Factorial.hmmm` in [HMMM Simulator](https://shickey.github.io/HMMM.js/#/), assemble the instructions, and simulate/run the assembled binary code. Alternatively, you can run `Factorial.hmmm` in the terminal as follows:
+>
 ```
-$ python3 ./bin/hmmm Factorial.hmmm
+$ python3 ./bin/marvin.py Factorial.marv
 ```
 
 <a name="win"/>
@@ -179,6 +179,9 @@ $ setx PATH "$env:PATH;C:\ant\bin"
 
 > Download and install [IntelliJ](https://www.jetbrains.com/idea/download/#section=windows) (Community Edition). Launch IntelliJ, go to *Configure* &rarr; *Settings* &rarr; *Tools* &rarr; *Terminal*, and set *Shell path* to `powershell`.
 
+> Install [Python 3](https://www.python.org/downloads/),  making sure you have checked the box that says *Add
+Python 3.x to PATH*.
+
 > To test your environment, download and unzip the base 
 [*j\-\-* compiler](https://www.cs.umb.edu/~siyer/teaching/j--.zip) and [*iota*](https://www.cs.umb.edu/~siyer/teaching/iota.zip) compilers under `~/workspace`.
 >
@@ -203,7 +206,7 @@ $ ant
 ```
 $ ./bin/iota tests/Factorial.iota
 ```
-> Open `~/workspace/iota/Factorial.hmmm` in [HMMM Simulator](https://shickey.github.io/HMMM.js/#/), assemble the instructions, and simulate/run the assembled binary code. Alternatively, you can `Factorial.hmmm` in the terminal as follows:
+>
 ```
-$ python.exe ./bin/hmmm Factorial.hmmm
+$ python.exe ./bin/marvin.py Factorial.marv
 ```

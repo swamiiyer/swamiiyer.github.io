@@ -23,7 +23,7 @@ Welcome to the Intermediate Computing with Data Structures (CS210) course I will
 
 - Please take care of the following action items:
   - Sign up for [iClicker](https://app.reef-education.com/\#/account/create iClicker) (active learning platform) using your UMB email address and add the course *CS210* to your dashboard. You will need to purchase an [iClicker Student App Subscription](https://www.iclicker.com/pricing#student-pricing) to participate in the in-class quizzes.
-  - Sign up for Discord (Q&A platform) and Gradescope (grading platform) using the invitations that will be sent to your UMB email address.
+  - Sign up for Piazza (Q&A platform) and Gradescope (grading platform) using the invitations that will be sent to your UMB email address.
   - Setup the [programming environment](programming_environment.html) on your computer.
   - Complete the mandatory questionnaire (all six questions) available on Gradescope. You will **not** be allowed to submit your assignments or take the exams until you complete the questionnaire. 
   - Complete the [Supplemental Instruction (SI) poll](https://forms.gle/4WCsvN7iQDoSf8DV9).

@@ -1,0 +1,64 @@
+.panel {
+	margin-bottom:4px;
+}
+
+.panel-heading {
+	padding:10px;
+	display: inline-block;
+	width: 100%;
+	background-color: white;
+	border: 1px solid #f0f0f0;
+	position: relative;
+	cursor: pointer;
+}
+
+.panel-heading a {
+    text-decoration: none;
+    color:#202020;
+    vertical-align: bottom;
+}
+
+.panel-heading a:after {
+    content: "+";
+    position: absolute;
+    right: 15px;
+    font-size: 20px;
+    font-weight: bold;
+    top: 50%;
+    line-height: 1;
+    margin-top: -10px;
+}
+
+.panel-heading:hover, .panel-heading-hover {
+    background-color: #d4d4d4;
+    border: 1px solid #d4d4d4;
+}
+
+.panel-heading-hover a:after {
+    content: "-";
+    position: absolute;
+    right: 15px;
+    font-size: 20px;
+    font-weight: bold;
+    top: 50%;
+    line-height: 1;
+    margin-top: -10px;
+}
+
+.panel-body{
+	border: 1px solid #f0f0f0;
+	background: white;
+	padding: 0 10px;
+	width: 100%;
+}
+
+.hidden-element {
+	-moz-transition: height .3s;
+	-ms-transition: height .3s;
+	-o-transition: height .3s;
+	-webkit-transition: height .3s;
+	transition: height .3s;
+	height: 0;
+	overflow: hidden;
+}
+
