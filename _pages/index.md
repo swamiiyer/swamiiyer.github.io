@@ -27,11 +27,11 @@ Note: You don't need an appointment to see me during my office hours. Just stop 
 
 ### Academic Interests
 
-Evolutionary dynamics on complex networks, pedagogy
+Evolutionary dynamics on complex networks, coding, pedagogy
 
 ### Other Interests
 
-Being present, books, coding, food, music, travel
+Being present, books, food, music, travel
 
 ### Education
 
