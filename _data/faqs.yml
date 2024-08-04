@@ -1,20 +1,20 @@
 - title: Is there an opportunity to work as a TA/CA/SI for any of your courses?
   body: 
 
-- title: Why do we use stdio.writeln() and not the print() function in Python?
+- title: Why do we use <code>stdio.writeln()</code> and not <code>print()</code> in CS110?
   body:
 
-- title: Why do we use StdOut.println() and not the System.out.println() function in Java?
+- title: Why do we use <code>StdOut.println()</code> and not <code>System.out.println()</code> in CS210?
   body:
 
 - title: CS110 is supposed to be an introductory course. Why is it so hard?
   body:
 
 - title: Do I need an appointment to see you during your office hours?
-  body:
+  body: <p/><p>You do not need an appointment to see me during my scheduled office hours. However, if those times do not work for you, send me an email and we can arrange another time for us to meet, either in person or via Zoom.</p>
 
 - title: Could you remove my advising hold?
-  body:
+  body: <p/><p>You must see me during my office hours for advising. I will remove the hold once we discuss and finalize your classes for the next semester. If you have a pretty good idea on what classes you will be taking, we can do the advising over email --- just send me the class list to initiate the process.</p>
 
 - title: Do you have any research projects for me to work on with you?
   body:
@@ -38,7 +38,4 @@
   body:
 
 - title: I need a recommendation letter for a scholarship/job I am applying to. Would you be willing to write one for me?
-  body: Sure. I'd be happy to write a recommendation letter for you provided you took one or more classes with me and received an A in all of them. On rare occasions, I'd write the letter even if your grades in my classes fell short of an A provided I have a solid impression of you based on our interactions in and outside the classrooom.
-
-
- I'd need at least two weeks to write the letter. In addition, I'll need a short statement from you describing your interests and career goals, and details on where to send the letter and when to send it by.
+  body: <p/><p>I will write a recommendation letter for you only if you have taken one or more classes with me and have received an A in all of them. On rare occasions, I will be somewhat lenient with the grade requirement provided I have a very good impression of you based on our interactions in and outside the classrooom.</p><p>To write an effective letter, I will need at least two weeks' time and a short statement from you describing your interests and career goals.</p><p>Note&colon; I will not write the letter unless you waive your right to access it.</p>
