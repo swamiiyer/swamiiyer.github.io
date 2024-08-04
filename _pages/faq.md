@@ -13,7 +13,7 @@ exclude: true
 			<a href="javascript:void(0)" data-toggle="{{forloop.index}}" href="#"><b>Q{{forloop.index}}. {{item.title}}</b></a>
 		</div>
 		<div class="panel-body hidden-element" data-body="{{forloop.index}}"> 
-			{{item.body}} 
+            <pre>  {{item.body}} </pre>
 		</div>
 	  </div>
       <br/>
