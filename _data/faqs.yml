@@ -1,20 +1,23 @@
+- title: Do I need any prior programming experience in order to take your CS110 course and do well in it?
+  body:
+
+- title: Why is CS110 so hard? Isn't it supposed to be an introductory course?
+  body:
+
+- title: Why do we use <code>stdio.writeln()</code> instead of <code>print()</code> in CS110 and <code>StdOut.println()</code> instead of <code>System.out.println()</code> in CS210?
+  body:
+
+- title: What does it take to succeed in your courses (CS110, CS210, and CS451/651)?
+  body:
+  
 - title: Is there an opportunity to work as a TA/CA/SI for any of your courses?
   body: 
-
-- title: Why do we use <code>stdio.writeln()</code> and not <code>print()</code> in CS110?
-  body:
-
-- title: Why do we use <code>StdOut.println()</code> and not <code>System.out.println()</code> in CS210?
-  body:
-
-- title: CS110 is supposed to be an introductory course. Why is it so hard?
-  body:
 
 - title: Do I need an appointment to see you during your office hours?
   body: <p/><p>You do not need an appointment to see me during my scheduled office hours. However, if those times do not work for you, send me an email and we can arrange another time for us to meet, either in person or via Zoom.</p>
 
 - title: Could you remove my advising hold?
-  body: <p/><p>You must see me during my office hours for advising. I will remove the hold once we discuss and finalize your classes for the next semester. If you have a pretty good idea on what classes you will be taking, we can do the advising over email --- just send me the class list to initiate the process.</p>
+  body: <p/><p>You must see me during my office hours for advising. I will remove the hold once we discuss and finalize your classes for the next semester. If you have a pretty good idea on what classes you will be taking, we can do the advising over email --- just send me the class list.</p>
 
 - title: Do you have any research projects for me to work on with you?
   body:
