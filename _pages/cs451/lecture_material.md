@@ -22,9 +22,9 @@ order: 4
 
 - **Chapter 3: Parsing**
   - Preliminaries ([slides](https://www.cs.umb.edu/~siyer/teaching/cs451/parsing1.pdf) \| [exercises](https://www.cs.umb.edu/~siyer/teaching/cs451/parsing1_exercises.pdf))
-  - Top-down Recursive Descent Parsing ([slides](https://www.cs.umb.edu/~siyer/teaching/cs451/parsing2.pdf) \| [exercises](https://www.cs.umb.edu/~siyer/teaching/cs451/parsing2_exercises.pdf))
-  - Top-down LL(1) Parsing ([slides](https://www.cs.umb.edu/~siyer/teaching/cs451/parsing3.pdf) \| [exercises](https://www.cs.umb.edu/~siyer/teaching/cs451/parsing3_exercises.pdf))
-  - Bottom-up LR(1) Parsing ([slides](https://www.cs.umb.edu/~siyer/teaching/cs451/parsing4.pdf) \| [exercises](https://www.cs.umb.edu/~siyer/teaching/cs451/parsing4_exercises.pdf))
+  - Top-down Recursive Descent Algorithm ([slides](https://www.cs.umb.edu/~siyer/teaching/cs451/parsing2.pdf) \| [exercises](https://www.cs.umb.edu/~siyer/teaching/cs451/parsing2_exercises.pdf))
+  - Top-down LL(1) Algorithm ([slides](https://www.cs.umb.edu/~siyer/teaching/cs451/parsing3.pdf) \| [exercises](https://www.cs.umb.edu/~siyer/teaching/cs451/parsing3_exercises.pdf))
+  - Bottom-up LR(1) Algorithm ([slides](https://www.cs.umb.edu/~siyer/teaching/cs451/parsing4.pdf) \| [exercises](https://www.cs.umb.edu/~siyer/teaching/cs451/parsing4_exercises.pdf))
   - JavaCC Parser for *j\-\-* ([slides](https://www.cs.umb.edu/~siyer/teaching/cs451/parsing5.pdf) \| [exercises](https://www.cs.umb.edu/~siyer/teaching/cs451/parsing5_exercises.pdf))
 
 - **Chapter 4: Type Checking**
