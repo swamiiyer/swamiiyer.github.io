@@ -54,10 +54,8 @@ Throughout my student life I had the good fortune of being taught by some except
 
 #### Introduction to Compiler Construction
 
-- Language Specification ([*j\-\-*](https://www.cs.umb.edu/~siyer/teaching/jmm_langspec.pdf) \| [*Java Lite*](https://www.cs.umb.edu/~siyer/teaching/javalite_langspec.pdf) \| [*iota*](https://www.cs.umb.edu/~siyer/teaching/iota_langspec.pdf))
+- Marvin: a hypothetical register-based machine designed for teaching purposes. ([GitHub](https://github.com/swamiiyer/marvin))
 
-- Marvin machine ([GitHub](https://github.com/swamiiyer/marvin))
+- *j\-\-*: a compiler (written in Java) for a language called *j\-\-* and targeting the stack-based Java Virtual Machine. ([GitHub](https://github.com/swamiiyer/j--))
 
-- *j\-\-* to JVM compiler ([IntelliJ project](https://www.cs.umb.edu/~siyer/teaching/j--.zip) \| [JavaDoc](https://www.cs.umb.edu/~siyer/teaching/jmm-javadoc) \| [GitHub](https://github.com/swamiiyer/j--))
-
-- *iota* to Marvin compiler ([IntelliJ project](https://www.cs.umb.edu/~siyer/teaching/iota.zip) \| [JavaDoc](https://www.cs.umb.edu/~siyer/teaching/iota-javadoc) \| [GitHub](https://github.com/swamiiyer/iota))
+- *iota*: a compiler (also written in Java) for a language called *iota* and targeting the register-based Marvin machine. ([GitHub](https://github.com/swamiiyer/iota))
