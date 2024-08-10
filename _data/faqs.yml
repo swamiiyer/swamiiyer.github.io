@@ -1,4 +1,4 @@
-- title: Do I need any prior programming experience in order to take your CS110 course and do well in it?
+- title: Do I need any prior programming experience in order to take your CS110 course and be sucessful?
   body:
 
 - title: Why is CS110 so hard? Isn't it supposed to be an introductory course?
@@ -7,38 +7,41 @@
 - title: Why do we use <code>stdio.writeln()</code> instead of <code>print()</code> in CS110 and <code>StdOut.println()</code> instead of <code>System.out.println()</code> in CS210?
   body:
 
-- title: What does it take to succeed in your courses (CS110, CS210, and CS451/651)?
+- title: Why are the exams weighted more than the programming assignments even though the assignments are considerably harder and involve a lot of our time and effort?
+  body:
+
+- title: What is the recipe to succeed in your (CS110, CS210, and CS451/651) courses?
   body:
   
-- title: Is there an opportunity to work as a TA/CA/SI for any of your courses?
-  body: 
+- title: I just realized that I am not doing well in your course(s). Is there any extra-credit work that I can do to turn things around?
+  body:
+
+- title: I am just a few points short of the next higher grade. Is there anything that I can do to get that grade?
+  body:
 
 - title: Do I need an appointment to see you during your office hours?
   body: <p/><p>You do not need an appointment to see me during my scheduled office hours. However, if those times do not work for you, send me an email and we can arrange another time for us to meet, either in person or via Zoom.</p>
 
-- title: Could you remove my advising hold?
+- title: Would you please remove my advising hold?
   body: <p/><p>You must see me during my office hours for advising. I will remove the hold once we discuss and finalize your classes for the next semester. If you have a pretty good idea on what classes you will be taking, we can do the advising over email --- just send me the class list.</p>
 
-- title: Do you have any research projects for me to work on with you?
+- title: I would like to work as a Teaching Assistant (TA) or Course Assistant (CA) or Supplemental Instructor (SI) for one of your courses? How do I go about it?
+  body: 
+
+- title: What are the responsibilities of a Teaching Assistant (TA), a Course Assistant (CA), and a Supplemental Instructor (SI)?
   body:
 
-- title: I am just a few points short of the next higher grade. Is there anything I can do to receive that higher grade?
+- title: I would like to take the one-credit CS495 (Practicum in Computer Science) course. Would you please be my advisor?
   body:
 
-- title: I just realized that I am not doing well in the course. Is there any extra-credit work I can do in order to catch up?
+- title: I would like to take the one-credit CS695 (Practicum in Computer Science) course, for which I need a Curricular Practical Training (CPT) advisor. Would you please be my advisor?
   body:
 
-- title: Why are the exams weighted so heavily instead of the programming assignments?
+- title: I am interested in doing research. Do you have any ongoing projects that I could be involved in?
   body:
 
-- title: I would like to take the Practicum in Computer Science course. Would you be my advisor?
+- title: I would like do my PhD under your guidance? Is that an option?
   body:
-
-- title: Would you be my CPT advisor?
-  body:
-
-- title: I am working with you as a TA/CA/SI. What are my responsibilities?
-  body:
-
-- title: I need a recommendation letter for a scholarship/job I am applying to. Would you be willing to write one for me?
+  
+- title: I need a recommendation letter for a scholarship/job that I am applying to. Would you please write one for me?
   body: <p/><p>I will write a recommendation letter for you only if you have taken one or more classes with me and have received an A in all of them. On rare occasions, I will be somewhat lenient with the grade requirement provided I have a very good impression of you based on our interactions in and outside the classrooom.</p><p>To write an effective letter, I will need at least two weeks' time and a short statement from you describing your interests and career goals.</p><p>Note&colon; I will not write the letter unless you waive your right to access it.</p>
