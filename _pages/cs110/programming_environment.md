@@ -61,9 +61,15 @@ $ echo "export PYTHONPATH=.:$HOME/lib/stdlib-python" >> $HOME/.bashrc
 > Download and install
 [PyCharm](https://www.jetbrains.com/pycharm/download/#section=linux) (Community Edition).
 
-> To test your environment, download and unzip [`ipp.zip`](https://www.cs.umb.edu/~siyer/teaching/ipp.zip) under `~/workspace`, launch PyCharm, open the project `~/workspace/ipp/programs`, and run the following command in the PyCharm terminal:
+> To test your environment, download and unzip [`ipp.zip`](https://www.cs.umb.edu/~siyer/teaching/ipp.zip) under `~/workspace`, launch PyCharm, open the project `~/workspace/ipp/programs`, and run the following commands in the PyCharm terminal:
 ```
-$ python3 helloworld.py
+$ python3 helloworld.py 
+```
+```
+$ python3 bouncingball.py 
+```
+```
+$ python3 playthattune.py < ../data/looney.txt 
 ```
 
 <a name="mac"/>
@@ -119,9 +125,15 @@ $ echo "export PYTHONPATH=.:$HOME/lib/stdlib-python" >> $HOME/.zshenv
 > Download and install
 [PyCharm](https://www.jetbrains.com/pycharm/download/#section=mac) (Community Edition).
 
-> To test your environment, download and unzip [`ipp.zip`](https://www.cs.umb.edu/~siyer/teaching/ipp.zip) under `~/workspace`, launch PyCharm, open the project `~/workspace/ipp/programs`, and run the following command in the PyCharm terminal:
+> To test your environment, download and unzip [`ipp.zip`](https://www.cs.umb.edu/~siyer/teaching/ipp.zip) under `~/workspace`, launch PyCharm, open the project `~/workspace/ipp/programs`, and run the following commands in the PyCharm terminal:
 ```
-$ python3 helloworld.py
+$ python3 helloworld.py 
+```
+```
+$ python3 bouncingball.py 
+```
+```
+$ python3 playthattune.py < ../data/looney.txt 
 ```
 
 <a name="win"/>
@@ -170,7 +182,13 @@ $ setx PYTHONPATH ".;$HOME\lib\stdlib-python"
 > Download and install
 [PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows) (Community Edition).
 
-> To test your environment, download and unzip [`ipp.zip`](https://www.cs.umb.edu/~siyer/teaching/ipp.zip) under `~/workspace`, launch PyCharm, open the project `~/workspace/ipp/programs`, and run the following command in the PyCharm terminal:
+> To test your environment, download and unzip [`ipp.zip`](https://www.cs.umb.edu/~siyer/teaching/ipp.zip) under `~/workspace`, launch PyCharm, open the project `~/workspace/ipp/programs`, and run the following commands in the PyCharm terminal:
 ```
-$ python.exe helloworld.py
+$ python.exe helloworld.py 
+```
+```
+$ python.exe bouncingball.py 
+```
+```
+$ Get-Content ../data/looney.txt | python.exe playthattune.py
 ```
