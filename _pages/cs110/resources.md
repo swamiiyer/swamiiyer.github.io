@@ -15,8 +15,8 @@ order: 6
 - Sample Exams
   - [Written Exam 1](https://www.cs.umb.edu/~siyer/teaching/cs110/cs110_sample_written_exam1.pdf) \| [Programming Exam 1](https://www.cs.umb.edu/~siyer/teaching/cs110/cs110_sample_programming_exam1.pdf)
   - [Written Exam 2](https://www.cs.umb.edu/~siyer/teaching/cs110/cs110_sample_written_exam2.pdf) \| [Programming Exam 2](https://www.cs.umb.edu/~siyer/teaching/cs110/cs110_sample_programming_exam2.pdf)
-- [Math Primer](TBD)
-- [Command-line Primer](TBD) 
+- [Math Tutorial](https://www.cs.umb.edu/~siyer/teaching/math_tutorial.pdf)
+- [Command-line Tutorial](https://www.cs.umb.edu/~siyer/teaching/cmdline_tutorial.pdf)
 - [What's My Grade?](grade.html)
 - [Syllabus](https://www.cs.umb.edu/~siyer/teaching/cs110/cs110_syllabus.pdf)
   

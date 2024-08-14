@@ -28,6 +28,8 @@ Welcome to the Introduction to Computing (CS110) course I will be teaching this 
   - Complete the mandatory questionnaire (all six questions) available on Gradescope. You will **not** be allowed to submit your assignments or take the exams until you complete the questionnaire. 
   - Complete the [Supplemental Instruction (SI) poll](https://forms.gle/U14FTpe5QQdNnU7v9).
   - Sign up for a [CS account](course_info.html#cs_account).
+  - Review the [math tutorial](https://www.cs.umb.edu/~siyer/teaching/math_tutorial.pdf).
+  - Review the [command-line tutorial](https://www.cs.umb.edu/~siyer/teaching/cmdline_tutorial.pdf).
 
 - CS110 is a very demanding course, so please be prepared to work really hard from the outset, or else you will quickly fall behind and end up with a poor/failing grade.
 

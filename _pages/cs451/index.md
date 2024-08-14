@@ -27,6 +27,7 @@ Welcome to the Compilers (CS451/651) course I will be teaching this semester!
   - Setup the [programming environment](programming_environment.html) on your computer.
   - Complete the mandatory questionnaire (all six questions) available on Gradescope. You will **not** be allowed to submit your assignments or take the exams until you complete the questionnaire. 
   - Sign up for a [CS account](course_info.html#cs_account).
+  - Review the [command-line tutorial](https://www.cs.umb.edu/~siyer/teaching/cmdline_tutorial.pdf).
 
 - CS451/651 is a very demanding course, so please be prepared to work really hard from the outset, or else you will quickly fall behind and end up with a poor/failing grade.
 

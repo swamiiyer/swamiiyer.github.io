@@ -45,7 +45,7 @@ $ ant
 ```
 >
 ```
-$ chmod +x ./bin/j--
+$ chmod +x ./bin/j-- ./bin/javaccj-- ./bin/clemitter
 ```
 >
 ```
@@ -72,6 +72,8 @@ $ ./bin/iota tests/Factorial.iota
 ```
 $ python3 ./bin/marvin.py Factorial.marv
 ```
+
+> To setup a project JDK in IntelliJ, open the project, go to `File > Project Structure > Project Settings > Project`, and from the SDK list select the OpenJDK you installed in a previous step.
 
 <a name="mac"/>
 ### Mac OS X
@@ -110,7 +112,7 @@ $ ant
 ```
 >
 ```
-$ chmod +x ./bin/j--
+$ chmod +x ./bin/j-- ./bin/javaccj-- ./bin/clemitter
 ```
 >
 ```
@@ -137,6 +139,8 @@ $ ./bin/iota tests/Factorial.iota
 ```
 $ python3 ./bin/marvin.py Factorial.marv
 ```
+
+> To setup a project JDK in IntelliJ, open the project, go to `File > Project Structure > Project Settings > Project`, and from the SDK list select the OpenJDK you installed in a previous step.
 
 <a name="win"/>
 ### Windows
@@ -210,3 +214,5 @@ $ ./bin/iota tests/Factorial.iota
 ```
 $ python.exe ./bin/marvin.py Factorial.marv
 ```
+
+> To setup a project JDK in IntelliJ, open the project, go to `File > Project Structure > Project Settings > Project`, and from the SDK list select the OpenJDK you installed in a previous step.

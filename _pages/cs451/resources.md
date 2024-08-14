@@ -13,7 +13,7 @@ order: 6
 - [Piazza](https://piazza.com/umb/fall2024/cs451651)
 - [Gradescope](https://gradescope.com/)
 - Sample Exams ([Exam 1](https://www.cs.umb.edu/~siyer/teaching/cs451/cs451_sample_exam1.pdf) \| [Exam 2](https://www.cs.umb.edu/~siyer/teaching/cs451/cs451_sample_exam2.pdf))
-- [Command-line Primer](TBD) 
+- [Command-line Tutorial](https://www.cs.umb.edu/~siyer/teaching/cmdline_tutorial.pdf)
 - [What's My Grade?](grade.html)
 - [Syllabus](https://www.cs.umb.edu/~siyer/teaching/cs451/cs451_syllabus.pdf)
 

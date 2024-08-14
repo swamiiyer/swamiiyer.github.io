@@ -60,6 +60,8 @@ $ javac -d out src/HelloWorld.java
 $ java HelloWorld
 ```
 
+> To setup a project JDK in IntelliJ, open the project, go to `File > Project Structure > Project Settings > Project`, and from the SDK list select the OpenJDK you installed in a previous step.
+
 <a name="mac"/>
 ## Mac OS X
 
@@ -112,6 +114,8 @@ $ javac -d out src/HelloWorld.java
 $ java HelloWorld
 ```
 
+> To setup a project JDK in IntelliJ, open the project, go to `File > Project Structure > Project Settings > Project`, and from the SDK list select the OpenJDK you installed in a previous step.
+
 <a name="win"/>
 ## Windows
 
@@ -162,3 +166,5 @@ $ javac -d out src/HelloWorld.java
 ```
 $ java HelloWorld
 ```
+
+> To setup a project JDK in IntelliJ, open the project, go to `File > Project Structure > Project Settings > Project`, and from the SDK list select the OpenJDK you installed in a previous step.

@@ -72,6 +72,8 @@ $ python3 bouncingball.py
 $ python3 playthattune.py < ../data/looney.txt 
 ```
 
+> To add a Python interpreter to a project in PyCharm, open the project, go to `File > Settings > Project: <project name> > Python Interpreter`, and from the pull-down menu on the right select Python 3.x that is installed in the system.
+
 <a name="mac"/>
 ### Mac OS X
 
@@ -136,6 +138,8 @@ $ python3 bouncingball.py
 $ python3 playthattune.py < ../data/looney.txt 
 ```
 
+> To add a Python interpreter to a project in PyCharm, open the project, go to `File > Settings > Project: <project name> > Python Interpreter`, and from the pull-down menu on the right select Python 3.x that is installed in the system.
+
 <a name="win"/>
 ### Windows
 
@@ -192,3 +196,5 @@ $ python.exe bouncingball.py
 ```
 $ Get-Content ../data/looney.txt | python.exe playthattune.py
 ```
+
+> To add a Python interpreter to a project in PyCharm, open the project, go to `File > Settings > Project: <project name> > Python Interpreter`, and from the pull-down menu on the right select Python 3.x that is installed in the system.
