@@ -17,6 +17,10 @@ Students who successfully complete this course will be able to tackle computatio
 
 | **Name** | **Role** | **Email** | **Office** | **Office Hours** |
 Swami Iyer | Instructor | [siyer@cs.umb.edu](mailto://siyer@cs.umb.edu) | M-3-201-14 | In-person: Tue Thu 9:30 AM - 10:30 AM and 2:30 PM - 3:30 PM<br/> Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09)) |
+Haowen Guan | Teaching Assistant | [haowen.guan001@umb.edu](mailto://haowen.guan001@umb.edu) | TBD | TBD |
+JieHyun (Jenna) Kim | Teaching Assistant | [jiehyun.kim001@umb.edu](mailto://jiehyun.kim001@umb.edu) | TBD | TBD |
+Rishank Singh | Teaching Assistant | [rishank.singh001@umb.edu](mailto://rishank.singh001@umb.edu) | TBD | TBD |
+Zhen Lu | Teaching Assistant | [zhen.lu001@umb.edu](mailto://zhen.lu001@umb.edu) | TBD | TBD |
 Serin Kitery | Supplemental Instruction Leader | [serin.kitery001@umb.edu](mailto://serin.kitery001@umb.edu) | - | - |
 
 **Note**: In case you want to email us, please start the subject line with `[CS110]`.
@@ -33,14 +37,14 @@ In each class, the instructor will present the material for that class for an ho
 Starting from the second week, there will be a discussion every week. The focus of the discussion for a particular week will be the current assignment. The teaching assistant (TA) will walk you through the assignment problems systematically. The TA will also answer any specific questions you may have about the assignment or the course material in general. You may also seek help from the course assistant (CA) who will be assisting the TA during the discussions. The discussions will be worthwhile only if you go to the sessions having read the assignment writeup thoroughly and have at least a moderate understanding of the problems involved. The TA will assume that you have done the reading in advance.
 
 | **Section** | **When** | **Where** | **TA** | **CA** |
-1 | Tue 9:30 AM - 10:45 AM | M-1-0209 | TBD | TBD |
-2 | Thu 9:30 AM - 10:45 AM | M-2-0206 | TBD | TBD |
-3 | Tue 12:30 PM - 1:45 PM | M-2-0211 | TBD | TBD |
-4 | Thu 12:30 PM - 1:45 PM | W-2-0198 | TBD | TBD |
-5 | Tue 9:30 AM - 10:45 AM | M-2-0206 | TBD | TBD |
-6 | Thu 9:30 AM - 10:45 AM | W-1-0061 | TBD | TBD |
-7 | Tue 12:30 PM - 1:45 PM | W-1-0055 | TBD | TBD |
-8 | Thu 12:30 PM - 1:45 PM | M-3-0732 | TBD | TBD |
+1 | Tue 9:30 AM - 10:45 AM | M-1-0209 | Haowen Guan | TBD |
+2 | Thu 9:30 AM - 10:45 AM | M-2-0206 | JieHyun (Jenna) Kim | TBD |
+3 | Tue 12:30 PM - 1:45 PM | M-2-0211 | Haowen Guan | TBD |
+4 | Thu 12:30 PM - 1:45 PM | W-2-0198 | JieHyun (Jenna) Kim | TBD |
+5 | Tue 9:30 AM - 10:45 AM | M-2-0206 | Zhen Lu | TBD |
+6 | Thu 9:30 AM - 10:45 AM | W-1-0061 | Rishank Singh | TBD |
+7 | Tue 12:30 PM - 1:45 PM | W-1-0055 | Zhen Lu | TBD |
+8 | Thu 12:30 PM - 1:45 PM | M-3-0732 | Rishank Singh | TBD |
 
 ### Supplemental Instruction
 
@@ -109,7 +113,7 @@ We will use [Gradescope](https://gradescope.com/) to grade your programming assi
 
 #### Programming Environment
 
-To write and execute Java programs in this course, you will need a laptop (Linux, Mac, or Windows) properly configured with the necessary software. Click [here](programming_environment.html) for setup instructions.
+To write and execute Python programs in this course, you will need a laptop (Linux, Mac, or Windows) properly configured with the necessary software. Click [here](programming_environment.html) for setup instructions.
 
 #### Zoom
 

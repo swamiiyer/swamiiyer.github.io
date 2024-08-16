@@ -17,6 +17,7 @@ Students who successfully complete this course will be able to confidently imple
 
 | **Name** | **Role** | **Email** | **Office** | **Hours** |
 Swami Iyer | Instructor | [siyer@cs.umb.edu](mailto://siyer@cs.umb.edu) | M-3-201-14 | In-person: Tue Thu 9:30 AM - 10:30 AM and 2:30 PM - 3:30 PM<br/> Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09)) |
+Paul Maynard | Teaching Assistant | [paul.maynard001@umb.edu](mailto://paul.maynard001@umb.edu) | TBD | TBD | 
 Vivian Kwong | Course Assistant | [vivian.kwong001@umb.edu](mailto://vivian.kwong001@umb.edu) | M-3-0731 | Wed Thu 2:30 PM - 3:30 PM |
 Sarah Wilkinson | Supplemental Instruction Leader | [sarah.wilkinson001@umb.edu](mailto://sarah.wilkinson001@umb.edu) | - | - |
 
@@ -34,8 +35,8 @@ In each class, the instructor will present the material for that class for an ho
 Starting from the second week, there will be a discussion every week. The focus of the discussion for a particular week will be the current assignment. The teaching assistant (TA) will walk you through the assignment problems systematically. The TA will also answer any specific questions you may have about the assignment or the course material in general. You may also seek help from the course assistant (CA) who will be assisting the TA during the discussions. The discussions will be worthwhile only if you go to the sessions having read the assignment writeup thoroughly and have at least a moderate understanding of the problems involved. The TA will assume that you have done the reading in advance.
 
 | **Section** | **When** | **Where** | **TA** | **CA** |
-1 | Tue 11:00 AM - 12:15 PM | M-1-0213 | TBD | Vivian Kwong |
-2 | Thu 11:00 AM - 12:15 PM | M-1-0213 | TBD | Vivian Kwong |
+1 | Tue 11:00 AM - 12:15 PM | M-1-0213 | Paul Maynard | Vivian Kwong |
+2 | Thu 11:00 AM - 12:15 PM | M-1-0213 | Paul Maynard | Vivian Kwong |
 3 | Tue 2:00 PM - 3:15 PM | M-2-0621 | TBD | Vivian Kwong |
 
 ### Supplemental Instruction

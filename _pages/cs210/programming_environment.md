@@ -51,7 +51,7 @@ $ echo "export CLASSPATH=.:./out:$HOME/lib/stdlib.jar:$HOME/lib/dsa.jar" >> $HOM
 > Download and install
 [IntelliJ](https://www.jetbrains.com/idea/download/#section=linux) (Community Edition).
 
-> To test your environment, download and unzip the [`dsaj.zip`](https://www.cs.umb.edu/~siyer/teaching/dsaj.zip) under `~/workspace`, launch IntelliJ, open the project `~/workspace/dsaj/programs`, and run the following commands in the IntelliJ terminal:
+> To test your environment, download and unzip the [`dsaj.zip`](https://www.cs.umb.edu/~siyer/teaching/dsaj.zip) under `~/workspace`, launch IntelliJ, open the project `~/workspace/dsaj`, and run the following commands in the IntelliJ terminal:
 ```
 $ javac -d out src/HelloWorld.java
 ```
@@ -105,7 +105,7 @@ $ echo "export CLASSPATH=.:./out:$HOME/lib/stdlib.jar:$HOME/lib/dsa.jar" >> $HOM
 > Download and install
 [IntelliJ](https://www.jetbrains.com/idea/download/#section=mac) (Community Edition).
 
-> To test your environment, download and unzip the [`dsaj.zip`](https://www.cs.umb.edu/~siyer/teaching/dsaj.zip) under `~/workspace`, launch IntelliJ, open the project `~/workspace/dsaj/programs`, and run the following commands in the IntelliJ terminal:
+> To test your environment, download and unzip the [`dsaj.zip`](https://www.cs.umb.edu/~siyer/teaching/dsaj.zip) under `~/workspace`, launch IntelliJ, open the project `~/workspace/dsaj`, and run the following commands in the IntelliJ terminal:
 ```
 $ javac -d out src/HelloWorld.java
 ```
@@ -158,7 +158,7 @@ $ setx PATH "$env:PATH;C:\jdk21\bin"
 > [IntelliJ](https://www.jetbrains.com/idea/download/#section=windows)
 > (Community Edition). Launch IntelliJ, go to *Configure* &rarr; *Settings* &rarr; *Tools* &rarr; *Terminal*, and set *Shell path* to `powershell`.
 
-> To test your environment, download and unzip the [`dsaj.zip`](https://www.cs.umb.edu/~siyer/teaching/dsaj.zip) under `~/workspace`, launch IntelliJ, open the project `~/workspace/dsaj/programs`, and run the following commands in the IntelliJ terminal:
+> To test your environment, download and unzip the [`dsaj.zip`](https://www.cs.umb.edu/~siyer/teaching/dsaj.zip) under `~/workspace`, launch IntelliJ, open the project `~/workspace/dsaj`, and run the following commands in the IntelliJ terminal:
 ```
 $ javac -d out src/HelloWorld.java
 ```
