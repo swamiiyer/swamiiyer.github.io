@@ -1,7 +1,13 @@
 - title: I am an incoming freshman and am looking to buy a laptop that would serve me well throughout my program here at UMB.
   body: <p/><p>I would recommend a laptop with a relatively modern processor (Intel I5 or above or Mac M1/M2/M3), at least 16 GB RAM, and at least 500 GB SSD. That should easily get you through your program.</p>
 
-- title: Do I need any prior programming experience in order to take your CS110 course and be sucessful?
+- title: What sort of math background do you expect in your CS110 course?
+  body:
+
+- title: What sort of computer background do you expect in your CS110 course?
+  body: 
+
+- title: Do you expect any prior programming experience in your CS110 course?
   body:
 
 - title: Why is CS110 so hard? Isn't it supposed to be an introductory course?
@@ -34,17 +40,23 @@
 - title: What are the responsibilities of a Teaching Assistant (TA), a Course Assistant (CA), and a Supplemental Instructor (SI)?
   body:
 
+- title: I would like to do an Independent Study (CS478) under your supervision. Is that an option?
+  body:
+
+- title: I would like to do my Honors Thesis (CS498) under your supervision. Is that an option?
+  body:
+
 - title: I would like to take the one-credit CS495/CS698 (Practicum in Computer Science) course. Would you please be my advisor?
   body: <p/><p>Sure. Check with the department about the procedure to sign up for the course. See Q14 on how you will be graded in the course.</p>
 
 - title: I will be taking the one-credit CS495/CS698 (Practicum in Computer Science) course with you. How will I be graded?
   body: <p/><p>You will be graded based on the one-page report that you are expected to send me every two weeks until the end of the term. This report should document the tasks you carried out at work during that period, the issues you encountered and whether/how you resolved them, and the things you learned.</p>
 
-- title: I am interested in doing research. Do you have any ongoing projects that I could be involved in?
-  body:
-
 - title: I would like do my PhD under your guidance? Is that an option?
   body: <p/><p>Sorry, that is not an option. As a teaching (ie, not research) faculty, I am not allowed to advise PhD students or serve on PhD thesis committees.</p>
   
+- title: I am interested in doing research. Do you have any ongoing projects that I could be involved in?
+  body:
+
 - title: I need a recommendation letter for a scholarship/job that I am applying to. Would you please write one for me?
   body: <p/><p>I will write a recommendation letter for you only if you have taken one or more classes with me and have received an A in all of them. On rare occasions, I will be somewhat lenient with the grade requirement provided I have a very good impression of you based on our interactions in and outside the classrooom.</p><p>To write an effective letter, I will need at least two weeks' time and a short statement from you describing your interests and career goals.</p><p>I will not write the letter&colon;</p><ul><li>if you enlist me as a recommender without my consent.</li><li>if you do not waive your right to access the letter.</li></ul>
