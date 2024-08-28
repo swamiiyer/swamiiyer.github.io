@@ -50,7 +50,7 @@ Throughout my student life I had the good fortune of being taught by some except
 
 - Supporting libraries and data types used throughout the book: the API ([PDF](https://www.cs.umb.edu/~siyer/teaching/stdlib-java.pdf) \| [JavaDoc](https://www.cs.umb.edu/~siyer/teaching/stdlib-javadoc)), the binaries as a [jar file](https://www.cs.umb.edu/~siyer/teaching/stdlib.jar) (compiled using OpenJDK 21), and the code as an [IntelliJ project](https://www.cs.umb.edu/~siyer/teaching/stdlib.zip).
 
-- Data structures and algorithms discussed in the book: the API ([PDF](https://www.cs.umb.edu/~siyer/teaching/dsalib.pdf) \| [JavaDoc](https://www.cs.umb.edu/~siyer/teaching/dsa-javadoc)) and the binaries as a [jar file](https://www.cs.umb.edu/~siyer/teaching/dsa.jar) (compiled using OpenJDK 21).
+- Data structures and algorithms discussed in the book: the API ([PDF](https://www.cs.umb.edu/~siyer/teaching/dsalib-java.pdf) \| [JavaDoc](https://www.cs.umb.edu/~siyer/teaching/dsa-javadoc)) and the binaries as a [jar file](https://www.cs.umb.edu/~siyer/teaching/dsa.jar) (compiled using OpenJDK 21).
 
 #### Introduction to Compiler Construction
 

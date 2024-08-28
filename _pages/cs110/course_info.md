@@ -17,10 +17,14 @@ Students who successfully complete this course will be able to tackle computatio
 
 | **Name** | **Role** | **Email** | **Office** | **Office Hours** |
 Swami Iyer | Instructor | [siyer@cs.umb.edu](mailto://siyer@cs.umb.edu) | M-3-201-14 | In-person: Tue Thu 9:30 AM - 10:30 AM and 2:30 PM - 3:30 PM<br/> Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09)) |
-Haowen Guan | Teaching Assistant | [haowen.guan001@umb.edu](mailto://haowen.guan001@umb.edu) | TBD | TBD |
-JieHyun (Jenna) Kim | Teaching Assistant | [jiehyun.kim001@umb.edu](mailto://jiehyun.kim001@umb.edu) | TBD | TBD |
-Rishank Singh | Teaching Assistant | [rishank.singh001@umb.edu](mailto://rishank.singh001@umb.edu) | TBD | TBD |
-Zhen Lu | Teaching Assistant | [zhen.lu001@umb.edu](mailto://zhen.lu001@umb.edu) | TBD | TBD |
+Haowen Guan | Teaching Assistant | [haowen.guan001@umb.edu](mailto://haowen.guan001@umb.edu) | M-3-0150 | Mon Wed 1:00 PM - 2:00 PM |
+JieHyun (Jenna) Kim | Teaching Assistant | [jiehyun.kim001@umb.edu](mailto://jiehyun.kim001@umb.edu) | M-3-0201-10 | Tue Thu 3:00 PM - 4:00 PM |
+Rishank Singh | Teaching Assistant | [rishank.singh001@umb.edu](mailto://rishank.singh001@umb.edu) | M-3-201-10 | Tue 1:00 PM - 2:00 PM; Fri 12:00 PM - 1:00 PM |
+Zhen Lu | Teaching Assistant | [zhen.lu001@umb.edu](mailto://zhen.lu001@umb.edu) | M-3-0201-10 | Mon 12:00 PM - 2:00 PM |
+Avraham Felzenstein | Course Assistant | [a.felzenstein001@umb.edu](mailto://a.felzenstein001@umb.edu) | M-3-0731 | Tue Thu 2:00 PM - 3:00 PM |
+Kenichi Maeda | Course Assistant | [kenichi.maeda001@umb.edu](mailto://kenichi.maeda001@umb.edu) | M-3-0731 | Mon Wed 4:00 PM - 5:00 PM |
+Pratham Patel | Course Assistant | [p.patel034@umb.edu](mailto://p.patel034@umb.edu) | M-3-0731 | Mon 1:00 PM - 3:00 PM |
+William Martinez | Course Assistant | [william.martinez001@umb.edu](mailto://william.martinez001@umb.edu) | M-3-0731 | Mon Wed 11:00 AM - 12:00 PM |
 Serin Kitery | Supplemental Instruction Leader | [serin.kitery001@umb.edu](mailto://serin.kitery001@umb.edu) | - | - |
 
 **Note**: In case you want to email us, please start the subject line with `[CS110]`.
@@ -37,14 +41,14 @@ In each class, the instructor will present the material for that class for an ho
 Starting from the second week, there will be a discussion every week. The focus of the discussion for a particular week will be the current assignment. The teaching assistant (TA) will walk you through the assignment problems systematically. The TA will also answer any specific questions you may have about the assignment or the course material in general. You may also seek help from the course assistant (CA) who will be assisting the TA during the discussions. The discussions will be worthwhile only if you go to the sessions having read the assignment writeup thoroughly and have at least a moderate understanding of the problems involved. The TA will assume that you have done the reading in advance.
 
 | **Section** | **When** | **Where** | **TA** | **CA** |
-1 | Tue 9:30 AM - 10:45 AM | M-1-0209 | Haowen Guan | TBD |
-2 | Thu 9:30 AM - 10:45 AM | M-2-0206 | JieHyun (Jenna) Kim | TBD |
-3 | Tue 12:30 PM - 1:45 PM | M-2-0211 | Haowen Guan | TBD |
-4 | Thu 12:30 PM - 1:45 PM | W-2-0198 | JieHyun (Jenna) Kim | TBD |
-5 | Tue 9:30 AM - 10:45 AM | M-2-0206 | Zhen Lu | TBD |
-6 | Thu 9:30 AM - 10:45 AM | W-1-0061 | Rishank Singh | TBD |
-7 | Tue 12:30 PM - 1:45 PM | W-1-0055 | Zhen Lu | TBD |
-8 | Thu 12:30 PM - 1:45 PM | M-3-0732 | Rishank Singh | TBD |
+1 | Tue 9:30 AM - 10:45 AM | M-1-0209 | Haowen Guan | Avraham Felzenstein |
+2 | Thu 9:30 AM - 10:45 AM | M-2-0206 | JieHyun (Jenna) Kim | Avraham Felzenstein |
+3 | Tue 12:30 PM - 1:45 PM | M-2-0211 | Haowen Guan | Pratham Patel |
+4 | Thu 12:30 PM - 1:45 PM | W-2-0198 | JieHyun (Jenna) Kim | Pratham Patel |
+5 | Tue 9:30 AM - 10:45 AM | M-2-0206 | Zhen Lu | William Martinez |
+6 | Thu 9:30 AM - 10:45 AM | W-1-0061 | Rishank Singh | William Martinez |
+7 | Tue 12:30 PM - 1:45 PM | W-1-0055 | Zhen Lu | Kenichi Maeda |
+8 | Thu 12:30 PM - 1:45 PM | M-3-0732 | Rishank Singh | Kenichi Maeda |
 
 ### Supplemental Instruction
 
@@ -88,7 +92,7 @@ This text offers an excellent introduction to computing principles, motivating e
 
 - The goal of the programming assignments is to make sure that you can apply the concepts learned in class to solve somewhat challenging computational problems.
 - The exams will test your understanding of the material covered in class as well as concepts from the programming assignments. Each of the two exams will have a written and a programming component. The written part, worth 75 points, will take place during a class period. The exam will be closed-book and will contain 30 multiple-choice/short-answer questions, each worth 3 points. The programming part, worth 25 points, will take place during a discussion session; you will use your laptop to work on the problems and submit your solutions onto Gradescope.
-- Your participation score will be based on in-class quizzes (8%) and discussion attendance (2%). The online quiz conducted at the end of each class will test your understanding of the material covered in that class. Each question in a quiz is worth 2 points (1 point for correct response and 1 point for responding). The lowest 5 quiz scores will be dropped.
+- Your participation score will be based on weekly quizzes (8%) and discussion attendance (2%). Each weekly quiz, conducted at the end of a class, will test your understanding of the material covered in that week. Each question in a quiz is worth 2 points (1 point for correct response and 1 point for responding). Each quiz score will be normalized to 100 points. The lowest 2 (4 if you have accommodations) quiz scores will be dropped.
 - You can earn up to 2% extra points for attending the SI sessions. Your SI score will be calculated as `a(e1 + e2) / 100n`, where `a` is the number of unique sessions you attended (attending multiple sessions in a week just counts as one), `n` is the number of unique sessions held, and `e1` and `e2` are your Exam 1 and Exam 2 scores, respectively. For example, if `a = 10`, `n = 12`, `e1 = 75`, and `e2 = 85`, the SI score is `1.33%`.
 - You can earn up to 0.01x% extra points if x% of the class completes the end-of-semester course evaluation.
 - If your overall score falls within half a percent of a higher grade, your score will be elevated to that grade.
@@ -149,7 +153,7 @@ The documentation must be a letter from the [Dean of Students](https://cm.maxien
  
 #### Late Days 
 
-Assignment deadlines are firm and non negotiable, but you have up to 5 (8 if you have accommodations through the Ross Center) late days that you may use to submit one or more assignments a bit late. You may request an extension for any assignment only once. To do so, you must send the instructor a request via email at least 48 hours prior to the assignment deadline, clearly stating the number of late days needed, or else your request will not be granted.
+Assignment deadlines are firm and non negotiable, but you have up to 5 (10 if you have accommodations) late days that you may use to submit one or more assignments a bit late. You may request an extension for any assignment only once. To do so, you must send the instructor a request via email at least 48 hours prior to the assignment deadline, clearly stating the number of late days needed, or else your request will not be granted.
 
 Unused late days will be converted into `x%` extra points, which will be added to your final grade. `x` will be calculated as `x = d / n`, where `n` is the number of late days allotted and `d` is the number of late days unused. For example, if `d = 3` and `n = 5`, then `x = 0.6%`.
 

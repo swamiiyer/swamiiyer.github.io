@@ -33,14 +33,13 @@ order: 4
   - Analysis of *j\-\-* Programs ([slides](https://www.cs.umb.edu/~siyer/teaching/cs451/type_checking3.pdf) \| [exercises](https://www.cs.umb.edu/~siyer/teaching/cs451/type_checking3_exercises.pdf))
 
 - **Chapter 5: JVM Code Generation**
-  - Preliminaries ([slides](https://www.cs.umb.edu/~siyer/teaching/cs451/jvm_code_generation1.pdf) \| [exercises](https://www.cs.umb.edu/~siyer/teaching/cs451/jvm_code_generation1_exercises.pdf))
-  - Classes and their Members ([slides](https://www.cs.umb.edu/~siyer/teaching/cs451/jvm_code_generation2.pdf) \| [exercises](https://www.cs.umb.edu/~siyer/teaching/cs451/jvm_code_generation2_exercises.pdf))
-  - Control, Message, Field Selection, and Array Access Expressions ([slides](https://www.cs.umb.edu/~siyer/teaching/cs451/jvm_code_generation3.pdf) \| [exercises](https://www.cs.umb.edu/~siyer/teaching/cs451/jvm_code_generation3_exercises.pdf))
-  - Assignment, String Concatenation, Cast, and Other Operations ([slides](https://www.cs.umb.edu/~siyer/teaching/cs451/jvm_code_generation4.pdf) \| [exercises](https://www.cs.umb.edu/~siyer/teaching/cs451/jvm_code_generation4_exercises.pdf))      
+  - Preliminaries ([slides](https://www.cs.umb.edu/~siyer/teaching/cs451/jvm_codegen1.pdf) \| [exercises](https://www.cs.umb.edu/~siyer/teaching/cs451/jvm_codegen1_exercises.pdf))
+  - Classes and their Members ([slides](https://www.cs.umb.edu/~siyer/teaching/cs451/jvm_codegen2.pdf) \| [exercises](https://www.cs.umb.edu/~siyer/teaching/cs451/jvm_codegen2_exercises.pdf))
+  - Control, Message, Field Selection, and Array Access Expressions ([slides](https://www.cs.umb.edu/~siyer/teaching/cs451/jvm_codegen3.pdf) \| [exercises](https://www.cs.umb.edu/~siyer/teaching/cs451/jvm_codegen3_exercises.pdf))
+  - Assignment, String Concatenation, Cast, and Other Operations ([slides](https://www.cs.umb.edu/~siyer/teaching/cs451/jvm_codegen4.pdf) \| [exercises](https://www.cs.umb.edu/~siyer/teaching/cs451/jvm_codegen4_exercises.pdf))      
 
 - **Chapter 6: Marvin Code Generation**
-  - Preliminaries ([slides](https://www.cs.umb.edu/~siyer/teaching/cs451/marvin_code_generation1.pdf) \| [exercises](https://www.cs.umb.edu/~siyer/teaching/cs451/marvin_code_generation1_exercises.pdf))
-  - High-level Intermediate Representation (HIR) ([slides](https://www.cs.umb.edu/~siyer/teaching/cs451/marvin_code_generation2.pdf) \| [exercises](https://www.cs.umb.edu/~siyer/teaching/cs451/marvin_code_generation2_exercises.pdf))
-  - Low-level Intermediate Representation (LIR) ([slides](https://www.cs.umb.edu/~siyer/teaching/cs451/marvin_code_generation3.pdf) \| [exercises](https://www.cs.umb.edu/~siyer/teaching/cs451/marvin_code_generation3_exercises.pdf))
-  - Register Allocation ([slides](https://www.cs.umb.edu/~siyer/teaching/cs451/marvin_code_generation4.pdf) \| [exercises](https://www.cs.umb.edu/~siyer/teaching/cs451/marvin_code_generation4_exercises.pdf))
-  
+  - Preliminaries ([slides](https://www.cs.umb.edu/~siyer/teaching/cs451/marvin_codegen1.pdf) \| [exercises](https://www.cs.umb.edu/~siyer/teaching/cs451/marvin_codegen1_exercises.pdf))
+  - High-level Intermediate Representation (HIR) ([slides](https://www.cs.umb.edu/~siyer/teaching/cs451/marvin_codegen2.pdf) \| [exercises](https://www.cs.umb.edu/~siyer/teaching/cs451/marvin_codegen2_exercises.pdf))
+  - Low-level Intermediate Representation (LIR) ([slides](https://www.cs.umb.edu/~siyer/teaching/cs451/marvin_codegen3.pdf) \| [exercises](https://www.cs.umb.edu/~siyer/teaching/cs451/marvin_codegen3_exercises.pdf))
+  - Register Allocation ([slides](https://www.cs.umb.edu/~siyer/teaching/cs451/marvin_codegen4.pdf) \| [exercises](https://www.cs.umb.edu/~siyer/teaching/cs451/marvin_codegen4_exercises.pdf))

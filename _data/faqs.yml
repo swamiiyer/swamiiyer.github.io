@@ -16,6 +16,12 @@
 - title: Why do we use <code>stdio.writeln()</code> instead of <code>print()</code> in CS110 and <code>StdOut.println()</code> instead of <code>System.out.println()</code> in CS210?
   body:
 
+- title: My programs work correctly on my computer, but the autograder on Gradescope gives me a zero.
+  body: 
+
+- title: Can I use any editor/IDE to write the programs for your courses?
+  body: 
+
 - title: Why are the exams weighted more than the programming assignments even though the assignments are considerably harder and involve a lot of our time and effort?
   body:
 
@@ -41,13 +47,13 @@
   body:
 
 - title: I would like to do an Independent Study (CS478) under your supervision. Is that an option?
-  body: <p/><p>Yes, provided my schedule permits me to take on this additional responsibility and we can identify a project of mutual interest that is substantial enough for a 3-credit course. Once we agree on a project, you must follow up with the department about signing up for the course.</p>
+  body: <p/><p>Yes, provided my schedule permits me to take on this additional responsibility <i>and</i> I can come up with an interesting/valuable project that is substantial enough for a 3-credit course.</p>
 
 - title: I would like to do my Honors Thesis (CS498) under your supervision. Is that an option?
-  body: <p/><p>Yes, provided my schedule permits me to take on this additional responsibility and we can identify a project of mutual interest that is substantial enough for an honors thesis.</p><p>You will complete your thesis over an academic year. In the fall, you will do an Independent Study (CS478) with me, in which you will be expected to make enough progress on the project so that you can formulate and present a project proposal to the department. In the following spring, you will be expected to complete the project, write the thesis, and present it before a committee.</p><p>Once we agree on a project, you must follow up with the department about signing up for the course.</p>
+  body: <p/><p>Yes, provided my schedule permits me to take on this additional responsibility <i>and</i> I can come up with an interesting/valuable project that is substantial enough for an honors thesis.</p><p>Note that doing an honors thesis is a yearlong commitment. In the fall, you will do an Independent Study (CS478) with me, in which you will do preliminary/background work on the project that will enable you formulate a project proposal and present it to the department. In the following spring, you will complete the project, write the thesis, and present it before a committee.</p>
 
 - title: I would like to take the one-credit CS495/CS698 (Practicum in Computer Science) course. Would you please be my advisor?
-  body: <p/><p>Sure. Check with the department about the procedure to sign up for the course. See Q18 on how you will be graded in the course.</p>
+  body: <p/><p>Sure. Check with the department about the procedure to sign up for the course. See Q20 on how you will be graded in the course.</p>
 
 - title: I will be taking the one-credit CS495/CS698 (Practicum in Computer Science) course with you. How will I be graded?
   body: <p/><p>You will be graded based on the one-page report that you are expected to send me every two weeks until the end of the term. This report should document the tasks you carried out at work during that period, the issues you encountered and whether/how you resolved them, and the things you learned.</p>

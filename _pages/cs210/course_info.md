@@ -17,7 +17,9 @@ Students who successfully complete this course will be able to confidently imple
 
 | **Name** | **Role** | **Email** | **Office** | **Hours** |
 Swami Iyer | Instructor | [siyer@cs.umb.edu](mailto://siyer@cs.umb.edu) | M-3-201-14 | In-person: Tue Thu 9:30 AM - 10:30 AM and 2:30 PM - 3:30 PM<br/> Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09)) |
+Navkar Jain | Teaching Assistant | [n.jain001@umb.edu](mailto://n.jain001@umb.edu) | M-3-0154 | Mon Wed 2:00 PM - 3:00 PM |
 Paul Maynard | Teaching Assistant | [paul.maynard001@umb.edu](mailto://paul.maynard001@umb.edu) | TBD | TBD | 
+Sonali Mamidipaka | Course Assistant | [sonali.mamidipaka001@umb.edu](mailto://sonali.mamidipaka001@umb.edu) | M-3-0731 | TBD |
 Vivian Kwong | Course Assistant | [vivian.kwong001@umb.edu](mailto://vivian.kwong001@umb.edu) | M-3-0731 | Wed Thu 2:30 PM - 3:30 PM |
 Sarah Wilkinson | Supplemental Instruction Leader | [sarah.wilkinson001@umb.edu](mailto://sarah.wilkinson001@umb.edu) | - | - |
 
@@ -26,7 +28,7 @@ Sarah Wilkinson | Supplemental Instruction Leader | [sarah.wilkinson001@umb.edu]
 ### Class
 
 | **Section** | **When** | **Where** |
-1-3 | Tue Thu 12:30 PM - 1:45 PM | Y-1-1300
+1-4 | Tue Thu 12:30 PM - 1:45 PM | Y-1-1300
 
 In each class, the instructor will present the material for that class for an hour, and conduct an online quiz on that material for the remaining fifteen minutes. You are strongly encouraged to review the [material](lecture_material.html) before each class, and review it again thoroughly soon after.
 
@@ -37,7 +39,8 @@ Starting from the second week, there will be a discussion every week. The focus 
 | **Section** | **When** | **Where** | **TA** | **CA** |
 1 | Tue 11:00 AM - 12:15 PM | M-1-0213 | Paul Maynard | Vivian Kwong |
 2 | Thu 11:00 AM - 12:15 PM | M-1-0213 | Paul Maynard | Vivian Kwong |
-3 | Tue 2:00 PM - 3:15 PM | M-2-0621 | TBD | Vivian Kwong |
+3 | Tue 2:00 PM - 3:15 PM | M-2-0621 | Navkar Jain | Vivian Kwong |
+4 | Thu 2:00 PM - 3:15 PM | M-3-0730 | Navkar Jain | Sonali Mamidipaka |
 
 ### Supplemental Instruction
 
@@ -91,7 +94,7 @@ This text provides an excellent survey of the most important algorithms and data
 
 - The goal of the programming assignments is to make sure that you can apply the concepts learned in class to solve somewhat challenging computational problems.
 - The exams will test your understanding of the material covered in class as well as concepts from the programming assignments. Each of the two exams will have a written and a programming component. The written part, worth 75 points, will take place during a class period. The exam will be closed-book and will contain 30 multiple-choice/short-answer questions, each worth 3 points. The programming part, worth 25 points, will take place during a discussion session; you will use your laptop to work on the problems and submit your solutions onto Gradescope.
-- Your participation score will be based on in-class quizzes (8%) and discussion attendance (2%). The online quiz conducted at the end of each class will test your understanding of the material covered in that class. Each question in a quiz is worth 2 points (1 point for correct response and 1 point for responding). The lowest 5 quiz scores will be dropped.
+- Your participation score will be based on weekly quizzes (8%) and discussion attendance (2%). Each weekly quiz, conducted at the end of a class, will test your understanding of the material covered in that week. Each question in a quiz is worth 2 points (1 point for correct response and 1 point for responding). Each quiz score will be normalized to 100 points. The lowest 2 (4 if you have accommodations) quiz scores will be dropped.
 - You can earn up to 2% extra points for attending the SI sessions. Your SI score will be calculated as `a(e1 + e2) / 100n`, where `a` is the number of unique sessions you attended (attending multiple sessions in a week just counts as one), `n` is the number of unique sessions held, and `e1` and `e2` are your Exam 1 and Exam 2 scores, respectively. For example, if `a = 10`, `n = 12`, `e1 = 75`, and `e2 = 85`, the SI score is `1.33%`.
 - You can earn up to 0.01x% extra points if x% of the class completes the end-of-semester course evaluation.
 - If your overall score falls within half a percent of a higher grade, your score will be elevated to that grade.
@@ -152,7 +155,7 @@ The documentation must be a letter from the [Dean of Students](https://cm.maxien
  
 #### Late Days 
 
-Assignment deadlines are firm and non negotiable, but you have up to 5 (8 if you have accommodations through the Ross Center) late days that you may use to submit one or more assignments a bit late. You may request an extension for any assignment only once. To do so, you must send the instructor a request via email at least 48 hours prior to the assignment deadline, clearly stating the number of late days needed, or else your request will not be granted.
+Assignment deadlines are firm and non negotiable, but you have up to 5 (10 if you have accommodations) late days that you may use to submit one or more assignments a bit late. You may request an extension for any assignment only once. To do so, you must send the instructor a request via email at least 48 hours prior to the assignment deadline, clearly stating the number of late days needed, or else your request will not be granted.
 
 Unused late days will be converted into `x%` extra points, which will be added to your final grade. `x` will be calculated as `x = d / n`, where `n` is the number of late days allotted and `d` is the number of late days unused. For example, if `d = 3` and `n = 5`, then `x = 0.6%`.
 

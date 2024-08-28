@@ -28,7 +28,7 @@ Welcome to the Introduction to Computing (CS110) course I will be teaching this 
   - Sign up for Piazza (Q&A platform) and Gradescope (grading platform) using the invitations that will be sent to your UMB email address.
   - Setup the [programming environment](programming_environment.html) on your computer.
   - Complete the mandatory questionnaire (all six questions) available on Gradescope. You will **not** be allowed to submit your assignments or take the exams until you complete the questionnaire. 
-  - Complete the [Supplemental Instruction (SI) poll](https://forms.gle/U14FTpe5QQdNnU7v9).
+  - Complete the [Supplemental Instruction Poll](https://piazza.com/class/lz5i5bwvk6l2lf/post/6) on Piazza.
   - Sign up for a [CS account](course_info.html#cs_account).
 
 - CS110 is a very demanding course, so please be prepared to work really hard from the outset, or else you will quickly fall behind and end up with a poor/failing grade.

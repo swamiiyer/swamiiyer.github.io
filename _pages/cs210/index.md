@@ -28,12 +28,12 @@ Welcome to the Intermediate Computing with Data Structures (CS210) course I will
   - Sign up for Piazza (Q&A platform) and Gradescope (grading platform) using the invitations that will be sent to your UMB email address.
   - Setup the [programming environment](programming_environment.html) on your computer.
   - Complete the mandatory questionnaire (all six questions) available on Gradescope. You will **not** be allowed to submit your assignments or take the exams until you complete the questionnaire. 
-  - Complete the [Supplemental Instruction (SI) poll](https://forms.gle/4WCsvN7iQDoSf8DV9).
+  - Complete the [Supplemental Instruction Poll](https://piazza.com/class/lz5ix36mfowrh/post/6) on Piazza.
   - Sign up for a [CS account](course_info.html#cs_account).
 
 - CS210 is a very demanding course, so please be prepared to work really hard from the outset, or else you will quickly fall behind and end up with a poor/failing grade.
 
-- If you are currently waitlisted, you will be enrolled automatically if enough students drop out before the add/drop deadline. Please note that I will **not** go over the enrollment capacity for the course, which is set at 84.
+- If you are currently waitlisted, you will be enrolled automatically if enough students drop out before the add/drop deadline. Please note that I will **not** go over the enrollment capacity for the course, which is set at 112.
 
 - <font color="red">NOTE: During the first week we will only meet for lectures. Discussions and SI sessions will start from the second week, ie, the week of Sep 9.</font>
 

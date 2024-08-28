@@ -50,13 +50,13 @@ The text enables a deep understanding of the Java programming language and its i
 #### Assessments
 
 | **Item** | **% of Final Grade** |
-| Programming Assignments (best 4 of 1, 2, 3, 4, and 6; and 5) | 40 |
+| Programming Assignments (best 4 out of 1, 2, 3, 4, and 6; and 5) | 40 |
 | Exams (1 and 2) | 50 |
-| Quizzes (5 lowest scores will be dropped) | 10 |
+| Quizzes [best 8 (6 if you have accommodations) out of 10] | 10 |
 
 - The goal of the programming assignments is to make sure that you can apply the concepts learned in class to enhance the functionality of the base *j\-\-* and *iota* compilers.
 - The closed-book exams will test your understanding of the theoretical concepts covered in class.
-- The online quiz conducted at the end of each class will assess your understanding of the material covered in that class. Each question in a quiz is worth 2 points (1 point for correct response and 1 point for responding). Each quiz score will be normalized to 100 points.
+- Each weekly quiz, conducted at the end of a class, will test your understanding of the material covered in that week. Each question in a quiz is worth 2 points (1 point for correct response and 1 point for responding). Each quiz score will be normalized to 100 points.
 - You can earn 0.01x% extra points if x% of the class completes the end-of-semester course evaluation. 
 - If your overall score falls within half a percent of a higher grade, your score will be elevated to that grade.
 
@@ -111,7 +111,7 @@ You must provide appropriate documentation if you were/are unable to take an exa
  
 #### Late Days 
 
-Assignment deadlines are firm and non negotiable, but you have up to 5 (8 if you have accommodations through the Ross Center) late days that you may use to submit one or more assignments a bit late. You may request an extension for any assignment only once. To do so, you must send the instructor a request via email at least 48 hours prior to the assignment deadline, clearly stating the number of late days needed, or else your request will not be granted.
+Assignment deadlines are firm and non negotiable, but you have up to 5 (10 if you have accommodations) late days that you may use to submit one or more assignments a bit late. You may request an extension for any assignment only once. To do so, you must send the instructor a request via email at least 48 hours prior to the assignment deadline, clearly stating the number of late days needed, or else your request will not be granted.
 
 Unused late days will be converted into `x%` extra points, which will be added to your final grade. `x` will be calculated as `x = d / n`, where `n` is the number of late days allotted and `d` is the number of late days unused. For example, if `d = 3` and `n = 5`, then `x = 0.6%`.
 
