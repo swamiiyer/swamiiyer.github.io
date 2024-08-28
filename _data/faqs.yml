@@ -16,7 +16,7 @@
 - title: Why do we use <code>stdio.writeln()</code> instead of <code>print()</code> in CS110 and <code>StdOut.println()</code> instead of <code>System.out.println()</code> in CS210?
   body:
 
-- title: My programs work correctly on my computer, but the autograder on Gradescope gives me a zero.
+- title: My programs work correctly on my computer, but the autograder on Gradescope gives me a zero. Could you please grade my programs manually?
   body: 
 
 - title: Can I use any editor/IDE to write the programs for your courses?
