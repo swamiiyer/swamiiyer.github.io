@@ -18,8 +18,8 @@ Students who successfully complete this course will be able to confidently imple
 | **Name** | **Role** | **Email** | **Office** | **Hours** |
 Swami Iyer | Instructor | [siyer@cs.umb.edu](mailto://siyer@cs.umb.edu) | M-3-201-14 | In-person: Tue Thu 9:30 AM - 10:30 AM and 2:30 PM - 3:30 PM<br/> Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09)) |
 Navkar Jain | Teaching Assistant | [n.jain001@umb.edu](mailto://n.jain001@umb.edu) | M-3-0154 | Mon Wed 2:00 PM - 3:00 PM |
-Paul Maynard | Teaching Assistant | [paul.maynard001@umb.edu](mailto://paul.maynard001@umb.edu) | TBD | TBD | 
-Sonali Mamidipaka | Course Assistant | [sonali.mamidipaka001@umb.edu](mailto://sonali.mamidipaka001@umb.edu) | M-3-0731 | TBD |
+Paul Maynard | Teaching Assistant | [paul.maynard001@umb.edu](mailto://paul.maynard001@umb.edu) | M-3-201-33 | Mon Wed 1:30 PM - 2:30 PM | 
+Sonali Mamidipaka | Course Assistant | [sonali.mamidipaka001@umb.edu](mailto://sonali.mamidipaka001@umb.edu) | M-3-0731 | Mon Thu 6:30 PM - 7:30 PM |
 Vivian Kwong | Course Assistant | [vivian.kwong001@umb.edu](mailto://vivian.kwong001@umb.edu) | M-3-0731 | Wed Thu 2:30 PM - 3:30 PM |
 Sarah Wilkinson | Supplemental Instruction Leader | [sarah.wilkinson001@umb.edu](mailto://sarah.wilkinson001@umb.edu) | - | - |
 
