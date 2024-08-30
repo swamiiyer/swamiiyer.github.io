@@ -22,8 +22,6 @@ Welcome to the Introduction to Computing (CS110) course I will be teaching this 
 - Please read through the [course website](/cs110/) very carefully and acquaint yourself with the course mechanics.
 
 - Please take care of the following action items:
-  - Review the [math tutorial](https://www.cs.umb.edu/~siyer/teaching/math_tutorial.pdf).
-  - Review the [command-line tutorial](https://www.cs.umb.edu/~siyer/teaching/cmdline_tutorial.pdf).
   - Sign up for [iClicker](https://app.reef-education.com/\#/account/create iClicker) (active learning platform) using your UMB email address and add the course *CS110* to your dashboard. You will need to purchase an [iClicker Student App Subscription](https://www.iclicker.com/pricing#student-pricing) to participate in the in-class quizzes.
   - Sign up for Piazza (Q&A platform) and Gradescope (grading platform) using the invitations that will be sent to your UMB email address.
   - Setup the [programming environment](programming_environment.html) on your computer.
