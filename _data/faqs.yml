@@ -38,25 +38,25 @@
   body:
 
 - title: Do I need an appointment to see you during your office hours?
-  body: <p/><p>You do not need an appointment to see me during my scheduled office hours. However, if those times do not work for you, send me an email and we can arrange another time for us to meet, either in person or via Zoom.</p>
+  body: <p/><p>You do not need an appointment to see me during my scheduled office hours. However, if those times do not work for you, please send me an email and we can arrange another time for us to meet, either in person or via Zoom.</p>
 
 - title: Would you please remove my advising hold?
-  body: <p/><p>You must see me during my office hours for advising. I will remove the hold once we discuss and finalize your classes for the next semester. If you have a pretty good idea on what classes you will be taking, we can do the advising over email --- just send me the class list.</p>
+  body: <p/><p>You must see me during my office hours for advising. I will remove the hold once we discuss and finalize your classes for the next semester. If you have a pretty good idea on what classes you will be taking, we can do the advising over email --- please send me the class list.</p>
 
 - title: I would like to work as a Teaching Assistant (TA) or Course Assistant (CA) or Supplemental Instructor (SI) for one of your courses? How do I go about it?
-  body: 
+  body: <p/><p></p>
 
 - title: What are the responsibilities of a Teaching Assistant (TA), a Course Assistant (CA), and a Supplemental Instructor (SI)?
-  body:
+  body: <p/><p></p>
 
 - title: I would like to do an Independent Study (CS478) under your supervision. Is that an option?
   body: <p/><p>Yes, provided my schedule permits me to take on this additional responsibility <i>and</i> I can come up with an interesting/valuable project that is substantial enough for a 3-credit course.</p>
 
 - title: I would like to do my Honors Thesis (CS498) under your supervision. Is that an option?
-  body: <p/><p>Yes, provided my schedule permits me to take on this additional responsibility <i>and</i> I can come up with an interesting/valuable project that is substantial enough for an honors thesis.</p><p>Note that doing an honors thesis is a yearlong commitment. In the fall, you will do an Independent Study (CS478) with me, in which you will do preliminary/background work on the project that will enable you formulate a project proposal and present it to the department. In the following spring, you will complete the project, write the thesis, and present it before a committee.</p>
+  body: <p/><p>Yes, provided my schedule permits me to take on this additional responsibility <i>and</i> I can come up with an interesting/valuable project that is substantial enough for an honors thesis.</p><p>Note that doing an honors thesis is a yearlong commitment. In the fall, you will do an Independent Study (CS478) with me, in which you will do preliminary/background work on the project that will enable you formulate a project proposal and present it to the department. In the following spring, you will take the Honors Thesis (CS498) course with me, in which you will complete the project, write the thesis, and present it before a committee.</p>
 
 - title: I would like to take the one-credit CS495/CS698 (Practicum in Computer Science) course. Would you please be my advisor?
-  body: <p/><p>Sure. Check with the department about the procedure to sign up for the course. See Q21 on how you will be graded in the course.</p>
+  body: <p/><p>Sure. Please check with the department about the procedure to sign up for the course. See Q21 on how you will be graded in the course.</p>
 
 - title: I will be taking the one-credit CS495/CS698 (Practicum in Computer Science) course with you. How will I be graded?
   body: <p/><p>You will be graded based on the one-page report that you are expected to send me every two weeks until the end of the term. This report should document the tasks you carried out at work during that period, the issues you encountered and whether/how you resolved them, and the things you learned.</p>
@@ -65,7 +65,7 @@
   body: <p/><p>Sorry, that is not an option. As a teaching (ie, not research) faculty, I am not allowed to advise PhD students or serve on PhD thesis committees.</p>
   
 - title: I am interested in doing research. Do you have any ongoing projects that I could be involved in?
-  body:
+  body: <p/><p>Check with me to see if I have any ongoing research projects that you might be able to work on. Please note that any work you do with me has to be during the fall/spring semesters since I won't be available during the summer and winter breaks. Please also note that I don't have any research funds to pay you from, so you will be working pro bono, solely for the experience.</p>
 
 - title: I need a recommendation letter for a scholarship/job that I am applying to. Would you please write one for me?
   body: <p/><p>I will write a recommendation letter for you only if you have taken one or more classes with me and have received an A in all of them. On rare occasions, I will be somewhat lenient with the grade requirement provided I have a very good impression of you based on our interactions in and outside the classrooom.</p><p>To write an effective letter, I will need at least two weeks' time and a short statement from you describing your interests and career goals.</p><p>I will not write the letter&colon;</p><ul><li>if you enlist me as a recommender without my consent.</li><li>if you do not waive your right to access the letter.</li></ul>
