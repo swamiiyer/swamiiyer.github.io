@@ -8,7 +8,7 @@ order: 5
 There are 6 programming assignments in all. These are due at midnight (11:59 PM to be precise) on the dates indicated on the [Calendar](calendar.html) page.
 
 | **#** | **Title** | **Goal** | **Links** |
-| 1 | Straight-line Programs | Implement programs *without* branches and loops.  | [writeup](https://www.cs.umb.edu/~siyer/teaching/cs110/straightline_programs.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/cs110/straightline_programs.zip) \| [discussion](TBD) |
+| 1 | Straight-line Programs | Implement programs *without* branches and loops.  | [writeup](https://www.cs.umb.edu/~siyer/teaching/cs110/straightline_programs.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/cs110/straightline_programs.zip) \| [discussion](https://www.cs.umb.edu/~siyer/teaching/cs110/straightline_programs_discussion.pdf) |
 | 2 | Control-flow Programs | Implement programs *with* branches and loops. | [writeup](https://www.cs.umb.edu/~siyer/teaching/cs110/controlflow_programs.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/cs110/controlflow_programs.zip) \| [discussion](TBD) |
 | 3 | Mozart Waltz Generator | Implement Mozart's waltz game by writing a program to generate a two-part waltz and another program to play the waltz. | [writeup](https://www.cs.umb.edu/~siyer/teaching/cs110/mozart_waltz_generator.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/cs110/mozart_waltz_generator.zip) \| [discussion](TBD) |
 | 4 | RSA Cryptosystem | Implement the RSA public-key cryptosystem. | [writeup](https://www.cs.umb.edu/~siyer/teaching/cs110/rsa_cryptosystem.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/cs110/rsa_cryptosystem.zip) \| [discussion](TBD) |

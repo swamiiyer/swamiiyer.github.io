@@ -8,7 +8,7 @@ order: 5
 There are 6 programming assignments in all. These are due at midnight (11:59 PM to be precise) on the dates indicated on the [Calendar](calendar.html) page.
 
 | **#** | **Title** | **Goal** | **Links** |
-1 | Simple Programs | Implement simple programs with and without control flow (ie, branches and loops).  | [writeup](https://www.cs.umb.edu/~siyer/teaching/cs210/simple_programs.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/cs210/simple_programs.zip) \| [discussion](TBD) |
+1 | Simple Programs | Implement simple programs with and without control flow (ie, branches and loops).  | [writeup](https://www.cs.umb.edu/~siyer/teaching/cs210/simple_programs.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/cs210/simple_programs.zip) \| [discussion](https://www.cs.umb.edu/~siyer/teaching/cs210/simple_programs_discussion.pdf) |
 2 | Global Sequence Alignment | Compute the optimal sequence alignment between two DNA strings using dynamic programming. | [writeup](https://www.cs.umb.edu/~siyer/teaching/cs210/global_sequence_alignment.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/cs210/global_sequence_alignment.zip) \| [discussion](TBD) |
 3 | Percolation | Estimate the percolation threshold of a system, which is a measure of how porous the system needs be so that it percolates. | [writeup](https://www.cs.umb.edu/~siyer/teaching/cs210/percolation.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/cs210/percolation.zip) \| [discussion](TBD) |
 4 | Collections | Implement some simple collection ADTs (array list, linked list, deque, and random queue). | [writeup](https://www.cs.umb.edu/~siyer/teaching/cs210/collections.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/cs210/collections.zip) \| [discussion](TBD) |
