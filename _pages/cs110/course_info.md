@@ -55,10 +55,11 @@ Starting from the second week, there will be a discussion every week. The focus 
 As part of the College of Science and Mathematics Freshman Success Program, supplemental instruction (SI) is available to all CS110 students free of charge. The SI sessions will also start from the second week. The focus of the sessions for a particular week will be the material covered in class during the previous week. The SI leader will walk you through the relevant lecture notes and solve problems. In addition, the SI leader will answer any specific questions you may have about the current assignment, or the course material in general. The SI sessions are optional, but highly recommended, especially if you feel like you are falling behind in the course. You may attend as few or as many sessions as you like. You will receive extra points for attending the sessions (see the Grading Scheme section below).
 
 | **When** | **Where** |
-| TBD | TBD |
-| TBD | TBD |
-| TBD | TBD |
-| TBD | TBD |
+| Mon 2:00 PM - 2:50 PM | TBD |
+| Wed 2:00 PM - 2:50 PM | TBD |
+| Fri 2:00 PM - 2:50 PM | TBD |
+| Sat 2:00 PM - 2:50 PM | Remote ([Zoom link](TBD)) |
+| Sun 2:00 PM - 2:50 PM | Remote ([Zoom link](TBD)) |
 
 ### Tutoring
 

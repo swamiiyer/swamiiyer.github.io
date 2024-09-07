@@ -9,7 +9,10 @@ order: 4
 
 - **Programming Environment** ([slides](https://www.cs.umb.edu/~siyer/teaching/cs110/programming_environment.pdf))
 
-- **Chapter 1: Building a Computer** ([slides](https://www.cs.umb.edu/~siyer/teaching/cs110/building_a_computer.pdf) \| [exercises](https://www.cs.umb.edu/~siyer/teaching/cs110/building_a_computer_exercises.pdf))
+- **Chapter 1: Building a Computer**
+  - Representing Information  ([slides](https://www.cs.umb.edu/~siyer/teaching/cs110/representing_information.pdf) \| [exercises](https://www.cs.umb.edu/~siyer/teaching/cs110/representing_information_exercises.pdf))
+  - Logic Circuits  ([slides](https://www.cs.umb.edu/~siyer/teaching/cs110/logic_circuits.pdf) \| [exercises](https://www.cs.umb.edu/~siyer/teaching/cs110/logic_circuits_exercises.pdf))
+  - Von Neumann Architecture  ([slides](https://www.cs.umb.edu/~siyer/teaching/cs110/vonneumann_architecture.pdf) \| [exercises](https://www.cs.umb.edu/~siyer/teaching/cs110/vonneumann_architecture_exercises.pdf))
 
 - **Chapter 2: Imperative Programming**
   - Your First Programs ([slides](https://www.cs.umb.edu/~siyer/teaching/cs110/your_first_programs.pdf) \| [exercises](https://www.cs.umb.edu/~siyer/teaching/cs110/your_first_programs_exercises.pdf))
