@@ -37,6 +37,9 @@
 - title: I am just a few points short of the next higher grade. Is there anything that I can do to get that grade?
   body:
 
+- title: What are you office hours?
+  body: <p/><p>See <a href="https://swamiiyer.net/">home page</a>.</p>
+
 - title: Do I need an appointment to see you during your office hours?
   body: <p/><p>You do not need an appointment to see me during my scheduled office hours. However, if those times do not work for you, please send me an email and we can arrange another time for us to meet, either in person or via Zoom.</p>
 
@@ -56,7 +59,7 @@
   body: <p/><p>Yes, provided my schedule permits me to take on this additional responsibility <i>and</i> I can come up with an interesting/valuable project that is substantial enough for an honors thesis.</p><p>Note that doing an honors thesis is a yearlong commitment. In the fall, you will do an Independent Study (CS478) with me, in which you will do preliminary/background work on the project that will enable you formulate a project proposal and present it to the department. In the following spring, you will take the Honors Thesis (CS498) course with me, in which you will complete the project, write the thesis, and present it before a committee.</p>
 
 - title: I would like to take the one-credit CS495/CS698 (Practicum in Computer Science) course. Would you please be my advisor?
-  body: <p/><p>Sure. Please check with the department about the procedure to sign up for the course. See Q21 on how you will be graded in the course.</p>
+  body: <p/><p>Sure. Please check with the department about the procedure to sign up for the course. See Q22 on how you will be graded in the course.</p>
 
 - title: I will be taking the one-credit CS495/CS698 (Practicum in Computer Science) course with you. How will I be graded?
   body: <p/><p>You will be graded based on the one-page report that you are expected to send me every two weeks until the end of the term. This report should document the tasks you carried out at work during that period, the issues you encountered and whether/how you resolved them, and the things you learned.</p>
