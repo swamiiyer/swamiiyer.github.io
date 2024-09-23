@@ -5,6 +5,12 @@ title: Home
 order: 1
 ---
 
+### Sep 22, 2024
+
+**Assignment 2**
+
+[Assignment 2 (Global Sequence Alignment)](assignments.html) is available and is due at 11:59 PM on Oct 6 (Sun). 
+
 ### Sep 3, 2024
 
 **Assignment 1**
