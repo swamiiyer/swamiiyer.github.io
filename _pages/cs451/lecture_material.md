@@ -17,7 +17,7 @@ order: 4
 - **Chapter 2: Scanning**
   - Preliminaries ([slides](https://www.cs.umb.edu/~siyer/teaching/cs451/scanning1.pdf) \| [exercises](https://www.cs.umb.edu/~siyer/teaching/cs451/scanning1_exercises.pdf))
   - Handcrafting a Scanner ([slides](https://www.cs.umb.edu/~siyer/teaching/cs451/scanning2.pdf) \| [exercises](https://www.cs.umb.edu/~siyer/teaching/cs451/scanning3_exercises.pdf))
-  - Generating a Scanner ([slides](https://www.cs.umb.edu/~siyer/teaching/cs451/scanning1.pdf) \| [exercises](https://www.cs.umb.edu/~siyer/teaching/cs451/scanning3_exercises.pdf))
+  - Generating a Scanner ([slides](https://www.cs.umb.edu/~siyer/teaching/cs451/scanning3.pdf) \| [exercises](https://www.cs.umb.edu/~siyer/teaching/cs451/scanning3_exercises.pdf))
   - JavaCC Scanner for *j\-\-* ([slides](https://www.cs.umb.edu/~siyer/teaching/cs451/scanning4.pdf) \| [exercises](https://www.cs.umb.edu/~siyer/teaching/cs451/scanning4_exercises.pdf))
 
 - **Chapter 3: Parsing**
