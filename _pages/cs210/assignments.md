@@ -37,4 +37,4 @@ Your solution to each assignment problem will additionally be checked by a TA fo
 
 #### Notes File
 
-The given `notes.txt` file for an assignment must be uploaded with the three sections (\#1 mandatory, \#2 if applicable, and \#3 optional) filled in as appropriate. Your notes file will receive 10 points if it meets our expectations (section \#1 must provide a clear high-level description of each problem in no more than 100 words), and will be marked down otherwise.
+The given `notes.txt` file for an assignment must be uploaded with the three sections (\#1 mandatory, \#2 if applicable, and \#3 optional) filled in as appropriate. In section \#1, for each problem, you must include in nore more than 100 words: a short, high-level description of the problem; your approach to solve it; and any issues you encountered and if/how you managed to solve them. Your notes file will receive 10 points if it meets our expectations and will be marked down otherwise.
