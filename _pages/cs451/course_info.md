@@ -52,11 +52,11 @@ The text enables a deep understanding of the Java programming language and its i
 | **Item** | **% of Final Grade** |
 | Programming Assignments (best 4 out of 1, 2, 3, 4, and 6; and 5) | 40 |
 | Exams (1 and 2) | 50 |
-| Quizzes [best 8 (6 if you have accommodations) out of 10] | 10 |
+| Quizzes | 10 |
 
 - The goal of the programming assignments is to make sure that you can apply the concepts learned in class to enhance the functionality of the base *j\-\-* and *iota* compilers.
 - The closed-book exams will test your understanding of the theoretical concepts covered in class.
-- Each weekly quiz, conducted at the end of a class, will test your understanding of the material covered in that week. Each question in a quiz is worth 2 points (1 point for correct response and 1 point for responding). Each quiz score will be normalized to 100 points.
+- Each weekly quiz, conducted at the end of a class, will test your understanding of the material covered in that week. Each question in a quiz is worth 2 points (1 point for correct response and 1 point for responding). Each quiz score will be normalized to 100 points. The lowest 2 (4 if you have accommodations) quiz scores will be dropped.
 - You can earn 0.01x% extra points if x% of the class completes the end-of-semester course evaluation. 
 - If your overall score falls within half a percent of a higher grade, your score will be elevated to that grade.
 
