@@ -37,7 +37,7 @@ $ mkdir workspace
 [IntelliJ](https://www.jetbrains.com/idea/download/#section=linux) (Community Edition).
 
 > To test your environment, download and unzip the base 
-[*j\-\-* compiler](https://www.cs.umb.edu/~siyer/teaching/j--.zip) and [*iota*](https://www.cs.umb.edu/~siyer/teaching/iota.zip) compilers under `~/workspace`.
+[*j\-\-*](https://www.cs.umb.edu/~siyer/teaching/j--.zip) and [*iota*](https://www.cs.umb.edu/~siyer/teaching/iota.zip) compilers under `~/workspace`.
 >
 > Launch IntelliJ, open `~/workspace/j--`, and run the following commands in the IntelliJ terminal:
 ```
@@ -73,7 +73,7 @@ $ ./bin/iota tests/Factorial.iota
 $ python3 ./bin/marvin.py Factorial.marv
 ```
 
-> To setup a project JDK in IntelliJ, open the project, go to `File > Project Structure > Project Settings > Project`, and from the SDK list select the OpenJDK you installed in a previous step.
+> To setup a project JDK in IntelliJ, open the project, go to *File* &rarr; *Project Structure* &rarr; *Project Settings* &rarr; *Project*, and from the SDK list select the OpenJDK you installed in a previous step.
 
 <a name="mac"/>
 ### Mac OS X
@@ -94,6 +94,10 @@ $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/
 ```
 $ brew install openjdk@21 ant
 ```
+> Set the environment variable `JAVA_HOME`.
+```
+$ echo "export JAVA_HOME=/opt/homebrew/opt/openjdk@21" >> $HOME/.zshenv
+```
 >
 > Create `workspace` folder.
 ```
@@ -104,7 +108,7 @@ $ mkdir workspace
 [IntelliJ](https://www.jetbrains.com/idea/download/#section=mac) (Community Edition).
 
 > To test your environment, download and unzip the base 
-[*j\-\-* compiler](https://www.cs.umb.edu/~siyer/teaching/j--.zip) and [*iota*](https://www.cs.umb.edu/~siyer/teaching/iota.zip) compilers under `~/workspace`.
+[*j\-\-*](https://www.cs.umb.edu/~siyer/teaching/j--.zip) and [*iota*](https://www.cs.umb.edu/~siyer/teaching/iota.zip) compilers under `~/workspace`.
 >
 > Launch IntelliJ, open `~/workspace/j--`, and run the following commands in the IntelliJ terminal:
 ```
@@ -140,7 +144,7 @@ $ ./bin/iota tests/Factorial.iota
 $ python3 ./bin/marvin.py Factorial.marv
 ```
 
-> To setup a project JDK in IntelliJ, open the project, go to `File > Project Structure > Project Settings > Project`, and from the SDK list select the OpenJDK you installed in a previous step.
+> To setup a project JDK in IntelliJ, open the project, go to *File* &rarr; *Project Structure* &rarr; *Project Settings* &rarr; *Project*, and from the SDK list select the OpenJDK you installed in a previous step.
 
 <a name="win"/>
 ### Windows
@@ -162,7 +166,7 @@ $ mkdir workspace
 >
 > Set the environment variable `JAVA_HOME`.
 ```
-$ setx JAVA_HOME "C:\jdk21\bin"
+$ setx JAVA_HOME "C:\jdk21"
 ```
 >
 > Update the environment variable `PATH` to include the `C:\jdk21\bin`
@@ -187,7 +191,7 @@ $ setx PATH "$env:PATH;C:\ant\bin"
 Python 3.x to PATH*.
 
 > To test your environment, download and unzip the base 
-[*j\-\-* compiler](https://www.cs.umb.edu/~siyer/teaching/j--.zip) and [*iota*](https://www.cs.umb.edu/~siyer/teaching/iota.zip) compilers under `~/workspace`.
+[*j\-\-*](https://www.cs.umb.edu/~siyer/teaching/j--.zip) and [*iota*](https://www.cs.umb.edu/~siyer/teaching/iota.zip) compilers under `~/workspace`.
 >
 > Launch IntelliJ, open `~/workspace/j--`, and run the following commands in the IntelliJ terminal:
 ```
@@ -215,4 +219,4 @@ $ ./bin/iota tests/Factorial.iota
 $ python.exe ./bin/marvin.py Factorial.marv
 ```
 
-> To setup a project JDK in IntelliJ, open the project, go to `File > Project Structure > Project Settings > Project`, and from the SDK list select the OpenJDK you installed in a previous step.
+> To setup a project JDK in IntelliJ, open the project, go to *File* &rarr; *Project Structure* &rarr; *Project Settings* &rarr; *Project*, and from the SDK list select the OpenJDK you installed in a previous step.
