@@ -31,7 +31,7 @@ You may only receive help from people in the ways described below and you must a
 
 You are not allowed to submit solutions obtained from websites such as Chegg or Course Hero, or using AI systems such as ChatGPT.  
 
-You are not allowed to post questions about the course or about any of the assignments on any website other than our Discord page. 
+You are not allowed to post questions about the course or about any of the assignments on any website other than our Piazza page. 
 
 ### Penalties for Infractions
 
