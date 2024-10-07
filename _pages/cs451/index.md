@@ -5,7 +5,11 @@ title: Home
 order: 1
 ---
 
-### Sep 22, 2024
+### Oct 7, 2024
+
+**Assignment 3**
+
+[Assignment 3 (Parsing)](assignments.html) is available and is due at 11:59 PM on Oct 20 (Sun). 
 
 **Assignment 2**
 

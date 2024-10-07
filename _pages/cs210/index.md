@@ -5,6 +5,12 @@ title: Home
 order: 1
 ---
 
+### Oct 7, 2024
+
+**Assignment 3**
+
+[Assignment 3 (Percolation)](assignments.html) is available and is due at 11:59 PM on Oct 20 (Sun). 
+
 ### Sep 22, 2024
 
 **Assignment 2**
