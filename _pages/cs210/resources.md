@@ -14,8 +14,8 @@ order: 6
 - [Piazza](https://piazza.com/umb/fall2024/cs210)
 - [Gradescope](https://gradescope.com/)
 - Sample Exams
-  - [Written Exam 1](https://www.cs.umb.edu/~siyer/teaching/cs210/cs210_sample_written_exam1.pdf) \| [Programming Exam 1](https://www.cs.umb.edu/~siyer/teaching/cs210/cs210_sample_programming_exam1.pdf)
-  - [Written Exam 2](https://www.cs.umb.edu/~siyer/teaching/cs210/cs210_sample_written_exam2.pdf) \| [Programming Exam 2](https://www.cs.umb.edu/~siyer/teaching/cs210/cs210_sample_programming_exam2.pdf)
+  - [Written Exam 1](https://www.cs.umb.edu/~siyer/teaching/cs210/cs210_sample_we1.pdf) \| [Programming Exam 1](https://www.cs.umb.edu/~siyer/teaching/cs210/cs210_sample_pe1.pdf)
+  - [Written Exam 2](https://www.cs.umb.edu/~siyer/teaching/cs210/cs210_sample_we2.pdf) \| [Programming Exam 2](https://www.cs.umb.edu/~siyer/teaching/cs210/cs210_sample_pe2.pdf)
 - [Math Tutorial](https://www.cs.umb.edu/~siyer/teaching/math_tutorial.pdf)
 - [Command-line Tutorial](https://www.cs.umb.edu/~siyer/teaching/cmdline_tutorial.pdf)
 - [What's My Grade?](grade.html)
