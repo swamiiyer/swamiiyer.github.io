@@ -25,7 +25,7 @@ order: 6
 
 - [Foundational APIs of the Java SE Platform](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/module-summary.html)
 - Supporting Libraries and Data Types from Princeton University ([PDF](https://www.cs.umb.edu/~siyer/teaching/stdlib-java.pdf) \| [JavaDoc](https://www.cs.umb.edu/~siyer/teaching/stdlib-javadoc))
-- Data Structures and Algorithms from Princeton University ([PDF](https://www.cs.umb.edu/~siyer/teaching/dsalib.pdf) \| [JavaDoc](https://www.cs.umb.edu/~siyer/teaching/dsa-javadoc)) 
+- Data Structures and Algorithms from Princeton University ([PDF](https://www.cs.umb.edu/~siyer/teaching/dsalib-java.pdf) \| [JavaDoc](https://www.cs.umb.edu/~siyer/teaching/dsa-javadoc)) 
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/documentation/)
 
 ### Miscellaneous
