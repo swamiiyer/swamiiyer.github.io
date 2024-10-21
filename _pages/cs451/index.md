@@ -5,6 +5,12 @@ title: Home
 order: 1
 ---
 
+### Oct 21, 2024
+
+**Assignment 4**
+
+[Assignment 4 (Scanning and Parsing with JavaCC)](assignments.html) is available and is due at 11:59 PM on Nov 3 (Sun). 
+
 ### Oct 7, 2024
 
 **Assignment 3**
