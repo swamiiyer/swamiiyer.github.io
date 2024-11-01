@@ -5,6 +5,10 @@ title: Home
 order: 1
 ---
 
+### Nov 1, 2024
+
+Assignment 4 is now due at 11:59 pm on Nov 6 (Wed).
+
 ### Oct 21, 2024
 
 **Assignment 4**
