@@ -5,7 +5,13 @@ title: Home
 order: 1
 ---
 
-### Oct 21, 2024
+### Nov 4, 2024 
+
+**Assignment 5**
+
+[Assignment 5 (Atomic Nature of Matter)](assignments.html) is available and is due at 11:59 PM on Nov 24 (Sun). 
+
+### Oct 21, 2024 
 
 **Assignment 4**
 
