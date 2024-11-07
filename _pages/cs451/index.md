@@ -5,6 +5,12 @@ title: Home
 order: 1
 ---
 
+### Nov 7, 2024
+
+**Assignment 4**
+
+[Assignment 5 ()](assignments.html) is available and is due at 11:59 PM on Nov 24 (Sun)
+
 ### Nov 1, 2024
 
 Assignment 4 is now due at 11:59 pm on Nov 6 (Wed).
