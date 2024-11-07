@@ -9,7 +9,7 @@ order: 1
 
 **Assignment 4**
 
-[Assignment 5 ()](assignments.html) is available and is due at 11:59 PM on Nov 24 (Sun)
+[Assignment 5 (Type Checking and Code Generation)](assignments.html) is available and is due at 11:59 PM on Nov 24 (Sun)
 
 ### Nov 1, 2024
 
