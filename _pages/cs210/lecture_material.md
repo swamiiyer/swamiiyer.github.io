@@ -28,7 +28,7 @@ order: 4
   - Union-find ([slides](https://www.cs.umb.edu/~siyer/teaching/cs210/union_find.pdf)<!-- \| [exercises](https://www.cs.umb.edu/~siyer/teaching/cs210/union_find_exercises.pdf)-->)
 
 - **Chapter 4: Sorting**
-  - Elementary (Bubble, Selection, Insertion, and Shell) Sorts ([slides](https://www.cs.umb.edu/~siyer/teaching/cs210/elementary_sorts.pdf)<!-- \| [exercises](https://www.cs.umb.edu/~siyer/teaching/cs210/elementary_sorts_exercises.pdf)-->)
+  - Elementary (Selection, Insertion, and Shell) Sorts ([slides](https://www.cs.umb.edu/~siyer/teaching/cs210/elementary_sorts.pdf)<!-- \| [exercises](https://www.cs.umb.edu/~siyer/teaching/cs210/elementary_sorts_exercises.pdf)-->)
   - Merge Sort ([slides](https://www.cs.umb.edu/~siyer/teaching/cs210/mergesort.pdf)<!-- \| [exercises](https://www.cs.umb.edu/~siyer/teaching/cs210/mergesort_exercises.pdf)-->)
   - Quick Sort ([slides](https://www.cs.umb.edu/~siyer/teaching/cs210/quicksort.pdf)<!-- \| [exercises](https://www.cs.umb.edu/~siyer/teaching/cs210/quicksort_exercises.pdf)-->)
   - Priority Queues ([slides](https://www.cs.umb.edu/~siyer/teaching/cs210/priority_queues.pdf)<!-- \| [exercises](https://www.cs.umb.edu/~siyer/teaching/cs210/priority_queues_exercises.pdf)-->)

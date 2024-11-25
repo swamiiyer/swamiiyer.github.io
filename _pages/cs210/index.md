@@ -5,6 +5,12 @@ title: Home
 order: 1
 ---
 
+### Nov 25, 2024 
+
+**Assignment 6**
+
+[Assignment 6 (Eight Puzzle)](assignments.html) is available and is due at 11:59 PM on Dec 15 (Sun). 
+
 ### Nov 4, 2024 
 
 **Assignment 5**

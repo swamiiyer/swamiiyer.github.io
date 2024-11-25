@@ -5,9 +5,15 @@ title: Home
 order: 1
 ---
 
+### Nov 25, 2024
+
+**Assignment 6**
+
+[Assignment 6 (Register Allocation)](assignments.html) is available and is due at 11:59 PM on Dec 15 (Sun)
+
 ### Nov 7, 2024
 
-**Assignment 4**
+**Assignment 5**
 
 [Assignment 5 (Type Checking and Code Generation)](assignments.html) is available and is due at 11:59 PM on Nov 24 (Sun)
 
