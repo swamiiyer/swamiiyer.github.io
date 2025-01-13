@@ -60,19 +60,11 @@ exclude: true
       </table>
       <p/>
     <p/>
-    <span><b>Participation</b></span>
+    <span><b>Participation</b> (based on in-class quizzes and discussion attendance)</span>
     <table>
       <tr>
         <td><input id="participation" type="number" min="0" max="100" size="10" class="form-control" placeholder="%"/></td>
     </tr>
-    </table>
-    <p/>
-    <p/>
-    <span><b>Unused Late Days</b></span>
-    <table>
-      <tr>
-        <td><input id="ld" type="number" min="0" max="100" size="10" class="form-control" placeholder="%"/></td>
-      </tr>
     </table>
     <p/>
     <p/>
@@ -118,7 +110,6 @@ function assessments() {
     assessments.assignment = 6;
     assessments.exam = 2;
     assessments.participation = 1;
-    assessments.ld = 1;
     assessments.si = 1;
     assessments.evals = 1;
     return assessments;
@@ -127,10 +118,9 @@ function assessments() {
 // Return an object containing weights for calculating student grade.
 function weights() {
     var weights = new Object();
-    weights.assignment = 8;
-    weights.exam = 25;
+    weights.assignment = 5;
+    weights.exam = 30;
     weights.participation = 10;
-    weights.ld = 1;
     weights.si = 2;
     weights.evals = 1;
     return weights;
@@ -218,8 +208,6 @@ function grade() {
     scores.exam.push($("#exam2").val());
     scores.participation = [];
     scores.participation.push($("#participation").val());
-    scores.ld = [];
-    scores.ld.push($("#ld").val());
     scores.si = [];
     scores.si.push($("#si").val());
     scores.evals = [];
@@ -232,12 +220,6 @@ function grade() {
 
     // Assignments.
     var assignments = graded(scores.assignment);
-    if (assignments.length == a.assignment) {
-        // Drop the lowest assignment score.
-        assignments.sort(function(x, y) {return x - y});
-        assignments.reverse();
-        assignments = assignments.slice(0, -1);
-    }
     if (assignments.length > 0) {
         score += w.assignment / 100.0 * sum(assignments);
         total += w.assignment * assignments.length;
@@ -245,9 +227,6 @@ function grade() {
     
     // Exams.
     var exams = graded(scores.exam);
-    if (exams.length == a.exam) {
-        // Nothing here.
-    }
     if (exams.length > 0) {
         score += w.exam / 100.0 * sum(exams);
         total += w.exam * exams.length;
@@ -260,12 +239,6 @@ function grade() {
         total += w.participation * participation.length;
     }
         
-    // Unused late days.
-    ld = graded(scores.ld);
-    if (ld.length == a.ld) {
-        score += w.ld / 100.0 * scores.ld[0];
-    }
-
     // Supplemental instruction.
     si = graded(scores.si);
     if (si.length == a.si) {

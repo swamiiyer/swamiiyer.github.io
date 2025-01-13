@@ -60,24 +60,15 @@ exclude: true
       </table>
       <p/>
     <p/>
-    <span><b>Quizzes</b></span>
+    <span><b>Participation</b> (based on in-class quizzes)</span>
     <table>
     <tr>
     <td>
-    <input id="quizzes" type="number" min="0" max="100" size="10" class="form-control" placeholder="%"/>
+    <input id="participation" type="number" min="0" max="100" size="10" class="form-control" placeholder="%"/>
     </td>
     </tr>
     </table>
     <p/>
-    <p/>
-    <span><b>Unused Late Days</b></span>
-    <table>
-    <tr>
-    <td>
-    <input id="ld" type="number" min="0" max="100" size="10" class="form-control" placeholder="%"/>
-    </td>
-    </tr>
-    </table>
     <p/>
     <span><b>Course Evaluation</b></span>
     <table>
@@ -114,8 +105,7 @@ function assessments() {
     var assessments = new Object();
     assessments.assignment = 6;
     assessments.exam = 2;
-    assessments.quizzes = 1;
-    assessments.ld = 1;
+    assessments.participation = 1;
     assessments.evals = 1;
     return assessments;
 }
@@ -123,11 +113,10 @@ function assessments() {
 // Return an object containing weights for calculating student grade.
 function weights() {
     var weights = new Object();
-    weights.assignment = 8;
-    weights.exam = 25;
-    weights.quizzes = 10;
-    weights.ld = 1;
-    weights.evals = 1;    
+    weights.assignment = 7;
+    weights.exam = 24;
+    weights.participation = 10;
+    weights.evals = 1; 
     return weights;
 }
 
@@ -211,10 +200,8 @@ function grade() {
     scores.exam = [];
     scores.exam.push($("#exam1").val());
     scores.exam.push($("#exam2").val());
-    scores.quizzes = [];
-    scores.quizzes.push($("#quizzes").val());
-    scores.ld = [];
-    scores.ld.push($("#ld").val());
+    scores.participation = [];
+    scores.participation.push($("#participation").val());
     scores.evals = [];
     scores.evals.push($("#evals").val());
 
@@ -225,14 +212,6 @@ function grade() {
 
     // Assignments.
     var assignments = graded(scores.assignment);
-    if (assignments.length == a.assignment) {
-        // Select best 4 of 1, 2, 3, 4, and 6; and 5.
-        var t = Array(assignments[0], assignments[1], assignments[2],
-                      assignments[3], assignments[5]).sort().reverse();
-        t.pop();
-        t.push(assignments[4]);
-        assignments = t;
-    }
     if (assignments.length > 0) {
         score += w.assignment / 100.0 * sum(assignments);
         total += w.assignment * assignments.length;
@@ -240,27 +219,18 @@ function grade() {
 
     // Exams.
     var exams = graded(scores.exam);
-    if (exams.length == a.exam) {
-       // Nothing here.
-    }
     if (exams.length > 0) {
         score += w.exam / 100.0 * sum(exams);
         total += w.exam * exams.length;
     }
 
-    // Quizzes.
-    var quizzes = graded(scores.quizzes);
-    if (quizzes.length == a.quizzes) {
-        score += w.quizzes / 100.0 * quizzes[0]; 
-        total += w.quizzes * quizzes.length;
+    // Participation.
+    var participation = graded(scores.participation);
+    if (participation.length == a.participation) {
+        score += w.participation / 100.0 * participation[0]; 
+        total += w.participation * participation.length;
     }
     
-    // Late days.
-    var ld = graded(scores.ld);
-    if (ld.length == a.ld) {
-        score += w.ld / 100.0 * scores.ld[0];
-    }
-
     // Course evaluation.
     var evals = graded(scores.evals);
     if (evals.length == a.evals) {

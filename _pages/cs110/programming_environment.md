@@ -59,9 +59,16 @@ $ echo "export PYTHONPATH=.:$HOME/lib/stdlib-python" >> $HOME/.bashrc
 ```
 
 > Download and install
-[PyCharm](https://www.jetbrains.com/pycharm/download/#section=linux) (Community Edition).
+[Visual Studio Code](https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64) (aka
+VSCode).
 
-> To test your environment, download and unzip [`ipp.zip`](https://www.cs.umb.edu/~siyer/teaching/ipp.zip) under `~/workspace`, launch PyCharm, open the project `~/workspace/ipp`, and run the following commands in the PyCharm terminal:
+> Launch VSCode, click on the Extensions icon on the left sidebar, search for
+> the Python extension, and install it.
+
+> To test your environment, download and unzip
+[`ipp.zip`](https://www.cs.umb.edu/~siyer/teaching/ipp.zip) under
+`~/workspace`, launch VSCode, open the folder `~/workspace/ipp`, and
+run the following commands in the VSCode terminal (can be launched by selecting *Terminal &rarr; New Terminal*):
 ```
 $ python3 helloworld.py 
 ```
@@ -71,8 +78,6 @@ $ python3 bouncingball.py
 ```
 $ python3 playthattune.py < data/looney.txt 
 ```
-
-> To add a Python interpreter to a project in PyCharm, open the project, go to `File > Settings > Project: <project name> > Python Interpreter`, and from the pull-down menu on the right select Python 3.x that is installed in the system.
 
 <a name="mac"/>
 ### Mac OS X
@@ -96,7 +101,7 @@ $ brew install python-tk wget
 >
 > Install `numpy` and `pygame`.
 ```
-$ pip3 install numpy pygame
+$ pip3 install numpy pygame --break-system-packages
 ```
 >
 > Create `lib` and `workspace` folders.
@@ -124,10 +129,19 @@ $ rm stdlib-python.zip
 $ echo "export PYTHONPATH=.:$HOME/lib/stdlib-python" >> $HOME/.zshenv
 ```
 
-> Download and install
-[PyCharm](https://www.jetbrains.com/pycharm/download/#section=mac) (Community Edition).
+> Download [Visual Studio Code](https://code.visualstudio.com/sha/download?build=stable&os=darwin-universal) (aka
+VSCode), unzip the file, and move the extracted application into the
+*Applications* folder.
 
-> To test your environment, download and unzip [`ipp.zip`](https://www.cs.umb.edu/~siyer/teaching/ipp.zip) under `~/workspace`, launch PyCharm, open the project `~/workspace/ipp`, and run the following commands in the PyCharm terminal:
+> Launch VSCode, click on the Extensions icon on the left sidebar, search for
+> the Python extension, and install it.
+
+> To test your environment, download and unzip
+[`ipp.zip`](https://www.cs.umb.edu/~siyer/teaching/ipp.zip) under
+`~/workspace`, launch VSCode, open the folder `~/workspace/ipp`, and
+run the following commands in the VSCode terminal (can be launched by
+selecting *Terminal &rarr; New Terminal*):
+
 ```
 $ python3 helloworld.py 
 ```
@@ -137,8 +151,6 @@ $ python3 bouncingball.py
 ```
 $ python3 playthattune.py < data/looney.txt 
 ```
-
-> To add a Python interpreter to a project in PyCharm, open the project, go to `File > Settings > Project: <project name> > Python Interpreter`, and from the pull-down menu on the right select Python 3.x that is installed in the system.
 
 <a name="win"/>
 ### Windows
@@ -184,9 +196,17 @@ $ setx PYTHONPATH ".;$HOME\lib\stdlib-python"
 ```
 
 > Download and install
-[PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows) (Community Edition).
+[Visual Studio Code](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user) (aka
+VSCode).
 
-> To test your environment, download and unzip [`ipp.zip`](https://www.cs.umb.edu/~siyer/teaching/ipp.zip) under `~/workspace`, launch PyCharm, open the project `~/workspace/ipp`, and run the following commands in the PyCharm terminal:
+> Launch VSCode, click on the Extensions icon on the left sidebar, search for
+> the Python extension, and install it.
+
+> To test your environment, download and unzip
+[`ipp.zip`](https://www.cs.umb.edu/~siyer/teaching/ipp.zip) under
+`~/workspace`, launch VSCode, open the folder `~/workspace/ipp`, and
+run the following commands in the VSCode terminal (can be launched by selecting *Terminal &rarr; New Terminal*):
+
 ```
 $ python.exe helloworld.py 
 ```
@@ -196,5 +216,3 @@ $ python.exe bouncingball.py
 ```
 $ Get-Content data/looney.txt | python.exe playthattune.py
 ```
-
-> To add a Python interpreter to a project in PyCharm, open the project, go to `File > Settings > Project: <project name> > Python Interpreter`, and from the pull-down menu on the right select Python 3.x that is installed in the system.
