@@ -17,13 +17,13 @@ Students who successfully complete this course will be able to confidently imple
 
 | **Name** | **Role** | **Email** | **Office** | **Hours** |
 | Swami Iyer | Instructor | [siyer@cs.umb.edu](mailto://siyer@cs.umb.edu) | M-3-201-14 | In-person: Tue Thu 10:00 AM - 12:00 PM<br/> Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09)) |
-| TBD | Teaching Assistant | TBD | TBD | TBD | 
-| TBD | Teaching Assistant | TBD | TBD | TBD | 
-| TBD | Teaching Assistant | TBD | TBD | TBD | 
-| TBD | Course Assistant | TBD | TBD | TBD |
-| TBD | Course Assistant | TBD | TBD | TBD |
-| TBD | Course Assistant | TBD | TBD | TBD |
-Sarah Wilkinson | Supplemental Instruction Leader | [sarah.wilkinson001@umb.edu](mailto://sarah.wilkinson001@umb.edu) | - | - |
+| Navkar Jain | Teaching Assistant | [n.jain001@umb.edu](mailto://n.jain001@umb.edu) | M-3-154 | TBD | 
+| Paul Maynard | Teaching Assistant | [paul.maynard001@umb.edu](mailto://paul.maynard001@umb.edu) | M-3-201-33 | TBD | 
+| Zhen Lu | Teaching Assistant | [zhen.lu001@umb.edu](mailto://zhen.lu001@umb.edu) | M-3-201-10 | TBD | 
+| Gibeom Choi | Course Assistant | [gibeom.choi001@umb.edu](mailto://gibeom.choi001@umb.edu) | M-3-731 | TBD |
+| Giorgi Karazanashvili | Course Assistant | [g.karazanashvili001@umb.edu](mailto://g.karazanashvili001@umb.edu) | M-3-731 | TBD |
+| Vijay Tummalapalli | Course Assistant | [s.tummalapalli001@umb.edu](mailto://s.tummalapalli001@umb.edu) | M-3-731 | TBD |
+| Sarah Wilkinson | Supplemental Instruction Leader | [sarah.wilkinson001@umb.edu](mailto://sarah.wilkinson001@umb.edu) | - | - |
 
 **Note**: In case you want to email us, please start the subject line with `[CS210]`.
 
@@ -39,12 +39,12 @@ In each class, the instructor will present the material for that class for an ho
 Starting from the second week, there will be a discussion every week. The focus of the discussion for a particular week will be the current assignment. The teaching assistant (TA) will walk you through the assignment problems systematically. The TA will also answer any specific questions you may have about the assignment or the course material in general. You may also seek help from the course assistant (CA) who will be assisting the TA during the discussions. The discussions will be worthwhile only if you go to the sessions having read the assignment writeup thoroughly and have at least a moderate understanding of the problems involved. The TA will assume that you have done the reading in advance.
 
 | **Section** | **When** | **Where** | **TA** | **CA** |
-| 1 | Tue 12:30 PM - 1:45 PM | W-1-0031 | TBD | TBD |
-| 2 | Thu 12:30 PM - 1:45 PM | M-3-0730 | TBD | TBD |
-| 3 | Tue 4:00 PM - 5:15 PM | W-1-0045 | TBD | TBD |
-| 4 | Thu 4:00 PM - 5:15 PM | W-1-0044 | TBD | TBD |
-| 7 | Tue 9:30 AM - 10:45 AM | M-1-0420 | TBD | TBD |
-| 8 | Thu 9:30 AM - 10:45 AM | M-1-0420 | TBD | TBD |
+| 1 | Tue 12:30 PM - 1:45 PM | W-1-0031 | Paul Maynard | Gibeom Choi |
+| 2 | Thu 12:30 PM - 1:45 PM | M-3-0730 | Paul Maynard | Gibeom Choi |
+| 3 | Tue 4:00 PM - 5:15 PM | W-1-0045 | Navkar Jain | Giorgi Karazanashvili |
+| 4 | Thu 4:00 PM - 5:15 PM | W-1-0044 | Navkar Jain | Giorgi Karazanashvili |
+| 7 | Tue 9:30 AM - 10:45 AM | M-1-0420 | Zhen Lu | Vijay Tummalapalli |
+| 8 | Thu 9:30 AM - 10:45 AM | M-1-0420 | Zhen Lu | Vijay Tummalapalli |
 
 ### Supplemental Instruction
 
