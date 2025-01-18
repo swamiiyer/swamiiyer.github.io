@@ -17,12 +17,12 @@ Students who successfully complete this course will be able to tackle computatio
 
 | **Name** | **Role** | **Email** | **Office** | **Office Hours** |
 | Swami Iyer | Instructor | [siyer@cs.umb.edu](mailto://siyer@cs.umb.edu) | M-3-201-14 | In-person: Tue Thu 10:00 AM - 12:00 PM<br/> Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09)) |
-| TBD | Teaching Assistant | TBD | TBD | TBD | 
-| TBD | Teaching Assistant | TBD | TBD | TBD | 
-| TBD | Teaching Assistant | TBD | TBD | TBD | 
-| TBD | Course Assistant | TBD | TBD | TBD |
-| TBD | Course Assistant | TBD | TBD | TBD |
-| TBD | Course Assistant | TBD | TBD | TBD |
+| Haowen Guan | Teaching Assistant | [haowen.guan001@umb.edu](mailto://haowen.guan001@umb.edu) | M-3-150 | TBD | 
+| JieHyun (Jenna) Kim | Teaching Assistant | [jiehyun.kim001@umb.edu](mailto://jiehyun.kim001@umb.edu) | M-3-201-10 | TBD | 
+| Rishank Singh | Teaching Assistant | [rishank.singh001@umb.edu](mailto://rishank.singh001@umb.edu) | M-3-201-10 | TBD | 
+| Avraham Felzenstein | Course Assistant | [a.felzenstein001@umb.edu](mailto://a.felzenstein001@umb.edu) | M-3-0731 | TBD |
+| Rafaela Lopes | Course Assistant | [rafaela.lopes001@umb.edu](mailto://rafaela.lopes001@umb.edu) | M-3-0731 | TBD |
+| Serin Kitery | Course Assistant | [serin.kitery001@umb.edu](mailto://serin.kitery001@umb.edu) | M-3-0731 | TBD |
 | Azealia Khaled | Supplemental Instruction Leader | [azal.khaled001@umb.edu](mailto://azal.khaled001@umb.edu) | - | - |
 
 **Note**: In case you want to email us, please start the subject line with `[CS110]`.
@@ -39,12 +39,12 @@ In each class, the instructor will present the material for that class for an ho
 Starting from the second week, there will be a discussion every week. The focus of the discussion for a particular week will be the current assignment. The teaching assistant (TA) will walk you through the assignment problems systematically. The TA will also answer any specific questions you may have about the assignment or the course material in general. You may also seek help from the course assistant (CA) who will be assisting the TA during the discussions. The discussions will be worthwhile only if you go to the sessions having read the assignment writeup thoroughly and have at least a moderate understanding of the problems involved. The TA will assume that you have done the reading in advance.
 
 | **Section** | **When** | **Where** | **TA** | **CA** |
-| 1 | Tue 11:00 AM - 12:15 PM | W-1-0044 | TBD | TBD | 
-| 2 | Thu 11:00 AM - 12:15 PM | M-2-0211 | TBD | TBD | 
-| 3 | Tue 2:00 PM - 3:15 PM | W-1-0055 | TBD | TBD | 
-| 4 | Thu 2:00 PM - 3:15 PM | W-1-0044 | TBD | TBD |
-| 8 | Tue 9:30 AM - 10:45 AM | H-L-3507 | TBD | TBD |
-| 9 | Thu 9:30 AM - 10:45 AM | H-L-3507 | TBD | TBD |
+| 1 | Tue 11:00 AM - 12:15 PM | W-1-0044 | Rishank Singh | Rafaela Lopes | 
+| 2 | Thu 11:00 AM - 12:15 PM | M-2-0211 | Rishank Singh | Rafaela Lopes | 
+| 3 | Tue 2:00 PM - 3:15 PM | W-1-0055 | JieHyun (Jenna) Kim | Serin Kitery | 
+| 4 | Thu 2:00 PM - 3:15 PM | W-1-0044 | JieHyun (Jenna) Kim | Serin Kitery |
+| 8 | Tue 9:30 AM - 10:45 AM | H-L-3507 | Haowen Guan | Avraham Felzenstein |
+| 9 | Thu 9:30 AM - 10:45 AM | H-L-3507 | Haowen Guan | Avraham Felzenstein |
 
 ### Supplemental Instruction
 
