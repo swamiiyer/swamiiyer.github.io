@@ -48,10 +48,13 @@ $ wget https://www.cs.umb.edu/~siyer/teaching/dsa.jar -P lib
 $ echo "export CLASSPATH=.:./out:$HOME/lib/stdlib.jar:$HOME/lib/dsa.jar" >> $HOME/.bashrc
 ```
 
-> Download and install
-[IntelliJ](https://www.jetbrains.com/idea/download/#section=linux) (Community Edition).
+> Download and install [Visual Studio Code](https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64) (aka VSCode).
 
-> To test your environment, download and unzip the [`dsaj.zip`](https://www.cs.umb.edu/~siyer/teaching/dsaj.zip) under `~/workspace`, launch IntelliJ, open the project `~/workspace/dsaj`, and run the following commands in the IntelliJ terminal:
+> Launch VSCode, click on the Extensions icon on the left sidebar, search for the *Extension Pack for Java* extension, and install it. 
+
+> To test your environment, download and unzip the [`dsaj.zip`](https://www.cs.umb.edu/~siyer/teaching/dsaj.zip) under `~/workspace`, launch VSCode, open the folder `~/workspace/dsaj`, and 
+run the following commands in the VSCode terminal (can be launched by selecting *Terminal &rarr; New Terminal*): 
+>
 ```
 $ javac -d out src/HelloWorld.java
 ```
@@ -59,8 +62,6 @@ $ javac -d out src/HelloWorld.java
 ```
 $ java HelloWorld
 ```
-
-> To setup a project JDK in IntelliJ, open the project, go to `File > Project Structure > Project Settings > Project`, and from the SDK list select the OpenJDK you installed in a previous step.
 
 <a name="mac"/>
 ## Mac OS X
@@ -102,10 +103,13 @@ $ wget https://www.cs.umb.edu/~siyer/teaching/dsa.jar -P lib
 $ echo "export CLASSPATH=.:./out:$HOME/lib/stdlib.jar:$HOME/lib/dsa.jar" >> $HOME/.zshenv
 ```
 
-> Download and install
-[IntelliJ](https://www.jetbrains.com/idea/download/#section=mac) (Community Edition).
+> Download [Visual Studio Code](https://code.visualstudio.com/sha/download?build=stable&os=darwin-universal) (aka VSCode), unzip the file, and move the extracted application into the *Applications* folder.
 
-> To test your environment, download and unzip the [`dsaj.zip`](https://www.cs.umb.edu/~siyer/teaching/dsaj.zip) under `~/workspace`, launch IntelliJ, open the project `~/workspace/dsaj`, and run the following commands in the IntelliJ terminal:
+> Launch VSCode, click on the Extensions icon on the left sidebar, search for the *Extension Pack for Java* extension, and install it. 
+
+> To test your environment, download and unzip the [`dsaj.zip`](https://www.cs.umb.edu/~siyer/teaching/dsaj.zip) under `~/workspace`, launch VSCode, open the folder `~/workspace/dsaj`, and 
+run the following commands in the VSCode terminal (can be launched by selecting *Terminal &rarr; New Terminal*): 
+>
 ```
 $ javac -d out src/HelloWorld.java
 ```
@@ -113,8 +117,6 @@ $ javac -d out src/HelloWorld.java
 ```
 $ java HelloWorld
 ```
-
-> To setup a project JDK in IntelliJ, open the project, go to `File > Project Structure > Project Settings > Project`, and from the SDK list select the OpenJDK you installed in a previous step.
 
 <a name="win"/>
 ## Windows
@@ -154,11 +156,13 @@ folder.
 $ setx PATH "$env:PATH;C:\jdk21\bin"
 ```
 
-> Download and install
-> [IntelliJ](https://www.jetbrains.com/idea/download/#section=windows)
-> (Community Edition). Launch IntelliJ, go to *Configure* &rarr; *Settings* &rarr; *Tools* &rarr; *Terminal*, and set *Shell path* to `powershell`.
+> Download and install [Visual Studio Code](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user) (aka VSCode).
 
-> To test your environment, download and unzip the [`dsaj.zip`](https://www.cs.umb.edu/~siyer/teaching/dsaj.zip) under `~/workspace`, launch IntelliJ, open the project `~/workspace/dsaj`, and run the following commands in the IntelliJ terminal:
+> Launch VSCode, click on the Extensions icon on the left sidebar, search for the *Extension Pack for Java* extension, and install it. 
+
+> To test your environment, download and unzip the [`dsaj.zip`](https://www.cs.umb.edu/~siyer/teaching/dsaj.zip) under `~/workspace`, launch VSCode, open the folder `~/workspace/dsaj`, and 
+run the following commands in the VSCode terminal (can be launched by selecting *Terminal &rarr; New Terminal*): 
+>
 ```
 $ javac -d out src/HelloWorld.java
 ```
@@ -166,5 +170,3 @@ $ javac -d out src/HelloWorld.java
 ```
 $ java HelloWorld
 ```
-
-> To setup a project JDK in IntelliJ, open the project, go to `File > Project Structure > Project Settings > Project`, and from the SDK list select the OpenJDK you installed in a previous step.

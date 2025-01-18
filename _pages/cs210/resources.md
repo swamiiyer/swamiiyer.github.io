@@ -8,25 +8,26 @@ order: 6
 ### Essentials
 
 - [Programming Environment Setup](programming_environment.html)
-- Programs Discussed in Class ([PDF](https://www.cs.umb.edu/~siyer/teaching/dsaj.pdf) \| [IntelliJ Project](https://www.cs.umb.edu/~siyer/teaching/dsaj.zip))
-- Java Versions of Programs Discussed in CS110 ([PDF](https://www.cs.umb.edu/~siyer/teaching/ipj.pdf) \| [IntelliJ Project](https://www.cs.umb.edu/~siyer/teaching/ipj.zip))
-- [iClicker](https://app.reef-education.com/\#/login iClicker)
-- [Piazza](https://piazza.com/umb/fall2024/cs210)
+- Programs Discussed in Class ([pdf](https://www.cs.umb.edu/~siyer/teaching/dsaj.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/dsaj.zip))
+- Java Versions of Programs Discussed in CS110 ([pdf](https://www.cs.umb.edu/~siyer/teaching/ipj.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/ipj.zip))
+- [Piazza](https://piazza.com/umb/spring2025/cs210)
 - [Gradescope](https://gradescope.com/)
 - Sample Exams
   - [Written Exam 1](https://www.cs.umb.edu/~siyer/teaching/cs210/cs210_sample_we1.pdf) \| [Programming Exam 1](https://www.cs.umb.edu/~siyer/teaching/cs210/cs210_sample_pe1.pdf)
   - [Written Exam 2](https://www.cs.umb.edu/~siyer/teaching/cs210/cs210_sample_we2.pdf) \| [Programming Exam 2](https://www.cs.umb.edu/~siyer/teaching/cs210/cs210_sample_pe2.pdf)
-- [Math Tutorial](https://www.cs.umb.edu/~siyer/teaching/math_tutorial.pdf)
-- [Command-line Tutorial](https://www.cs.umb.edu/~siyer/teaching/cmdline_tutorial.pdf)
+<!-- - [Math -->
+<!-- Tutorial](https://www.cs.umb.edu/~siyer/teaching/math_tutorial.pdf) -->
+<!-- - [Command-line -->
+<!-- Tutorial](https://www.cs.umb.edu/~siyer/teaching/cmdline_tutorial.pdf) -->
 - [What's My Grade?](grade.html)
 - [Syllabus](https://www.cs.umb.edu/~siyer/teaching/cs210/cs210_syllabus.pdf)
 
 ### Documentation
 
 - [Foundational APIs of the Java SE Platform](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/module-summary.html)
-- Supporting Libraries and Data Types from Princeton University ([PDF](https://www.cs.umb.edu/~siyer/teaching/stdlib-java.pdf) \| [JavaDoc](https://www.cs.umb.edu/~siyer/teaching/stdlib-javadoc))
-- Data Structures and Algorithms from Princeton University ([PDF](https://www.cs.umb.edu/~siyer/teaching/dsalib-java.pdf) \| [JavaDoc](https://www.cs.umb.edu/~siyer/teaching/dsa-javadoc)) 
-- [IntelliJ IDEA](https://www.jetbrains.com/idea/documentation/)
+- [Supporting Libraries and Data Types from Princeton University](https://www.cs.umb.edu/~siyer/teaching/stdlib-java.pdf)
+- [Data Structures and Algorithms from Princeton University](https://www.cs.umb.edu/~siyer/teaching/dsalib-java.pdf)
+- [Visual Studio Code (aka VSCode)](https://code.visualstudio.com/Docs)
 
 ### Miscellaneous
 

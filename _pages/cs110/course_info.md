@@ -20,9 +20,9 @@ Students who successfully complete this course will be able to tackle computatio
 | TBD | Teaching Assistant | TBD | TBD | TBD | 
 | TBD | Teaching Assistant | TBD | TBD | TBD | 
 | TBD | Teaching Assistant | TBD | TBD | TBD | 
-| TBD | Course Assistant | TBD | TBD | TBD |  
-| TBD | Course Assistant | TBD | TBD | TBD |  
-| TBD | Course Assistant | TBD | TBD | TBD |  
+| TBD | Course Assistant | TBD | TBD | TBD |
+| TBD | Course Assistant | TBD | TBD | TBD |
+| TBD | Course Assistant | TBD | TBD | TBD |
 | Azealia Khaled | Supplemental Instruction Leader | [azal.khaled001@umb.edu](mailto://azal.khaled001@umb.edu) | - | - |
 
 **Note**: In case you want to email us, please start the subject line with `[CS110]`.
@@ -30,7 +30,7 @@ Students who successfully complete this course will be able to tackle computatio
 ### Class
 
 | **Section** | **When** | **Where** |
-| 1-6 | Tue Thu 12:30 PM - 1:45 PM | W-1-0088 (Snowden Auditorium) |
+| 1-4, 8, 9 | Tue Thu 12:30 PM - 1:45 PM | W-1-0088 (Snowden Auditorium) |
 
 In each class, the instructor will present the material for that class for an hour, and conduct an online quiz on that material for the remaining fifteen minutes. You are strongly encouraged to review the [material](lecture_material.html) before each class, and review it again thoroughly soon after.
 
