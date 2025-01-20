@@ -32,19 +32,19 @@ Students who successfully complete this course will be able to tackle computatio
 | **Section** | **When** | **Where** |
 | 1-4, 8, 9 | Tue Thu 12:30 PM - 1:45 PM | W-1-0088 (Snowden Auditorium) |
 
-In each class, the instructor will present the material for that class for an hour, and conduct an online quiz on that material for the remaining fifteen minutes. You are strongly encouraged to review the [material](lecture_material.html) before each class, and review it again thoroughly soon after.
-
+In each class, the instructor will present the [material](lecture_material.html) for that class. Roughly once a week, the instructor will also conduct an online quiz towards the end of a class on recently covered material.
+ 
 ### Discussion
 
 Starting from the second week, there will be a discussion every week. The focus of the discussion for a particular week will be the current assignment. The teaching assistant (TA) will walk you through the assignment problems systematically. The TA will also answer any specific questions you may have about the assignment or the course material in general. You may also seek help from the course assistant (CA) who will be assisting the TA during the discussions. The discussions will be worthwhile only if you go to the sessions having read the assignment writeup thoroughly and have at least a moderate understanding of the problems involved. The TA will assume that you have done the reading in advance.
 
 | **Section** | **When** | **Where** | **TA** | **CA** |
-| 1 | Tue 11:00 AM - 12:15 PM | W-1-0044 | Rishank Singh | Rafaela Lopes | 
-| 2 | Thu 11:00 AM - 12:15 PM | M-2-0211 | Rishank Singh | Rafaela Lopes | 
-| 3 | Tue 2:00 PM - 3:15 PM | W-1-0055 | JieHyun (Jenna) Kim | Serin Kitery | 
-| 4 | Thu 2:00 PM - 3:15 PM | W-1-0044 | JieHyun (Jenna) Kim | Serin Kitery |
-| 8 | Tue 9:30 AM - 10:45 AM | H-L-3507 | Haowen Guan | Avraham Felzenstein |
-| 9 | Thu 9:30 AM - 10:45 AM | H-L-3507 | Haowen Guan | Avraham Felzenstein |
+| 1 | Tue 11:00 AM - 12:15 PM | W-1-0044 | Haowen Guan | Rafaela Lopes | 
+| 2 | Thu 11:00 AM - 12:15 PM | M-2-0211 | Haowen Guan | Rafaela Lopes | 
+| 3 | Tue 2:00 PM - 3:15 PM | W-1-0055 | JieHyun (Jenna) Kim | Avraham Felzenstein | 
+| 4 | Thu 2:00 PM - 3:15 PM | W-1-0044 | JieHyun (Jenna) Kim | Avraham Felzenstein |
+| 8 | Tue 9:30 AM - 10:45 AM | H-L-3507 | Rishank Singh | Serin Kitery |
+| 9 | Thu 9:30 AM - 10:45 AM | H-L-3507 | Rishank Singh | Serin Kitery |
 
 ### Supplemental Instruction
 
@@ -101,7 +101,7 @@ This text offers an excellent introduction to computing principles, motivating e
 
 #### Piazza
 
-We will use [Piazza](https://piazza.com/umb/fall2024/cs110) as the Q&A platform for the course. If you have any general questions about the assignments, exams, or the lecture material, the most effective way to get them answered is by posting them on Piazza. You can expect your questions to be answered by the course staff or your peers.
+We will use [Piazza](https://piazza.com) as the Q&A platform for the course. If you have any general questions about the assignments, exams, or the lecture material, the most effective way to get them answered is by posting them on Piazza. You can expect your questions to be answered by the course staff or your peers.
 
 #### Gradescope
 

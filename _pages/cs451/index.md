@@ -5,43 +5,11 @@ title: Home
 order: 1
 ---
 
-### Nov 25, 2024
-
-**Assignment 6**
-
-[Assignment 6 (Register Allocation)](assignments.html) is available and is due at 11:59 PM on Dec 15 (Sun)
-
-### Nov 7, 2024
-
-**Assignment 5**
-
-[Assignment 5 (Type Checking and Code Generation)](assignments.html) is available and is due at 11:59 PM on Nov 24 (Sun)
-
-### Nov 1, 2024
-
-Assignment 4 is now due at 11:59 pm on Nov 6 (Wed).
-
-### Oct 21, 2024
-
-**Assignment 4**
-
-[Assignment 4 (Scanning and Parsing with JavaCC)](assignments.html) is available and is due at 11:59 PM on Nov 3 (Sun). 
-
-### Oct 7, 2024
-
-**Assignment 3**
-
-[Assignment 3 (Parsing)](assignments.html) is available and is due at 11:59 PM on Oct 20 (Sun). 
-
-**Assignment 2**
-
-[Assignment 2 (Scanning)](assignments.html) is available and is due at 11:59 PM on Oct 6 (Sun). 
-
-### Sep 3, 2024
+### Jan 27, 2025
 
 **Assignment 1**
 
-[Assignment 1 (Supporting Simple Operations)](assignments.html) is available and is due at 11:59 PM on Sep 22 (Sun). 
+[Assignment 1 (Supporting Simple Operations)](assignments.html) is available and is due at 11:59 PM on Feb 16 (Sun). 
 
 **Welcome Message**
 
@@ -54,15 +22,14 @@ Welcome to the Compilers (CS451/651) course I will be teaching this semester!
 - Please read through the [course website](/cs451/) very carefully and acquaint yourself with the course mechanics.
 
 - Please take care of the following action items:
-  - Sign up for [iClicker](https://app.reef-education.com/\#/account/create iClicker) (active learning platform) using your UMB email address and add the course *CS451/651* to your dashboard. You will need to purchase an [iClicker Student App Subscription](https://www.iclicker.com/pricing#student-pricing) to participate in the in-class quizzes.
   - Sign up for Piazza (Q&A platform) and Gradescope (grading platform) using the invitations that will be sent to your UMB email address.
   - Setup the [programming environment](programming_environment.html) on your computer.
-  - Complete the mandatory questionnaire (all six questions) available on Gradescope. You will **not** be allowed to submit your assignments or take the exams until you complete the questionnaire. 
+  - Complete the mandatory questionnaire (all six questions) available on Gradescope by 11:59 PM on Feb 9 (Sun). You will **not** be allowed to do any work for the course until you complete the questionnaire. 
   - Sign up for a [CS account](course_info.html#cs_account).
 
 - CS451/651 is a very demanding course, so please be prepared to work really hard from the outset, or else you will quickly fall behind and end up with a poor/failing grade.
 
-- If you are currently waitlisted, you will be enrolled automatically if enough students drop out before the add/drop deadline. The enrollment capacity is set at 50 for CS451 and 26 for CS651. If one course is over-enrolled (ie, there are students on the waitlist) while the other has free seats, I will enroll as many waitlisted students from the former into the latter, in the order of their waitlist number. Please note that I will **not** go over the total enrollment capacity of 76.
+- If you are currently waitlisted, you will be enrolled automatically if enough students drop out before the add/drop deadline. The enrollment capacity is set at 75 for CS451 and 10 for CS651. If one course is over-enrolled (ie, there are students on the waitlist) while the other has free seats, I will enroll as many waitlisted students from the former into the latter, in the order of their waitlist number. Please note that I will **not** go over the total enrollment capacity of 85.
 
 I look forward to having you in my class.
 

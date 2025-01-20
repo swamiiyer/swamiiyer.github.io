@@ -49,7 +49,7 @@ $ echo "export CLASSPATH=.:./out:$HOME/lib/stdlib.jar:$HOME/lib/dsa.jar" >> $HOM
 ```
 
 > Download and install [Visual Studio Code](https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64) (aka VSCode).
-
+> 
 > Launch VSCode, click on the Extensions icon on the left sidebar, search for the *Extension Pack for Java* extension, and install it. 
 
 > To test your environment, download and unzip the [`dsaj.zip`](https://www.cs.umb.edu/~siyer/teaching/dsaj.zip) under `~/workspace`, launch VSCode, open the folder `~/workspace/dsaj`, and 
@@ -104,7 +104,7 @@ $ echo "export CLASSPATH=.:./out:$HOME/lib/stdlib.jar:$HOME/lib/dsa.jar" >> $HOM
 ```
 
 > Download [Visual Studio Code](https://code.visualstudio.com/sha/download?build=stable&os=darwin-universal) (aka VSCode), unzip the file, and move the extracted application into the *Applications* folder.
-
+> 
 > Launch VSCode, click on the Extensions icon on the left sidebar, search for the *Extension Pack for Java* extension, and install it. 
 
 > To test your environment, download and unzip the [`dsaj.zip`](https://www.cs.umb.edu/~siyer/teaching/dsaj.zip) under `~/workspace`, launch VSCode, open the folder `~/workspace/dsaj`, and 
@@ -157,11 +157,10 @@ $ setx PATH "$env:PATH;C:\jdk21\bin"
 ```
 
 > Download and install [Visual Studio Code](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user) (aka VSCode).
-
+> 
 > Launch VSCode, click on the Extensions icon on the left sidebar, search for the *Extension Pack for Java* extension, and install it. 
 
-> To test your environment, download and unzip the [`dsaj.zip`](https://www.cs.umb.edu/~siyer/teaching/dsaj.zip) under `~/workspace`, launch VSCode, open the folder `~/workspace/dsaj`, and 
-run the following commands in the VSCode terminal (can be launched by selecting *Terminal &rarr; New Terminal*): 
+> To test your environment, download and unzip the [`dsaj.zip`](https://www.cs.umb.edu/~siyer/teaching/dsaj.zip) under `~/workspace`, launch VSCode, open the folder `~/workspace/dsaj`, and run the following commands in the VSCode terminal (can be launched by selecting *Terminal &rarr; New Terminal*): 
 >
 ```
 $ javac -d out src/HelloWorld.java

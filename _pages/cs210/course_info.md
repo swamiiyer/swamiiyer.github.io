@@ -32,7 +32,7 @@ Students who successfully complete this course will be able to confidently imple
 | **Section** | **When** | **Where** |
 | 1-4, 7, 8 | Tue Thu 4:00 PM - 5:15 PM | Y-2-2310
 
-In each class, the instructor will present the material for that class for an hour, and conduct an online quiz on that material for the remaining fifteen minutes. You are strongly encouraged to review the [material](lecture_material.html) before each class, and review it again thoroughly soon after.
+In each class, the instructor will present the [material](lecture_material.html) for that class. Roughly once a week, the instructor will also conduct an online quiz towards the end of a class on recently covered material.
 
 ### Discussion
 
@@ -111,7 +111,7 @@ This text provides an excellent survey of the most important algorithms and data
 
 #### Piazza
 
-We will use [Piazza](https://piazza.com/umb/fall2024/cs210) as the Q&A platform for the course. If you have any general questions about the assignments, exams, or the lecture material, the most effective way to get them answered is by posting them on Piazza. You can expect your questions to be answered by the course staff or your peers.
+We will use [Piazza](https://piazza.com) as the Q&A platform for the course. If you have any general questions about the assignments, exams, or the lecture material, the most effective way to get them answered is by posting them on Piazza. You can expect your questions to be answered by the course staff or your peers.
 
 #### Gradescope
 

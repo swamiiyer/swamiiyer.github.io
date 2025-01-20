@@ -16,17 +16,17 @@ Students who successfully complete this course will be able to: write parsers an
 ### Course Staff
 
 | **Name** | **Role** | **Email** | **Office** | **Hours** |
-Swami Iyer | Instructor | [siyer@cs.umb.edu](mailto://siyer@cs.umb.edu) | M-3-201-14 | In-person: Tue Thu 9:30 AM - 10:30 AM and 2:30 PM - 3:30 PM<br/> Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09)) |
-Trinadhreddy Seelam | Teaching Assistant | [t.seelam001@umb.edu](mailto://t.seelam001@umb.edu) | M-3-201-10 | Mon Wed 2:00 PM - 3:00 PM |
+| Swami Iyer | Instructor | [siyer@cs.umb.edu](mailto://siyer@cs.umb.edu) | M-3-201-14 | In-person: Tue Thu 10:00 AM - 12:00 PM<br/> Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09)) |
+ | Trinadhreddy Seelam | Teaching Assistant | [t.seelam001@umb.edu](mailto://t.seelam001@umb.edu) | M-3-201-10 | TBD |
 
 **Note**: In case you want to email us, please start the subject line with `[CS451/651]`.
 
 ### Class 
 
 | **When** | **Where** |
-| Tue Thu 4:00 PM - 5:15 PM | W-2-0158
+| Tue Thu 4:00 PM - 5:15 PM | Y-2-2110
 
-In each class, the instructor will present the material for that class for an hour, and conduct an online quiz on that material for the remaining fifteen minutes. You are strongly encouraged to review the [material](lecture_material.html) before each class, and review it again thoroughly soon after.
+In each class, the instructor will present the [material](lecture_material.html) for that class. Roughly once a week, the instructor will also conduct an online quiz towards the end of a class on recently covered material.
 
 ### Recommended Text
 
@@ -50,13 +50,13 @@ The text enables a deep understanding of the Java programming language and its i
 #### Assessments
 
 | **Item** | **% of Final Grade** |
-| Programming Assignments (best 4 out of 1, 2, 3, 4, and 6; and 5) | 40 |
-| Exams (1 and 2) | 50 |
-| Quizzes | 10 |
+| Programming Assignments (6) | 42 |
+| Exams (2) | 48 |
+| Participation | 10 |
 
 - The goal of the programming assignments is to make sure that you can apply the concepts learned in class to enhance the functionality of the base *j\-\-* and *iota* compilers.
 - The closed-book exams will test your understanding of the theoretical concepts covered in class.
-- Each weekly quiz, conducted at the end of a class, will test your understanding of the material covered in that week. Each question in a quiz is worth 2 points (1 point for correct response and 1 point for responding). Each quiz score will be normalized to 100 points. The lowest 2 (4 if you have accommodations) quiz scores will be dropped.
+- Your participation score will be based on weekly in-class quizzes. Each quiz, conducted at the end of a class, will test your understanding of the material covered recently. Each question in a quiz is worth 1 point. Each quiz score will be normalized to 100 points. Only your best 10 quiz scores will count towards the final grade.
 - You can earn 0.01x% extra points if x% of the class completes the end-of-semester course evaluation. 
 - If your overall score falls within half a percent of a higher grade, your score will be elevated to that grade.
 
@@ -66,17 +66,13 @@ The text enables a deep understanding of the Java programming language and its i
 
 ### Software Needed
 
-#### iClicker
-
-We will use [iClicker](https://www.iclicker.com/) to conduct in-class quizzes, for which you will need an [iClicker Student App Subscription](https://www.iclicker.com/pricing#student-pricing).
-
 #### Piazza
 
-We will use [Piazza](https://piazza.com/umb/fall2024/cs451651) as the Q&A platform for the course. If you have any general questions about the assignments, exams, or the lecture material, the most effective way to get them answered is by posting them on Piazza. You can expect your questions to be answered by the course staff or your peers.
+We will use [Piazza](https://piazza.com) as the Q&A platform for the course. If you have any general questions about the assignments, exams, or the lecture material, the most effective way to get them answered is by posting them on Piazza. You can expect your questions to be answered by the course staff or your peers.
 
 #### Gradescope
 
-We will use [Gradescope](https://gradescope.com/) to grade your programming assignments and exams. 
+We will use [Gradescope](https://gradescope.com/) to grade your programming assignments and exams and for the in-class quizzes.
 
 #### Programming Environment
 
@@ -107,14 +103,8 @@ If you have a question, first make sure that it has not already been asked/answe
 
 You must provide appropriate documentation if you were/are unable to take an exam on the scheduled date and want to arrange a makeup exam. The documentation must be a letter from the [Dean of Students](https://cm.maxient.com/reportingform.php?UMassBoston&layout_id=24) if the type of your absence is among those listed on their website. For other types of absences, the supporting documentation must be emailed to the instructor directly.
 
-**Note**: There will be no makeup for missed quizzes.
+**Note**: There will be no makeup of missed quizzes.
  
-#### Late Days 
-
-Assignment deadlines are firm and non negotiable, but you have up to 5 (10 if you have accommodations) late days that you may use to submit one or more assignments a bit late. You may request an extension for any assignment only once. To do so, you must send the instructor a request via email at least 48 hours prior to the assignment deadline, clearly stating the number of late days needed, or else your request will not be granted.
-
-Unused late days will be converted into `x%` extra points, which will be added to your final grade. `x` will be calculated as `x = d / n`, where `n` is the number of late days allotted and `d` is the number of late days unused. For example, if `d = 3` and `n = 5`, then `x = 0.6%`.
-
 #### Regrade Request
 
 If you have any concerns about the grading of a particular assignment or exam, you may submit a [regrade request](https://www.gradescope.com/get_started#student-submission-view) via Gradescope. You must submit the request within a week from the date the assignment or exam grades are published, or else your request will be turned down.

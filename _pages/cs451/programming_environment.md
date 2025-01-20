@@ -33,13 +33,13 @@ $ sudo apt-get install openjdk-21-jdk ant
 $ mkdir workspace
 ```
 
-> Download and install
-[IntelliJ](https://www.jetbrains.com/idea/download/#section=linux) (Community Edition).
+> Download and install [Visual Studio Code](https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64) (aka VSCode). 
+> 
+> Launch VSCode, click on the Extensions icon on the left sidebar, search for the *Extension Pack for Java* extension, and install it. 
 
-> To test your environment, download and unzip the base 
-[*j\-\-*](https://www.cs.umb.edu/~siyer/teaching/j--.zip) and [*iota*](https://www.cs.umb.edu/~siyer/teaching/iota.zip) compilers under `~/workspace`.
+> To test your environment, download and unzip the base [*j\-\-*](https://www.cs.umb.edu/~siyer/teaching/j--.zip) and [*iota*](https://www.cs.umb.edu/~siyer/teaching/iota.zip) compilers under `~/workspace`. 
 >
-> Launch IntelliJ, open `~/workspace/j--`, and run the following commands in the IntelliJ terminal:
+> Launch VSCode, open the folder `~/workspace/j--`, and run the following commands in the VSCode terminal (can be launched by selecting *Terminal &rarr; New Terminal*): 
 ```
 $ ant
 ```
@@ -56,7 +56,7 @@ $ ./bin/j-- tests/HelloWorld.java
 $ java HelloWorld
 ```
 >
-> Launch IntelliJ, open `~/workspace/iota`, and run the following commands in the IntelliJ terminal:
+> Launch VSCode, open the folder `~/workspace/iota`, and run the following commands in the VSCode terminal:
 ```
 $ ant
 ```
@@ -72,8 +72,6 @@ $ ./bin/iota tests/Factorial.iota
 ```
 $ python3 ./bin/marvin.py Factorial.marv
 ```
-
-> To setup a project JDK in IntelliJ, open the project, go to *File* &rarr; *Project Structure* &rarr; *Project Settings* &rarr; *Project*, and from the SDK list select the OpenJDK you installed in a previous step.
 
 <a name="mac"/>
 ### Mac OS X
@@ -104,14 +102,14 @@ $ echo "export JAVA_HOME=/opt/homebrew/opt/openjdk@21" >> $HOME/.zshenv
 $ mkdir workspace
 ```
 
-> Download and install
-[IntelliJ](https://www.jetbrains.com/idea/download/#section=mac) (Community Edition).
+> Download and install [Visual Studio Code](https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64) (aka VSCode).  
+> 
+> Launch VSCode, click on the Extensions icon on the left sidebar, search for the *Extension Pack for Java* extension, and install it. 
 
-> To test your environment, download and unzip the base 
-[*j\-\-*](https://www.cs.umb.edu/~siyer/teaching/j--.zip) and [*iota*](https://www.cs.umb.edu/~siyer/teaching/iota.zip) compilers under `~/workspace`.
+> To test your environment, download and unzip the base [*j\-\-*](https://www.cs.umb.edu/~siyer/teaching/j--.zip) and [*iota*](https://www.cs.umb.edu/~siyer/teaching/iota.zip) compilers under `~/workspace`.  
 >
-> Launch IntelliJ, open `~/workspace/j--`, and run the following commands in the IntelliJ terminal:
-```
+> Launch VSCode, open the folder `~/workspace/j--`, and run the following commands in the VSCode terminal (can be launched by selecting *Terminal &rarr; New Terminal*):  
+ ```
 $ ant
 ```
 >
@@ -127,7 +125,7 @@ $ ./bin/j-- tests/HelloWorld.java
 $ java HelloWorld
 ```
 > 
-> Launch IntelliJ, open `~/workspace/iota`, and run the following commands in the IntelliJ terminal:
+> Launch VSCode, open the folder `~/workspace/iota`, and run the following commands in the VSCode terminal:
 ```
 $ ant
 ```
@@ -143,8 +141,6 @@ $ ./bin/iota tests/Factorial.iota
 ```
 $ python3 ./bin/marvin.py Factorial.marv
 ```
-
-> To setup a project JDK in IntelliJ, open the project, go to *File* &rarr; *Project Structure* &rarr; *Project Settings* &rarr; *Project*, and from the SDK list select the OpenJDK you installed in a previous step.
 
 <a name="win"/>
 ### Windows
@@ -185,15 +181,16 @@ $ setx PATH "$env:PATH;C:\jdk21\bin"
 $ setx PATH "$env:PATH;C:\ant\bin"
 ```
 
-> Download and install [IntelliJ](https://www.jetbrains.com/idea/download/#section=windows) (Community Edition). Launch IntelliJ, go to *Configure* &rarr; *Settings* &rarr; *Tools* &rarr; *Terminal*, and set *Shell path* to `powershell`.
+> Download and install [Visual Studio Code](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user) (aka VSCode).
+> 
+> Launch VSCode, click on the Extensions icon on the left sidebar, search for the *Extension Pack for Java* extension, and install it. 
 
-> Install [Python 3](https://www.python.org/downloads/),  making sure you have checked the box that says *Add
-Python 3.x to PATH*.
+> Install [Python 3](https://www.python.org/downloads/),  making sure you have checked the box that says *Add Python 3.x to PATH*.
 
 > To test your environment, download and unzip the base 
 [*j\-\-*](https://www.cs.umb.edu/~siyer/teaching/j--.zip) and [*iota*](https://www.cs.umb.edu/~siyer/teaching/iota.zip) compilers under `~/workspace`.
 >
-> Launch IntelliJ, open `~/workspace/j--`, and run the following commands in the IntelliJ terminal:
+> Launch VSCode, open the folder `~/workspace/j--`, and run the following commands in the VSCode terminal (can be launched by selecting *Terminal &rarr; New Terminal*):
 ```
 $ ant
 ```
@@ -206,7 +203,7 @@ $ ./bin/j-- tests/HelloWorld.java
 $ java HelloWorld
 ```
 >
-> Launch IntelliJ, open `~/workspace/iota`, and run the following commands in the IntelliJ terminal:
+> Launch VSCode, open the folder `~/workspace/iota`, and run the following commands in the VSCode terminal:
 ```
 $ ant
 ```
@@ -218,5 +215,3 @@ $ ./bin/iota tests/Factorial.iota
 ```
 $ python.exe ./bin/marvin.py Factorial.marv
 ```
-
-> To setup a project JDK in IntelliJ, open the project, go to *File* &rarr; *Project Structure* &rarr; *Project Settings* &rarr; *Project*, and from the SDK list select the OpenJDK you installed in a previous step.
