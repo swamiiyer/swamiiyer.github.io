@@ -60,7 +60,7 @@ $ echo "export PYTHONPATH=.:$HOME/lib/stdlib-python" >> $HOME/.bashrc
 
 > Download and install [Visual Studio Code](https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64) (aka VSCode).
 > 
-> Launch VSCode, click on the Extensions icon on the left sidebar, search the *Python* extension, and install it.
+> Launch VSCode, click on the Extensions icon on the left sidebar, search for the *Python* extension and install it. Next, search for *vscode-pdf* extension and install it. 
 
 > To test your environment, download and unzip [`ipp.zip`](https://www.cs.umb.edu/~siyer/teaching/ipp.zip) under `~/workspace`, launch VSCode, open the folder `~/workspace/ipp`, and run the following commands in the VSCode terminal (can be launched by selecting *Terminal &rarr; New Terminal*):
 >
@@ -126,7 +126,7 @@ $ echo "export PYTHONPATH=.:$HOME/lib/stdlib-python" >> $HOME/.zshenv
 
 > Download [Visual Studio Code](https://code.visualstudio.com/sha/download?build=stable&os=darwin-universal) (aka VSCode), unzip the file, and move the extracted application into the *Applications* folder.
 > 
-> Launch VSCode, click on the Extensions icon on the left sidebar, search for the *Python* extension, and install it.
+> Launch VSCode, click on the Extensions icon on the left sidebar, search for the *Python* extension and install it. Next, search for *vscode-pdf* extension and install it. 
 
 > To test your environment, download and unzip [`ipp.zip`](https://www.cs.umb.edu/~siyer/teaching/ipp.zip) under `~/workspace`, launch VSCode, open the folder `~/workspace/ipp`, and
 run the following commands in the VSCode terminal (can be launched by selecting *Terminal &rarr; New Terminal*):
@@ -186,7 +186,7 @@ $ setx PYTHONPATH ".;$HOME\lib\stdlib-python"
 
 > Download and install [Visual Studio Code](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user) (aka VSCode).
 > 
-> Launch VSCode, click on the Extensions icon on the left sidebar, search for the *Python* extension, and install it.
+> Launch VSCode, click on the Extensions icon on the left sidebar, search for the *Python* extension and install it. Next, search for *vscode-pdf* extension and install it. 
 
 > To test your environment, download and unzip [`ipp.zip`](https://www.cs.umb.edu/~siyer/teaching/ipp.zip) under `~/workspace`, launch VSCode, open the folder `~/workspace/ipp`, and run the following commands in the VSCode terminal (can be launched by selecting *Terminal &rarr; New Terminal*):
 >
