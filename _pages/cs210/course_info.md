@@ -16,14 +16,14 @@ Students who successfully complete this course will be able to confidently imple
 ### Course Staff
 
 | **Name** | **Role** | **Email** | **Office** | **Hours** |
-| Swami Iyer | Instructor | [siyer@cs.umb.edu](mailto://siyer@cs.umb.edu) | M-3-201-14 | In-person: Tue Thu 10:00 AM - 12:00 PM<br/> Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09)) |
-| Navkar Jain | Teaching Assistant | [n.jain001@umb.edu](mailto://n.jain001@umb.edu) | M-3-154 | TBD | 
-| Paul Maynard | Teaching Assistant | [paul.maynard001@umb.edu](mailto://paul.maynard001@umb.edu) | M-3-201-33 | TBD | 
-| Zhen Lu | Teaching Assistant | [zhen.lu001@umb.edu](mailto://zhen.lu001@umb.edu) | M-3-201-10 | TBD | 
-| Gibeom Choi | Course Assistant | [gibeom.choi001@umb.edu](mailto://gibeom.choi001@umb.edu) | M-3-731 | TBD |
-| Giorgi Karazanashvili | Course Assistant | [g.karazanashvili001@umb.edu](mailto://g.karazanashvili001@umb.edu) | M-3-731 | TBD |
-| Vijay Tummalapalli | Course Assistant | [s.tummalapalli001@umb.edu](mailto://s.tummalapalli001@umb.edu) | M-3-731 | TBD |
-| Sarah Wilkinson | Supplemental Instruction Leader | [sarah.wilkinson001@umb.edu](mailto://sarah.wilkinson001@umb.edu) | - | - |
+| Swami Iyer | Instructor | [siyer@cs.umb.edu](mailto:siyer@cs.umb.edu) | M-3-201-14 | In-person: Tue Thu 10:00 AM - 12:00 PM<br/> Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09)) |
+| Navkar Jain | Teaching Assistant | [n.jain001@umb.edu](mailto:n.jain001@umb.edu) | M-3-154 | TBD | 
+| Paul Maynard | Teaching Assistant | [paul.maynard001@umb.edu](mailto:paul.maynard001@umb.edu) | M-3-201-33 | TBD | 
+| Zhen Lu | Teaching Assistant | [zhen.lu001@umb.edu](mailto:zhen.lu001@umb.edu) | M-3-201-10 | TBD | 
+| Gibeom Choi | Course Assistant | [gibeom.choi001@umb.edu](mailto:gibeom.choi001@umb.edu) | M-3-731 | TBD |
+| Giorgi Karazanashvili | Course Assistant | [g.karazanashvili001@umb.edu](mailto:g.karazanashvili001@umb.edu) | M-3-731 | TBD |
+| Vijay Tummalapalli | Course Assistant | [s.tummalapalli001@umb.edu](mailto:s.tummalapalli001@umb.edu) | M-3-731 | TBD |
+| Sarah Wilkinson | Supplemental Instruction Leader | [sarah.wilkinson001@umb.edu](mailto:sarah.wilkinson001@umb.edu) | - | - |
 
 **Note**: In case you want to email us, please start the subject line with `[CS210]`.
 

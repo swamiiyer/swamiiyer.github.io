@@ -10,7 +10,7 @@ I am a Senior Lecturer I in the [Computer Science](http://www.cs.umb.edu) depart
 ### Reaching Me
 
 - Office: M-3-201-14
-- Email: [siyer@cs.umb.edu](mailto://siyer@cs.umb.edu)
+- Email: [siyer@cs.umb.edu](mailto:siyer@cs.umb.edu)
 
 ### Courses (Spring 2025)
 
