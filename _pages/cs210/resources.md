@@ -8,9 +8,9 @@ order: 6
 ### Essentials
 
 - [Programming Environment Setup](programming_environment.html)
-- Programs Discussed in Class ([pdf](https://www.cs.umb.edu/~siyer/teaching/dsaj.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/dsaj.zip))
-- Java Versions of Programs Discussed in CS110 ([pdf](https://www.cs.umb.edu/~siyer/teaching/ipj.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/ipj.zip))
-- [Piazza](https://piazza.com/umb/spring2025/cs210)
+- [Programs Discussed in Class](https://www.cs.umb.edu/~siyer/teaching/dsaj.zip)
+- [Java Versions of Programs Discussed in CS110](https://www.cs.umb.edu/~siyer/teaching/ipj.zip)
+- [Piazza](https://piazza.com/)
 - [Gradescope](https://gradescope.com/)
 - Sample Exams
   - [Written Exam 1](https://www.cs.umb.edu/~siyer/teaching/cs210/cs210_sample_we1.pdf) \| [Programming Exam 1](https://www.cs.umb.edu/~siyer/teaching/cs210/cs210_sample_pe1.pdf)

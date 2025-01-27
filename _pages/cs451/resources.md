@@ -9,7 +9,7 @@ order: 6
 
 - [Programming Environment Setup](programming_environment.html)
 - Base Compilers ([*j\-\-*](https://www.cs.umb.edu/~siyer/teaching/j--.zip) \| [*iota*](https://www.cs.umb.edu/~siyer/teaching/iota.zip))
-- [Piazza](https://piazza.com/umb/spring2025/cs451651)
+- [Piazza](https://piazza.com/)
 - [Gradescope](https://gradescope.com/)
 - Sample Exams ([Exam 1](https://www.cs.umb.edu/~siyer/teaching/cs451/cs451_sample_exam1.pdf) \| [Exam 2](https://www.cs.umb.edu/~siyer/teaching/cs451/cs451_sample_exam2.pdf))
 <!-- - [Command-line Tutorial](https://www.cs.umb.edu/~siyer/teaching/cmdline_tutorial.pdf) -->

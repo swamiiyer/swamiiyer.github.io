@@ -8,8 +8,8 @@ order: 6
 ### Essentials
 
 - [Programming Environment Setup](programming_environment.html)
-- Programs Discussed in Class ([pdf](https://www.cs.umb.edu/~siyer/teaching/ipp.pdf) \| [zip](https://www.cs.umb.edu/~siyer/teaching/ipp.zip))
-- [Piazza](https://piazza.com/umb/spring2025/cs110)
+- [Programs Discussed in Class](https://www.cs.umb.edu/~siyer/teaching/ipp.zip)
+- [Piazza](https://piazza.com/)
 - [Gradescope](https://gradescope.com/)
 - Sample Exams
   - [Written Exam 1](https://www.cs.umb.edu/~siyer/teaching/cs110/cs110_sample_we1.pdf) \| [Programming Exam 1](https://www.cs.umb.edu/~siyer/teaching/cs110/cs110_sample_pe1.pdf)
