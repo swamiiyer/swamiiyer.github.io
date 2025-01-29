@@ -102,7 +102,7 @@ $ echo "export JAVA_HOME=/opt/homebrew/opt/openjdk@21" >> $HOME/.zshenv
 $ mkdir workspace
 ```
 
-> Download and install [Visual Studio Code](https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64) (aka VSCode).  
+> Download [Visual Studio Code](https://code.visualstudio.com/sha/download?build=stable&os=darwin-universal) (aka VSCode), unzip the file, and move the extracted application into the *Applications* folder.
 > 
 > Launch VSCode, click on the Extensions icon on the left sidebar, search for the *Extension Pack for Java* extension and install it. Next, search for *vscode-pdf* extension and install it. 
 
