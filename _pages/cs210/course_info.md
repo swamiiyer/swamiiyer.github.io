@@ -30,7 +30,7 @@ Students who successfully complete this course will be able to confidently imple
 ### Class
 
 | **Section** | **When** | **Where** |
-| 1-4, 7, 8 | Tue Thu 4:00 PM - 5:15 PM | Y-2-2310
+| 1-4, 7, 8 | Tue Thu 2:00 PM - 3:15 PM | Y-2-2310
 
 In each class, the instructor will present the [material](lecture_material.html) for that class. Roughly once a week, the instructor will also conduct an online quiz towards the end of a class on recently covered material.
 

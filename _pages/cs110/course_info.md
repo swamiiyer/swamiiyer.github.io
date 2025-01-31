@@ -44,7 +44,7 @@ Starting from the second week, there will be a discussion every week. The focus 
 | 3 | Tue 2:00 PM - 3:15 PM | W-1-0055 | JieHyun (Jenna) Kim | Avraham Felzenstein | 
 | 4 | Thu 2:00 PM - 3:15 PM | W-1-0044 | JieHyun (Jenna) Kim | Avraham Felzenstein |
 | 8 | Tue 9:30 AM - 10:45 AM | H-L-3507 | Haowen Guan | Serin Kitery |
-| 9 | Thu 9:30 AM - 10:45 AM | H-L-3507 | Rishank Singh | Serin Kitery |
+| 9 | Thu 9:30 AM - 10:45 AM | M-2-0214 | Rishank Singh | Serin Kitery |
 
 ### Supplemental Instruction
 
