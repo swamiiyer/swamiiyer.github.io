@@ -17,12 +17,12 @@ Students who successfully complete this course will be able to confidently imple
 
 | **Name** | **Role** | **Email** | **Office** | **Hours** |
 | Swami Iyer | Instructor | [siyer@cs.umb.edu](mailto:siyer@cs.umb.edu) | M-3-201-14 | In-person: Tue Thu 10:00 AM - 12:00 PM<br/> Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09)) |
-| Navkar Jain | Teaching Assistant | [n.jain001@umb.edu](mailto:n.jain001@umb.edu) | M-3-154 | TBD | 
+| Navkar Jain | Teaching Assistant | [n.jain001@umb.edu](mailto:n.jain001@umb.edu) | M-3-154 | Mon Wed 2:00 PM - 3:00 PM | 
 | Paul Maynard | Teaching Assistant | [paul.maynard001@umb.edu](mailto:paul.maynard001@umb.edu) | M-3-201-33 | TBD | 
-| Zhen Lu | Teaching Assistant | [zhen.lu001@umb.edu](mailto:zhen.lu001@umb.edu) | M-3-201-10 | TBD | 
-| Gibeom Choi | Course Assistant | [gibeom.choi001@umb.edu](mailto:gibeom.choi001@umb.edu) | M-3-731 | TBD |
-| Giorgi Karazanashvili | Course Assistant | [g.karazanashvili001@umb.edu](mailto:g.karazanashvili001@umb.edu) | M-3-731 | TBD |
-| Vijay Tummalapalli | Course Assistant | [s.tummalapalli001@umb.edu](mailto:s.tummalapalli001@umb.edu) | M-3-731 | TBD |
+| Zhen Lu | Teaching Assistant | [zhen.lu001@umb.edu](mailto:zhen.lu001@umb.edu) | M-3-201-10 | The Thu 11:00 AM - 12:00 PM | 
+| Gibeom Choi | Course Assistant | [gibeom.choi001@umb.edu](mailto:gibeom.choi001@umb.edu) | M-3-731 | Mon Wed 2:00 PM - 3:00 PM |
+| Giorgi Karazanashvili | Course Assistant | [g.karazanashvili001@umb.edu](mailto:g.karazanashvili001@umb.edu) | M-3-731 | Tue Thu 2:45 PM - 3:45 PM |
+| Vijay Tummalapalli | Course Assistant | [s.tummalapalli001@umb.edu](mailto:s.tummalapalli001@umb.edu) | M-3-731 | Tue Thu 11:00 AM - 12:00 PM |
 | Sarah Wilkinson | Supplemental Instruction Leader | [sarah.wilkinson001@umb.edu](mailto:sarah.wilkinson001@umb.edu) | - | - |
 
 **Note**: In case you want to email us, please start the subject line with `[CS210]`.
@@ -51,10 +51,11 @@ Starting from the second week, there will be a discussion every week. The focus 
 As part of the College of Science and Mathematics Freshman Success Program, supplemental instruction (SI) is available to all CS210 students free of charge. The SI sessions will also start from the second week. The focus of the sessions for a particular week will be the material covered in class during the previous week. The SI leader will walk you through the relevant lecture notes and solve problems. In addition, the SI leader will answer any specific questions you may have about the current assignment, or the course material in general. The SI sessions are optional, but highly recommended, especially if you feel like you are falling behind in the course. You may attend as few or as many sessions as you like. You will receive extra points for attending the sessions (see the Grading Scheme section below).
 
 | **When** | **Where** |
-| TBD | TBD |
-| TBD | TBD |
-| TBD | TBD |
-| TBD | TBD |
+| Mon 3:00 PM - 3:50 PM | TBD |
+| Tue 11:00 AM - 12:15 PM | TBD |
+| Thu 11:00 AM - 12:15 PM | TBD |
+| Sat 1:00 PM - 1:50 PM | Remote ([Zoom link](https://umassboston.zoom.us/j/6212685382)) |
+| Sat 2:00 PM - 2:50 PM | Remote ([Zoom link](https://umassboston.zoom.us/j/6212685382)) |
 
 ### Tutoring
 

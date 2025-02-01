@@ -17,12 +17,12 @@ Students who successfully complete this course will be able to tackle computatio
 
 | **Name** | **Role** | **Email** | **Office** | **Office Hours** |
 | Swami Iyer | Instructor | [siyer@cs.umb.edu](mailto:siyer@cs.umb.edu) | M-3-201-14 | In-person: Tue Thu 10:00 AM - 12:00 PM<br/> Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09)) |
-| Haowen Guan | Teaching Assistant | [haowen.guan001@umb.edu](mailto:haowen.guan001@umb.edu) | M-3-150 | TBD | 
-| JieHyun (Jenna) Kim | Teaching Assistant | [jiehyun.kim001@umb.edu](mailto:jiehyun.kim001@umb.edu) | M-3-201-10 | TBD | 
-| Rishank Singh | Teaching Assistant | [rishank.singh001@umb.edu](mailto:rishank.singh001@umb.edu) | M-3-201-10 | TBD | 
-| Avraham Felzenstein | Course Assistant | [a.felzenstein001@umb.edu](mailto:a.felzenstein001@umb.edu) | M-3-731 | TBD |
-| Rafaela Lopes | Course Assistant | [rafaela.lopes001@umb.edu](mailto:rafaela.lopes001@umb.edu) | M-3-731 | TBD |
-| Serin Kitery | Course Assistant | [serin.kitery001@umb.edu](mailto:serin.kitery001@umb.edu) | M-3-731 | TBD |
+| Haowen Guan | Teaching Assistant | [haowen.guan001@umb.edu](mailto:haowen.guan001@umb.edu) | M-3-150 | Mon Wed 3:00 PM - 4:00 PM | 
+| JieHyun (Jenna) Kim | Teaching Assistant | [jiehyun.kim001@umb.edu](mailto:jiehyun.kim001@umb.edu) | M-3-201-10 | Tue 5:00 PM - 6:00 PM; Thu 4:00 PM - 5:00 PM | 
+| Rishank Singh | Teaching Assistant | [rishank.singh001@umb.edu](mailto:rishank.singh001@umb.edu) | M-3-201-10 | Mon Wed 11:00 AM - 12:00 PM | 
+| Avraham Felzenstein | Course Assistant | [a.felzenstein001@umb.edu](mailto:a.felzenstein001@umb.edu) | M-3-731 | Mon 10:00 AM - 12:00 PM |
+| Rafaela Lopes | Course Assistant | [rafaela.lopes001@umb.edu](mailto:rafaela.lopes001@umb.edu) | M-3-731 | Tue Thu 9:30 AM - 10:30 AM |
+| Serin Kitery | Course Assistant | [serin.kitery001@umb.edu](mailto:serin.kitery001@umb.edu) | M-3-731 | Mon Wed 12:00 PM - 1:00 PM |
 | Azealia Khaled | Supplemental Instruction Leader | [azal.khaled001@umb.edu](mailto:azal.khaled001@umb.edu) | - | - |
 
 **Note**: In case you want to email us, please start the subject line with `[CS110]`.
@@ -52,9 +52,11 @@ As part of the College of Science and Mathematics Freshman Success Program, supp
 
 | **When** | **Where** |
 | TBD | TBD |
-| TBD | TBD |
-| TBD | TBD |
-| TBD | TBD |
+| Fri 1:00 PM - 1:50 PM | TBD |
+| Fri 2:00 PM - 2:50 PM | TBD |
+| Fri 3:00 PM - 3:50 PM | TBD |
+| Sat 1:00 PM - 1:50 PM | Remote ([Zoom link](TBD)) |
+| Sat 2:00 PM - 2:50 PM | Remote ([Zoom link](TBD)) |
 
 ### Tutoring
 
