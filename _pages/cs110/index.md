@@ -5,6 +5,10 @@ title: Home
 order: 1
 ---
 
+### Feb 6, 2025
+
+Due to campus closure today (Thu), we’ll run all class activities remotely. See [Piazza](https://piazza.com/class/m5ac5xd4jd52pe/post/14) for the relevant Zoom links. 
+
 ### Jan 27, 2025
 
 **Assignment 1**
