@@ -54,8 +54,8 @@ As part of the College of Science and Mathematics Freshman Success Program, supp
 | Fri 1:00 PM - 1:50 PM | M-2-0211 |
 | Fri 2:00 PM - 2:50 PM | M-2-0211 |
 | Fri 3:00 PM - 3:50 PM | M-2-0211 |
-| Sat 1:00 PM - 1:50 PM | Remote ([Zoom link](TBD)) |
-| Sat 2:00 PM - 2:50 PM | Remote ([Zoom link](TBD)) |
+| Sat 1:00 PM - 1:50 PM | Remote ([Zoom link](https://zoom.us/j/3320449431?pwd=2H62IdY17y9LvWsqgn36cCbXgCpoIS.1)) |
+| Sat 2:00 PM - 2:50 PM | Remote ([Zoom link](https://zoom.us/j/3320449431?pwd=2H62IdY17y9LvWsqgn36cCbXgCpoIS.1)) |
 
 ### Tutoring
 
