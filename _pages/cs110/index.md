@@ -5,7 +5,13 @@ title: Home
 order: 1
 ---
 
-### Feb 6, 2025
+### Feb 17, 2025 
+
+**Assignment 2**
+
+ [Assignment 2 (Control-flow Programs)](assignments.html) is available and is due at 11:59 PM on Mar 2 (Sun). 
+
+### Feb 6, 2025 
 
 Due to campus closure today (Thu), we’ll run all class activities remotely. See [Piazza](https://piazza.com/class/m5ac5xd4jd52pe/post/14) for the relevant Zoom links. 
 
@@ -13,7 +19,7 @@ Due to campus closure today (Thu), we’ll run all class activities remotely. Se
 
 **Assignment 1**
 
- [Assignment 1 (Straight-line Programs)](assignments.html) is available and is due at 11:59 PM on Feb 16 (Sun).
+ [Assignment 1 (Straight-line Programs)](assignments.html) is available and is due at 11:59 PM on Feb 16 (Sun). 
 
 **Welcome Message**
 
