@@ -19,7 +19,7 @@ Students who successfully complete this course will be able to confidently imple
 | Swami Iyer | Instructor | [siyer@cs.umb.edu](mailto:siyer@cs.umb.edu) | M-3-201-14 | In-person: Tue Thu 10:00 AM - 12:00 PM<br/> Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09)) |
 | Navkar Jain | Teaching Assistant | [n.jain001@umb.edu](mailto:n.jain001@umb.edu) | M-3-154 | Mon Wed 2:00 PM - 3:00 PM | 
 | Paul Maynard | Teaching Assistant | [paul.maynard001@umb.edu](mailto:paul.maynard001@umb.edu) | M-3-201-33 | Tue Thu 3:30 PM - 4:30 PM | 
-| Zhen Lu | Teaching Assistant | [zhen.lu001@umb.edu](mailto:zhen.lu001@umb.edu) | M-3-201-10 | The Thu 11:00 AM - 12:00 PM | 
+| Zhen Lu | Teaching Assistant | [zhen.lu001@umb.edu](mailto:zhen.lu001@umb.edu) | M-3-106 | The Thu 11:00 AM - 12:00 PM | 
 | Gibeom Choi | Course Assistant | [gibeom.choi001@umb.edu](mailto:gibeom.choi001@umb.edu) | M-3-731 | Mon Wed 2:00 PM - 3:00 PM |
 | Giorgi Karazanashvili | Course Assistant | [g.karazanashvili001@umb.edu](mailto:g.karazanashvili001@umb.edu) | M-3-731 | Tue Thu 2:45 PM - 3:45 PM |
 | Vijay Tummalapalli | Course Assistant | [s.tummalapalli001@umb.edu](mailto:s.tummalapalli001@umb.edu) | M-3-731 | Tue Thu 11:00 AM - 12:00 PM |
