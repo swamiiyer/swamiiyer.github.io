@@ -13,8 +13,8 @@ order: 6
 - [Piazza](https://piazza.com/)
 - [Gradescope](https://gradescope.com/)
 - Sample Exams
-  - [Written Exam 1](https://www.cs.umb.edu/~siyer/teaching/cs210/cs210_sample_we1.pdf) \| [Programming Exam 1](https://www.cs.umb.edu/~siyer/teaching/cs210/restricted/cs210_sample_pe1.pdf)
-  - [Written Exam 2](https://www.cs.umb.edu/~siyer/teaching/cs210/cs210_sample_we2.pdf) \| [Programming Exam 2](https://www.cs.umb.edu/~siyer/teaching/cs210/restricted/cs210_sample_pe2.pdf)
+  - [Written Exam 1](https://www.cs.umb.edu/~siyer/teaching/cs210/cs210_sample_we1.pdf) \| [Programming Exam 1](https://www.cs.umb.edu/~siyer/teaching/cs210/cs210_sample_pe1.pdf)
+  - [Written Exam 2](https://www.cs.umb.edu/~siyer/teaching/cs210/cs210_sample_we2.pdf) \| [Programming Exam 2](https://www.cs.umb.edu/~siyer/teaching/cs210/cs210_sample_pe2.pdf)
 <!-- - [Math -->
 <!-- Tutorial](https://www.cs.umb.edu/~siyer/teaching/math_tutorial.pdf) -->
 <!-- - [Command-line -->
