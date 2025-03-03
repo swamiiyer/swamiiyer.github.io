@@ -5,6 +5,12 @@ title: Home
 order: 1
 ---
 
+### Mar 3, 2025 
+
+**Assignment 3**
+
+ [Assignment 3 (Parsing)](assignments.html) is available and is due at 11:59 PM on Mar 2 (Sun). 
+
 ### Feb 17, 2025 
 
 **Assignment 2**
