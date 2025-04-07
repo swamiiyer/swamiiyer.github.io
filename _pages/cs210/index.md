@@ -5,6 +5,12 @@ title: Home
 order: 1
 ---
 
+### Apr 7, 2025 
+
+**Assignment 5**
+
+ [Assignment 5 (Autocomplete)](assignments.html) is available and is due at 11:59 PM on Apr 27 (Sun). 
+
 ### Mar 18, 2025 
 
 **Assignment 4**
