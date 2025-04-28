@@ -5,6 +5,12 @@ title: Home
 order: 1
 ---
 
+### Apr 28, 2025 
+
+**Assignment 6**
+
+ [Assignment 6 (Eight Puzzle)](assignments.html) is available and is due at 11:59 PM on May 18 (Sun). 
+
 ### Apr 7, 2025 
 
 **Assignment 5**
