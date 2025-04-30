@@ -5,6 +5,12 @@ title: Home
 order: 1
 ---
 
+### Apr 30, 2025
+
+- Assignment 5 is now due at 11:59 pm on May 4 (Sun).
+
+- There won’t be a sixth assignment — everyone gets a 100 on it by default.
+
 ### Apr 7, 2025 
 
 **Assignment 5**
