@@ -5,6 +5,9 @@ title: Home
 order: 1
 ---
 
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+
 I am a Senior Lecturer I in the [Computer Science](http://www.cs.umb.edu) department at the [University of Massachusetts Boston](http://www.umb.edu).
 
 ### Reaching Me
@@ -12,18 +15,18 @@ I am a Senior Lecturer I in the [Computer Science](http://www.cs.umb.edu) depart
 - Office: M-3-201-14
 - Email: [siyer@cs.umb.edu](mailto:siyer@cs.umb.edu)
 
-### Courses (Spring 2025)
+### Courses (Fall 2025)
 
-- [CS110: Introduction to Computing](/cs110/)
-- [CS210: Intermediate Computing with Data Structures](/cs210/)
-- [CS451/651: Compilers](/cs451/)
+- CS110: Introduction to Computing
+- CS210: Intermediate Computing with Data Structures
+- CS451/651: Compilers
 
-### Office Hours (Spring 2025)
+### Office Hours (Fall 2025)
 
-- In-person: Tue Thu 10:00 AM - 12:00 PM
-- Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09))
+- Tue Thu 8:00 AM - 9:00 AM; 2:30 PM - 3:30 PM (in-person)
+- Wed 10:00 AM - 12:00 PM (remote, via [zoom](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09))
 
-Note: You don't need an appointment to see me during my office hours. Just stop by.
+ You don't need an appointment to see me during office hours --- just stop by. If you want to see me at a different time, please <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/swaminathan-iyer-umb/30min'});return false;">make an appointment</a> for a remote meeting, via [zoom](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09).
 
 ### Academic Interests
 

@@ -24,14 +24,14 @@ You may only receive help from people in the ways described below and you must a
 | View code/work of                      | &#10008; | &#10008; | &#10008; | &#10008; |
 | Copy code/work from                 | &#10008; | &#10008; | &#10008; | &#10008; |
 
-You are not allowed to submit solutions obtained from websites such as Chegg or Course Hero, or using AI systems such as ChatGPT.  
+You are **not** allowed to submit solutions obtained from websites such as Chegg or Course Hero, or using AI systems such as ChatGPT.  
 
-You are not allowed to post questions about the course or about any of the assignments on any website other than our Piazza page. 
+You are **not** allowed to post questions about the course or about any of the assignments on any website other than our Piazza page. 
 
-You are not allowed to post your solutions to the assignment problems on public code repositories such as GitHub.
+You are **not** allowed to post your solutions to the assignment problems on public code repositories such as GitHub.
 
 ### Penalties for Infractions
 
-If you are suspected of cheating on an assignment/exam, you will be called in (via email) to meet with me. In this meeting, you will have an opportunity to convince me that the work you handed in is your own. If you are unable to do so or if you do not meet with me within a week of receiving my email, I will conclude that you have indeed cheated on the assignment/exam and act as described below.
+If you are suspected of cheating on a quiz/assignment/exam, your score for the quiz/assignment/exam will be set to a 0 and you will be called in (via email) to meet with me. In this meeting, you will have the opportunity to convince me that the work you handed in is your own. If you manage to convince me, your quiz/assignment/exam score will be reverted to the original value. If you are unable to convince me or if you fail to meet with me within a week of receiving my email, I will conclude that you have indeed cheated on the quiz/assignment/exam and act as described below.
 
-If this your first time cheating, you will receive a 0 for the assignment/exam and you will be reported to the appropriate department official. If you repeat the behavior and are caught again, you will receive an F for the course and you will be reported to the appropriate university personnel.
+If this is your first time cheating, you will receive a 0 for the quiz/assignment/exam and will be reported to the appropriate department official. If you repeat the behavior and are caught again, you will receive an F for the course and will be reported to the appropriate university personnel.
