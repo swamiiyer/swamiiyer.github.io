@@ -24,7 +24,7 @@ Throughout my student life I had the good fortune of being taught by some except
 
 #### Computer Science Department, University of Massachusetts at Boston
 
-- Compilers (CS451/651): Fall 2017, 2018, 2019, 2020, 2021, 2022, 2023; Spring 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025; Summer 2018
+- Compilers (CS451/651): Fall 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024; Spring 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025; Summer 2018
 - Intermediate Computing with Data Structures (CS210): Fall 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024; Spring 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025; Summer 2009, 2011, 2015
 - Introduction to Computing (CS110): Fall 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024; Spring 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025; Summer 2012, 2013
 - Introduction to Java Part II (CS115L): Fall 2007, 2008, 2009, 2011; Spring 2007, 2008, 2010, 2011, 2012
@@ -34,15 +34,15 @@ Throughout my student life I had the good fortune of being taught by some except
 
 #### Introduction to Programming in Python
 
-- Programs for teaching an introductory course on programming in Python: as a [PDF](https://www.cs.umb.edu/~siyer/teaching/ipp.pdf) and as a [PyCharm project](https://www.cs.umb.edu/~siyer/teaching/ipp.zip). Most of the programs are from the book [Introduction to Programming in Python: An Interdisciplinary Approach](https://www.amazon.com/Introduction-Programming-Python-Interdisciplinary-Approach/dp/0134076435/) by Robert Sedgewick, Kevin Wayne, and Robert Dondero. 
+- Programs for teaching an introductory course on programming in Python, as a [VSCode project](https://www.cs.umb.edu/~siyer/teaching/ipp.zip). Most of the programs are from the book [Introduction to Programming in Python: An Interdisciplinary Approach](https://www.amazon.com/Introduction-Programming-Python-Interdisciplinary-Approach/dp/0134076435/) by Robert Sedgewick, Kevin Wayne, and Robert Dondero. 
 
-- Supporting libraries and data types used throughout the book: the [API](https://www.cs.umb.edu/~siyer/teaching/stdlib-python.pdf) and the code as a [PyCharm project](https://www.cs.umb.edu/~siyer/teaching/stdlib-python.zip).
+- Supporting libraries: the [API](https://www.cs.umb.edu/~siyer/teaching/stdlib-python.pdf) and the code as a [VSCode project](https://www.cs.umb.edu/~siyer/teaching/stdlib-python.zip).
 
 #### Introduction to Programming in Java
 
-- Programs for teaching an introductory course on programming in Java: as a [PDF](https://www.cs.umb.edu/~siyer/teaching/ipj.pdf) and as an [IntelliJ project](https://www.cs.umb.edu/~siyer/teaching/ipj.zip). Most of the programs are from the book [Computer Science: An Interdisciplinary Approach](https://www.amazon.com/Computer-Science-Interdisciplinary-Robert-Sedgewick/dp/0134076427/) by Robert Sedgewick and Kevin Wayne. 
+- Programs for teaching an introductory course on programming in Java, as a [VSCode project](https://www.cs.umb.edu/~siyer/teaching/ipj.zip). Most of the programs are from the book [Computer Science: An Interdisciplinary Approach](https://www.amazon.com/Computer-Science-Interdisciplinary-Robert-Sedgewick/dp/0134076427/) by Robert Sedgewick and Kevin Wayne. 
 
-- Supporting libraries and data types used throughout the book: the API ([PDF](https://www.cs.umb.edu/~siyer/teaching/stdlib-java.pdf) \| [JavaDoc](https://www.cs.umb.edu/~siyer/teaching/stdlib-javadoc)), the binaries as a [jar file](https://www.cs.umb.edu/~siyer/teaching/stdlib.jar) (compiled using OpenJDK 21), and the code as an [IntelliJ project](https://www.cs.umb.edu/~siyer/teaching/stdlib.zip).
+- Supporting libraries: the [API](https://www.cs.umb.edu/~siyer/teaching/stdlib-java.pdf), the binaries as a [jar file](https://www.cs.umb.edu/~siyer/teaching/stdlib.jar) (compiled using OpenJDK 21), and the code as a [VSCode project](https://www.cs.umb.edu/~siyer/teaching/stdlib.zip).
 
 #### Data Structures and Algorithms in Java
 
