@@ -16,10 +16,10 @@ Students who successfully complete this course will be able to: write parsers an
 ### Course Staff
 
 | **Name** | **Role** | **Email** | **Office** | **Hours** |
-| Swami Iyer | Instructor | [siyer@cs.umb.edu](mailto:siyer@cs.umb.edu) | M-3-201-14 | In-person: Tue Thu 10:00 AM - 12:00 PM<br/> Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09)) |
- | Trinadhreddy Seelam | Teaching Assistant | [t.seelam001@umb.edu](mailto:t.seelam001@umb.edu) | M-3-201-10 | Mon Wed 1:00 PM - 3:00 PM |
+| Swami Iyer | Instructor | [siyer@cs.umb.edu](mailto:siyer@cs.umb.edu) | M-3-201-14 | In-person: Tue Thu 8:00 AM - 9:00 AM and 2:30 PM - 3:30 PM<br/> Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09)) |
+ | TBD | Teaching Assistant | [TBD](TBD) | TBD | TBD |
 
-**Note**: In case you want to email us, please start the subject line with `[CS451/651]`.
+Note: In case you want to email us, please start the subject line with `[CS451/651]`.
 
 ### Class 
 
@@ -28,7 +28,7 @@ Students who successfully complete this course will be able to: write parsers an
 
 In each class, the instructor will present the [material](lecture_material.html) for that class. Roughly once a week, the instructor will also conduct an online quiz towards the end of a class on recently covered material.
 
-### Recommended Text
+### Text
 
 <table>
 <tr>
@@ -50,13 +50,14 @@ The text enables a deep understanding of the Java programming language and its i
 #### Assessments
 
 | **Item** | **% of Final Grade** |
-| Programming Assignments (6) | 42 |
-| Exams (2) | 48 |
+| Programming Assignments (1, 2, 3, 5, and best of 4 and 6) | 30 |
+| Exams (2) | 60 |
 | Participation | 10 |
 
 - The goal of the programming assignments is to make sure that you can apply the concepts learned in class to enhance the functionality of the base *j\-\-* and *iota* compilers.
 - The closed-book exams will test your understanding of the theoretical concepts covered in class.
 - Your participation score will be based on weekly in-class quizzes. Each quiz, conducted at the end of a class, will test your understanding of the material covered recently. Each question in a quiz is worth 1 point. Each quiz score will be normalized to 100 points. Only your best 10 quiz scores will count towards the final grade.
+- If you score at least 87 (B+) on both exams, the higher score will be considered as your exam average. For example, if your exam scores are 95 and 88, your average exam score will be 95.
 - You can earn 0.01x% extra points if x% of the class completes the end-of-semester course evaluation. 
 - If your overall score falls within half a percent of a higher grade, your score will be elevated to that grade.
 
@@ -103,8 +104,12 @@ If you have a question, first make sure that it has not already been asked/answe
 
 You must provide appropriate documentation if you were/are unable to take an exam on the scheduled date and want to arrange a makeup exam. The documentation must be a letter from the [Dean of Students](https://cm.maxient.com/reportingform.php?UMassBoston&layout_id=24) if the type of your absence is among those listed on their website. For other types of absences, the supporting documentation must be emailed to the instructor directly.
 
-**Note**: There will be no makeup of missed quizzes.
+Note: There will be no makeup of missed quizzes.
  
+#### Assignment Deadline
+
+Assignment deadlines are firm --- late submissions will not be accepted. The only exception to this policy is if you have been granted extended time on assignments through the Ross Center (see the section on accommodations below), in which case you are allowed a 24-hour extension per assignment. To avail this extension, you must email me at least 48 hours prior to the assignment deadline
+
 #### Regrade Request
 
 If you have any concerns about the grading of a particular assignment or exam, you may submit a [regrade request](https://www.gradescope.com/get_started#student-submission-view) via Gradescope. You must submit the request within a week from the date the assignment or exam grades are published, or else your request will be turned down.

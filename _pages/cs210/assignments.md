@@ -23,7 +23,7 @@ You will use [Gradescope](https://gradescope.com/) to submit your Java programs 
 
 You may submit your files as many times as you like, up until the assignment deadline. The most recent submission is considered *active* by default and your score on the active submission is your official score for the assignment as well. You have the option of making any of your previous submissions active.
 
-**Note**: If your active submission is partial, your assignment score will also be partial, so in order to be eligible for full credit, make sure you have an active submission containing all the required files for the assignment.
+Note: If your active submission is partial, your assignment score will also be partial, so in order to be eligible for full credit, make sure you have an active submission containing all the required files for the assignment.
 
 ### How the Assignments will be Scored
 

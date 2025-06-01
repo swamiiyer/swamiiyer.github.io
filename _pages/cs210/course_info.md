@@ -16,21 +16,19 @@ Students who successfully complete this course will be able to confidently imple
 ### Course Staff
 
 | **Name** | **Role** | **Email** | **Office** | **Hours** |
-| Swami Iyer | Instructor | [siyer@cs.umb.edu](mailto:siyer@cs.umb.edu) | M-3-201-14 | In-person: Tue Thu 10:00 AM - 12:00 PM<br/> Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09)) |
-| Navkar Jain | Teaching Assistant | [n.jain001@umb.edu](mailto:n.jain001@umb.edu) | M-3-154 | Mon Wed 2:00 PM - 3:00 PM | 
-| Paul Maynard | Teaching Assistant | [paul.maynard001@umb.edu](mailto:paul.maynard001@umb.edu) | M-3-201-33 | Tue Thu 3:30 PM - 4:30 PM | 
-| Zhen Lu | Teaching Assistant | [zhen.lu001@umb.edu](mailto:zhen.lu001@umb.edu) | M-3-106 | The Thu 11:00 AM - 12:00 PM | 
-| Gibeom Choi | Course Assistant | [gibeom.choi001@umb.edu](mailto:gibeom.choi001@umb.edu) | M-3-731 | Mon Wed 2:00 PM - 3:00 PM |
-| Giorgi Karazanashvili | Course Assistant | [g.karazanashvili001@umb.edu](mailto:g.karazanashvili001@umb.edu) | M-3-731 | Tue Thu 2:45 PM - 3:45 PM |
-| Vijay Tummalapalli | Course Assistant | [s.tummalapalli001@umb.edu](mailto:s.tummalapalli001@umb.edu) | M-3-731 | Tue Thu 11:00 AM - 12:00 PM |
-| Sarah Wilkinson | Supplemental Instruction Leader | [sarah.wilkinson001@umb.edu](mailto:sarah.wilkinson001@umb.edu) | - | - |
+| Swami Iyer | Instructor | [siyer@cs.umb.edu](mailto:siyer@cs.umb.edu) | M-3-201-14 | In-person: Tue Thu 8:00 AM - 9:00 AM and 2:30 PM - 3:30 PM<br/> Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09)) |
+| TBD | Teaching Assistant | [TBD](TBD) | TBD | TBD |
+| TBD | Teaching Assistant | [TBD](TBD) | TBD | TBD |
+| TBD | Course Assistant | [TBD](TBD) | TBD | TBD |
+| TBD | Course Assistant | [TBD](TBD) | TBD | TBD |
+| Arianna Fernandez | Supplemental Instruction Leader | [arianna.fernandez001@umb.edu](mailto:arianna.fernandez001@umb.edu) | - | - |
 
-**Note**: In case you want to email us, please start the subject line with `[CS210]`.
+Note: In case you want to email us, please start the subject line with `[CS210]`.
 
 ### Class
 
 | **Section** | **When** | **Where** |
-| 1-4, 7, 8 | Tue Thu 2:00 PM - 3:15 PM | Y-2-2310
+| 1-4 | Tue Thu 12:30 PM - 1:45 PM | Y-2-2120
 
 In each class, the instructor will present the [material](lecture_material.html) for that class. Roughly once a week, the instructor will also conduct an online quiz towards the end of a class on recently covered material.
 
@@ -39,29 +37,27 @@ In each class, the instructor will present the [material](lecture_material.html)
 Starting from the second week, there will be a discussion every week. The focus of the discussion for a particular week will be the current assignment. The teaching assistant (TA) will walk you through the assignment problems systematically. The TA will also answer any specific questions you may have about the assignment or the course material in general. You may also seek help from the course assistant (CA) who will be assisting the TA during the discussions. The discussions will be worthwhile only if you go to the sessions having read the assignment writeup thoroughly and have at least a moderate understanding of the problems involved. The TA will assume that you have done the reading in advance.
 
 | **Section** | **When** | **Where** | **TA** | **CA** |
-| 1 | Tue 12:30 PM - 1:45 PM | W-1-0031 | Paul Maynard | Gibeom Choi |
-| 2 | Thu 12:30 PM - 1:45 PM | M-3-0730 | Paul Maynard | Gibeom Choi |
-| 3 | Tue 4:00 PM - 5:15 PM | W-1-0045 | Navkar Jain | Giorgi Karazanashvili |
-| 4 | Thu 4:00 PM - 5:15 PM | W-1-0044 | Navkar Jain | Giorgi Karazanashvili |
-| 7 | Tue 9:30 AM - 10:45 AM | M-1-0420 | Zhen Lu | Vijay Tummalapalli |
-| 8 | Thu 9:30 AM - 10:45 AM | M-1-0420 | Zhen Lu | Vijay Tummalapalli |
+| 1 | Tue 11:00 AM - 12:15 PM | W-1-0044 | TBD | TBD |
+| 2 | Thu 11:00 AM - 12:15 PM | M-1-0418 | TBD | TBD |
+| 3 | Tue 2:00 PM - 3:15 PM | W-1-0046 | TBD | TBD |
+| 4 | Thu 2:00 PM - 3:15 PM | W-1-0044 | TBD | TBD |
 
 ### Supplemental Instruction
 
 As part of the College of Science and Mathematics Freshman Success Program, supplemental instruction (SI) is available to all CS210 students free of charge. The SI sessions will also start from the second week. The focus of the sessions for a particular week will be the material covered in class during the previous week. The SI leader will walk you through the relevant lecture notes and solve problems. In addition, the SI leader will answer any specific questions you may have about the current assignment, or the course material in general. The SI sessions are optional, but highly recommended, especially if you feel like you are falling behind in the course. You may attend as few or as many sessions as you like. You will receive extra points for attending the sessions (see the Grading Scheme section below).
 
 | **When** | **Where** |
-| Mon 3:00 PM - 3:50 PM | M-2-0205 |
-| Tue 11:00 AM - 12:15 PM | M-2-0616 |
-| Thu 11:00 AM - 12:15 PM | M-2-0616 |
-| Sat 1:00 PM - 1:50 PM | Remote ([Zoom link](https://umassboston.zoom.us/j/6212685382)) |
-| Sat 2:00 PM - 2:50 PM | Remote ([Zoom link](https://umassboston.zoom.us/j/6212685382)) |
+| TBD | TBD |
+| TBD | TBD |
+| TBD | TBD |
+| TBD | TBD |
+| TBD | TBD |
 
 ### Tutoring
 
 One-on-one tutoring for this course is available through the [Tutoring Programs](https://www.umb.edu/academics/seas/tutoring-programs/). 
 
-### Recommended Texts
+### Texts
 
 <table>
 <tr>
@@ -93,20 +89,17 @@ This text provides an excellent survey of the most important algorithms and data
 #### Assessments
 
 | **Item** | **% of Final Grade** |
-| Programming Assignments (6) | 30 |
-| Exams (2) | 30 |
+| Programming Assignments (best 5 out of 6) | 20 |
+| Exams (2) | 70 |
 | Participation | 10 |
 
 - The goal of the programming assignments is to make sure that you can apply the concepts learned in class to solve somewhat challenging computational problems.
-- The exams will test your understanding of the material covered in class as well as concepts from the programming assignments. Each of the two exams will have a written and a programming component. The written part, worth 75 points, will take place during a class period. The exam will be closed-book and will contain 30 multiple-choice/short-answer questions, each worth 3 points. The programming part, worth 25 points, will take place during a discussion session; you will use your laptop to work on the problems and submit your solutions onto Gradescope. **Note:** The maximum you can score on each exam is 115/100. In other words, you can earn up to 15 bonus points in each exam.
+- The exams will test your understanding of the material covered in class as well as concepts from the programming assignments. Each of the two exams will have a written and a programming component. The written part, worth 60 points, will take place during a class period. The exam will be closed-book and will contain 30 multiple-choice/short-answer questions, each worth 2 points. The programming part, worth 40 points, will take place during a discussion session; you will use your laptop to work on the problems and submit your solutions onto Gradescope.
 - Your participation score will be based on weekly in-class quizzes (7%) and discussion attendance (3%). Each quiz, conducted at the end of a class, will test your understanding of the material covered recently. Each question in a quiz is worth 1 point. Each quiz score will be normalized to 100 points. Only your best 10 quiz scores will count towards the final grade.
+- If you score at least 87 (B+) on both exams, the higher score will be considered as your exam average. For example, if your exam scores are 95 and 88, your average exam score will be 95.
 - You can earn up to 2% extra points for attending the SI sessions. Your SI score will be calculated as `a(e1 + e2) / 100n`, where `a` is the number of unique sessions you attended (attending multiple sessions in a week just counts as one), `n` is the number of unique sessions held, and `e1` and `e2` are your Exam 1 and Exam 2 scores, respectively. For example, if `a = 10`, `n = 12`, `e1 = 75`, and `e2 = 85`, the SI score is `1.33%`.
 - You can earn up to 0.01x% extra points if x% of the class completes the end-of-semester course evaluation.
 - If your overall score falls within half a percent of a higher grade, your score will be elevated to that grade.
-
-#### % Score to Letter Grade
-
-`[93, 100]: A, [90, 93): A-, [87, 90): B+, [83, 87): B, [80, 83): B-, [77, 80): C+, [73, 77): C, [70, 73): C-, [67, 70): D+, [63, 67): D, [60, 63): D-, [0, 60): F`
 
 ### Software Needed
 
@@ -152,8 +145,12 @@ You must provide appropriate documentation if:
 
 The documentation must be a letter from the [Dean of Students](https://cm.maxient.com/reportingform.php?UMassBoston&layout_id=24) if the type of your absence is among those listed on their website. For other types of absences, the supporting documentation must be emailed to the instructor directly.
 
-**Note**: There will be no makeup of missed quizzes.
- 
+Note: There will be no makeup of missed quizzes.
+
+#### Assignment Deadline
+
+Assignment deadlines are firm --- late submissions will not be accepted. The only exception to this policy is if you have been granted extended time on assignments through the Ross Center (see the section on accommodations below), in which case you are allowed a 24-hour extension per assignment. To avail this extension, you must email me at least 48 hours prior to the assignment deadline
+
 #### Regrade Request
 
 If you have any concerns about the grading of a particular assignment or exam, you may submit a [regrade request](https://www.gradescope.com/get_started#student-submission-view) via Gradescope. You must submit the request within a week from the date the assignment or exam grades are published, or else your request will be turned down.

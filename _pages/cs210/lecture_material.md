@@ -42,5 +42,6 @@ order: 4
   - [Symbol Tables](https://www.cs.umb.edu/~siyer/teaching/cs210/symbol_tables.pdf)
   - [Hash Tables](https://www.cs.umb.edu/~siyer/teaching/cs210/hash_tables.pdf)
   - [Binary Search Trees](https://www.cs.umb.edu/~siyer/teaching/cs210/binary_search_trees.pdf)
+  - [Balanced Search Trees](https://www.cs.umb.edu/~siyer/teaching/cs210/balanced_search_trees.pdf)
   - [Applications](https://www.cs.umb.edu/~siyer/teaching/cs210/searching_applications.pdf)
   - [*Exercises*](https://www.cs.umb.edu/~siyer/teaching/cs210/searching_exercises.pdf) 
