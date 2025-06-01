@@ -17,9 +17,9 @@ I am a Senior Lecturer I in the [Computer Science](http://www.cs.umb.edu) depart
 
 ### Courses (Fall 2025)
 
-- CS110: Introduction to Computing
-- CS210: Intermediate Computing with Data Structures
-- CS451/651: Compilers
+- [CS110: Introduction to Computing](/cs110)
+- [CS210: Intermediate Computing with Data Structures](/cs210)
+- [CS451/651: Compilers](/cs451)
 
 ### Office Hours (Fall 2025)
 
