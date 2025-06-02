@@ -60,7 +60,7 @@ exclude: true
       </table>
       <p/>
     <p/>
-    <span><b>Participation</b> (based on in-class quizzes and iscussion attendance)</span>
+    <span><b>Participation</b> (based on in-class quizzes and discussion attendance)</span>
     <table>
       <tr>
         <td><input id="participation" type="number" min="0" max="100" size="10" class="form-control" placeholder="%"/></td>
@@ -118,8 +118,8 @@ function assessments() {
 // Return an object containing weights for calculating student grade.
 function weights() {
     var weights = new Object();
-    weights.assignment = 5;
-    weights.exam = 30;
+    weights.assignment = 4;
+    weights.exam = 35;
     weights.participation = 10;
     weights.si = 2;
     weights.evals = 1;
@@ -221,6 +221,12 @@ function grade() {
     // Assignments.
     var assignments = graded(scores.assignment);
     if (assignments.length > 0) {
+        if (assignments.length == a.assignment) {
+            // Best 5 out of 6.
+            assignments.sort();
+            assignments.reverse();
+            assignments = assignments.slice(0, -1);
+        }
         score += w.assignment / 100.0 * sum(assignments);
         total += w.assignment * assignments.length;
     }
@@ -228,6 +234,10 @@ function grade() {
     // Exams.
     var exams = graded(scores.exam);
     if (exams.length > 0) {
+        if (exams.length == a.exam && exams[0] >= 87 && exams[1] >= 87) {
+            // If each exam score is at least 87 (B+), the higher score is the exam average.
+            exams[0] = exams[1] = Math.max(...exams);
+        }
         score += w.exam / 100.0 * sum(exams);
         total += w.exam * exams.length;
     }

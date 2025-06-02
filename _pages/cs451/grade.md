@@ -113,8 +113,8 @@ function assessments() {
 // Return an object containing weights for calculating student grade.
 function weights() {
     var weights = new Object();
-    weights.assignment = 7;
-    weights.exam = 24;
+    weights.assignment = 6;
+    weights.exam = 30;
     weights.participation = 10;
     weights.evals = 1; 
     return weights;
@@ -213,6 +213,10 @@ function grade() {
     // Assignments.
     var assignments = graded(scores.assignment);
     if (assignments.length > 0) {
+        if (assignments.length == a.assignment) {
+            // 1, 2, 3, 5, and best of 4 and 6.
+            assignments = [assignments[0], assignments[1], assignments[2], assignments[4], Math.max(assignments[3], assignments[5])];
+        }
         score += w.assignment / 100.0 * sum(assignments);
         total += w.assignment * assignments.length;
     }
@@ -220,6 +224,10 @@ function grade() {
     // Exams.
     var exams = graded(scores.exam);
     if (exams.length > 0) {
+        if (exams.length == a.exam && exams[0] >= 87 && exams[1] >= 87) {
+            // If each exam score is at least 87 (B+), the higher score is the exam average.
+            exams[0] = exams[1] = Math.max(...exams);
+        }
         score += w.exam / 100.0 * sum(exams);
         total += w.exam * exams.length;
     }
