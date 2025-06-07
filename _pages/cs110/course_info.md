@@ -13,7 +13,7 @@ Prerequisites: [Math 140](http://www.math.umb.edu/courses/course_page.php?id=9) 
 
 Students who successfully complete this course will be able to tackle computational challenges that they might encounter later in their careers. Students interested in computer science will be well-prepared to delve deeper into the field and students in science and engineering will be able to incorporate computation into their studies.
 
-### Course Staff
+### Staff
 
 | **Name** | **Role** | **Email** | **Office** | **Office Hours** |
 | Swami Iyer | Instructor | [siyer@cs.umb.edu](mailto:siyer@cs.umb.edu) | M-3-201-14 | In-person: Tue Thu 8:00 AM - 9:00 AM and 2:30 PM - 3:30 PM<br/> Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09)) |
@@ -92,7 +92,7 @@ This text offers an excellent introduction to computing principles, motivating e
 - Your participation score will be based on weekly in-class quizzes (7%) and discussion attendance (3%). Each quiz, conducted at the end of a class, will test your understanding of the material covered recently. Each question in a quiz is worth 1 point. Each quiz score will be normalized to 100 points. Only your best 10 quiz scores will count towards the final grade.
 - If you score at least 87 (B+) on both exams, the higher score will be considered as your exam average. For example, if your exam scores are 95 and 88, your average exam score will be 95.
 - You can earn up to 2% extra points for attending the SI sessions. Your SI score will be calculated as `a(e1 + e2) / 100n`, where `a` is the number of unique sessions you attended (attending multiple sessions in a week just counts as one), `n` is the number of unique sessions held, and `e1` and `e2` are your Exam 1 and Exam 2 scores, respectively. For example, if `a = 10`, `n = 12`, `e1 = 75`, and `e2 = 85`, the SI score is `1.33%`.
-- You can earn up to 0.01x% extra points if x% of the class completes the end-of-semester course evaluation.
+- You will receive 0.01x% extra points if x% of the class completes the end-of-semester course evaluation.
 - If your overall score falls within half a percent of a higher grade, your score will be elevated to that grade.
 
 #### % Score to Letter Grade

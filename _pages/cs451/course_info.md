@@ -13,7 +13,7 @@ Prerequisites: [CS310](http://www.cs.umb.edu/academics/courses/CS310) and [CS420
 
 Students who successfully complete this course will be able to: write parsers and produce an abstract syntax tree (AST); analyze and generate code for a programming construct represented by an AST; and allocate physical registers (a limited resource) to a program expressed in terms of virtual registers (an unlimited resource).
 
-### Course Staff
+### Staff
 
 | **Name** | **Role** | **Email** | **Office** | **Hours** |
 | Swami Iyer | Instructor | [siyer@cs.umb.edu](mailto:siyer@cs.umb.edu) | M-3-201-14 | In-person: Tue Thu 8:00 AM - 9:00 AM and 2:30 PM - 3:30 PM<br/> Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09)) |
@@ -58,7 +58,7 @@ The text enables a deep understanding of the Java programming language and its i
 - The closed-book exams will test your understanding of the theoretical concepts covered in class.
 - Your participation score will be based on weekly in-class quizzes. Each quiz, conducted at the end of a class, will test your understanding of the material covered recently. Each question in a quiz is worth 1 point. Each quiz score will be normalized to 100 points. Only your best 10 quiz scores will count towards the final grade.
 - If you score at least 87 (B+) on both exams, the higher score will be considered as your exam average. For example, if your exam scores are 95 and 88, your average exam score will be 95.
-- You can earn 0.01x% extra points if x% of the class completes the end-of-semester course evaluation. 
+- You will receive 0.01x% extra points if x% of the class completes the end-of-semester course evaluation.
 - If your overall score falls within half a percent of a higher grade, your score will be elevated to that grade.
 
 #### % Score to Letter Grade
