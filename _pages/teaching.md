@@ -34,23 +34,23 @@ Throughout my student life I had the good fortune of being taught by some except
 
 #### Introduction to Programming in Python
 
-- Programs for teaching an introductory course on programming in Python, as a [VSCode project](https://www.cs.umb.edu/~siyer/teaching/ipp.zip). Most of the programs are from the book [Introduction to Programming in Python: An Interdisciplinary Approach](https://www.amazon.com/Introduction-Programming-Python-Interdisciplinary-Approach/dp/0134076435/) by Robert Sedgewick, Kevin Wayne, and Robert Dondero. 
+- Programs for teaching an introductory course on programming in Python, as a [VSCode project](https://www.cs.umb.edu/~siyer/teaching/ipp.zip). Most of the programs are from [Introduction to Programming in Python: An Interdisciplinary Approach](https://www.amazon.com/Introduction-Programming-Python-Interdisciplinary-Approach/dp/0134076435/) by Robert Sedgewick, Kevin Wayne, and Robert Dondero. 
 
 - Supporting libraries: the [API](https://www.cs.umb.edu/~siyer/teaching/stdlib-python.pdf) and the code as a [VSCode project](https://www.cs.umb.edu/~siyer/teaching/stdlib-python.zip).
 
 #### Introduction to Programming in Java
 
-- Programs for teaching an introductory course on programming in Java, as a [VSCode project](https://www.cs.umb.edu/~siyer/teaching/ipj.zip). Most of the programs are from the book [Computer Science: An Interdisciplinary Approach](https://www.amazon.com/Computer-Science-Interdisciplinary-Robert-Sedgewick/dp/0134076427/) by Robert Sedgewick and Kevin Wayne. 
+- Programs for teaching an introductory course on programming in Java, as a [VSCode project](https://www.cs.umb.edu/~siyer/teaching/ipj.zip). Most of the programs are from [Computer Science: An Interdisciplinary Approach](https://www.amazon.com/Computer-Science-Interdisciplinary-Robert-Sedgewick/dp/0134076427/) by Robert Sedgewick and Kevin Wayne. 
 
-- Supporting libraries: the [API](https://www.cs.umb.edu/~siyer/teaching/stdlib-java.pdf), the binaries as a [jar file](https://www.cs.umb.edu/~siyer/teaching/stdlib.jar) (compiled using OpenJDK 21), and the code as a [VSCode project](https://www.cs.umb.edu/~siyer/teaching/stdlib.zip).
+- Supporting libraries: the [API](https://www.cs.umb.edu/~siyer/teaching/stdlib-java.pdf), the [jar file](https://www.cs.umb.edu/~siyer/teaching/stdlib.jar) (compiled using OpenJDK 21), and the code as a [VSCode project](https://www.cs.umb.edu/~siyer/teaching/stdlib.zip).
 
 #### Data Structures and Algorithms in Java
 
-- Programs for teaching a course on data structures and algorithms in Java: as a [PDF](https://www.cs.umb.edu/~siyer/teaching/dsaj.pdf) and as an [IntelliJ project](https://www.cs.umb.edu/~siyer/teaching/dsaj.zip). Most of the programs are from the book [Algorithms](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/) by Robert Sedgewick and Kevin Wayne. 
+- Programs for teaching a course on data structures and algorithms in Java, as a [VSCode project](https://www.cs.umb.edu/~siyer/teaching/dsaj.zip). Most of the programs are from [Algorithms](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/) by Robert Sedgewick and Kevin Wayne. 
 
-- Supporting libraries and data types used throughout the book: the API ([PDF](https://www.cs.umb.edu/~siyer/teaching/stdlib-java.pdf) \| [JavaDoc](https://www.cs.umb.edu/~siyer/teaching/stdlib-javadoc)), the binaries as a [jar file](https://www.cs.umb.edu/~siyer/teaching/stdlib.jar) (compiled using OpenJDK 21), and the code as an [IntelliJ project](https://www.cs.umb.edu/~siyer/teaching/stdlib.zip).
+- Supporting libraries: the [API](https://www.cs.umb.edu/~siyer/teaching/stdlib-java.pdf), the [jar file](https://www.cs.umb.edu/~siyer/teaching/stdlib.jar) (compiled using OpenJDK 21), and the code as a [VSCode project](https://www.cs.umb.edu/~siyer/teaching/stdlib.zip).
 
-- Data structures and algorithms discussed in the book: the API ([PDF](https://www.cs.umb.edu/~siyer/teaching/dsalib-java.pdf) \| [JavaDoc](https://www.cs.umb.edu/~siyer/teaching/dsa-javadoc)) and the binaries as a [jar file](https://www.cs.umb.edu/~siyer/teaching/dsa.jar) (compiled using OpenJDK 21).
+- The [API](https://www.cs.umb.edu/~siyer/teaching/dsalib-java.pdf) for the data structures and algorithms and the [jar file](https://www.cs.umb.edu/~siyer/teaching/dsa.jar) (compiled using OpenJDK 21).
 
 #### Introduction to Compiler Construction
 

@@ -35,7 +35,7 @@ $ mkdir workspace
 
 > Download and install [Visual Studio Code](https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64) (aka VSCode). 
 > 
-> Launch VSCode, click on the Extensions icon on the left sidebar, search for the *Extension Pack for Java* extension and install it. Next, search for *vscode-pdf* extension and install it. 
+> Launch VSCode, click on the Extensions icon on the left sidebar, search for the *Extension Pack for Java* extension and install it. 
 
 > To test your environment, download and unzip the base [*j\-\-*](https://www.cs.umb.edu/~siyer/teaching/j--.zip) and [*iota*](https://www.cs.umb.edu/~siyer/teaching/iota.zip) compilers under `~/workspace`. 
 >
@@ -104,7 +104,7 @@ $ mkdir workspace
 
 > Download [Visual Studio Code](https://code.visualstudio.com/sha/download?build=stable&os=darwin-universal) (aka VSCode), unzip the file, and move the extracted application into the *Applications* folder.
 > 
-> Launch VSCode, click on the Extensions icon on the left sidebar, search for the *Extension Pack for Java* extension and install it. Next, search for *vscode-pdf* extension and install it. 
+> Launch VSCode, click on the Extensions icon on the left sidebar, search for the *Extension Pack for Java* extension and install it.
 
 > To test your environment, download and unzip the base [*j\-\-*](https://www.cs.umb.edu/~siyer/teaching/j--.zip) and [*iota*](https://www.cs.umb.edu/~siyer/teaching/iota.zip) compilers under `~/workspace`.  
 >
@@ -183,7 +183,7 @@ $ setx PATH "$env:PATH;C:\ant\bin"
 
 > Download and install [Visual Studio Code](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user) (aka VSCode).
 > 
-> Launch VSCode, click on the Extensions icon on the left sidebar, search for the *Extension Pack for Java* extension and install it. Next, search for *vscode-pdf* extension and install it. 
+> Launch VSCode, click on the Extensions icon on the left sidebar, search for the *Extension Pack for Java* extension and install it.
 
 > Install [Python 3](https://www.python.org/downloads/),  making sure you have checked the box that says *Add Python 3.x to PATH*.
 

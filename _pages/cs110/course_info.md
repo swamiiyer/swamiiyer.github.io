@@ -23,7 +23,7 @@ Students who successfully complete this course will be able to tackle computatio
 | TBD | Course Assistant | [TBD](TBD) | TBD | TBD |
 | TBD | Course Assistant | [TBD](TBD) | TBD | TBD |
 | TBD | Course Assistant | [TBD](TBD) | TBD | TBD |
-| Ashriya Tuladhar | Supplemental Instruction Leader | [ashriya.tuladhar001@umb.edu](mailto:ashriya.tuladhar001@umb.edu) | - | - |
+| TBD | Supplemental Instruction Leader | [TBD](TBD) | - | - |
 
 Note: In case you want to email us, please start the subject line with `[CS110]`.
 
