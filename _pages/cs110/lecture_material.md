@@ -12,7 +12,7 @@ order: 4
 - **Chapter 1: Building a Computer**
   - [Representing Information](https://www.cs.umb.edu/~siyer/teaching/cs110/RepresentingInformation.html)
   - [Logic Circuits](https://www.cs.umb.edu/~siyer/teaching/cs110/LogicCircuits.html)
-  - [Von Neumann Architecture](https://www.cs.umb.edu/~siyer/teaching/cs110/VonneumannArchitecture.html)
+  - [Von Neumann Architecture](https://www.cs.umb.edu/~siyer/teaching/cs110/VonNeumannArchitecture.html)
   - [*Exercises*](https://www.cs.umb.edu/~siyer/teaching/cs110/building_a_computer_exercises.pdf) 
 
 - **Chapter 2: Imperative Programming**
