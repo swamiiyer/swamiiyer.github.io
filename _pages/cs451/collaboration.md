@@ -24,7 +24,7 @@ You may only receive help from people in the ways described below and you must a
 | View code/work of                      | &#10008; | &#10008; | &#10008; | &#10008; |
 | Copy code/work from                 | &#10008; | &#10008; | &#10008; | &#10008; |
 
-You are **not** allowed to submit solutions obtained from websites such as Chegg or Course Hero, or using AI systems such as ChatGPT.  
+You are **not** allowed to submit solutions obtained from websites such as Chegg or Course Hero, or using AI systems such as ChatGPT or VSCode Copilot.  
 
 You are **not** allowed to post questions about the course or about any of the assignments on any website other than our Piazza page. 
 
