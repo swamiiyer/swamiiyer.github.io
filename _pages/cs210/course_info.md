@@ -17,10 +17,10 @@ Students who successfully complete this course will be able to confidently imple
 
 | **Name** | **Role** | **Email** | **Office** | **Hours** |
 | Swami Iyer | Instructor | [siyer@cs.umb.edu](mailto:siyer@cs.umb.edu) | M-3-201-14 | In-person: Tue Thu 8:00 AM - 9:00 AM and 2:30 PM - 3:30 PM<br/> Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09)) |
-| TBD | Teaching Assistant | [TBD](TBD) | TBD | TBD |
-| TBD | Teaching Assistant | [TBD](TBD) | TBD | TBD |
-| TBD | Course Assistant | [TBD](TBD) | TBD | TBD |
-| TBD | Course Assistant | [TBD](TBD) | TBD | TBD |
+| Navkar Jain | Teaching Assistant | [n.jain001@umb.edu](mailto:n.jain001@umb.edu) | TBD | TBD |
+| Zhen Lu | Teaching Assistant | [zhen.lu001@umb.edu](mailto:zhen.lu001@umb.edu) | TBD | TBD |
+| Azal Khaled | Course Assistant | [azal.khaled001@umb.edu](mailto:azal.khaled001@umb.edu) | TBD | TBD |
+| Sarah Wilkinson | Course Assistant | [sarah.wilkinson001@umb.edu](mailto:sarah.wilkinson001@umb.edu) | TBD | TBD |
 | Arianna Fernandez | Supplemental Instruction Leader | [arianna.fernandez001@umb.edu](mailto:arianna.fernandez001@umb.edu) | - | - |
 
 Note: In case you want to email us, please start the subject line with `[CS210]`.
