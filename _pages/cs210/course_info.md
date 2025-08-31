@@ -20,7 +20,7 @@ Students who successfully complete this course will be able to confidently imple
 | Navkar Jain | Teaching Assistant | [n.jain001@umb.edu](mailto:n.jain001@umb.edu) | TBD | TBD |
 | Zhen Lu | Teaching Assistant | [zhen.lu001@umb.edu](mailto:zhen.lu001@umb.edu) | TBD | TBD |
 | Azal Khaled | Course Assistant | [azal.khaled001@umb.edu](mailto:azal.khaled001@umb.edu) | TBD | TBD |
-| Sarah Wilkinson | Course Assistant | [sarah.wilkinson001@umb.edu](mailto:sarah.wilkinson001@umb.edu) | TBD | TBD |
+| Sarah Wilkinson | Course Assistant | [sarah.wilkinson001@umb.edu](mailto:sarah.wilkinson001@umb.edu) | TBD | Fri 2:00 PM - 4:00 PM |
 | Arianna Fernandez | Supplemental Instruction Leader | [arianna.fernandez001@umb.edu](mailto:arianna.fernandez001@umb.edu) | - | - |
 
 Note: In case you want to email us, please start the subject line with `[CS210]`.
@@ -37,10 +37,10 @@ In each class, the instructor will present the [material](lecture_material.html)
 Starting from the second week, there will be a discussion every week. The focus of the discussion for a particular week will be the current assignment. The teaching assistant (TA) will walk you through the assignment problems systematically. The TA will also answer any specific questions you may have about the assignment or the course material in general. You may also seek help from the course assistant (CA) who will be assisting the TA during the discussions. The discussions will be worthwhile only if you go to the sessions having read the assignment writeup thoroughly and have at least a moderate understanding of the problems involved. The TA will assume that you have done the reading in advance.
 
 | **Section** | **When** | **Where** | **TA** | **CA** |
-| 1 | Tue 11:00 AM - 12:15 PM | W-1-0044 | TBD | TBD |
-| 2 | Thu 11:00 AM - 12:15 PM | M-1-0418 | TBD | TBD |
-| 3 | Tue 2:00 PM - 3:15 PM | W-1-0046 | TBD | TBD |
-| 4 | Thu 2:00 PM - 3:15 PM | W-1-0044 | TBD | TBD |
+| 1 | Tue 11:00 AM - 12:15 PM | W-1-0044 | TBD | Sarah Wilkinson |
+| 2 | Thu 11:00 AM - 12:15 PM | M-1-0418 | TBD | Sarah Wilkinson |
+| 3 | Tue 2:00 PM - 3:15 PM | W-1-0046 | TBD | Azal Khaled |
+| 4 | Thu 2:00 PM - 3:15 PM | W-1-0044 | TBD | Azal Khaled |
 
 ### Supplemental Instruction
 
