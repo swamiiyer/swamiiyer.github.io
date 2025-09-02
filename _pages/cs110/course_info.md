@@ -20,10 +20,10 @@ Students who successfully complete this course will be able to tackle computatio
 | TBD | Teaching Assistant | [TBD](TBD) | TBD | TBD |
 | TBD | Teaching Assistant | [TBD](TBD) | TBD | TBD |
 | TBD | Teaching Assistant | [TBD](TBD) | TBD | TBD |
-| TBD | Course Assistant | [TBD](TBD) | TBD | TBD |
-| TBD | Course Assistant | [TBD](TBD) | TBD | TBD |
-| TBD | Course Assistant | [TBD](TBD) | TBD | TBD |
-| TBD | Supplemental Instruction Leader | [TBD](TBD) | - | - |
+| Giorgi Karazanashvili | Course Assistant | [g.karazanashvili001@umb.edu](mailto:g.karazanashvili001@umb.edu) | TBD | TBD |
+| Khoi Le | Course Assistant | [khoi.le004@umb.edu](mailto:khoi.le004@umb.edu) | TBD | TBD |
+| Mahith Katlakanti | Course Assistant | [r.katlakanti001@umb.edu](mailto:r.katlakanti001@umb.edu) | TBD | TBD |
+| Serin Kitery | Supplemental Instruction Leader | [serin.kitery001@umb.edu](serin.kitery001@umb.edu) | - | - |
 
 Note: In case you want to email us, please start the subject line with `[CS110]`.
 
