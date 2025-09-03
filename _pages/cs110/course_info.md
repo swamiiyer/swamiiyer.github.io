@@ -17,9 +17,9 @@ Students who successfully complete this course will be able to tackle computatio
 
 | **Name** | **Role** | **Email** | **Office** | **Office Hours** |
 | Swami Iyer | Instructor | [siyer@cs.umb.edu](mailto:siyer@cs.umb.edu) | M-3-201-14 | In-person: Tue Thu 8:00 AM - 9:00 AM and 2:30 PM - 3:30 PM<br/> Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09)) |
-| TBD | Teaching Assistant | [TBD](TBD) | TBD | TBD |
-| TBD | Teaching Assistant | [TBD](TBD) | TBD | TBD |
-| TBD | Teaching Assistant | [TBD](TBD) | TBD | TBD |
+| Rishank Singh | Teaching Assistant | [rishank.singh001@umb.edu](mailto:rishank.singh001@umb.edu) | TBD | TBD |
+| SangHyuk Kim | Teaching Assistant | [sanghyuk.kim001@umb.edu](mailto:sanghyuk.kim001@umb.edu) | M-3-0164 | Mon Wed 2:30 PM - 3:30 PM |
+| Srikar Kodavati | Teaching Assistant | [s.kodavati001@umb.edu](mailto:s.kodavati001@umb.edu) | TBD | TBD |
 | Giorgi Karazanashvili | Course Assistant | [g.karazanashvili001@umb.edu](mailto:g.karazanashvili001@umb.edu) | TBD | TBD |
 | Khoi Le | Course Assistant | [khoi.le004@umb.edu](mailto:khoi.le004@umb.edu) | TBD | TBD |
 | Mahith Katlakanti | Course Assistant | [r.katlakanti001@umb.edu](mailto:r.katlakanti001@umb.edu) | TBD | TBD |
@@ -39,12 +39,12 @@ In each class, the instructor will present the [material](lecture_material.html)
 Starting from the second week, there will be a discussion every week. The focus of the discussion for a particular week will be the current assignment. The teaching assistant (TA) will walk you through the assignment problems systematically. The TA will also answer any specific questions you may have about the assignment or the course material in general. You may also seek help from the course assistant (CA) who will be assisting the TA during the discussions. The discussions will be worthwhile only if you go to the sessions having read the assignment writeup thoroughly and have at least a moderate understanding of the problems involved. The TA will assume that you have done the reading in advance.
 
 | **Section** | **When** | **Where** | **TA** | **CA** |
-| 1 | Tue 9:30 AM - 10:45 AM | M-2-0214 | TBD | TBD | 
-| 2 | Thu 9:30 AM - 10:45 AM | M-2-0214 | TBD | TBD | 
-| 3 | Tue 12:30 PM - 1:45 PM | W-1-0061 | TBD | TBD | 
-| 4 | Thu 12:30 PM - 1:45 PM | M-3-0732 | TBD | TBD | 
-| 5 | Tue 12:30 PM - 1:45 PM | M-3-0732 | TBD | TBD | 
-| 6 | Thu 12:30 PM - 1:45 PM | W-1-0041 | TBD | TBD | 
+| 1 | Tue 9:30 AM - 10:45 AM | M-2-0214 | Srikar Kodavati | TBD | 
+| 2 | Thu 9:30 AM - 10:45 AM | M-2-0214 | SangHyuk Kim | TBD | 
+| 3 | Tue 12:30 PM - 1:45 PM | W-1-0061 | Srikar Kodavati | Giorgi Karazanashvili | 
+| 4 | Thu 12:30 PM - 1:45 PM | M-3-0732 | SangHyuk Kim | Giorgi Karazanashvili | 
+| 5 | Tue 12:30 PM - 1:45 PM | M-3-0732 | Rishank Singh | TBD | 
+| 6 | Thu 12:30 PM - 1:45 PM | W-1-0041 | Rishank Singh | TBD | 
 
 ### Supplemental Instruction
 
