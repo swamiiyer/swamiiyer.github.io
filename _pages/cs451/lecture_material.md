@@ -5,6 +5,8 @@ title: Lecture Material
 order: 4
 ---
 
+The slides are in HTML format and the exercises are PDF files. For optimal viewing of the slides for a particular topic, switch to "Full Screen" mode after clicking on the link for that topic. To navigate through the slides, use the &rarr; key to move forward and the &larr; key to move backward.
+
 - [**Course Mechanics**](https://www.cs.umb.edu/~siyer/teaching/cs451/CourseMechanics.html)
 
 - [**Programming Environment**](https://www.cs.umb.edu/~siyer/teaching/cs451/ProgrammingEnvironment.html)

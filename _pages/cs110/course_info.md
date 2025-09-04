@@ -16,7 +16,7 @@ Students who successfully complete this course will be able to tackle computatio
 ### Staff
 
 | **Name** | **Role** | **Email** | **Office** | **Office Hours** |
-| Swami Iyer | Instructor | [siyer@cs.umb.edu](mailto:siyer@cs.umb.edu) | M-3-201-14 | In-person: Tue Thu 8:00 AM - 9:00 AM and 2:30 PM - 3:30 PM<br/> Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09)) |
+| Swami Iyer | Instructor | [siyer@cs.umb.edu](mailto:siyer@cs.umb.edu) | M-3-0201-14 | In-person: Tue Thu 8:00 AM - 9:00 AM and 2:30 PM - 3:30 PM<br/> Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09)) |
 | Rishank Singh | Teaching Assistant | [rishank.singh001@umb.edu](mailto:rishank.singh001@umb.edu) | TBD | TBD |
 | SangHyuk Kim | Teaching Assistant | [sanghyuk.kim001@umb.edu](mailto:sanghyuk.kim001@umb.edu) | M-3-0164 | Mon Wed 2:30 PM - 3:30 PM |
 | Srikar Kodavati | Teaching Assistant | [s.kodavati001@umb.edu](mailto:s.kodavati001@umb.edu) | TBD | TBD |
