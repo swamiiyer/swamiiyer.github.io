@@ -19,8 +19,8 @@ Students who successfully complete this course will be able to confidently imple
 | Swami Iyer | Instructor | [siyer@cs.umb.edu](mailto:siyer@cs.umb.edu) | M-3-0201-14 | In-person: Tue Thu 8:00 AM - 9:00 AM and 2:30 PM - 3:30 PM<br/> Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09)) |
 | Navkar Jain | Teaching Assistant | [n.jain001@umb.edu](mailto:n.jain001@umb.edu) | M-3-0154 | Mon Wed 2:00 PM - 3:00 PM |
 | Zhen Lu | Teaching Assistant | [zhen.lu001@umb.edu](mailto:zhen.lu001@umb.edu) | M-3-0106 | Wed 1:00 PM - 3:00 PM |
-| Azal Khaled | Course Assistant | [azal.khaled001@umb.edu](mailto:azal.khaled001@umb.edu) |M-3-0723 (lounge) | Fri 1:00 PM - 3:00 PM |
-| Sarah Wilkinson | Course Assistant | [sarah.wilkinson001@umb.edu](mailto:sarah.wilkinson001@umb.edu) | M-3-0723 (lounge) | Fri 2:00 PM - 4:00 PM |
+| Azal Khaled | Course Assistant | [azal.khaled001@umb.edu](mailto:azal.khaled001@umb.edu) | M-3-0731 (UNIX lab) | Fri 1:00 PM - 3:00 PM |
+| Sarah Wilkinson | Course Assistant | [sarah.wilkinson001@umb.edu](mailto:sarah.wilkinson001@umb.edu) | M-3-0731 (UNIX lab) | Fri 2:00 PM - 4:00 PM |
 | Arianna Fernandez | Supplemental Instruction Leader | [arianna.fernandez001@umb.edu](mailto:arianna.fernandez001@umb.edu) | - | - |
 
 Note: In case you want to email us, please start the subject line with `[CS210]`.

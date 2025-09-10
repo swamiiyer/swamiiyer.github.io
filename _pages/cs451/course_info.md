@@ -17,7 +17,7 @@ Students who successfully complete this course will be able to: write parsers an
 
 | **Name** | **Role** | **Email** | **Office** | **Hours** |
 | Swami Iyer | Instructor | [siyer@cs.umb.edu](mailto:siyer@cs.umb.edu) | M-3-0201-14 | In-person: Tue Thu 8:00 AM - 9:00 AM and 2:30 PM - 3:30 PM<br/> Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09)) |
- | Vijay Tummalapalli | Teaching Assistant | [S.Tummalapalli001@umb.edu](mailto:S.Tummalapalli001@umb.edu) | M-3-0723 (lounge) | Mon Wed 5:30 PM - 6:30 PM<br/> Tue 2:00 PM - 3:00 PM |
+ | Vijay Tummalapalli | Teaching Assistant | [S.Tummalapalli001@umb.edu](mailto:S.Tummalapalli001@umb.edu) | M-3-0731 (UNIX lab) | Mon Wed 5:30 PM - 6:30 PM<br/> Tue 2:00 PM - 3:00 PM |
 
 Note: In case you want to email us, please start the subject line with `[CS451/651]`.
 

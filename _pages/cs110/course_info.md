@@ -20,9 +20,9 @@ Students who successfully complete this course will be able to tackle computatio
 | Rishank Singh | Teaching Assistant | [rishank.singh001@umb.edu](mailto:rishank.singh001@umb.edu) | M-3-0158 | Tue Thu 5:30 - 6:30 PM |
 | SangHyuk Kim | Teaching Assistant | [sanghyuk.kim001@umb.edu](mailto:sanghyuk.kim001@umb.edu) | M-3-0164 | Mon Wed 2:30 PM - 3:30 PM |
 | Srikar Kodavati | Teaching Assistant | [s.kodavati001@umb.edu](mailto:s.kodavati001@umb.edu) | M-3-0201-30 | Tue 3:00 PM - 4:00 PM<br/>Wed 1:30 PM - 2:30 PM |
-| Giorgi Karazanashvili | Course Assistant | [g.karazanashvili001@umb.edu](mailto:g.karazanashvili001@umb.edu) |M-3-0723 (lounge) | Mon Wed 11:00 AM - 12:00 PM |
-| Khoi Le | Course Assistant | [khoi.le004@umb.edu](mailto:khoi.le004@umb.edu) | M-3-0723 (lounge) | Mon Wed 5:30 PM - 6:30 PM |
-| Mahith Katlakanti | Course Assistant | [r.katlakanti001@umb.edu](mailto:r.katlakanti001@umb.edu) | M-3-0723 (lounge) | Mon Fri 1:00 PM - 2:00 PM |
+| Giorgi Karazanashvili | Course Assistant | [g.karazanashvili001@umb.edu](mailto:g.karazanashvili001@umb.edu) | M-3-0731 (UNIX lab) | Mon Wed 11:00 AM - 12:00 PM |
+| Khoi Le | Course Assistant | [khoi.le004@umb.edu](mailto:khoi.le004@umb.edu) | M-3-0731 (UNIX lab) | Mon Wed 5:30 PM - 6:30 PM |
+| Mahith Katlakanti | Course Assistant | [r.katlakanti001@umb.edu](mailto:r.katlakanti001@umb.edu) | M-3-0731 (UNIX lab) | Mon Fri 1:00 PM - 2:00 PM |
 | Serin Kitery | Supplemental Instruction Leader | [serin.kitery001@umb.edu](serin.kitery001@umb.edu) | - | - |
 
 Note: In case you want to email us, please start the subject line with `[CS110]`.
