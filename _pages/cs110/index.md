@@ -5,6 +5,10 @@ title: Home
 order: 1
 ---
 
+### Sep 12, 2025
+
+Supplemental Instruction (SI) sessions start from Sep 13 (Sat). Click [here](course_info.html) for the SI schedule.
+
 ### Sep 1, 2025
 
 **Assignment 1**
