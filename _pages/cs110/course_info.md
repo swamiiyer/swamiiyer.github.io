@@ -54,7 +54,7 @@ As part of the College of Science and Mathematics Freshman Success Program, supp
 | Mon 10:00 AM - 10:50 AM | W-1-0029 |
 | Wed 10:00 AM - 10:50 AM | W-1-0029 |
 | Thu 9:30 AM - 10:45 AM | M-3-0612 |
-| Sat 9:00 AM - 11:00 AM | REMOTE ([Zoom Link](https://us04web.zoom.us/j/76506645928?pwd=V8zUuoBPSyB05LjRXfKxJPJirvPAih.1))
+| Sat 9:00 AM - 11:00 AM | Remote ([Zoom Link](https://umassboston.zoom.us/j/76506645928), passcode: `7jsxXQ`)
 
 ### Tutoring
 
