@@ -16,7 +16,7 @@ Students who successfully complete this course will be able to confidently imple
 ### Staff
 
 | **Name** | **Role** | **Email** | **Office** | **Hours** |
-| Swami Iyer | Instructor | [siyer@cs.umb.edu](mailto:siyer@cs.umb.edu) | M-3-0201-14 | In-person: Tue Thu 8:00 AM - 9:00 AM and 2:30 PM - 3:30 PM<br/> Remote: Wed 10:00 AM - 12:00 PM ([Zoom link](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09)) |
+| Swami Iyer | Instructor | [siyer@cs.umb.edu](mailto:siyer@cs.umb.edu) | M-3-0201-14 | In-person: Tue Thu 8:00 AM - 9:00 AM and 2:30 PM - 3:30 PM<br/> Remote: Wed 10:00 AM - 12:00 PM ([Zoom ink](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09)) |
 | Navkar Jain | Teaching Assistant | [n.jain001@umb.edu](mailto:n.jain001@umb.edu) | M-3-0154 | Mon Wed 2:00 PM - 3:00 PM |
 | Zhen Lu | Teaching Assistant | [zhen.lu001@umb.edu](mailto:zhen.lu001@umb.edu) | M-3-0106 | Wed 1:00 PM - 3:00 PM |
 | Azal Khaled | Course Assistant | [azal.khaled001@umb.edu](mailto:azal.khaled001@umb.edu) | M-3-0731 (UNIX lab) | Fri 1:00 PM - 3:00 PM |
@@ -47,11 +47,10 @@ Starting from the second week, there will be a discussion every week. The focus 
 As part of the College of Science and Mathematics Freshman Success Program, supplemental instruction (SI) is available to all CS210 students free of charge. The SI sessions will also start from the second week. The focus of the sessions for a particular week will be the material covered in class during the previous week. The SI leader will walk you through the relevant lecture notes and solve problems. In addition, the SI leader will answer any specific questions you may have about the current assignment, or the course material in general. The SI sessions are optional, but highly recommended, especially if you feel like you are falling behind in the course. You may attend as few or as many sessions as you like. You will receive extra points for attending the sessions (see the Grading Scheme section below).
 
 | **When** | **Where** |
-| TBD | TBD |
-| TBD | TBD |
-| TBD | TBD |
-| TBD | TBD |
-| TBD | TBD |
+| Mon 2:00 PM - 2:50 PM | W-2-0127 |
+| Tue 9:30 AM - 10:45 AM | M-3-0612 |
+| Wed 2:00 PM - 2:50 PM | W-2-0127 |
+| Sun 1:00 PM - 3:00 PM | REMOTE ([Zoom Link](https://umassboston.zoom.us/j/9681359017?omn=91301409410)) |
 
 ### Tutoring
 
