@@ -24,7 +24,7 @@ I am a Senior Lecturer I in the [Computer Science](http://www.cs.umb.edu) depart
 ### Office Hours (Fall 2025)
 
 - Tue Thu 8:00 AM - 9:00 AM; 2:30 PM - 3:30 PM (in-person)
-- Wed 9:00 AM - 11:00 AM (remote, via [zoom](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09))
+- Wed 10:00 AM - 12:00 PM (remote, via [zoom](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09))
 
 Note: You don't need an appointment to see me during office hours --- just stop by. If you want to see me at a different time, please <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/swaminathan-iyer-umb/30min'});return false;">make an appointment</a> for a remote [zoom](https://umassboston.zoom.us/j/8790346943?pwd=N1VCR0RnbnJhNVpBZEprbmdFcVF0Zz09) meeting.
 
