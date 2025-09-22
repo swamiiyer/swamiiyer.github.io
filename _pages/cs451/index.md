@@ -5,6 +5,10 @@ title: Home
 order: 1
 ---
 
+### Sep 22, 2025
+
+ [Assignment 2 (Scanning)](assignments.html) is available and is due at 11:59 PM on Oct 5 (Sun). 
+
 ### Sep 1, 2025
 
 **Assignment 1**

@@ -5,6 +5,10 @@ title: Home
 order: 1
 ---
 
+### Sep 22, 2025
+
+ [Assignment 2 (Global Sequence Alignment)](assignments.html) is available and is due at 11:59 PM on Oct 5 (Sun). 
+
 ### Sep 12, 2025
 
 Supplemental Instruction (SI) sessions start from Sep 14 (Sun). Click [here](course_info.html) for the SI schedule.
