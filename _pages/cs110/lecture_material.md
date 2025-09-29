@@ -5,41 +5,41 @@ title: Lecture Material
 order: 4
 ---
 
-The slides are in HTML format and the exercises are PDF files. For optimal viewing of the slides for a particular topic, switch to "Full Screen" mode after clicking on the link for that topic. To navigate through the slides, use the &rarr; key to move forward and the &larr; key to move backward.
+The lecture slides are available in HTML (with animations) and PDF (without animations) formats. The exercises are PDF files. For optimal viewing of the lecture slides for a particular topic, switch to "Full Screen" mode after clicking on the "html" or "pdf" link for that topic. To navigate through the slides, use the &rarr; key to move forward and the &larr; key to move backward.
+ 
+- **Course Mechanics** ([html](https://www.cs.umb.edu/~siyer/teaching/cs110/CourseMechanics.html) \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs110/CourseMechanics.pdf))
 
-- [**Course Mechanics**](https://www.cs.umb.edu/~siyer/teaching/cs110/CourseMechanics.html)
-
-- [**Programming Environment**](https://www.cs.umb.edu/~siyer/teaching/cs110/ProgrammingEnvironment.html)
+- **Programming Environment** ([html](https://www.cs.umb.edu/~siyer/teaching/cs110/ProgrammingEnvironment.html) \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs110/ProgrammingEnvironment.pdf))
 
 - **Chapter 1: Building a Computer**
-  - [Representing Information](https://www.cs.umb.edu/~siyer/teaching/cs110/RepresentingInformation.html)
-  - [Logic Circuits](https://www.cs.umb.edu/~siyer/teaching/cs110/LogicCircuits.html)
-  - [Von Neumann Architecture](https://www.cs.umb.edu/~siyer/teaching/cs110/VonNeumannArchitecture.html)
-  - [*Exercises*](https://www.cs.umb.edu/~siyer/teaching/cs110/building_a_computer_exercises.pdf) 
+  - Representing Information ([html](https://www.cs.umb.edu/~siyer/teaching/cs110/RepresentingInformation.html) \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs110/RepresentingInformation.pdf))
+  - Logic Circuits ([html](https://www.cs.umb.edu/~siyer/teaching/cs110/LogicCircuits.html) \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs110/LogicCircuits.pdf))
+  - Von Neumann Architecture ([html](https://www.cs.umb.edu/~siyer/teaching/cs110/VonNeumannArchitecture.html) \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs110/VonNeumannArchitecture.pdf))
+  - *Exercises* ([pdf](https://www.cs.umb.edu/~siyer/teaching/cs110/building_a_computer_exercises.pdf)) 
 
 - **Chapter 2: Imperative Programming**
-  - [Your First Programs](https://www.cs.umb.edu/~siyer/teaching/cs110/YourFirstPrograms.html)
-  - [Basic Data Types](https://www.cs.umb.edu/~siyer/teaching/cs110/BasicDataTypes.html)
-  - [Control Flow](https://www.cs.umb.edu/~siyer/teaching/cs110/ControlFlow.html)
-  - [Collection Data Types](https://www.cs.umb.edu/~siyer/teaching/cs110/CollectionDataTypes.html)
-  - [Input and Output](https://www.cs.umb.edu/~siyer/teaching/cs110/InputAndOutput.html)
-  - [*Exercises*](https://www.cs.umb.edu/~siyer/teaching/cs110/imperative_programming_exercises.pdf) 
+  - Your First Programs ([html](https://www.cs.umb.edu/~siyer/teaching/cs110/YourFirstPrograms.html) \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs110/YourFirstPrograms.pdf))
+  - Basic Data Types ([html](https://www.cs.umb.edu/~siyer/teaching/cs110/BasicDataTypes.html) \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs110/BasicDataTypes.pdf))
+  - Control Flow ([html](https://www.cs.umb.edu/~siyer/teaching/cs110/ControlFlow.html) \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs110/ControlFlow.pdf))
+  - Collection Data Types ([html](https://www.cs.umb.edu/~siyer/teaching/cs110/CollectionDataTypes.html) \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs110/CollectionDataTypes.pdf))
+  - Input and Output ([html](https://www.cs.umb.edu/~siyer/teaching/cs110/InputAndOutput.html) \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs110/InputAndOutput.pdf))
+  - *Exercises* ([pdf](https://www.cs.umb.edu/~siyer/teaching/cs110/imperative_programming_exercises.pdf)) 
 
 - **Chapter 3: Procedural Programming**
-  - [Defining Functions](https://www.cs.umb.edu/~siyer/teaching/cs110/DefiningFunctions.html)
-  - [Libraries and Applications](https://www.cs.umb.edu/~siyer/teaching/cs110/LibrariesAndApplications.html)
-  - [Recursion](https://www.cs.umb.edu/~siyer/teaching/cs110/Recursion.html)
-  - [*Exercises*](https://www.cs.umb.edu/~siyer/teaching/cs110/procedural_programming_exercises.pdf) 
+  - Defining Functions ([html](https://www.cs.umb.edu/~siyer/teaching/cs110/DefiningFunctions.html) \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs110/DefiningFunctions.pdf))
+  - Libraries and Applications ([html](https://www.cs.umb.edu/~siyer/teaching/cs110/LibrariesAndApplications.html) \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs110/LibrariesAndApplications.pdf))
+  - Recursion ([html](https://www.cs.umb.edu/~siyer/teaching/cs110/Recursion.html) \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs110/Recursion.pdf))
+  - *Exercises* ([pdf](https://www.cs.umb.edu/~siyer/teaching/cs110/procedural_programming_exercises.pdf)) 
 
 - **Chapter 4: Object-oriented Programming**
-  - [Using Data Types](https://www.cs.umb.edu/~siyer/teaching/cs110/UsingDataTypes.html)
-  - [Defining Data Types](https://www.cs.umb.edu/~siyer/teaching/cs110/DefiningDataTypes.html)
-  - [Design Principles](https://www.cs.umb.edu/~siyer/teaching/cs110/DesignPrinciples.html)
-  - [*Exercises*](https://www.cs.umb.edu/~siyer/teaching/cs110/object_oriented_programming_exercises.pdf) 
+  - Using Data Types ([html](https://www.cs.umb.edu/~siyer/teaching/cs110/UsingDataTypes.html) \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs110/UsingDataTypes.pdf))
+  - Defining Data Types ([html](https://www.cs.umb.edu/~siyer/teaching/cs110/DefiningDataTypes.html) \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs110/DefiningDataTypes.pdf))
+  - Design Principles ([html](https://www.cs.umb.edu/~siyer/teaching/cs110/DesignPrinciples.html) \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs110/DesignPrinciples.pdf))
+  - *Exercises* ([pdf](https://www.cs.umb.edu/~siyer/teaching/cs110/object_oriented_programming_exercises.pdf)) 
 
 - **Chapter 5: Algorithms and Data Structures**
-  - [Analysis of Algorithms](https://www.cs.umb.edu/~siyer/teaching/cs110/AnalysisOfAlgorithms.html)
-  - [Searching and Sorting](https://www.cs.umb.edu/~siyer/teaching/cs110/SearchingAndSorting.html)
-  - [Basic Data Structures](https://www.cs.umb.edu/~siyer/teaching/cs110/BasicDataStructures.html)
-  - [*Exercises*](https://www.cs.umb.edu/~siyer/teaching/cs110/algorithms_and_data_structures_exercises.pdf) 
+  - Analysis of Algorithms ([html](https://www.cs.umb.edu/~siyer/teaching/cs110/AnalysisOfAlgorithms.html) \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs110/AnalysisOfAlgorithms.pdf))
+  - Searching and Sorting ([html](https://www.cs.umb.edu/~siyer/teaching/cs110/SearchingAndSorting.html) \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs110/SearchingAndSorting.pdf))
+  - Basic Data Structures ([html](https://www.cs.umb.edu/~siyer/teaching/cs110/BasicDataStructures.html) \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs110/BasicDataStructures.pdf))
+  - *Exercises* ([pdf](https://www.cs.umb.edu/~siyer/teaching/cs110/algorithms_and_data_structures_exercises.pdf)) 
  
