@@ -5,9 +5,13 @@ title: Home
 order: 1
 ---
 
+### Oct 6, 2025
+
+[Assignment 3 (Percolation)](assignments.html) is available and is due at 11:59 PM on Oct 19 (Sun). 
+
 ### Sep 22, 2025
 
- [Assignment 2 (Global Sequence Alignment)](assignments.html) is available and is due at 11:59 PM on Oct 5 (Sun). 
+[Assignment 2 (Global Sequence Alignment)](assignments.html) is available and is due at 11:59 PM on Oct 5 (Sun). 
 
 ### Sep 12, 2025
 

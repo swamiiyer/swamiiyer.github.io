@@ -5,6 +5,10 @@ title: Home
 order: 1
 ---
 
+### Oct 6, 2025
+
+ [Assignment 3 (Mozart Waltz Generator)](assignments.html) is available and is due at 11:59 PM on Oct 19 (Sun). 
+
 ### Sep 22, 2025
 
  [Assignment 2 (Control-flow Programs)](assignments.html) is available and is due at 11:59 PM on Oct 5 (Sun). 
