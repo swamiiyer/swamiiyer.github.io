@@ -26,8 +26,8 @@ The lecture slides are available in HTML (with animations) and PDF (without anim
 - **Chapter 3: Parsing**
   - Preliminaries ([html](https://www.cs.umb.edu/~siyer/teaching/cs451/Parsing1.html) \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs451/Parsing1.pdf))
   - Top-down Recursive Descent Parsing ([html](https://www.cs.umb.edu/~siyer/teaching/cs451/Parsing2.html) \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs451/Parsing2.pdf))
-  - Top-down LL(1) Parsing ([html](https://www.cs.umb.edu/~siyer/teaching/cs451/Parsing3.html) \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs451/Parsing3.pdf))
-  - Bottom-up LR(1) Parsing ([html](https://www.cs.umb.edu/~siyer/teaching/cs451/Parsing4.html) \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs451/Parsing4.pdf))
+  - Top-down LL(1) Parsing (<del>[html](https://www.cs.umb.edu/~siyer/teaching/cs451/Parsing3.html)</del> \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs451/Parsing3.pdf))
+  - Bottom-up LR(1) Parsing (<del>[html](https://www.cs.umb.edu/~siyer/teaching/cs451/Parsing4.html)</del> \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs451/Parsing4.pdf))
   - JavaCC Parser for *j\-\-* ([html](https://www.cs.umb.edu/~siyer/teaching/cs451/Parsing5.html) \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs451/Parsing5.pdf))
   - *Exercises* ([pdf](https://www.cs.umb.edu/~siyer/teaching/cs451/parsing_exercises.pdf))
   

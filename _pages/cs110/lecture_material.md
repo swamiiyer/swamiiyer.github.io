@@ -27,8 +27,8 @@ The lecture slides are available in HTML (with animations) and PDF (without anim
 
 - **Chapter 3: Procedural Programming**
   - Defining Functions ([html](https://www.cs.umb.edu/~siyer/teaching/cs110/DefiningFunctions.html) \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs110/DefiningFunctions.pdf))
-  - Libraries and Applications ([html](https://www.cs.umb.edu/~siyer/teaching/cs110/LibrariesAndApplications.html) \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs110/LibrariesAndApplications.pdf))
-  - Recursion ([html](https://www.cs.umb.edu/~siyer/teaching/cs110/Recursion.html) \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs110/Recursion.pdf))
+  - Libraries and Applications (<del>[html](https://www.cs.umb.edu/~siyer/teaching/cs110/LibrariesAndApplications.html)</del> \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs110/LibrariesAndApplications.pdf))
+  - Recursion (<del>[html](https://www.cs.umb.edu/~siyer/teaching/cs110/Recursion.html)</del> \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs110/Recursion.pdf))
   - *Exercises* ([pdf](https://www.cs.umb.edu/~siyer/teaching/cs110/procedural_programming_exercises.pdf)) 
 
 - **Chapter 4: Object-oriented Programming**
