@@ -32,21 +32,21 @@ The lecture slides are available in HTML (with animations) and PDF (without anim
   - *Exercises* ([pdf](https://www.cs.umb.edu/~siyer/teaching/cs451/parsing_exercises.pdf))
   
 - **Chapter 4: Type Checking**
-  - Preliminaries ([html](https://www.cs.umb.edu/~siyer/teaching/cs451/TypeChecking1.html) \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs451/TypeChecking1.pdf))
-  - Pre-analysis of *j\-\-* Programs ([html](https://www.cs.umb.edu/~siyer/teaching/cs451/TypeChecking2.html) \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs451/TypeChecking2.pdf))
-  - Analysis of *j\-\-* Programs ([html](https://www.cs.umb.edu/~siyer/teaching/cs451/TypeChecking3.html) \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs451/TypeChecking3.pdf))
+  - Preliminaries (<del>[html](https://www.cs.umb.edu/~siyer/teaching/cs451/TypeChecking1.html)</del> \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs451/TypeChecking1.pdf))
+  - Pre-analysis of *j\-\-* Programs (<del>[html](https://www.cs.umb.edu/~siyer/teaching/cs451/TypeChecking2.html)</del> \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs451/TypeChecking2.pdf))
+  - Analysis of *j\-\-* Programs (<del>[html](https://www.cs.umb.edu/~siyer/teaching/cs451/TypeChecking3.html)</del> \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs451/TypeChecking3.pdf))
   - *Exercises* ([pdf](https://www.cs.umb.edu/~siyer/teaching/cs451/type_checking_exercises.pdf))
   
 - **Chapter 5: JVM Code Generation**
-  - Preliminaries ([html](https://www.cs.umb.edu/~siyer/teaching/cs451/JvmCodegen1.html) \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs451/JvmCodegen1.pdf))
-  - Classes and their Members ([html](https://www.cs.umb.edu/~siyer/teaching/cs451/JvmCodegen2.html) \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs451/JvmCodegen2.pdf))
-  - Control, Message, Field Selection, and Array Access Expressions ([html](https://www.cs.umb.edu/~siyer/teaching/cs451/JvmCodegen3.html) \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs451/JvmCodegen3.pdf))
-  - Assignment, String Concatenation, Cast, and Other Operations ([html](https://www.cs.umb.edu/~siyer/teaching/cs451/JvmCodegen4.html) \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs451/JvmCodegen4.pdf))
+  - Preliminaries (<del>[html](https://www.cs.umb.edu/~siyer/teaching/cs451/JvmCodegen1.html)</del> \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs451/JvmCodegen1.pdf))
+  - Classes and their Members (<del>[html](https://www.cs.umb.edu/~siyer/teaching/cs451/JvmCodegen2.html)</del> \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs451/JvmCodegen2.pdf))
+  - Control, Message, Field Selection, and Array Access Expressions (<del>[html](https://www.cs.umb.edu/~siyer/teaching/cs451/JvmCodegen3.html)</del> \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs451/JvmCodegen3.pdf))
+  - Assignment, String Concatenation, Cast, and Other Operations (<del>[html](https://www.cs.umb.edu/~siyer/teaching/cs451/JvmCodegen4.html)</del> \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs451/JvmCodegen4.pdf))
   - *Exercises* ([pdf](https://www.cs.umb.edu/~siyer/teaching/cs451/jvm_codegen_exercises.pdf))
   
 - **Chapter 6: The *iota* Compiler**
-  - Preliminaries ([html](https://www.cs.umb.edu/~siyer/teaching/cs451/IotaCompiler1.html) \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs451/IotaCompiler1.pdf))
-  - High-level Intermediate Representation (HIR) ([html](https://www.cs.umb.edu/~siyer/teaching/cs451/IotaCompiler2.html) \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs451/IotaCompiler2.pdf))
-  - Low-level Intermediate Representation (LIR) ([html](https://www.cs.umb.edu/~siyer/teaching/cs451/IotaCompiler3.html) \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs451/IotaCompiler3.pdf))
-  - Register Allocation ([html](https://www.cs.umb.edu/~siyer/teaching/cs451/IotaCompiler4.html) \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs451/IotaCompiler4.pdf))
+  - Preliminaries (<del>[html](https://www.cs.umb.edu/~siyer/teaching/cs451/IotaCompiler1.html)</del> \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs451/IotaCompiler1.pdf))
+  - High-level Intermediate Representation (HIR) (<del>[html](https://www.cs.umb.edu/~siyer/teaching/cs451/IotaCompiler2.html)</del> \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs451/IotaCompiler2.pdf))
+  - Low-level Intermediate Representation (LIR) (<del>[html](https://www.cs.umb.edu/~siyer/teaching/cs451/IotaCompiler3.html)</del> \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs451/IotaCompiler3.pdf))
+  - Register Allocation (<del>[html](https://www.cs.umb.edu/~siyer/teaching/cs451/IotaCompiler4.html)</del> \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs451/IotaCompiler4.pdf))
   - *Exercises* ([pdf](https://www.cs.umb.edu/~siyer/teaching/cs451/iota_compiler_exercises.pdf))
