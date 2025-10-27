@@ -32,14 +32,14 @@ The lecture slides are available in HTML (with animations) and PDF (without anim
   - *Exercises* ([pdf](https://www.cs.umb.edu/~siyer/teaching/cs110/procedural_programming_exercises.pdf)) 
 
 - **Chapter 4: Object-oriented Programming**
-  - Using Data Types ([html](https://www.cs.umb.edu/~siyer/teaching/cs110/UsingDataTypes.html) \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs110/UsingDataTypes.pdf))
-  - Defining Data Types ([html](https://www.cs.umb.edu/~siyer/teaching/cs110/DefiningDataTypes.html) \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs110/DefiningDataTypes.pdf))
-  - Design Principles ([html](https://www.cs.umb.edu/~siyer/teaching/cs110/DesignPrinciples.html) \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs110/DesignPrinciples.pdf))
+  - Using Data Types (<del>[html](https://www.cs.umb.edu/~siyer/teaching/cs110/UsingDataTypes.html)</del> \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs110/UsingDataTypes.pdf))
+  - Defining Data Types (<del>[html](https://www.cs.umb.edu/~siyer/teaching/cs110/DefiningDataTypes.html)</del> \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs110/DefiningDataTypes.pdf))
+  - Design Principles (<del>[html](https://www.cs.umb.edu/~siyer/teaching/cs110/DesignPrinciples.html)</del> \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs110/DesignPrinciples.pdf))
   - *Exercises* ([pdf](https://www.cs.umb.edu/~siyer/teaching/cs110/object_oriented_programming_exercises.pdf)) 
 
 - **Chapter 5: Algorithms and Data Structures**
   - Analysis of Algorithms ([html](https://www.cs.umb.edu/~siyer/teaching/cs110/AnalysisOfAlgorithms.html) \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs110/AnalysisOfAlgorithms.pdf))
-  - Searching and Sorting ([html](https://www.cs.umb.edu/~siyer/teaching/cs110/SearchingAndSorting.html) \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs110/SearchingAndSorting.pdf))
-  - Basic Data Structures ([html](https://www.cs.umb.edu/~siyer/teaching/cs110/BasicDataStructures.html) \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs110/BasicDataStructures.pdf))
+  - Searching and Sorting (<del>[html](https://www.cs.umb.edu/~siyer/teaching/cs110/SearchingAndSorting.html)</del> \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs110/SearchingAndSorting.pdf))
+  - Basic Data Structures (<del>[html](https://www.cs.umb.edu/~siyer/teaching/cs110/BasicDataStructures.html)</del> \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs110/BasicDataStructures.pdf))
   - *Exercises* ([pdf](https://www.cs.umb.edu/~siyer/teaching/cs110/algorithms_and_data_structures_exercises.pdf)) 
  
