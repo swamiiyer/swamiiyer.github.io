@@ -43,6 +43,6 @@ The lecture slides are available in HTML (with animations) and PDF (without anim
   - Symbol Tables (<del>[html](https://www.cs.umb.edu/~siyer/teaching/cs210/SymbolTables.html)</del> \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs210/SymbolTables.pdf))
   - Hash Tables (<del>[html](https://www.cs.umb.edu/~siyer/teaching/cs210/HashTables.html)</del> \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs210/HashTables.pdf))
   - Binary Search Trees (<del>[html](https://www.cs.umb.edu/~siyer/teaching/cs210/BinarySearchTrees.html)</del> \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs210/BinarySearchTrees.pdf))
-  - Balanced Search Trees (<del>[html](https://www.cs.umb.edu/~siyer/teaching/cs210/BalancedSearchTrees.html)</del> \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs210/BalancedSearchTrees.pdf))
+  - <del>Balanced Search Trees ([html](https://www.cs.umb.edu/~siyer/teaching/cs210/BalancedSearchTrees.html) \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs210/BalancedSearchTrees.pdf))</del>
   - Applications (<del>[html](https://www.cs.umb.edu/~siyer/teaching/cs210/SearchingApplications.html)</del> \| [pdf](https://www.cs.umb.edu/~siyer/teaching/cs210/SearchingApplications.pdf))
   - *Exercises* ([pdf](https://www.cs.umb.edu/~siyer/teaching/cs210/searching_exercises.pdf)) 
