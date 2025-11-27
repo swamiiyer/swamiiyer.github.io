@@ -5,6 +5,10 @@ title: Home
 order: 1
 ---
 
+### Nov 27, 2025
+
+ [Assignment 6 (Eight Puzzle)](assignments.html) is available and is due at 11:59 PM on Dec 14 (Sun). 
+
 ### Nov 6, 2025
 
 [Assignment 5 (Autocomplete)](assignments.html) is available and is due at 11:59 PM on Nov 26 (Wed). 

@@ -5,6 +5,10 @@ title: Home
 order: 1
 ---
 
+### Nov 27, 2025
+
+ [Assignment 6 (Markov Model)](assignments.html) is available and is due at 11:59 PM on Dec 14 (Sun). 
+
 ### Nov 6, 2025
 
  [Assignment 5 (Atomic Nature of Matter)](assignments.html) is available and is due at 11:59 PM on Nov 26 (Wed). 
